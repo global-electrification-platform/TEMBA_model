@@ -1,0 +1,39 @@
+SCENARIOS, = glob_wildcards('results/Scenario_CSVs/{scenario}/LCOEs.csv')     
+COUNTRIES, = glob_wildcards(f"results/Main_results/Per_scenario/{SCENARIOS[0]}/Capacity/CSV/{{country}}.csv")
+
+rule all:
+    input:
+        expand("results/Main_results/Aggregated/{iso}/ElectricityGeneration.csv", iso=COUNTRIES),
+        "results/LCOEs.csv",
+        "results/emission_factors.csv",
+        "results/capacity_costs.csv"
+
+rule compare_plots:
+    input:
+        expand("results/Scenario_CSVs/{scenario}/LCOEs.csv", scenario=SCENARIOS),
+        ssa_countries="input_data/Countries.csv"
+    params:
+        scenarios=SCENARIOS,
+        countries=COUNTRIES
+    output:
+        expand("results/Main_results/Aggregated/{iso}/ElectricityGeneration.csv", iso=COUNTRIES),
+        capacity_plot="results/installed_capacity.png",
+        demand_plot="results/grid_demand.png",
+        generation_plot="results/grid_generation.png",
+        lcoes_plot="results/LCOEs.png",
+        emission_factors_plot="results/GridEmissionFactors.png"
+    script:
+        "scripts/compare_plots.py"
+        
+rule merge_results:
+    input:
+        expand("results/Scenario_CSVs/{scenario}/LCOEs.csv", scenario=SCENARIOS)
+    params:
+        scenarios=SCENARIOS
+    output:
+        lcoes="results/LCOEs.csv",
+        emission_factors="results/emission_factors.csv",
+        capacity_costs="results/capacity_costs.csv"
+    script:
+        "scripts/merge_results.py"
+    
