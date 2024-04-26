@@ -1,0 +1,40 @@
+PowerTech,Name,InputActivityRatio,Efficiency,Emission Factor,
+BACKSTOP,Backstop technology,#N/A,#N/A,,
+BIOCHC01N,Biomass & Waste plant with CCS (new),3.703703704,27%,,0
+BIOCHP01O,Biomass & Waste plant (old),2.8,36%,31.17,0.003092262
+BIOCHP01N,Biomass & Waste plant (new),2.8,36%,,0
+COASCP01O,Coal power plant (old),2.564,39%,,0
+COASCP01N,Coal power plant (new),2.564,39%,,0
+COASCC01N,Coal power plant with CCS (new),3.125,32%,,0
+LFORCP01O,Light Fuel Oil power plant (old),2.857,35%,650,0.063197604
+LFORCP01N,Light Fuel Oil power plant (new),2.857,35%,650,0.063197604
+NGACCP01O,Natural gas power plant (combined cycle) (old),1.724,58%,,0
+NGACCP01N,Natural gas power plant (combined cycle) (new),1.724137931,58%,,0
+NGACCC01N,Natural gas power plant (combined cycle) - CCS (new),1.960784314,51%,,0
+NGAGCP01O,Natural gas power plant (single cycle) (old),2.631578947,38%,,0
+NGAGCP01N,Natural gas power plant (single cycle) (new),2.631578947,38%,,0
+HFOGCP01O,Oil fired gas turbine (SCGT) (old),2.857142857,35%,,0
+HFOGCP01N,Oil fired gas turbine (SCGT) (new),2.857142857,35%,,0
+HYDLSP00X,Large hydropower plant (Dam),1,100%,,0
+HYDMSP00X,Medium hydropower plant (Run-of river),1,100%,,0
+HYDSSP00X,Small hydropower plant,1,100%,,0
+WINONP00X,Wind (onshore),1,100%,,0
+WINOFP00X,Wind (offshore),1,100%,,0
+URNPWP01O,Nuclear power plant (old),3.03030303,33%,,0
+URNPWP01N,Nuclear power plant (new),3.03030303,33%,,0
+GEOCVP01O,Geothermal power plant (old),1,100%,,0
+GEOCVP01N,Geothermal power plant (new),1,100%,,0
+LFORCP00X,Light Fuel Oil stand alone (1kW),6.25,16%,,0
+SOLPUP00X,Solar PV (utility),1,100%,,0
+SOLPRP00X,Solar PV (roof top),1,100%,,0
+SOLPSP00X,Solar PV with storage,1,100%,,0
+SOLCNP01X,CSP (without storage),1,100%,,0
+SOLCSP01X,CSP (with storage),1,100%,,0
+LFOMGRID1,Light Fuel Oil (mini-grid) Future electrified,3.03,33%,,0
+LFOSALON1,Light Fuel Oil (Stand Alone) Future electrified,3.57,28%,,0
+SOLMGRID1,Solar (Mini-Grid) Future electrified,1,100%,,0
+SOLPRSAL1,Solar (Stand Alone1) Future electrified,1,100%,,0
+SOLPRSAL2,Solar (Stand Alone2) Future electrified,1,100%,,0
+SOLPRSAL3,Solar (Stand Alone3) Future electrified,1,100%,,0
+SOLPRSAL4,Solar (Stand Alone4) Future electrified,1,100%,,0
+SOLPRSAL5,Solar (Stand Alone5) Future electrified,1,100%,,0
