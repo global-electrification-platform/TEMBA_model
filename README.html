@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Camilo Ramirez (expanded from the work from Ioannis Pappis)" />
+  <meta name="dcterms.date" content="2023-06-22" />
+  <title>TEMBA Climate User’s Guide</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">TEMBA Climate User’s Guide</h1>
+<p class="author">Camilo Ramirez (expanded from the work from Ioannis Pappis)</p>
+<p class="date">June 22, 2023</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#setup-and-installation">Setup and Installation</a></li>
+<li><a href="#running-the-temba-climate-workflow">Running the TEMBA Climate workflow</a></li>
+<li><a href="#folder-structure">Folder structure</a>
+<ul>
+<li><a href="#the-results-folder">The Results folder</a></li>
+</ul></li>
+</ul>
+</nav>
+<p>This folder contains all the scripts and data necessary to reproduce the work for the TEMBA Climate model.</p>
+<h2 id="setup-and-installation">Setup and Installation</h2>
+<p>To run this analysis you need to install <code>GLPK</code> and the <code>CPLEX</code> solver</p>
+<p>You should also have a <code>python &gt;=3.6</code> environment setup with the dependencies listed in the <code>envs/environment.yaml</code> file</p>
+<p>To install the environment you need to install first a distribution of anaconda or miniconda, open a anaconda promp and run:</p>
+<pre><code>conda env create -n temba -f envs/environment.yaml</code></pre>
+<p>Finally, activate the environment with <code>conda activate temba</code>.</p>
+<h2 id="running-the-temba-climate-workflow">Running the TEMBA Climate workflow</h2>
+<p>The TEMBA Climate model uses two automated workflows to run the analysis and produce all result files. We use the <code>snakemake</code> python package for that. Learn more about snakemake in: <a href="https://snakemake.readthedocs.io/en/stable/index.html">https://snakemake.readthedocs.io/en/stable/index.html</a></p>
+<p>In the rooth of the <code>04. TEMBA model</code> folder, you will find two <code>snakemake</code> files:</p>
+<ul>
+<li><code>snakefile</code>: This file contains all the code and rules needed to run the TEMBA Climate model from begining to end. It uses <code>GLPK</code> to produce the model based on the input excel scenario files and <code>CPLEX</code> to solve the model. It also runs some postprocessing analysis to clean-up the results and create the results of interest such as <code>Scenario CSVs/scenario/LCOEs.csv</code> and <code>Scenario CSVs/scenario/GridEmissionFactors.csv</code>.</li>
+<li><code>snake_merge_results</code>: Contains the code and rules to create the <code>Main results</code>, divided <code>Per scenario</code> and <code>Aggregated</code> results for each country.</li>
+</ul>
+<p>To run any of the workflows, you should first perform a dry run running <code>snakemake</code> with the <code>-n</code> flag. In a conda promp or the command line run <code>snakemake -s snakefile -n</code> this will perform the dry run listing all the rules, and result files it would create. Inspect this first to be sure it is what you want to run and then run the workflow with <code>snakemake -s snakefile --cores n</code>. replace <code>snakefile</code> for the workflow name you want to run (either <code>snakefile</code> or <code>snake_merge_results</code>) and <code>n</code> for the number of cores you wan to use to run the model in parallel.</p>
+<h2 id="folder-structure">Folder structure</h2>
+<ul>
+<li>Input data are stored in <code>.xlsx</code> Excel files in the <code>input_data</code> folder. The available scenarios are
+<ul>
+<li>BU: Bottom-up demand</li>
+<li>Low: Top-down low demand</li>
+<li>High: Top-down high demand</li>
+<li>BU_CT_high: Bottom-up demand with high cost of carbon</li>
+<li>Low_CT_high: Top-down low demand with high cost of carbon</li>
+<li>High_CT_high: Top-down high demand with high cost of carbon</li>
+</ul></li>
+<li>A modified OSeMOSYS model file is stored in <code>model</code> folder</li>
+<li>Temporary output data is stored in the <code>output_data</code> folder</li>
+<li>Final results are stored in the <code>results</code> folder (see below for a description of this folder)</li>
+<li>All the scripts are stored in the <code>scripts</code> folder</li>
+<li>The conda environment is stored in the <code>envs</code> folder</li>
+</ul>
+<h3 id="the-results-folder">The Results folder</h3>
+<p>The results folder contains the results of all TEMBA Climate model runs and is structured in the following way:</p>
+<ul>
+<li><code>Main results</code>: This folder contains the consolidated results of the TEMBA Climate model. Results are presented for each country, either aggregated for all scenarios or split per scenario.
+<ul>
+<li><code>Aggreagated</code>: Contains the results for each country and all scenarios aggregated.
+<ul>
+<li><em>Country</em>: iso code of the country.
+<ul>
+<li><code>ElectricityDemand.csv</code>: lists the electricity demand (GWh) in each year divided per demand type (Current electrified, New electrified and exports). It also divides the results between scenario (Bottom-up, Top-down high and Top-down low) and carbon tax/cost (No, High).</li>
+<li><code>ElectricityDemand.html</code>: same as above but representing the data in graphical format.</li>
+<li><code>ElectricityGeneration.csv</code>: lists the electricity generation (GWh) in each year divided per source type<br />
+(fuel types and imports). It also divides the results between scenario (Bottom-up, Top-down high and Top-down low) and carbon tax/cost (No, High).</li>
+<li><code>ElectricityGeneration.html</code>: same as above but representing the data in graphical format.</li>
+<li><code>InstalledCapacity.csv</code>: lists the power generation installed capacity (GW) in each year divided per source type<br />
+(fuel types). It also divides the results between scenario (Bottom-up, Top-down high and Top-down low) and carbon tax/cost (No, High).</li>
+<li><code>InstalledCapacity.html</code>: same as above but representing the data in graphical format.</li>
+</ul></li>
+</ul></li>
+<li><code>Per scenario</code>: Contains separate results for each scenario and each country.
+<ul>
+<li><em>Scenario</em>: name of the scenario.
+<ul>
+<li><code>Capacity</code>: Contains results related to the yearly power generation installed capacity (GW) of each country. Results are presented in several text and graphical formats (<code>CSV</code>, <code>HTML</code>, <code>PNG</code>).</li>
+<li><code>Demand</code>: Contains results related to the yearly electricity demand (GWh) of each country. Results are presented in several text and graphical formats (<code>CSV</code>, <code>HTML</code>, <code>PNG</code>).</li>
+<li><code>Generation</code>: Contains results related to the yearly power generation (GWh) of each country. Results are presented in several text and graphical formats (<code>CSV</code>, <code>HTML</code>, <code>PNG</code>).</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><code>Model files</code>: This are scenario specific result files from the <code>CPLEX</code> solver such as the <code>scenario.sol</code> files.</li>
+<li><code>Scenario CSVs</code>: Contains the raw <code>CSV</code> results for each scenario. This results are quite desaggregated showing results per technology, fuel and year in some cases.
+<ul>
+<li><em>Scenario</em>: scenario name.
+<ul>
+<li><code>AnnualEmissions.csv</code></li>
+<li><code>AnnualFixedOperatingCost.csv</code></li>
+<li><code>AnnualTechnologyEmission.csv</code></li>
+<li><code>AnnualVariableOperatingCost.csv</code></li>
+<li><code>AvgCapacityCost.csv</code></li>
+<li><code>CapitalInvestment.csv</code></li>
+<li><code>ElectricityDemand.csv</code></li>
+<li><code>ElectricityGeneration.csv</code></li>
+<li><code>GridEmissionFactors.csv</code></li>
+<li><code>InstalledCapacity.csv</code></li>
+<li><code>LCOEs.csv</code></li>
+<li><code>NewCapacity.csv</code></li>
+<li><code>ProductionByTechnologyAnnual.csv</code></li>
+<li><code>RateOfActivity.csv</code></li>
+<li><code>TotalCapacityAnnual.csv</code></li>
+<li><code>UseByTechnologyAnnual.csv</code></li>
+</ul></li>
+</ul></li>
+<li><code>capacity_costs.csv</code>: Aggregated new installed capacity cost in USD/kW for each scenario.</li>
+<li><code>emission_factors.csv</code>: Aggregated grid emission factors in gCO<sub>2eq</sub>/kWh for each scenario.</li>
+<li><code>LCOEs.csv</code>: Aggregated Levelized Cost of Electricity in USD/kWh for each scenario.</li>
+</ul>
+</body>
+</html>
