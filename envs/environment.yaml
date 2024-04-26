@@ -1,0 +1,16 @@
+channels:
+  - plotly
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - numpy
+  - jupyterlab
+  - pandas
+  - openpyxl
+  - plotly
+  - plotly-orca
+  - psutil=5.6.3
+  - python-cufflinks
+  - xlrd=1.2.0
+  - snakemake-minimal
