@@ -1,0 +1,361 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Bottom-up,No
+COD,2021.0,EL3E,9330.0555630196,Current electrified,Bottom-up,No
+COD,2021.0,EL3U,342.3055558294,New electrified,Bottom-up,No
+COD,2022.0,EL3E,9404.3333408568,Current electrified,Bottom-up,No
+COD,2022.0,EL3U,684.6388894366,New electrified,Bottom-up,No
+COD,2023.0,EL3E,9447.666674224802,Current electrified,Bottom-up,No
+COD,2023.0,EL3U,1026.944445266,New electrified,Bottom-up,No
+COD,2024.0,EL3E,9458.583340900204,Current electrified,Bottom-up,No
+COD,2024.0,EL3U,1369.2500010954,New electrified,Bottom-up,No
+COD,2025.0,EL3E,9434.583340881,Current electrified,Bottom-up,No
+COD,2025.0,EL3U,1711.5833347026,New electrified,Bottom-up,No
+COD,2026.0,EL3E,10091.9722302958,Current electrified,Bottom-up,No
+COD,2026.0,EL3U,2053.888890532,New electrified,Bottom-up,No
+COD,2027.0,EL3E,10712.916675237002,Current electrified,Bottom-up,No
+COD,2027.0,EL3U,2173.5555572944,New electrified,Bottom-up,No
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Bottom-up,No
+COD,2028.0,EL3U,2293.194446279,New electrified,Bottom-up,No
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Bottom-up,No
+COD,2029.0,EL3U,2412.8611130414,New electrified,Bottom-up,No
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Bottom-up,No
+COD,2030.0,EL3U,2532.5000020260004,New electrified,Bottom-up,No
+COD,2020.0,BDIEL1,269.3888891044,Exports (BDI),Bottom-up,No
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Bottom-up,No
+COD,2020.0,RWAEL1,1532.638890115,Exports (RWA),Bottom-up,No
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Bottom-up,No
+COD,2021.0,BDIEL1,149.3888890084,Exports (BDI),Bottom-up,No
+COD,2021.0,COGEL1,499.3333337328,Exports (COG),Bottom-up,No
+COD,2021.0,RWAEL1,1234.166667654,Exports (RWA),Bottom-up,No
+COD,2021.0,ZMBEL1,1110.6666675552,Exports (ZMB),Bottom-up,No
+COD,2022.0,AGOEL1,156.97222234780003,Exports (AGO),Bottom-up,No
+COD,2022.0,BDIEL1,126.3333334344,Exports (BDI),Bottom-up,No
+COD,2022.0,COGEL1,499.3333337328,Exports (COG),Bottom-up,No
+COD,2022.0,RWAEL1,1117.1111120048,Exports (RWA),Bottom-up,No
+COD,2023.0,AGOEL1,1150.3888898092,Exports (AGO),Bottom-up,No
+COD,2023.0,BDIEL1,183.9722223694,Exports (BDI),Bottom-up,No
+COD,2023.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2023.0,RWAEL1,1069.2777786332,Exports (RWA),Bottom-up,No
+COD,2024.0,BDIEL1,535.3888893172,Exports (BDI),Bottom-up,No
+COD,2024.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2024.0,RWAEL1,2145.277779494,Exports (RWA),Bottom-up,No
+COD,2024.0,ZMBEL1,430.9166670114,Exports (ZMB),Bottom-up,No
+COD,2025.0,BDIEL1,2.4722222242000003,Exports (BDI),Bottom-up,No
+COD,2025.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2025.0,RWAEL1,432.1944447902,Exports (RWA),Bottom-up,No
+COD,2025.0,ZMBEL1,635.4444449528,Exports (ZMB),Bottom-up,No
+COD,2026.0,BDIEL1,81.5555556208,Exports (BDI),Bottom-up,No
+COD,2026.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2026.0,RWAEL1,223.333333512,Exports (RWA),Bottom-up,No
+COD,2026.0,ZMBEL1,611.3333338224,Exports (ZMB),Bottom-up,No
+COD,2027.0,BDIEL1,71.2777778348,Exports (BDI),Bottom-up,No
+COD,2027.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2027.0,RWAEL1,65.5833333858,Exports (RWA),Bottom-up,No
+COD,2027.0,ZMBEL1,611.3333338224,Exports (ZMB),Bottom-up,No
+COD,2028.0,AGOEL1,618.7222227172,Exports (AGO),Bottom-up,No
+COD,2028.0,BDIEL1,109.2500000874,Exports (BDI),Bottom-up,No
+COD,2028.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2028.0,RWAEL1,53.694444487400006,Exports (RWA),Bottom-up,No
+COD,2028.0,ZMBEL1,611.3333338224,Exports (ZMB),Bottom-up,No
+COD,2029.0,AGOEL1,226.75000018140005,Exports (AGO),Bottom-up,No
+COD,2029.0,BDIEL1,134.0555556628,Exports (BDI),Bottom-up,No
+COD,2029.0,COGEL1,307.6944446906,Exports (COG),Bottom-up,No
+COD,2029.0,RWAEL1,55.7500000446,Exports (RWA),Bottom-up,No
+COD,2029.0,ZMBEL1,611.3333338224,Exports (ZMB),Bottom-up,No
+COD,2030.0,AGOEL1,1291.0555565884,Exports (AGO),Bottom-up,No
+COD,2030.0,BDIEL1,104.9444445284,Exports (BDI),Bottom-up,No
+COD,2030.0,COGEL1,312.083333583,Exports (COG),Bottom-up,No
+COD,2030.0,ZMBEL1,818.333333988,Exports (ZMB),Bottom-up,No
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Bottom-up,High
+COD,2021.0,EL3E,9330.0555630196,Current electrified,Bottom-up,High
+COD,2021.0,EL3U,342.3055558294,New electrified,Bottom-up,High
+COD,2022.0,EL3E,9404.3333408568,Current electrified,Bottom-up,High
+COD,2022.0,EL3U,684.6388894366,New electrified,Bottom-up,High
+COD,2023.0,EL3E,9447.666674224798,Current electrified,Bottom-up,High
+COD,2023.0,EL3U,1026.944445266,New electrified,Bottom-up,High
+COD,2024.0,EL3E,9458.5833409002,Current electrified,Bottom-up,High
+COD,2024.0,EL3U,1369.2500010954,New electrified,Bottom-up,High
+COD,2025.0,EL3E,9434.555563103202,Current electrified,Bottom-up,High
+COD,2025.0,EL3U,1711.5833347026,New electrified,Bottom-up,High
+COD,2026.0,EL3E,10091.972230295802,Current electrified,Bottom-up,High
+COD,2026.0,EL3U,2053.888890532,New electrified,Bottom-up,High
+COD,2027.0,EL3E,10712.916675237002,Current electrified,Bottom-up,High
+COD,2027.0,EL3U,2173.5555572944,New electrified,Bottom-up,High
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Bottom-up,High
+COD,2028.0,EL3U,2293.194446279,New electrified,Bottom-up,High
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Bottom-up,High
+COD,2029.0,EL3U,2412.8611130414,New electrified,Bottom-up,High
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Bottom-up,High
+COD,2030.0,EL3U,2532.5000020260004,New electrified,Bottom-up,High
+COD,2020.0,BDIEL1,323.0833335918,Exports (BDI),Bottom-up,High
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Bottom-up,High
+COD,2020.0,RWAEL1,2597.8611131894,Exports (RWA),Bottom-up,High
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Bottom-up,High
+COD,2021.0,BDIEL1,98.6666667456,Exports (BDI),Bottom-up,High
+COD,2021.0,COGEL1,499.3333337328,Exports (COG),Bottom-up,High
+COD,2021.0,RWAEL1,19.6388889046,Exports (RWA),Bottom-up,High
+COD,2021.0,ZMBEL1,1835.4722236906,Exports (ZMB),Bottom-up,High
+COD,2022.0,BDIEL1,100.00000008,Exports (BDI),Bottom-up,High
+COD,2022.0,RWAEL1,243.3055557502,Exports (RWA),Bottom-up,High
+COD,2022.0,ZMBEL1,1014.583334145,Exports (ZMB),Bottom-up,High
+COD,2023.0,AGOEL1,1469.8333345092,Exports (AGO),Bottom-up,High
+COD,2023.0,BDIEL1,87.9444445148,Exports (BDI),Bottom-up,High
+COD,2023.0,RWAEL1,469.9166670426,Exports (RWA),Bottom-up,High
+COD,2024.0,COGEL1,110.6666667552,Exports (COG),Bottom-up,High
+COD,2024.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2024.0,ZAFEL1,2526.7777797992,Exports (ZAF),Bottom-up,High
+COD,2025.0,BDIEL1,118.750000095,Exports (BDI),Bottom-up,High
+COD,2025.0,COGEL1,45.9444444812,Exports (COG),Bottom-up,High
+COD,2025.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2025.0,ZAFEL1,2526.7777797992,Exports (ZAF),Bottom-up,High
+COD,2026.0,BDIEL1,89.4722222938,Exports (BDI),Bottom-up,High
+COD,2026.0,COGEL1,37.916666697,Exports (COG),Bottom-up,High
+COD,2026.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2026.0,ZAFEL1,2673.9722243614,Exports (ZAF),Bottom-up,High
+COD,2027.0,AGOEL1,546.1944448814,Exports (AGO),Bottom-up,High
+COD,2027.0,BDIEL1,57.8055556018,Exports (BDI),Bottom-up,High
+COD,2027.0,COGEL1,158.2777779044,Exports (COG),Bottom-up,High
+COD,2027.0,RWAEL1,1228.0000009824,Exports (RWA),Bottom-up,High
+COD,2027.0,ZAFEL1,2879.6388911926,Exports (ZAF),Bottom-up,High
+COD,2028.0,AGOEL1,398.8611114302,Exports (AGO),Bottom-up,High
+COD,2028.0,BDIEL1,201.27777793880003,Exports (BDI),Bottom-up,High
+COD,2028.0,COGEL1,267.4722224362,Exports (COG),Bottom-up,High
+COD,2028.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2028.0,ZAFEL1,2879.6388911926,Exports (ZAF),Bottom-up,High
+COD,2028.0,ZMBEL1,688.6944449954,Exports (ZMB),Bottom-up,High
+COD,2029.0,AGOEL1,652.1944449662001,Exports (AGO),Bottom-up,High
+COD,2029.0,BDIEL1,201.27777793880003,Exports (BDI),Bottom-up,High
+COD,2029.0,COGEL1,418.9444447796,Exports (COG),Bottom-up,High
+COD,2029.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2029.0,ZAFEL1,2879.6388911926,Exports (ZAF),Bottom-up,High
+COD,2029.0,ZMBEL1,1007.916667473,Exports (ZMB),Bottom-up,High
+COD,2030.0,AGOEL1,643.3055560702,Exports (AGO),Bottom-up,High
+COD,2030.0,BDIEL1,201.27777793880003,Exports (BDI),Bottom-up,High
+COD,2030.0,RWAEL1,1248.3055565542002,Exports (RWA),Bottom-up,High
+COD,2030.0,ZAFEL1,3568.5833361882,Exports (ZAF),Bottom-up,High
+COD,2030.0,ZMBEL1,1327.1388899506,Exports (ZMB),Bottom-up,High
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Top-down high,No
+COD,2021.0,EL3E,9330.083340797402,Current electrified,Top-down high,No
+COD,2021.0,EL3U,1646.7222235396002,New electrified,Top-down high,No
+COD,2022.0,EL3E,9404.3611186346,Current electrified,Top-down high,No
+COD,2022.0,EL3U,3293.4166693014,New electrified,Top-down high,No
+COD,2023.0,EL3E,9447.6944520026,Current electrified,Top-down high,No
+COD,2023.0,EL3U,4940.138892841001,New electrified,Top-down high,No
+COD,2024.0,EL3E,9458.611118678002,Current electrified,Top-down high,No
+COD,2024.0,EL3U,6586.861116380601,New electrified,Top-down high,No
+COD,2025.0,EL3E,9434.5555631032,Current electrified,Top-down high,No
+COD,2025.0,EL3U,8233.5555621424,New electrified,Top-down high,No
+COD,2026.0,EL3E,10092.0000080736,Current electrified,Top-down high,No
+COD,2026.0,EL3U,9880.277785682,New electrified,Top-down high,No
+COD,2027.0,EL3E,10712.916675237,Current electrified,Top-down high,No
+COD,2027.0,EL3U,10459.166675034,New electrified,Top-down high,No
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Top-down high,No
+COD,2028.0,EL3U,11038.055564386,New electrified,Top-down high,No
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Top-down high,No
+COD,2029.0,EL3U,11616.944453738,New electrified,Top-down high,No
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Top-down high,No
+COD,2030.0,EL3U,12195.83334309,New electrified,Top-down high,No
+COD,2020.0,BDIEL1,130.77777788240002,Exports (BDI),Top-down high,No
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Top-down high,No
+COD,2020.0,RWAEL1,511.77777818720006,Exports (RWA),Top-down high,No
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Top-down high,No
+COD,2021.0,BDIEL1,260.5833335418,Exports (BDI),Top-down high,No
+COD,2021.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2021.0,RWAEL1,440.8888892416,Exports (RWA),Top-down high,No
+COD,2022.0,BDIEL1,519.5833337490001,Exports (BDI),Top-down high,No
+COD,2022.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2022.0,RWAEL1,52.9444444868,Exports (RWA),Top-down high,No
+COD,2023.0,AGOEL1,115.3611112034,Exports (AGO),Top-down high,No
+COD,2023.0,BDIEL1,443.6666670216,Exports (BDI),Top-down high,No
+COD,2023.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2024.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2025.0,BDIEL1,179.305555699,Exports (BDI),Top-down high,No
+COD,2025.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2026.0,BDIEL1,259.80555576340004,Exports (BDI),Top-down high,No
+COD,2026.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2026.0,ZMBEL1,293.194444679,Exports (ZMB),Top-down high,No
+COD,2027.0,BDIEL1,240.1944446366,Exports (BDI),Top-down high,No
+COD,2027.0,COGEL1,312.083333583,Exports (COG),Top-down high,No
+COD,2027.0,ZMBEL1,135.8055556642,Exports (ZMB),Top-down high,No
+COD,2028.0,BDIEL1,222.7500001782,Exports (BDI),Top-down high,No
+COD,2028.0,COGEL1,308.2500002466,Exports (COG),Top-down high,No
+COD,2028.0,ZMBEL1,23.305555574200003,Exports (ZMB),Top-down high,No
+COD,2029.0,BDIEL1,213.194444615,Exports (BDI),Top-down high,No
+COD,2029.0,COGEL1,255.55555576000003,Exports (COG),Top-down high,No
+COD,2030.0,BDIEL1,204.1944446078,Exports (BDI),Top-down high,No
+COD,2030.0,COGEL1,262.9444446548,Exports (COG),Top-down high,No
+COD,2030.0,ZMBEL1,759.8888894968,Exports (ZMB),Top-down high,No
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Top-down high,High
+COD,2021.0,EL3E,9330.083340797402,Current electrified,Top-down high,High
+COD,2021.0,EL3U,1646.7222235396002,New electrified,Top-down high,High
+COD,2022.0,EL3E,9404.3611186346,Current electrified,Top-down high,High
+COD,2022.0,EL3U,3293.4166693014,New electrified,Top-down high,High
+COD,2023.0,EL3E,9447.6944520026,Current electrified,Top-down high,High
+COD,2023.0,EL3U,4940.138892841001,New electrified,Top-down high,High
+COD,2024.0,EL3E,9458.5833409002,Current electrified,Top-down high,High
+COD,2024.0,EL3U,6586.861116380601,New electrified,Top-down high,High
+COD,2025.0,EL3E,9434.5555631032,Current electrified,Top-down high,High
+COD,2025.0,EL3U,8233.5555621424,New electrified,Top-down high,High
+COD,2026.0,EL3E,10091.972230295802,Current electrified,Top-down high,High
+COD,2026.0,EL3U,9880.277785682,New electrified,Top-down high,High
+COD,2027.0,EL3E,10712.916675237002,Current electrified,Top-down high,High
+COD,2027.0,EL3U,10459.166675034,New electrified,Top-down high,High
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Top-down high,High
+COD,2028.0,EL3U,11038.055564386,New electrified,Top-down high,High
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Top-down high,High
+COD,2029.0,EL3U,11616.944453738,New electrified,Top-down high,High
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Top-down high,High
+COD,2030.0,EL3U,12195.83334309,New electrified,Top-down high,High
+COD,2020.0,BDIEL1,130.77777788240002,Exports (BDI),Top-down high,High
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Top-down high,High
+COD,2020.0,RWAEL1,2790.5277800102,Exports (RWA),Top-down high,High
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Top-down high,High
+COD,2021.0,BDIEL1,129.6944445482,Exports (BDI),Top-down high,High
+COD,2021.0,COGEL1,499.3333337328,Exports (COG),Top-down high,High
+COD,2021.0,RWAEL1,182.8611112574,Exports (RWA),Top-down high,High
+COD,2022.0,BDIEL1,139.08333344460002,Exports (BDI),Top-down high,High
+COD,2022.0,RWAEL1,85.69444451300001,Exports (RWA),Top-down high,High
+COD,2023.0,AGOEL1,1370.3333344296002,Exports (AGO),Top-down high,High
+COD,2024.0,ZAFEL1,2250.5277795782004,Exports (ZAF),Top-down high,High
+COD,2025.0,BDIEL1,49.38888892840001,Exports (BDI),Top-down high,High
+COD,2025.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2025.0,ZAFEL1,5039.1111151424,Exports (ZAF),Top-down high,High
+COD,2026.0,AGOEL1,253.05555575800005,Exports (AGO),Top-down high,High
+COD,2026.0,BDIEL1,199.1388890482,Exports (BDI),Top-down high,High
+COD,2026.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2026.0,ZAFEL1,5039.1111151424,Exports (ZAF),Top-down high,High
+COD,2027.0,AGOEL1,543.472222657,Exports (AGO),Top-down high,High
+COD,2027.0,BDIEL1,201.27777793880003,Exports (BDI),Top-down high,High
+COD,2027.0,COGEL1,25.083333353400004,Exports (COG),Top-down high,High
+COD,2027.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2027.0,ZAFEL1,5039.1111151424,Exports (ZAF),Top-down high,High
+COD,2028.0,AGOEL1,356.3055558406,Exports (AGO),Top-down high,High
+COD,2028.0,BDIEL1,201.27777793880003,Exports (BDI),Top-down high,High
+COD,2028.0,COGEL1,107.75000008620002,Exports (COG),Top-down high,High
+COD,2028.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2028.0,ZAFEL1,5039.1111151424,Exports (ZAF),Top-down high,High
+COD,2028.0,ZMBEL1,436.4444447936,Exports (ZMB),Top-down high,High
+COD,2029.0,BDIEL1,201.27777793880003,Exports (BDI),Top-down high,High
+COD,2029.0,COGEL1,261.1388890978,Exports (COG),Top-down high,High
+COD,2029.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2029.0,ZAFEL1,5039.1111151424,Exports (ZAF),Top-down high,High
+COD,2029.0,ZMBEL1,490.1666670588,Exports (ZMB),Top-down high,High
+COD,2030.0,AGOEL1,460.0833337014,Exports (AGO),Top-down high,High
+COD,2030.0,BDIEL1,201.27777793880003,Exports (BDI),Top-down high,High
+COD,2030.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down high,High
+COD,2030.0,ZAFEL1,5507.972226628601,Exports (ZAF),Top-down high,High
+COD,2030.0,ZMBEL1,1532.638890115,Exports (ZMB),Top-down high,High
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Top-down low,No
+COD,2021.0,EL3E,9330.083340797402,Current electrified,Top-down low,No
+COD,2021.0,EL3U,618.2500004945999,New electrified,Top-down low,No
+COD,2022.0,EL3E,9404.3611186346,Current electrified,Top-down low,No
+COD,2022.0,EL3U,1236.4722232114,New electrified,Top-down low,No
+COD,2023.0,EL3E,9447.6944520026,Current electrified,Top-down low,No
+COD,2023.0,EL3U,1854.722223706,New electrified,Top-down low,No
+COD,2024.0,EL3E,9458.5833409002,Current electrified,Top-down low,No
+COD,2024.0,EL3U,2472.9722242006,New electrified,Top-down low,No
+COD,2025.0,EL3E,9434.5555631032,Current electrified,Top-down low,No
+COD,2025.0,EL3U,3091.1944469174,New electrified,Top-down low,No
+COD,2026.0,EL3E,10092.0000080736,Current electrified,Top-down low,No
+COD,2026.0,EL3U,3709.444447412,New electrified,Top-down low,No
+COD,2027.0,EL3E,10712.916675237,Current electrified,Top-down low,No
+COD,2027.0,EL3U,3928.1111142536,New electrified,Top-down low,No
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Top-down low,No
+COD,2028.0,EL3U,4146.805558873,New electrified,Top-down low,No
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Top-down low,No
+COD,2029.0,EL3U,4365.5000034924005,New electrified,Top-down low,No
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Top-down low,No
+COD,2030.0,EL3U,4584.166670334001,New electrified,Top-down low,No
+COD,2020.0,BDIEL1,215.6666668392,Exports (BDI),Top-down low,No
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Top-down low,No
+COD,2020.0,RWAEL1,352.1388891706,Exports (RWA),Top-down low,No
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Top-down low,No
+COD,2021.0,COGEL1,499.3333337328,Exports (COG),Top-down low,No
+COD,2021.0,ZMBEL1,1352.3333344152002,Exports (ZMB),Top-down low,No
+COD,2022.0,AGOEL1,406.0555558804,Exports (AGO),Top-down low,No
+COD,2022.0,COGEL1,499.3333337328,Exports (COG),Top-down low,No
+COD,2022.0,ZMBEL1,735.7222228108001,Exports (ZMB),Top-down low,No
+COD,2023.0,AGOEL1,2207.6944462106003,Exports (AGO),Top-down low,No
+COD,2023.0,COGEL1,499.3333337328,Exports (COG),Top-down low,No
+COD,2024.0,COGEL1,499.3333337328,Exports (COG),Top-down low,No
+COD,2024.0,ZMBEL1,1487.777778968,Exports (ZMB),Top-down low,No
+COD,2025.0,BDIEL1,1.1944444454,Exports (BDI),Top-down low,No
+COD,2025.0,COGEL1,358.2500002866,Exports (COG),Top-down low,No
+COD,2025.0,ZMBEL1,666.1388894218,Exports (ZMB),Top-down low,No
+COD,2026.0,AGOEL1,131.9166667722,Exports (AGO),Top-down low,No
+COD,2026.0,COGEL1,358.2500002866,Exports (COG),Top-down low,No
+COD,2026.0,ZMBEL1,383.1388891954,Exports (ZMB),Top-down low,No
+COD,2027.0,COGEL1,312.083333583,Exports (COG),Top-down low,No
+COD,2027.0,ZMBEL1,575.8611115718,Exports (ZMB),Top-down low,No
+COD,2028.0,AGOEL1,524.2777781972001,Exports (AGO),Top-down low,No
+COD,2028.0,COGEL1,312.083333583,Exports (COG),Top-down low,No
+COD,2028.0,ZMBEL1,356.0555558404,Exports (ZMB),Top-down low,No
+COD,2029.0,AGOEL1,554.5000004436,Exports (AGO),Top-down low,No
+COD,2029.0,COGEL1,312.083333583,Exports (COG),Top-down low,No
+COD,2029.0,ZMBEL1,332.5833335994,Exports (ZMB),Top-down low,No
+COD,2030.0,AGOEL1,902.8333340556,Exports (AGO),Top-down low,No
+COD,2030.0,COGEL1,312.083333583,Exports (COG),Top-down low,No
+COD,2030.0,ZMBEL1,811.388889538,Exports (ZMB),Top-down low,No
+COD,2020.0,EL3E,7368.6666725616,Current electrified,Top-down low,High
+COD,2021.0,EL3E,9330.0555630196,Current electrified,Top-down low,High
+COD,2021.0,EL3U,618.2500004945999,New electrified,Top-down low,High
+COD,2022.0,EL3E,9404.3333408568,Current electrified,Top-down low,High
+COD,2022.0,EL3U,1236.4722232114,New electrified,Top-down low,High
+COD,2023.0,EL3E,9447.666674224798,Current electrified,Top-down low,High
+COD,2023.0,EL3U,1854.722223706,New electrified,Top-down low,High
+COD,2024.0,EL3E,9458.5833409002,Current electrified,Top-down low,High
+COD,2024.0,EL3U,2472.9722242006,New electrified,Top-down low,High
+COD,2025.0,EL3E,9434.555563103202,Current electrified,Top-down low,High
+COD,2025.0,EL3U,3091.1944469174,New electrified,Top-down low,High
+COD,2026.0,EL3E,10091.972230295802,Current electrified,Top-down low,High
+COD,2026.0,EL3U,3709.444447412,New electrified,Top-down low,High
+COD,2027.0,EL3E,10712.916675237002,Current electrified,Top-down low,High
+COD,2027.0,EL3U,3928.1111142536,New electrified,Top-down low,High
+COD,2028.0,EL3E,11298.0833423718,Current electrified,Top-down low,High
+COD,2028.0,EL3U,4146.805558873,New electrified,Top-down low,High
+COD,2029.0,EL3E,11846.4722316994,Current electrified,Top-down low,High
+COD,2029.0,EL3U,4365.5000034924005,New electrified,Top-down low,High
+COD,2030.0,EL3E,12356.8333432188,Current electrified,Top-down low,High
+COD,2030.0,EL3U,4584.166670334001,New electrified,Top-down low,High
+COD,2020.0,BDIEL1,175.00000014,Exports (BDI),Top-down low,High
+COD,2020.0,COGEL1,499.3333337328,Exports (COG),Top-down low,High
+COD,2020.0,RWAEL1,2011.944446054,Exports (RWA),Top-down low,High
+COD,2020.0,ZMBEL1,2163.7222239532,Exports (ZMB),Top-down low,High
+COD,2021.0,BDIEL1,3.888888892,Exports (BDI),Top-down low,High
+COD,2021.0,COGEL1,499.3333337328,Exports (COG),Top-down low,High
+COD,2021.0,ZMBEL1,1650.7500013206002,Exports (ZMB),Top-down low,High
+COD,2022.0,AGOEL1,101.5000000812,Exports (AGO),Top-down low,High
+COD,2022.0,BDIEL1,21.944444462,Exports (BDI),Top-down low,High
+COD,2022.0,ZMBEL1,1711.1666680356,Exports (ZMB),Top-down low,High
+COD,2023.0,AGOEL1,1842.6666681408,Exports (AGO),Top-down low,High
+COD,2023.0,COGEL1,80.9166667314,Exports (COG),Top-down low,High
+COD,2024.0,COGEL1,167.0277779114,Exports (COG),Top-down low,High
+COD,2024.0,ZAFEL1,2473.1388908674,Exports (ZAF),Top-down low,High
+COD,2024.0,ZMBEL1,912.2500007298,Exports (ZMB),Top-down low,High
+COD,2025.0,COGEL1,123.2777778764,Exports (COG),Top-down low,High
+COD,2025.0,ZAFEL1,2473.1388908674,Exports (ZAF),Top-down low,High
+COD,2026.0,BDIEL1,27.1111111328,Exports (BDI),Top-down low,High
+COD,2026.0,COGEL1,50.4722222626,Exports (COG),Top-down low,High
+COD,2026.0,RWAEL1,99.8333334132,Exports (RWA),Top-down low,High
+COD,2026.0,ZAFEL1,2473.1388908674,Exports (ZAF),Top-down low,High
+COD,2027.0,COGEL1,64.2777778292,Exports (COG),Top-down low,High
+COD,2027.0,ZAFEL1,2897.2777800956,Exports (ZAF),Top-down low,High
+COD,2027.0,ZMBEL1,120.8055556522,Exports (ZMB),Top-down low,High
+COD,2028.0,AGOEL1,651.0833338542001,Exports (AGO),Top-down low,High
+COD,2028.0,BDIEL1,6.3333333384,Exports (BDI),Top-down low,High
+COD,2028.0,COGEL1,97.0555556332,Exports (COG),Top-down low,High
+COD,2028.0,RWAEL1,1066.8611119646,Exports (RWA),Top-down low,High
+COD,2028.0,ZAFEL1,2897.2777800956,Exports (ZAF),Top-down low,High
+COD,2028.0,ZMBEL1,8.2777777844,Exports (ZMB),Top-down low,High
+COD,2029.0,AGOEL1,707.2500005658001,Exports (AGO),Top-down low,High
+COD,2029.0,BDIEL1,60.61111115960001,Exports (BDI),Top-down low,High
+COD,2029.0,COGEL1,134.444444552,Exports (COG),Top-down low,High
+COD,2029.0,RWAEL1,1174.027778717,Exports (RWA),Top-down low,High
+COD,2029.0,ZAFEL1,2897.2777800956,Exports (ZAF),Top-down low,High
+COD,2029.0,ZMBEL1,662.0000005296,Exports (ZMB),Top-down low,High
+COD,2030.0,AGOEL1,466.6388892622,Exports (AGO),Top-down low,High
+COD,2030.0,BDIEL1,184.6666668144,Exports (BDI),Top-down low,High
+COD,2030.0,COGEL1,85.5833334018,Exports (COG),Top-down low,High
+COD,2030.0,RWAEL1,1248.3055565542002,Exports (RWA),Top-down low,High
+COD,2030.0,ZAFEL1,2897.2777800956,Exports (ZAF),Top-down low,High
+COD,2030.0,ZMBEL1,1352.3333344152002,Exports (ZMB),Top-down low,High

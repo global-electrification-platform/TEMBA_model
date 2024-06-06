@@ -1,0 +1,133 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+SOM,2020.0,EL3E,370.0833336294,Current electrified,Bottom-up,No
+SOM,2020.0,EL3U,477.4166670486,New electrified,Bottom-up,No
+SOM,2021.0,EL3E,379.5000003036,Current electrified,Bottom-up,No
+SOM,2021.0,EL3U,954.861111875,New electrified,Bottom-up,No
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Bottom-up,No
+SOM,2022.0,EL3U,1432.2777789236002,New electrified,Bottom-up,No
+SOM,2023.0,EL3E,395.58333364980007,Current electrified,Bottom-up,No
+SOM,2023.0,EL3U,1909.72222375,New electrified,Bottom-up,No
+SOM,2024.0,EL3E,402.52777809980006,Current electrified,Bottom-up,No
+SOM,2024.0,EL3U,2387.1388907986,New electrified,Bottom-up,No
+SOM,2025.0,EL3E,423.8333336724,Current electrified,Bottom-up,No
+SOM,2025.0,EL3U,2864.5555578472004,New electrified,Bottom-up,No
+SOM,2026.0,EL3E,445.3611114674,Current electrified,Bottom-up,No
+SOM,2026.0,EL3U,3342.0000026736,New electrified,Bottom-up,No
+SOM,2027.0,EL3E,467.1666670404,Current electrified,Bottom-up,No
+SOM,2027.0,EL3U,3819.4166697222,New electrified,Bottom-up,No
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Bottom-up,No
+SOM,2028.0,EL3U,4296.8333367708,New electrified,Bottom-up,No
+SOM,2029.0,EL3E,511.5000004092001,Current electrified,Bottom-up,No
+SOM,2029.0,EL3U,4774.2777815972,New electrified,Bottom-up,No
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Bottom-up,No
+SOM,2030.0,EL3U,5251.6944486458,New electrified,Bottom-up,No
+SOM,2020.0,EL3E,370.0555558516,Current electrified,Bottom-up,High
+SOM,2020.0,EL3U,477.4166670486,New electrified,Bottom-up,High
+SOM,2021.0,EL3E,379.4722225258,Current electrified,Bottom-up,High
+SOM,2021.0,EL3U,954.861111875,New electrified,Bottom-up,High
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Bottom-up,High
+SOM,2022.0,EL3U,1432.2777789236002,New electrified,Bottom-up,High
+SOM,2023.0,EL3E,395.61111142760006,Current electrified,Bottom-up,High
+SOM,2023.0,EL3U,1909.72222375,New electrified,Bottom-up,High
+SOM,2024.0,EL3E,402.5555558776,Current electrified,Bottom-up,High
+SOM,2024.0,EL3U,2387.1388907986,New electrified,Bottom-up,High
+SOM,2025.0,EL3E,423.8055558946,Current electrified,Bottom-up,High
+SOM,2025.0,EL3U,2864.5555578472004,New electrified,Bottom-up,High
+SOM,2026.0,EL3E,445.3611114674,Current electrified,Bottom-up,High
+SOM,2026.0,EL3U,3342.0000026736,New electrified,Bottom-up,High
+SOM,2027.0,EL3E,467.19444481820005,Current electrified,Bottom-up,High
+SOM,2027.0,EL3U,3819.4166697222,New electrified,Bottom-up,High
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Bottom-up,High
+SOM,2028.0,EL3U,4296.8333367708,New electrified,Bottom-up,High
+SOM,2029.0,EL3E,511.5000004092001,Current electrified,Bottom-up,High
+SOM,2029.0,EL3U,4774.2777815972,New electrified,Bottom-up,High
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Bottom-up,High
+SOM,2030.0,EL3U,5251.6944486458,New electrified,Bottom-up,High
+SOM,2020.0,EL3E,370.0833336294,Current electrified,Top-down high,No
+SOM,2020.0,EL3U,477.4166670486,New electrified,Top-down high,No
+SOM,2021.0,EL3E,379.5000003036,Current electrified,Top-down high,No
+SOM,2021.0,EL3U,954.861111875,New electrified,Top-down high,No
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Top-down high,No
+SOM,2022.0,EL3U,1432.2777789236002,New electrified,Top-down high,No
+SOM,2023.0,EL3E,395.58333364980007,Current electrified,Top-down high,No
+SOM,2023.0,EL3U,1909.72222375,New electrified,Top-down high,No
+SOM,2024.0,EL3E,402.52777809980006,Current electrified,Top-down high,No
+SOM,2024.0,EL3U,2387.1388907986,New electrified,Top-down high,No
+SOM,2025.0,EL3E,423.8333336724,Current electrified,Top-down high,No
+SOM,2025.0,EL3U,2864.5555578472004,New electrified,Top-down high,No
+SOM,2026.0,EL3E,445.3611114674,Current electrified,Top-down high,No
+SOM,2026.0,EL3U,3342.0000026736,New electrified,Top-down high,No
+SOM,2027.0,EL3E,467.1666670404,Current electrified,Top-down high,No
+SOM,2027.0,EL3U,3819.4166697222,New electrified,Top-down high,No
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Top-down high,No
+SOM,2028.0,EL3U,4296.8333367708,New electrified,Top-down high,No
+SOM,2029.0,EL3E,511.5000004092001,Current electrified,Top-down high,No
+SOM,2029.0,EL3U,4774.2777815972,New electrified,Top-down high,No
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Top-down high,No
+SOM,2030.0,EL3U,5251.6944486458,New electrified,Top-down high,No
+SOM,2020.0,EL3E,370.0555558516,Current electrified,Top-down high,High
+SOM,2020.0,EL3U,477.4166670486,New electrified,Top-down high,High
+SOM,2021.0,EL3E,379.4722225258,Current electrified,Top-down high,High
+SOM,2021.0,EL3U,954.861111875,New electrified,Top-down high,High
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Top-down high,High
+SOM,2022.0,EL3U,1432.2777789236002,New electrified,Top-down high,High
+SOM,2023.0,EL3E,395.61111142760006,Current electrified,Top-down high,High
+SOM,2023.0,EL3U,1909.72222375,New electrified,Top-down high,High
+SOM,2024.0,EL3E,402.5555558776,Current electrified,Top-down high,High
+SOM,2024.0,EL3U,2387.1388907986,New electrified,Top-down high,High
+SOM,2025.0,EL3E,423.8055558946,Current electrified,Top-down high,High
+SOM,2025.0,EL3U,2864.5555578472004,New electrified,Top-down high,High
+SOM,2026.0,EL3E,445.3611114674,Current electrified,Top-down high,High
+SOM,2026.0,EL3U,3342.0000026736,New electrified,Top-down high,High
+SOM,2027.0,EL3E,467.19444481820005,Current electrified,Top-down high,High
+SOM,2027.0,EL3U,3819.4166697222,New electrified,Top-down high,High
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Top-down high,High
+SOM,2028.0,EL3U,4296.8333367708,New electrified,Top-down high,High
+SOM,2029.0,EL3E,511.5000004092001,Current electrified,Top-down high,High
+SOM,2029.0,EL3U,4774.2777815972,New electrified,Top-down high,High
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Top-down high,High
+SOM,2030.0,EL3U,5251.6944486458,New electrified,Top-down high,High
+SOM,2020.0,EL3E,370.0555558516001,Current electrified,Top-down low,No
+SOM,2020.0,EL3U,140.22222233440002,New electrified,Top-down low,No
+SOM,2021.0,EL3E,379.4722225258,Current electrified,Top-down low,No
+SOM,2021.0,EL3U,280.44444466880003,New electrified,Top-down low,No
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Top-down low,No
+SOM,2022.0,EL3U,420.6666670032,New electrified,Top-down low,No
+SOM,2023.0,EL3E,395.61111142760006,Current electrified,Top-down low,No
+SOM,2023.0,EL3U,560.8611115598,New electrified,Top-down low,No
+SOM,2024.0,EL3E,402.5555558776,Current electrified,Top-down low,No
+SOM,2024.0,EL3U,701.0833338942,New electrified,Top-down low,No
+SOM,2025.0,EL3E,423.8055558946,Current electrified,Top-down low,No
+SOM,2025.0,EL3U,841.3055562286,New electrified,Top-down low,No
+SOM,2026.0,EL3E,445.3611114674,Current electrified,Top-down low,No
+SOM,2026.0,EL3U,981.527778563,New electrified,Top-down low,No
+SOM,2027.0,EL3E,467.1666670404,Current electrified,Top-down low,No
+SOM,2027.0,EL3U,1121.7500008974,New electrified,Top-down low,No
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Top-down low,No
+SOM,2028.0,EL3U,1261.9722232318,New electrified,Top-down low,No
+SOM,2029.0,EL3E,511.5000004092,Current electrified,Top-down low,No
+SOM,2029.0,EL3U,1402.1944455662,New electrified,Top-down low,No
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Top-down low,No
+SOM,2030.0,EL3U,1542.3888901228,New electrified,Top-down low,No
+SOM,2020.0,EL3E,370.0833336294,Current electrified,Top-down low,High
+SOM,2020.0,EL3U,140.22222233440002,New electrified,Top-down low,High
+SOM,2021.0,EL3E,379.5000003036,Current electrified,Top-down low,High
+SOM,2021.0,EL3U,280.44444466880003,New electrified,Top-down low,High
+SOM,2022.0,EL3E,387.9722225326,Current electrified,Top-down low,High
+SOM,2022.0,EL3U,420.6666670032,New electrified,Top-down low,High
+SOM,2023.0,EL3E,395.6111114276,Current electrified,Top-down low,High
+SOM,2023.0,EL3U,560.8611115598,New electrified,Top-down low,High
+SOM,2024.0,EL3E,402.55555587760006,Current electrified,Top-down low,High
+SOM,2024.0,EL3U,701.0833338942,New electrified,Top-down low,High
+SOM,2025.0,EL3E,423.8333336724,Current electrified,Top-down low,High
+SOM,2025.0,EL3U,841.3055562286,New electrified,Top-down low,High
+SOM,2026.0,EL3E,445.3888892452,Current electrified,Top-down low,High
+SOM,2026.0,EL3U,981.527778563,New electrified,Top-down low,High
+SOM,2027.0,EL3E,467.1944448182,Current electrified,Top-down low,High
+SOM,2027.0,EL3U,1121.7500008974,New electrified,Top-down low,High
+SOM,2028.0,EL3E,489.2500003914,Current electrified,Top-down low,High
+SOM,2028.0,EL3U,1261.9722232318,New electrified,Top-down low,High
+SOM,2029.0,EL3E,511.5000004092001,Current electrified,Top-down low,High
+SOM,2029.0,EL3U,1402.1944455662,New electrified,Top-down low,High
+SOM,2030.0,EL3E,537.1944448742,Current electrified,Top-down low,High
+SOM,2030.0,EL3U,1542.3888901228,New electrified,Top-down low,High

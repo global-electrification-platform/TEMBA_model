@@ -1,0 +1,595 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+ZAF,2020,BIO,0.238334,Biomass,Bottom-up,No
+ZAF,2020,COA,43.0945,Coal,Bottom-up,No
+ZAF,2020,GAS,1.58139,Natural Gas,Bottom-up,No
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Bottom-up,No
+ZAF,2020,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2020,LFO,3.660035,Light Fuel Oil,Bottom-up,No
+ZAF,2020,SOL,2.656246,Solar,Bottom-up,No
+ZAF,2020,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2020,WIN,2.4415600000000004,Wind,Bottom-up,No
+ZAF,2021,BIO,0.2272075,Biomass,Bottom-up,No
+ZAF,2021,COA,43.0945,Coal,Bottom-up,No
+ZAF,2021,GAS,1.5525705,Natural Gas,Bottom-up,No
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Bottom-up,No
+ZAF,2021,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2021,LFO,3.54728325,Light Fuel Oil,Bottom-up,No
+ZAF,2021,SOL,2.605846,Solar,Bottom-up,No
+ZAF,2021,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2021,WIN,2.4131370000000003,Wind,Bottom-up,No
+ZAF,2022,BIO,0.216081,Biomass,Bottom-up,No
+ZAF,2022,COA,43.0945,Coal,Bottom-up,No
+ZAF,2022,GAS,1.523751,Natural Gas,Bottom-up,No
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Bottom-up,No
+ZAF,2022,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2022,LFO,3.4345315,Light Fuel Oil,Bottom-up,No
+ZAF,2022,SOL,2.555446,Solar,Bottom-up,No
+ZAF,2022,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2022,WIN,2.384714,Wind,Bottom-up,No
+ZAF,2023,BIO,0.2049544999999999,Biomass,Bottom-up,No
+ZAF,2023,COA,41.17977500000001,Coal,Bottom-up,No
+ZAF,2023,GAS,1.4949315,Natural Gas,Bottom-up,No
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Bottom-up,No
+ZAF,2023,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2023,LFO,3.32177975,Light Fuel Oil,Bottom-up,No
+ZAF,2023,SOL,2.505046,Solar,Bottom-up,No
+ZAF,2023,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2023,WIN,2.356291,Wind,Bottom-up,No
+ZAF,2024,BIO,0.193828,Biomass,Bottom-up,No
+ZAF,2024,COA,39.26505,Coal,Bottom-up,No
+ZAF,2024,GAS,1.466112,Natural Gas,Bottom-up,No
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Bottom-up,No
+ZAF,2024,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2024,LFO,3.209028,Light Fuel Oil,Bottom-up,No
+ZAF,2024,SOL,2.9546460000000003,Solar,Bottom-up,No
+ZAF,2024,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2024,WIN,2.327868,Wind,Bottom-up,No
+ZAF,2025,BIO,0.127069,Biomass,Bottom-up,No
+ZAF,2025,COA,37.96333493438557,Coal,Bottom-up,No
+ZAF,2025,GAS,1.4372925,Natural Gas,Bottom-up,No
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Bottom-up,No
+ZAF,2025,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2025,LFO,2.99627625,Light Fuel Oil,Bottom-up,No
+ZAF,2025,SOL,3.654246,Solar,Bottom-up,No
+ZAF,2025,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2025,WIN,2.299445,Wind,Bottom-up,No
+ZAF,2026,BIO,0.1159425,Biomass,Bottom-up,No
+ZAF,2026,COA,39.34952272450465,Coal,Bottom-up,No
+ZAF,2026,GAS,1.408473,Natural Gas,Bottom-up,No
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Bottom-up,No
+ZAF,2026,HYD,0.704463,Hydropower,Bottom-up,No
+ZAF,2026,LFO,2.7835245,Light Fuel Oil,Bottom-up,No
+ZAF,2026,SOL,4.853846,Solar,Bottom-up,No
+ZAF,2026,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2026,WIN,2.271022,Wind,Bottom-up,No
+ZAF,2027,BIO,0.1048159999999999,Biomass,Bottom-up,No
+ZAF,2027,COA,39.45571800153323,Coal,Bottom-up,No
+ZAF,2027,GAS,1.3796535,Natural Gas,Bottom-up,No
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Bottom-up,No
+ZAF,2027,HYD,0.8846657420303704,Hydropower,Bottom-up,No
+ZAF,2027,LFO,2.57077275,Light Fuel Oil,Bottom-up,No
+ZAF,2027,SOL,6.053446,Solar,Bottom-up,No
+ZAF,2027,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2027,WIN,2.242599,Wind,Bottom-up,No
+ZAF,2028,BIO,0.0936895,Biomass,Bottom-up,No
+ZAF,2028,COA,39.538368822623205,Coal,Bottom-up,No
+ZAF,2028,GAS,1.350834,Natural Gas,Bottom-up,No
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Bottom-up,No
+ZAF,2028,HYD,1.194715978366201,Hydropower,Bottom-up,No
+ZAF,2028,LFO,2.358021,Light Fuel Oil,Bottom-up,No
+ZAF,2028,SOL,7.253045999999999,Solar,Bottom-up,No
+ZAF,2028,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2028,WIN,2.214176,Wind,Bottom-up,No
+ZAF,2029,BIO,0.2718544187129194,Biomass,Bottom-up,No
+ZAF,2029,COA,38.94657986854102,Coal,Bottom-up,No
+ZAF,2029,GAS,1.3220145,Natural Gas,Bottom-up,No
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Bottom-up,No
+ZAF,2029,HYD,1.211663,Hydropower,Bottom-up,No
+ZAF,2029,LFO,2.24526925,Light Fuel Oil,Bottom-up,No
+ZAF,2029,SOL,8.452646,Solar,Bottom-up,No
+ZAF,2029,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2029,WIN,2.185753,Wind,Bottom-up,No
+ZAF,2030,BIO,0.2849482743974876,Biomass,Bottom-up,No
+ZAF,2030,COA,37.03185486854102,Coal,Bottom-up,No
+ZAF,2030,GAS,1.293195,Natural Gas,Bottom-up,No
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Bottom-up,No
+ZAF,2030,HYD,1.211663,Hydropower,Bottom-up,No
+ZAF,2030,LFO,2.1325175,Light Fuel Oil,Bottom-up,No
+ZAF,2030,SOL,9.652246,Solar,Bottom-up,No
+ZAF,2030,URN,1.83,Nuclear,Bottom-up,No
+ZAF,2030,WIN,2.15733,Wind,Bottom-up,No
+ZAF,2020,BIO,0.238334,Biomass,Bottom-up,High
+ZAF,2020,COA,43.0945,Coal,Bottom-up,High
+ZAF,2020,GAS,0.57639,Natural Gas,Bottom-up,High
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Bottom-up,High
+ZAF,2020,HYD,0.704463,Hydropower,Bottom-up,High
+ZAF,2020,LFO,2.655035,Light Fuel Oil,Bottom-up,High
+ZAF,2020,SOL,2.656246,Solar,Bottom-up,High
+ZAF,2020,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2020,WIN,2.4415600000000004,Wind,Bottom-up,High
+ZAF,2021,BIO,26.76784996959272,Biomass,Bottom-up,High
+ZAF,2021,COA,43.0945,Coal,Bottom-up,High
+ZAF,2021,GAS,0.5475705,Natural Gas,Bottom-up,High
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Bottom-up,High
+ZAF,2021,HYD,0.704463,Hydropower,Bottom-up,High
+ZAF,2021,LFO,2.54228325,Light Fuel Oil,Bottom-up,High
+ZAF,2021,SOL,2.605846,Solar,Bottom-up,High
+ZAF,2021,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2021,WIN,2.4131370000000003,Wind,Bottom-up,High
+ZAF,2022,BIO,30.82501296429862,Biomass,Bottom-up,High
+ZAF,2022,COA,43.0945,Coal,Bottom-up,High
+ZAF,2022,GAS,0.518751,Natural Gas,Bottom-up,High
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Bottom-up,High
+ZAF,2022,HYD,0.704463,Hydropower,Bottom-up,High
+ZAF,2022,LFO,2.4295315,Light Fuel Oil,Bottom-up,High
+ZAF,2022,SOL,3.055446,Solar,Bottom-up,High
+ZAF,2022,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2022,WIN,2.384714,Wind,Bottom-up,High
+ZAF,2023,BIO,30.81388646429862,Biomass,Bottom-up,High
+ZAF,2023,COA,41.17977500000001,Coal,Bottom-up,High
+ZAF,2023,GAS,0.4899315,Natural Gas,Bottom-up,High
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Bottom-up,High
+ZAF,2023,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2023,LFO,2.31677975,Light Fuel Oil,Bottom-up,High
+ZAF,2023,SOL,3.505046,Solar,Bottom-up,High
+ZAF,2023,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2023,WIN,2.356291,Wind,Bottom-up,High
+ZAF,2024,BIO,33.74879601115679,Biomass,Bottom-up,High
+ZAF,2024,COA,39.26505,Coal,Bottom-up,High
+ZAF,2024,GAS,0.461112,Natural Gas,Bottom-up,High
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Bottom-up,High
+ZAF,2024,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2024,LFO,2.204028,Light Fuel Oil,Bottom-up,High
+ZAF,2024,SOL,4.204646,Solar,Bottom-up,High
+ZAF,2024,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2024,WIN,2.327868,Wind,Bottom-up,High
+ZAF,2025,BIO,37.32183505833113,Biomass,Bottom-up,High
+ZAF,2025,COA,37.350325,Coal,Bottom-up,High
+ZAF,2025,GAS,0.4322925,Natural Gas,Bottom-up,High
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Bottom-up,High
+ZAF,2025,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2025,LFO,1.99127625,Light Fuel Oil,Bottom-up,High
+ZAF,2025,SOL,4.904246,Solar,Bottom-up,High
+ZAF,2025,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2025,WIN,2.299445,Wind,Bottom-up,High
+ZAF,2026,BIO,40.35901403117797,Biomass,Bottom-up,High
+ZAF,2026,COA,35.4356,Coal,Bottom-up,High
+ZAF,2026,GAS,0.403473,Natural Gas,Bottom-up,High
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Bottom-up,High
+ZAF,2026,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2026,LFO,1.7785245,Light Fuel Oil,Bottom-up,High
+ZAF,2026,SOL,6.103846,Solar,Bottom-up,High
+ZAF,2026,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2026,WIN,2.271022,Wind,Bottom-up,High
+ZAF,2027,BIO,41.82099308476049,Biomass,Bottom-up,High
+ZAF,2027,COA,33.520875000000004,Coal,Bottom-up,High
+ZAF,2027,GAS,0.3746535,Natural Gas,Bottom-up,High
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Bottom-up,High
+ZAF,2027,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2027,LFO,1.56577275,Light Fuel Oil,Bottom-up,High
+ZAF,2027,SOL,7.303445999999999,Solar,Bottom-up,High
+ZAF,2027,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2027,WIN,2.242599,Wind,Bottom-up,High
+ZAF,2028,BIO,43.48425494777667,Biomass,Bottom-up,High
+ZAF,2028,COA,31.60615,Coal,Bottom-up,High
+ZAF,2028,GAS,0.345834,Natural Gas,Bottom-up,High
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Bottom-up,High
+ZAF,2028,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2028,LFO,1.353021,Light Fuel Oil,Bottom-up,High
+ZAF,2028,SOL,8.503046,Solar,Bottom-up,High
+ZAF,2028,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2028,WIN,2.214176,Wind,Bottom-up,High
+ZAF,2029,BIO,44.73970503177793,Biomass,Bottom-up,High
+ZAF,2029,COA,29.691425,Coal,Bottom-up,High
+ZAF,2029,GAS,0.3170145,Natural Gas,Bottom-up,High
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Bottom-up,High
+ZAF,2029,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2029,LFO,1.24026925,Light Fuel Oil,Bottom-up,High
+ZAF,2029,SOL,9.702646,Solar,Bottom-up,High
+ZAF,2029,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2029,WIN,2.185753,Wind,Bottom-up,High
+ZAF,2030,BIO,45.32065739560542,Biomass,Bottom-up,High
+ZAF,2030,COA,27.7767,Coal,Bottom-up,High
+ZAF,2030,GAS,0.288195,Natural Gas,Bottom-up,High
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Bottom-up,High
+ZAF,2030,HYD,1.211663,Hydropower,Bottom-up,High
+ZAF,2030,LFO,1.1275175,Light Fuel Oil,Bottom-up,High
+ZAF,2030,SOL,10.902246,Solar,Bottom-up,High
+ZAF,2030,URN,1.83,Nuclear,Bottom-up,High
+ZAF,2030,WIN,2.15733,Wind,Bottom-up,High
+ZAF,2020,BIO,0.238334,Biomass,Top-down high,No
+ZAF,2020,COA,43.0945,Coal,Top-down high,No
+ZAF,2020,GAS,1.58139,Natural Gas,Top-down high,No
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Top-down high,No
+ZAF,2020,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2020,LFO,3.660035,Light Fuel Oil,Top-down high,No
+ZAF,2020,SOL,2.656246,Solar,Top-down high,No
+ZAF,2020,URN,1.83,Nuclear,Top-down high,No
+ZAF,2020,WIN,2.4415600000000004,Wind,Top-down high,No
+ZAF,2021,BIO,0.2272075,Biomass,Top-down high,No
+ZAF,2021,COA,43.0945,Coal,Top-down high,No
+ZAF,2021,GAS,1.5525705,Natural Gas,Top-down high,No
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Top-down high,No
+ZAF,2021,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2021,LFO,3.54728325,Light Fuel Oil,Top-down high,No
+ZAF,2021,SOL,2.605846,Solar,Top-down high,No
+ZAF,2021,URN,1.83,Nuclear,Top-down high,No
+ZAF,2021,WIN,2.4131370000000003,Wind,Top-down high,No
+ZAF,2022,BIO,0.216081,Biomass,Top-down high,No
+ZAF,2022,COA,43.0945,Coal,Top-down high,No
+ZAF,2022,GAS,1.523751,Natural Gas,Top-down high,No
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Top-down high,No
+ZAF,2022,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2022,LFO,3.4345315,Light Fuel Oil,Top-down high,No
+ZAF,2022,SOL,2.555446,Solar,Top-down high,No
+ZAF,2022,URN,1.83,Nuclear,Top-down high,No
+ZAF,2022,WIN,2.384714,Wind,Top-down high,No
+ZAF,2023,BIO,0.2049544999999999,Biomass,Top-down high,No
+ZAF,2023,COA,41.17977500000001,Coal,Top-down high,No
+ZAF,2023,GAS,1.4949315,Natural Gas,Top-down high,No
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Top-down high,No
+ZAF,2023,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2023,LFO,3.32177975,Light Fuel Oil,Top-down high,No
+ZAF,2023,SOL,2.505046,Solar,Top-down high,No
+ZAF,2023,URN,1.83,Nuclear,Top-down high,No
+ZAF,2023,WIN,2.356291,Wind,Top-down high,No
+ZAF,2024,BIO,0.193828,Biomass,Top-down high,No
+ZAF,2024,COA,39.26505,Coal,Top-down high,No
+ZAF,2024,GAS,1.466112,Natural Gas,Top-down high,No
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Top-down high,No
+ZAF,2024,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2024,LFO,3.209028,Light Fuel Oil,Top-down high,No
+ZAF,2024,SOL,2.9546460000000003,Solar,Top-down high,No
+ZAF,2024,URN,1.83,Nuclear,Top-down high,No
+ZAF,2024,WIN,2.327868,Wind,Top-down high,No
+ZAF,2025,BIO,0.127069,Biomass,Top-down high,No
+ZAF,2025,COA,40.814367028073335,Coal,Top-down high,No
+ZAF,2025,GAS,1.4372925,Natural Gas,Top-down high,No
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Top-down high,No
+ZAF,2025,HYD,0.704463,Hydropower,Top-down high,No
+ZAF,2025,LFO,2.99627625,Light Fuel Oil,Top-down high,No
+ZAF,2025,SOL,3.654246,Solar,Top-down high,No
+ZAF,2025,URN,1.83,Nuclear,Top-down high,No
+ZAF,2025,WIN,2.299445,Wind,Top-down high,No
+ZAF,2026,BIO,0.1159425,Biomass,Top-down high,No
+ZAF,2026,COA,41.05841183660617,Coal,Top-down high,No
+ZAF,2026,GAS,1.408473,Natural Gas,Top-down high,No
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Top-down high,No
+ZAF,2026,HYD,0.7895846137536345,Hydropower,Top-down high,No
+ZAF,2026,LFO,2.7835245,Light Fuel Oil,Top-down high,No
+ZAF,2026,SOL,4.853846,Solar,Top-down high,No
+ZAF,2026,URN,1.83,Nuclear,Top-down high,No
+ZAF,2026,WIN,2.271022,Wind,Top-down high,No
+ZAF,2027,BIO,0.1048159999999999,Biomass,Top-down high,No
+ZAF,2027,COA,41.564476297859215,Coal,Top-down high,No
+ZAF,2027,GAS,1.3796535,Natural Gas,Top-down high,No
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Top-down high,No
+ZAF,2027,HYD,1.1641647593721989,Hydropower,Top-down high,No
+ZAF,2027,LFO,2.57077275,Light Fuel Oil,Top-down high,No
+ZAF,2027,SOL,6.053446,Solar,Top-down high,No
+ZAF,2027,URN,1.83,Nuclear,Top-down high,No
+ZAF,2027,WIN,2.242599,Wind,Top-down high,No
+ZAF,2028,BIO,0.2921361656766087,Biomass,Top-down high,No
+ZAF,2028,COA,41.03265193580437,Coal,Top-down high,No
+ZAF,2028,GAS,1.350834,Natural Gas,Top-down high,No
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Top-down high,No
+ZAF,2028,HYD,1.211663,Hydropower,Top-down high,No
+ZAF,2028,LFO,2.358021,Light Fuel Oil,Top-down high,No
+ZAF,2028,SOL,7.253045999999999,Solar,Top-down high,No
+ZAF,2028,URN,1.83,Nuclear,Top-down high,No
+ZAF,2028,WIN,2.214176,Wind,Top-down high,No
+ZAF,2029,BIO,0.5404701872130667,Biomass,Top-down high,No
+ZAF,2029,COA,40.58599562491796,Coal,Top-down high,No
+ZAF,2029,GAS,1.3220145,Natural Gas,Top-down high,No
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Top-down high,No
+ZAF,2029,HYD,1.211663,Hydropower,Top-down high,No
+ZAF,2029,LFO,2.24526925,Light Fuel Oil,Top-down high,No
+ZAF,2029,SOL,8.452646,Solar,Top-down high,No
+ZAF,2029,URN,1.83,Nuclear,Top-down high,No
+ZAF,2029,WIN,2.185753,Wind,Top-down high,No
+ZAF,2030,BIO,0.5782344011940926,Biomass,Top-down high,No
+ZAF,2030,COA,38.67127062491796,Coal,Top-down high,No
+ZAF,2030,GAS,1.293195,Natural Gas,Top-down high,No
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Top-down high,No
+ZAF,2030,HYD,1.211663,Hydropower,Top-down high,No
+ZAF,2030,LFO,2.1325175,Light Fuel Oil,Top-down high,No
+ZAF,2030,SOL,9.652246,Solar,Top-down high,No
+ZAF,2030,URN,1.83,Nuclear,Top-down high,No
+ZAF,2030,WIN,2.15733,Wind,Top-down high,No
+ZAF,2020,BIO,0.238334,Biomass,Top-down high,High
+ZAF,2020,COA,43.0945,Coal,Top-down high,High
+ZAF,2020,GAS,0.57639,Natural Gas,Top-down high,High
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Top-down high,High
+ZAF,2020,HYD,0.704463,Hydropower,Top-down high,High
+ZAF,2020,LFO,2.655035,Light Fuel Oil,Top-down high,High
+ZAF,2020,SOL,2.656246,Solar,Top-down high,High
+ZAF,2020,URN,1.83,Nuclear,Top-down high,High
+ZAF,2020,WIN,2.4415600000000004,Wind,Top-down high,High
+ZAF,2021,BIO,26.87209484025253,Biomass,Top-down high,High
+ZAF,2021,COA,43.0945,Coal,Top-down high,High
+ZAF,2021,GAS,0.5475705,Natural Gas,Top-down high,High
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Top-down high,High
+ZAF,2021,HYD,0.704463,Hydropower,Top-down high,High
+ZAF,2021,LFO,2.54228325,Light Fuel Oil,Top-down high,High
+ZAF,2021,SOL,2.605846,Solar,Top-down high,High
+ZAF,2021,URN,1.83,Nuclear,Top-down high,High
+ZAF,2021,WIN,2.4131370000000003,Wind,Top-down high,High
+ZAF,2022,BIO,31.738658097378607,Biomass,Top-down high,High
+ZAF,2022,COA,43.0945,Coal,Top-down high,High
+ZAF,2022,GAS,0.518751,Natural Gas,Top-down high,High
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Top-down high,High
+ZAF,2022,HYD,0.704463,Hydropower,Top-down high,High
+ZAF,2022,LFO,2.4295315,Light Fuel Oil,Top-down high,High
+ZAF,2022,SOL,3.055446,Solar,Top-down high,High
+ZAF,2022,URN,1.83,Nuclear,Top-down high,High
+ZAF,2022,WIN,2.384714,Wind,Top-down high,High
+ZAF,2023,BIO,32.393365649236586,Biomass,Top-down high,High
+ZAF,2023,COA,41.17977500000001,Coal,Top-down high,High
+ZAF,2023,GAS,0.4899315,Natural Gas,Top-down high,High
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Top-down high,High
+ZAF,2023,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2023,LFO,2.31677975,Light Fuel Oil,Top-down high,High
+ZAF,2023,SOL,3.505046,Solar,Top-down high,High
+ZAF,2023,URN,1.83,Nuclear,Top-down high,High
+ZAF,2023,WIN,2.356291,Wind,Top-down high,High
+ZAF,2024,BIO,36.35056933648139,Biomass,Top-down high,High
+ZAF,2024,COA,39.26505,Coal,Top-down high,High
+ZAF,2024,GAS,0.461112,Natural Gas,Top-down high,High
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Top-down high,High
+ZAF,2024,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2024,LFO,2.204028,Light Fuel Oil,Top-down high,High
+ZAF,2024,SOL,4.204646,Solar,Top-down high,High
+ZAF,2024,URN,1.83,Nuclear,Top-down high,High
+ZAF,2024,WIN,2.327868,Wind,Top-down high,High
+ZAF,2025,BIO,39.72731651316764,Biomass,Top-down high,High
+ZAF,2025,COA,37.350325,Coal,Top-down high,High
+ZAF,2025,GAS,0.4322925,Natural Gas,Top-down high,High
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Top-down high,High
+ZAF,2025,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2025,LFO,1.99127625,Light Fuel Oil,Top-down high,High
+ZAF,2025,SOL,4.904246,Solar,Top-down high,High
+ZAF,2025,URN,1.83,Nuclear,Top-down high,High
+ZAF,2025,WIN,2.299445,Wind,Top-down high,High
+ZAF,2026,BIO,43.51345740801151,Biomass,Top-down high,High
+ZAF,2026,COA,35.4356,Coal,Top-down high,High
+ZAF,2026,GAS,0.403473,Natural Gas,Top-down high,High
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Top-down high,High
+ZAF,2026,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2026,LFO,1.7785245,Light Fuel Oil,Top-down high,High
+ZAF,2026,SOL,6.103846,Solar,Top-down high,High
+ZAF,2026,URN,1.83,Nuclear,Top-down high,High
+ZAF,2026,WIN,2.271022,Wind,Top-down high,High
+ZAF,2027,BIO,45.091853070221816,Biomass,Top-down high,High
+ZAF,2027,COA,33.520875000000004,Coal,Top-down high,High
+ZAF,2027,GAS,0.3746535,Natural Gas,Top-down high,High
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Top-down high,High
+ZAF,2027,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2027,LFO,1.56577275,Light Fuel Oil,Top-down high,High
+ZAF,2027,SOL,7.303445999999999,Solar,Top-down high,High
+ZAF,2027,URN,1.83,Nuclear,Top-down high,High
+ZAF,2027,WIN,2.242599,Wind,Top-down high,High
+ZAF,2028,BIO,46.62435980366814,Biomass,Top-down high,High
+ZAF,2028,COA,31.60615,Coal,Top-down high,High
+ZAF,2028,GAS,0.345834,Natural Gas,Top-down high,High
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Top-down high,High
+ZAF,2028,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2028,LFO,1.353021,Light Fuel Oil,Top-down high,High
+ZAF,2028,SOL,8.503046,Solar,Top-down high,High
+ZAF,2028,URN,1.83,Nuclear,Top-down high,High
+ZAF,2028,WIN,2.214176,Wind,Top-down high,High
+ZAF,2029,BIO,47.9269911279689,Biomass,Top-down high,High
+ZAF,2029,COA,29.691425,Coal,Top-down high,High
+ZAF,2029,GAS,0.3170145,Natural Gas,Top-down high,High
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Top-down high,High
+ZAF,2029,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2029,LFO,1.24026925,Light Fuel Oil,Top-down high,High
+ZAF,2029,SOL,9.702646,Solar,Top-down high,High
+ZAF,2029,URN,1.83,Nuclear,Top-down high,High
+ZAF,2029,WIN,2.185753,Wind,Top-down high,High
+ZAF,2030,BIO,48.45696291818615,Biomass,Top-down high,High
+ZAF,2030,COA,27.7767,Coal,Top-down high,High
+ZAF,2030,GAS,0.288195,Natural Gas,Top-down high,High
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Top-down high,High
+ZAF,2030,HYD,1.211663,Hydropower,Top-down high,High
+ZAF,2030,LFO,1.1275175,Light Fuel Oil,Top-down high,High
+ZAF,2030,SOL,10.902246,Solar,Top-down high,High
+ZAF,2030,URN,1.83,Nuclear,Top-down high,High
+ZAF,2030,WIN,2.15733,Wind,Top-down high,High
+ZAF,2020,BIO,0.238334,Biomass,Top-down low,No
+ZAF,2020,COA,43.0945,Coal,Top-down low,No
+ZAF,2020,GAS,1.58139,Natural Gas,Top-down low,No
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Top-down low,No
+ZAF,2020,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2020,LFO,3.660035,Light Fuel Oil,Top-down low,No
+ZAF,2020,SOL,2.656246,Solar,Top-down low,No
+ZAF,2020,URN,1.83,Nuclear,Top-down low,No
+ZAF,2020,WIN,2.4415600000000004,Wind,Top-down low,No
+ZAF,2021,BIO,0.2272075,Biomass,Top-down low,No
+ZAF,2021,COA,43.0945,Coal,Top-down low,No
+ZAF,2021,GAS,1.5525705,Natural Gas,Top-down low,No
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Top-down low,No
+ZAF,2021,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2021,LFO,3.54728325,Light Fuel Oil,Top-down low,No
+ZAF,2021,SOL,2.605846,Solar,Top-down low,No
+ZAF,2021,URN,1.83,Nuclear,Top-down low,No
+ZAF,2021,WIN,2.4131370000000003,Wind,Top-down low,No
+ZAF,2022,BIO,0.216081,Biomass,Top-down low,No
+ZAF,2022,COA,43.0945,Coal,Top-down low,No
+ZAF,2022,GAS,1.523751,Natural Gas,Top-down low,No
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Top-down low,No
+ZAF,2022,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2022,LFO,3.4345315,Light Fuel Oil,Top-down low,No
+ZAF,2022,SOL,2.555446,Solar,Top-down low,No
+ZAF,2022,URN,1.83,Nuclear,Top-down low,No
+ZAF,2022,WIN,2.384714,Wind,Top-down low,No
+ZAF,2023,BIO,0.2049544999999999,Biomass,Top-down low,No
+ZAF,2023,COA,41.17977500000001,Coal,Top-down low,No
+ZAF,2023,GAS,1.4949315,Natural Gas,Top-down low,No
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Top-down low,No
+ZAF,2023,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2023,LFO,3.32177975,Light Fuel Oil,Top-down low,No
+ZAF,2023,SOL,2.505046,Solar,Top-down low,No
+ZAF,2023,URN,1.83,Nuclear,Top-down low,No
+ZAF,2023,WIN,2.356291,Wind,Top-down low,No
+ZAF,2024,BIO,0.193828,Biomass,Top-down low,No
+ZAF,2024,COA,39.26505,Coal,Top-down low,No
+ZAF,2024,GAS,1.466112,Natural Gas,Top-down low,No
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Top-down low,No
+ZAF,2024,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2024,LFO,3.209028,Light Fuel Oil,Top-down low,No
+ZAF,2024,SOL,2.9546460000000003,Solar,Top-down low,No
+ZAF,2024,URN,1.83,Nuclear,Top-down low,No
+ZAF,2024,WIN,2.327868,Wind,Top-down low,No
+ZAF,2025,BIO,0.127069,Biomass,Top-down low,No
+ZAF,2025,COA,37.350325,Coal,Top-down low,No
+ZAF,2025,GAS,1.4372925,Natural Gas,Top-down low,No
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Top-down low,No
+ZAF,2025,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2025,LFO,2.99627625,Light Fuel Oil,Top-down low,No
+ZAF,2025,SOL,3.404246,Solar,Top-down low,No
+ZAF,2025,URN,1.83,Nuclear,Top-down low,No
+ZAF,2025,WIN,2.299445,Wind,Top-down low,No
+ZAF,2026,BIO,0.1159425,Biomass,Top-down low,No
+ZAF,2026,COA,37.10342854104107,Coal,Top-down low,No
+ZAF,2026,GAS,1.408473,Natural Gas,Top-down low,No
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Top-down low,No
+ZAF,2026,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2026,LFO,2.7835245,Light Fuel Oil,Top-down low,No
+ZAF,2026,SOL,4.603846,Solar,Top-down low,No
+ZAF,2026,URN,1.83,Nuclear,Top-down low,No
+ZAF,2026,WIN,2.271022,Wind,Top-down low,No
+ZAF,2027,BIO,0.1048159999999999,Biomass,Top-down low,No
+ZAF,2027,COA,36.90465718688312,Coal,Top-down low,No
+ZAF,2027,GAS,1.3796535,Natural Gas,Top-down low,No
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Top-down low,No
+ZAF,2027,HYD,0.704463,Hydropower,Top-down low,No
+ZAF,2027,LFO,2.57077275,Light Fuel Oil,Top-down low,No
+ZAF,2027,SOL,5.803446,Solar,Top-down low,No
+ZAF,2027,URN,1.83,Nuclear,Top-down low,No
+ZAF,2027,WIN,2.242599,Wind,Top-down low,No
+ZAF,2028,BIO,0.0936895,Biomass,Top-down low,No
+ZAF,2028,COA,37.09676664688851,Coal,Top-down low,No
+ZAF,2028,GAS,1.350834,Natural Gas,Top-down low,No
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Top-down low,No
+ZAF,2028,HYD,0.9783616036056538,Hydropower,Top-down low,No
+ZAF,2028,LFO,2.358021,Light Fuel Oil,Top-down low,No
+ZAF,2028,SOL,7.003045999999999,Solar,Top-down low,No
+ZAF,2028,URN,1.83,Nuclear,Top-down low,No
+ZAF,2028,WIN,2.214176,Wind,Top-down low,No
+ZAF,2029,BIO,0.0939947419470396,Biomass,Top-down low,No
+ZAF,2029,COA,36.96221179063215,Coal,Top-down low,No
+ZAF,2029,GAS,1.3220145,Natural Gas,Top-down low,No
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Top-down low,No
+ZAF,2029,HYD,1.211663,Hydropower,Top-down low,No
+ZAF,2029,LFO,2.24526925,Light Fuel Oil,Top-down low,No
+ZAF,2029,SOL,8.202646,Solar,Top-down low,No
+ZAF,2029,URN,1.83,Nuclear,Top-down low,No
+ZAF,2029,WIN,2.185753,Wind,Top-down low,No
+ZAF,2030,BIO,0.0828682419470396,Biomass,Top-down low,No
+ZAF,2030,COA,35.114809149959,Coal,Top-down low,No
+ZAF,2030,GAS,1.293195,Natural Gas,Top-down low,No
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Top-down low,No
+ZAF,2030,HYD,1.211663,Hydropower,Top-down low,No
+ZAF,2030,LFO,2.1325175,Light Fuel Oil,Top-down low,No
+ZAF,2030,SOL,9.402246,Solar,Top-down low,No
+ZAF,2030,URN,1.83,Nuclear,Top-down low,No
+ZAF,2030,WIN,2.15733,Wind,Top-down low,No
+ZAF,2020,BIO,0.238334,Biomass,Top-down low,High
+ZAF,2020,COA,43.0945,Coal,Top-down low,High
+ZAF,2020,GAS,0.57639,Natural Gas,Top-down low,High
+ZAF,2020,HFO,0.54077,Heavy Fuel Oil,Top-down low,High
+ZAF,2020,HYD,0.704463,Hydropower,Top-down low,High
+ZAF,2020,LFO,2.655035,Light Fuel Oil,Top-down low,High
+ZAF,2020,SOL,2.656246,Solar,Top-down low,High
+ZAF,2020,URN,1.83,Nuclear,Top-down low,High
+ZAF,2020,WIN,2.4415600000000004,Wind,Top-down low,High
+ZAF,2021,BIO,25.445259193616828,Biomass,Top-down low,High
+ZAF,2021,COA,43.0945,Coal,Top-down low,High
+ZAF,2021,GAS,0.5475705,Natural Gas,Top-down low,High
+ZAF,2021,HFO,0.5137315,Heavy Fuel Oil,Top-down low,High
+ZAF,2021,HYD,0.704463,Hydropower,Top-down low,High
+ZAF,2021,LFO,2.54228325,Light Fuel Oil,Top-down low,High
+ZAF,2021,SOL,2.605846,Solar,Top-down low,High
+ZAF,2021,URN,1.83,Nuclear,Top-down low,High
+ZAF,2021,WIN,2.4131370000000003,Wind,Top-down low,High
+ZAF,2022,BIO,28.5831399743324,Biomass,Top-down low,High
+ZAF,2022,COA,43.0945,Coal,Top-down low,High
+ZAF,2022,GAS,0.518751,Natural Gas,Top-down low,High
+ZAF,2022,HFO,0.486693,Heavy Fuel Oil,Top-down low,High
+ZAF,2022,HYD,0.704463,Hydropower,Top-down low,High
+ZAF,2022,LFO,2.4295315,Light Fuel Oil,Top-down low,High
+ZAF,2022,SOL,3.055446,Solar,Top-down low,High
+ZAF,2022,URN,1.83,Nuclear,Top-down low,High
+ZAF,2022,WIN,2.384714,Wind,Top-down low,High
+ZAF,2023,BIO,28.5720134743324,Biomass,Top-down low,High
+ZAF,2023,COA,41.17977500000001,Coal,Top-down low,High
+ZAF,2023,GAS,0.4899315,Natural Gas,Top-down low,High
+ZAF,2023,HFO,0.4596545,Heavy Fuel Oil,Top-down low,High
+ZAF,2023,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2023,LFO,2.31677975,Light Fuel Oil,Top-down low,High
+ZAF,2023,SOL,3.505046,Solar,Top-down low,High
+ZAF,2023,URN,1.83,Nuclear,Top-down low,High
+ZAF,2023,WIN,2.356291,Wind,Top-down low,High
+ZAF,2024,BIO,30.56643007649381,Biomass,Top-down low,High
+ZAF,2024,COA,39.26505,Coal,Top-down low,High
+ZAF,2024,GAS,0.461112,Natural Gas,Top-down low,High
+ZAF,2024,HFO,0.432616,Heavy Fuel Oil,Top-down low,High
+ZAF,2024,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2024,LFO,2.204028,Light Fuel Oil,Top-down low,High
+ZAF,2024,SOL,4.204646,Solar,Top-down low,High
+ZAF,2024,URN,1.83,Nuclear,Top-down low,High
+ZAF,2024,WIN,2.327868,Wind,Top-down low,High
+ZAF,2025,BIO,33.50796216678912,Biomass,Top-down low,High
+ZAF,2025,COA,37.350325,Coal,Top-down low,High
+ZAF,2025,GAS,0.4322925,Natural Gas,Top-down low,High
+ZAF,2025,HFO,0.4055775,Heavy Fuel Oil,Top-down low,High
+ZAF,2025,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2025,LFO,1.99127625,Light Fuel Oil,Top-down low,High
+ZAF,2025,SOL,4.904246,Solar,Top-down low,High
+ZAF,2025,URN,1.83,Nuclear,Top-down low,High
+ZAF,2025,WIN,2.299445,Wind,Top-down low,High
+ZAF,2026,BIO,35.63898417017084,Biomass,Top-down low,High
+ZAF,2026,COA,35.4356,Coal,Top-down low,High
+ZAF,2026,GAS,0.403473,Natural Gas,Top-down low,High
+ZAF,2026,HFO,0.378539,Heavy Fuel Oil,Top-down low,High
+ZAF,2026,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2026,LFO,1.7785245,Light Fuel Oil,Top-down low,High
+ZAF,2026,SOL,6.103846,Solar,Top-down low,High
+ZAF,2026,URN,1.83,Nuclear,Top-down low,High
+ZAF,2026,WIN,2.271022,Wind,Top-down low,High
+ZAF,2027,BIO,37.18995138373007,Biomass,Top-down low,High
+ZAF,2027,COA,33.520875000000004,Coal,Top-down low,High
+ZAF,2027,GAS,0.3746535,Natural Gas,Top-down low,High
+ZAF,2027,HFO,0.3515005,Heavy Fuel Oil,Top-down low,High
+ZAF,2027,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2027,LFO,1.56577275,Light Fuel Oil,Top-down low,High
+ZAF,2027,SOL,7.303445999999999,Solar,Top-down low,High
+ZAF,2027,URN,1.83,Nuclear,Top-down low,High
+ZAF,2027,WIN,2.242599,Wind,Top-down low,High
+ZAF,2028,BIO,38.6175801318968,Biomass,Top-down low,High
+ZAF,2028,COA,31.60615,Coal,Top-down low,High
+ZAF,2028,GAS,0.345834,Natural Gas,Top-down low,High
+ZAF,2028,HFO,0.324462,Heavy Fuel Oil,Top-down low,High
+ZAF,2028,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2028,LFO,1.353021,Light Fuel Oil,Top-down low,High
+ZAF,2028,SOL,8.503046,Solar,Top-down low,High
+ZAF,2028,URN,1.83,Nuclear,Top-down low,High
+ZAF,2028,WIN,2.214176,Wind,Top-down low,High
+ZAF,2029,BIO,40.23595798663279,Biomass,Top-down low,High
+ZAF,2029,COA,29.691425,Coal,Top-down low,High
+ZAF,2029,GAS,0.3170145,Natural Gas,Top-down low,High
+ZAF,2029,HFO,0.2974235,Heavy Fuel Oil,Top-down low,High
+ZAF,2029,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2029,LFO,1.24026925,Light Fuel Oil,Top-down low,High
+ZAF,2029,SOL,9.702646,Solar,Top-down low,High
+ZAF,2029,URN,1.83,Nuclear,Top-down low,High
+ZAF,2029,WIN,2.185753,Wind,Top-down low,High
+ZAF,2030,BIO,41.74773779214641,Biomass,Top-down low,High
+ZAF,2030,COA,27.7767,Coal,Top-down low,High
+ZAF,2030,GAS,0.288195,Natural Gas,Top-down low,High
+ZAF,2030,HFO,0.270385,Heavy Fuel Oil,Top-down low,High
+ZAF,2030,HYD,1.211663,Hydropower,Top-down low,High
+ZAF,2030,LFO,1.1275175,Light Fuel Oil,Top-down low,High
+ZAF,2030,SOL,10.902246,Solar,Top-down low,High
+ZAF,2030,URN,1.83,Nuclear,Top-down low,High
+ZAF,2030,WIN,2.15733,Wind,Top-down low,High

@@ -38,7 +38,7 @@ dfs = []
 for scenario in scenario_names:
     df = pd.read_csv("results/Scenario_CSVs/{}/InstalledCapacity.csv".format(scenario))
     df['Scenario'] = scenarios[scenario.split('_')[0]]
-    df['Carbon Tax'] = carbon_tax[scenario]
+    df['Carbon Price'] = carbon_tax[scenario]
     dfs.append(df)
 df_capacity = pd.concat(dfs, axis=0)
 
@@ -46,7 +46,7 @@ dfs = []
 for scenario in scenario_names:
     df = pd.read_csv("results/Scenario_CSVs/{}/ElectricityDemand.csv".format(scenario))
     df['Scenario'] = scenarios[scenario.split('_')[0]]
-    df['Carbon Tax'] = carbon_tax[scenario]
+    df['Carbon Price'] = carbon_tax[scenario]
     dfs.append(df)
 df_demand = pd.concat(dfs, axis=0)
 
@@ -54,7 +54,7 @@ dfs = []
 for scenario in scenario_names:
     df = pd.read_csv("results/Scenario_CSVs/{}/ElectricityGeneration.csv".format(scenario))
     df['Scenario'] = scenarios[scenario.split('_')[0]]
-    df['Carbon Tax'] = carbon_tax[scenario]
+    df['Carbon Price'] = carbon_tax[scenario]
     dfs.append(df)
 df_production = pd.concat(dfs, axis=0)
 
@@ -72,8 +72,8 @@ for country in df['Country'].unique():
                                   "Total installed capacity (GW)": "Installed capacity (GW)"},
                           color_discrete_map=color_map,
                           facet_col='Scenario',
-                          facet_row='Carbon Tax',
-                          category_orders={"Carbon Tax": ["No", "High"]},
+                          facet_row='Carbon Price',
+                          category_orders={"Carbon Price": ["No", "High"]},
                           width=900, height=600
                          )
     fig_capacity.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -93,8 +93,8 @@ for country in df['Country'].unique():
                         color_discrete_map={'Current electrified': 'teal',
                                             'New electrified': 'firebrick'},
                         facet_col='Scenario',
-                        facet_row='Carbon Tax',
-                        category_orders={"Carbon Tax": ["No", "High"]},
+                        facet_row='Carbon Price',
+                        category_orders={"Carbon Price": ["No", "High"]},
                         width=900, height=600
                        )
     fig_demand.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -113,8 +113,8 @@ for country in df['Country'].unique():
                                     "Total annual production (GWh)": "Annual production (GWh)"},
                             color_discrete_map=color_map,
                             facet_col='Scenario',
-                            facet_row='Carbon Tax',
-                            category_orders={"Carbon Tax": ["No", "High"]},
+                            facet_row='Carbon Price',
+                            category_orders={"Carbon Price": ["No", "High"]},
                             width=900, height=600
                            )
     fig_production.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -126,7 +126,7 @@ for country in df['Country'].unique():
 # Sub Sahara Africa Installed capacity graph
 countries = pd.read_csv(snakemake.input.ssa_countries)
 dff = df_capacity.loc[df_capacity['Country'].isin(countries['Country'])].copy()
-dff = dff.groupby(['Scenario', 'Carbon Tax', 'Source', 'y'])[['Total installed capacity (GW)']].sum()
+dff = dff.groupby(['Scenario', 'Carbon Price', 'Source', 'y'])[['Total installed capacity (GW)']].sum()
 
 fig_capacity = px.bar(dff.reset_index(), 
                       x="y", y="Total installed capacity (GW)", 
@@ -135,8 +135,8 @@ fig_capacity = px.bar(dff.reset_index(),
                       labels={'y': 'Year'},
                       color_discrete_map=color_map,
                       facet_col='Scenario',
-                      facet_row='Carbon Tax',
-                      category_orders={"Carbon Tax": ["No", "High"]},
+                      facet_row='Carbon Price',
+                      category_orders={"Carbon Price": ["No", "High"]},
                       width=900, height=600
                      )
 fig_capacity.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -146,7 +146,7 @@ fig_capacity.write_image(snakemake.output.capacity_plot,
                          
 # Sub Saharan Africa demand plot
 dff = df_demand.loc[df_demand['Country'].isin(countries['Country'])].copy()
-dff = dff.groupby(['Scenario', 'Carbon Tax', 'Demand type', 'y'])[['Total annual demand (GWh)']].sum()
+dff = dff.groupby(['Scenario', 'Carbon Price', 'Demand type', 'y'])[['Total annual demand (GWh)']].sum()
 dff.reset_index(inplace=True)
 dff = dff.loc[dff['Demand type'].isin(['Current electrified', 'New electrified'])]
 fig_demand = px.bar(dff, 
@@ -158,8 +158,8 @@ fig_demand = px.bar(dff,
                     color_discrete_map={'Current electrified': 'teal',
                                         'New electrified': 'firebrick'},
                     facet_col='Scenario',
-                    facet_row='Carbon Tax',
-                    category_orders={"Carbon Tax": ["No", "High"]},
+                    facet_row='Carbon Price',
+                    category_orders={"Carbon Price": ["No", "High"]},
                     width=900, height=600
                    )
 fig_demand.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -169,7 +169,7 @@ fig_demand.write_image(snakemake.output.demand_plot,
                          
 # Sub Saharan Africa generation plot
 dff = df_production.loc[df_production['Country'].isin(countries['Country'])].copy()
-dff = dff.groupby(['Scenario', 'Carbon Tax', 'Source', 'y'])[['Total annual production (GWh)']].sum()
+dff = dff.groupby(['Scenario', 'Carbon Price', 'Source', 'y'])[['Total annual production (GWh)']].sum()
 dff.reset_index(inplace=True)
 dff = dff.loc[~dff['Source'].str.contains('Imports|Exports')]
 fig_production = px.bar(dff, 
@@ -180,8 +180,8 @@ fig_production = px.bar(dff,
                                 "Total annual production (GWh)": "Annual production (GWh)"},
                         color_discrete_map=color_map,
                         facet_col='Scenario',
-                        facet_row='Carbon Tax',
-                        category_orders={"Carbon Tax": ["No", "High"]},
+                        facet_row='Carbon Price',
+                        category_orders={"Carbon Price": ["No", "High"]},
                         width=900, height=600
                        )
 fig_production.for_each_annotation(lambda a: a.update(text=a.text.replace("=", ': ')))
@@ -237,7 +237,7 @@ fig = px.bar(df,
              facet_col='group',
              facet_col_spacing=0.1,
              width=700, height=700,
-             labels={'Scenario': 'No carbon cost:<br>High carbon cost:'}
+             labels={'Scenario': 'No carbon price:<br>High carbon price:'}
             )
 fig.add_traces(px.box(df_ct, y="Country", x="LCOE (USD/kWh)", color='Scenario',
                color_discrete_sequence=color_pallete,
@@ -314,7 +314,7 @@ fig = px.bar(df,
              facet_col='group',
              facet_col_spacing=0.1,
              width=700, height=700,
-             labels={'Scenario': 'No carbon cost:<br>High carbon cost:'}
+             labels={'Scenario': 'No carbon price:<br>High carbon price:'}
             )
 fig.add_traces(px.box(df_ct, y="Country", x="Grid emission factor (gCO2eq/kWh)", color='Scenario',
                color_discrete_sequence=color_pallete,

@@ -1,0 +1,127 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Bottom-up,No
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Bottom-up,No
+SSD,2021.0,EL3U,9.0833333406,New electrified,Bottom-up,No
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Bottom-up,No
+SSD,2022.0,EL3U,18.1388889034,New electrified,Bottom-up,No
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Bottom-up,No
+SSD,2023.0,EL3U,27.222222244,New electrified,Bottom-up,No
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Bottom-up,No
+SSD,2024.0,EL3U,36.30555558460001,New electrified,Bottom-up,No
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Bottom-up,No
+SSD,2025.0,EL3U,45.3611111474,New electrified,Bottom-up,No
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Bottom-up,No
+SSD,2026.0,EL3U,54.444444488,New electrified,Bottom-up,No
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Bottom-up,No
+SSD,2027.0,EL3U,59.2500000474,New electrified,Bottom-up,No
+SSD,2028.0,EL3E,622.916667165,Current electrified,Bottom-up,No
+SSD,2028.0,EL3U,64.027777829,New electrified,Bottom-up,No
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Bottom-up,No
+SSD,2029.0,EL3U,68.8333333884,New electrified,Bottom-up,No
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Bottom-up,No
+SSD,2030.0,EL3U,73.61111117,New electrified,Bottom-up,No
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Bottom-up,High
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Bottom-up,High
+SSD,2021.0,EL3U,9.0833333406,New electrified,Bottom-up,High
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Bottom-up,High
+SSD,2022.0,EL3U,18.1388889034,New electrified,Bottom-up,High
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Bottom-up,High
+SSD,2023.0,EL3U,27.222222244,New electrified,Bottom-up,High
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Bottom-up,High
+SSD,2024.0,EL3U,36.30555558460001,New electrified,Bottom-up,High
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Bottom-up,High
+SSD,2025.0,EL3U,45.3611111474,New electrified,Bottom-up,High
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Bottom-up,High
+SSD,2026.0,EL3U,54.444444488,New electrified,Bottom-up,High
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Bottom-up,High
+SSD,2027.0,EL3U,59.2500000474,New electrified,Bottom-up,High
+SSD,2028.0,EL3E,622.916667165,Current electrified,Bottom-up,High
+SSD,2028.0,EL3U,64.027777829,New electrified,Bottom-up,High
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Bottom-up,High
+SSD,2029.0,EL3U,68.8333333884,New electrified,Bottom-up,High
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Bottom-up,High
+SSD,2030.0,EL3U,73.61111117,New electrified,Bottom-up,High
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Top-down high,No
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Top-down high,No
+SSD,2021.0,EL3U,17.0000000136,New electrified,Top-down high,No
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Top-down high,No
+SSD,2022.0,EL3U,33.972222249400005,New electrified,Top-down high,No
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Top-down high,No
+SSD,2023.0,EL3U,50.972222263,New electrified,Top-down high,No
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Top-down high,No
+SSD,2024.0,EL3U,67.97222227660001,New electrified,Top-down high,No
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Top-down high,No
+SSD,2025.0,EL3U,84.94444451240001,New electrified,Top-down high,No
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Top-down high,No
+SSD,2026.0,EL3U,101.944444526,New electrified,Top-down high,No
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Top-down high,No
+SSD,2027.0,EL3U,110.694444533,New electrified,Top-down high,No
+SSD,2028.0,EL3E,622.916667165,Current electrified,Top-down high,No
+SSD,2028.0,EL3U,119.44444454,New electrified,Top-down high,No
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Top-down high,No
+SSD,2029.0,EL3U,128.19444454700002,New electrified,Top-down high,No
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Top-down high,No
+SSD,2030.0,EL3U,136.944444554,New electrified,Top-down high,No
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Top-down high,High
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Top-down high,High
+SSD,2021.0,EL3U,17.0000000136,New electrified,Top-down high,High
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Top-down high,High
+SSD,2022.0,EL3U,33.972222249400005,New electrified,Top-down high,High
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Top-down high,High
+SSD,2023.0,EL3U,50.972222263,New electrified,Top-down high,High
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Top-down high,High
+SSD,2024.0,EL3U,67.97222227660001,New electrified,Top-down high,High
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Top-down high,High
+SSD,2025.0,EL3U,84.94444451240001,New electrified,Top-down high,High
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Top-down high,High
+SSD,2026.0,EL3U,101.944444526,New electrified,Top-down high,High
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Top-down high,High
+SSD,2027.0,EL3U,110.694444533,New electrified,Top-down high,High
+SSD,2028.0,EL3E,622.916667165,Current electrified,Top-down high,High
+SSD,2028.0,EL3U,119.44444454,New electrified,Top-down high,High
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Top-down high,High
+SSD,2029.0,EL3U,128.19444454700002,New electrified,Top-down high,High
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Top-down high,High
+SSD,2030.0,EL3U,136.944444554,New electrified,Top-down high,High
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Top-down low,No
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Top-down low,No
+SSD,2021.0,EL3U,5.9166666714,New electrified,Top-down low,No
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Top-down low,No
+SSD,2022.0,EL3U,11.8611111206,New electrified,Top-down low,No
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Top-down low,No
+SSD,2023.0,EL3U,17.777777792000002,New electrified,Top-down low,No
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Top-down low,No
+SSD,2024.0,EL3U,23.6944444634,New electrified,Top-down low,No
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Top-down low,No
+SSD,2025.0,EL3U,29.6388889126,New electrified,Top-down low,No
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Top-down low,No
+SSD,2026.0,EL3U,35.555555584000004,New electrified,Top-down low,No
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Top-down low,No
+SSD,2027.0,EL3U,38.750000031000006,New electrified,Top-down low,No
+SSD,2028.0,EL3E,622.916667165,Current electrified,Top-down low,No
+SSD,2028.0,EL3U,41.944444478,New electrified,Top-down low,No
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Top-down low,No
+SSD,2029.0,EL3U,45.138888925,New electrified,Top-down low,No
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Top-down low,No
+SSD,2030.0,EL3U,48.333333372,New electrified,Top-down low,No
+SSD,2020.0,EL3E,471.13888926580006,Current electrified,Top-down low,High
+SSD,2021.0,EL3E,483.16666705320006,Current electrified,Top-down low,High
+SSD,2021.0,EL3U,5.9166666714,New electrified,Top-down low,High
+SSD,2022.0,EL3E,493.9444448396,Current electrified,Top-down low,High
+SSD,2022.0,EL3U,11.8611111206,New electrified,Top-down low,High
+SSD,2023.0,EL3E,503.66666706960007,Current electrified,Top-down low,High
+SSD,2023.0,EL3U,17.777777792000002,New electrified,Top-down low,High
+SSD,2024.0,EL3E,512.5277781878,Current electrified,Top-down low,High
+SSD,2024.0,EL3U,23.6944444634,New electrified,Top-down low,High
+SSD,2025.0,EL3E,539.6111115428,Current electrified,Top-down low,High
+SSD,2025.0,EL3U,29.6388889126,New electrified,Top-down low,High
+SSD,2026.0,EL3E,567.0555560092,Current electrified,Top-down low,High
+SSD,2026.0,EL3U,35.555555584000004,New electrified,Top-down low,High
+SSD,2027.0,EL3E,594.8055560314001,Current electrified,Top-down low,High
+SSD,2027.0,EL3U,38.750000031000006,New electrified,Top-down low,High
+SSD,2028.0,EL3E,622.916667165,Current electrified,Top-down low,High
+SSD,2028.0,EL3U,41.944444478,New electrified,Top-down low,High
+SSD,2029.0,EL3E,651.2222227432,Current electrified,Top-down low,High
+SSD,2029.0,EL3U,45.138888925,New electrified,Top-down low,High
+SSD,2030.0,EL3E,683.9444449916001,Current electrified,Top-down low,High
+SSD,2030.0,EL3U,48.333333372,New electrified,Top-down low,High

@@ -1,0 +1,312 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+ZMB,2020.0,EL3E,14589.305567227,Current electrified,Bottom-up,No
+ZMB,2021.0,EL3E,14682.1944561902,Current electrified,Bottom-up,No
+ZMB,2021.0,EL3U,399.3611114306,New electrified,Bottom-up,No
+ZMB,2022.0,EL3E,15417.638901223,Current electrified,Bottom-up,No
+ZMB,2022.0,EL3U,798.6944450834001,New electrified,Bottom-up,No
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Bottom-up,No
+ZMB,2023.0,EL3U,1198.055556514,New electrified,Bottom-up,No
+ZMB,2024.0,EL3E,16934.9166802146,Current electrified,Bottom-up,No
+ZMB,2024.0,EL3U,1597.4166679446,New electrified,Bottom-up,No
+ZMB,2025.0,EL3E,17716.8333475068,Current electrified,Bottom-up,No
+ZMB,2025.0,EL3U,1996.7500015974,New electrified,Bottom-up,No
+ZMB,2026.0,EL3E,17912.2500143298,Current electrified,Bottom-up,No
+ZMB,2026.0,EL3U,2396.111113028,New electrified,Bottom-up,No
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Bottom-up,No
+ZMB,2027.0,EL3U,2534.7777798056,New electrified,Bottom-up,No
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Bottom-up,No
+ZMB,2028.0,EL3U,2673.472224361,New electrified,Bottom-up,No
+ZMB,2029.0,EL3E,18590.1666815388,Current electrified,Bottom-up,No
+ZMB,2029.0,EL3U,2812.1666689164,New electrified,Bottom-up,No
+ZMB,2030.0,EL3E,18844.8055706314,Current electrified,Bottom-up,No
+ZMB,2030.0,EL3U,2950.833335694,New electrified,Bottom-up,No
+ZMB,2020.0,ZWEEL1,1987.1666682564005,Exports (ZWE),Bottom-up,No
+ZMB,2021.0,CODEL1,811.388889538,Exports (COD),Bottom-up,No
+ZMB,2021.0,TZAEL1,537.3333337632,Exports (TZA),Bottom-up,No
+ZMB,2022.0,CODEL1,956.527778543,Exports (COD),Bottom-up,No
+ZMB,2022.0,TZAEL1,928.9444451876,Exports (TZA),Bottom-up,No
+ZMB,2023.0,CODEL1,1929.2222237656,Exports (COD),Bottom-up,No
+ZMB,2023.0,TZAEL1,2477.1666686484,Exports (TZA),Bottom-up,No
+ZMB,2024.0,CODEL1,329.6944447082,Exports (COD),Bottom-up,No
+ZMB,2024.0,TZAEL1,1803.8333347764,Exports (TZA),Bottom-up,No
+ZMB,2025.0,TZAEL1,229.0555557388,Exports (TZA),Bottom-up,No
+ZMB,2026.0,CODEL1,7.2500000058,Exports (COD),Bottom-up,No
+ZMB,2026.0,TZAEL1,229.0555557388,Exports (TZA),Bottom-up,No
+ZMB,2027.0,CODEL1,69.4166667222,Exports (COD),Bottom-up,No
+ZMB,2027.0,TZAEL1,229.0555557388,Exports (TZA),Bottom-up,No
+ZMB,2028.0,CODEL1,120.8888889856,Exports (COD),Bottom-up,No
+ZMB,2028.0,TZAEL1,229.0555557388,Exports (TZA),Bottom-up,No
+ZMB,2029.0,CODEL1,200.08333349340003,Exports (COD),Bottom-up,No
+ZMB,2029.0,NAMEL1,601.2222227032,Exports (NAM),Bottom-up,No
+ZMB,2029.0,TZAEL1,229.0555557388,Exports (TZA),Bottom-up,No
+ZMB,2030.0,NAMEL1,1653.9166679898,Exports (NAM),Bottom-up,No
+ZMB,2030.0,ZWEEL1,172.19444458220002,Exports (ZWE),Bottom-up,No
+ZMB,2020.0,EL3E,14589.2777894492,Current electrified,Bottom-up,High
+ZMB,2021.0,EL3E,14682.1666784124,Current electrified,Bottom-up,High
+ZMB,2021.0,EL3U,399.3611114306,New electrified,Bottom-up,High
+ZMB,2022.0,EL3E,15417.6111234452,Current electrified,Bottom-up,High
+ZMB,2022.0,EL3U,798.6944450834001,New electrified,Bottom-up,High
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Bottom-up,High
+ZMB,2023.0,EL3U,1198.055556514,New electrified,Bottom-up,High
+ZMB,2024.0,EL3E,16934.8889024368,Current electrified,Bottom-up,High
+ZMB,2024.0,EL3U,1597.4166679446,New electrified,Bottom-up,High
+ZMB,2025.0,EL3E,17716.8333475068,Current electrified,Bottom-up,High
+ZMB,2025.0,EL3U,1996.7500015974,New electrified,Bottom-up,High
+ZMB,2026.0,EL3E,17912.2500143298,Current electrified,Bottom-up,High
+ZMB,2026.0,EL3U,2396.111113028,New electrified,Bottom-up,High
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Bottom-up,High
+ZMB,2027.0,EL3U,2534.7777798056,New electrified,Bottom-up,High
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Bottom-up,High
+ZMB,2028.0,EL3U,2673.472224361,New electrified,Bottom-up,High
+ZMB,2029.0,EL3E,18590.138903761,Current electrified,Bottom-up,High
+ZMB,2029.0,EL3U,2812.1666689164,New electrified,Bottom-up,High
+ZMB,2030.0,EL3E,18844.7777928536,Current electrified,Bottom-up,High
+ZMB,2030.0,EL3U,2950.833335694,New electrified,Bottom-up,High
+ZMB,2020.0,ZWEEL1,2730.2777799620003,Exports (ZWE),Bottom-up,High
+ZMB,2021.0,BWAEL1,1694.5277791334,Exports (BWA),Bottom-up,High
+ZMB,2021.0,NAMEL1,2496.6111131084003,Exports (NAM),Bottom-up,High
+ZMB,2021.0,ZWEEL1,4769.166670482,Exports (ZWE),Bottom-up,High
+ZMB,2022.0,BWAEL1,1240.416667659,Exports (BWA),Bottom-up,High
+ZMB,2022.0,NAMEL1,2326.3055574166,Exports (NAM),Bottom-up,High
+ZMB,2022.0,ZWEEL1,3292.9722248566,Exports (ZWE),Bottom-up,High
+ZMB,2023.0,BWAEL1,2496.6111131084003,Exports (BWA),Bottom-up,High
+ZMB,2023.0,CODEL1,345.1111113872,Exports (COD),Bottom-up,High
+ZMB,2023.0,NAMEL1,2087.2777794476,Exports (NAM),Bottom-up,High
+ZMB,2023.0,ZWEEL1,3569.7222250780005,Exports (ZWE),Bottom-up,High
+ZMB,2024.0,BWAEL1,2080.694446109,Exports (BWA),Bottom-up,High
+ZMB,2024.0,CODEL1,705.277778342,Exports (COD),Bottom-up,High
+ZMB,2024.0,NAMEL1,2090.5833350058,Exports (NAM),Bottom-up,High
+ZMB,2024.0,TZAEL1,985.4722230106,Exports (TZA),Bottom-up,High
+ZMB,2024.0,ZWEEL1,5192.2777819316,Exports (ZWE),Bottom-up,High
+ZMB,2025.0,BWAEL1,2365.3611130034,Exports (BWA),Bottom-up,High
+ZMB,2025.0,NAMEL1,2068.1111127656,Exports (NAM),Bottom-up,High
+ZMB,2025.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2025.0,ZWEEL1,5248.2777819764,Exports (ZWE),Bottom-up,High
+ZMB,2026.0,BWAEL1,2293.6388907238,Exports (BWA),Bottom-up,High
+ZMB,2026.0,NAMEL1,2134.5833350410003,Exports (NAM),Bottom-up,High
+ZMB,2026.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2026.0,ZWEEL1,5610.833337822,Exports (ZWE),Bottom-up,High
+ZMB,2027.0,BWAEL1,2322.6111129692,Exports (BWA),Bottom-up,High
+ZMB,2027.0,CODEL1,72.9722222806,Exports (COD),Bottom-up,High
+ZMB,2027.0,NAMEL1,1994.0555571508005,Exports (NAM),Bottom-up,High
+ZMB,2027.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2027.0,ZWEEL1,5403.2222265448,Exports (ZWE),Bottom-up,High
+ZMB,2028.0,BWAEL1,2339.4722240938004,Exports (BWA),Bottom-up,High
+ZMB,2028.0,CODEL1,22.7500000182,Exports (COD),Bottom-up,High
+ZMB,2028.0,NAMEL1,1950.277779338,Exports (NAM),Bottom-up,High
+ZMB,2028.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2028.0,ZWEEL1,5883.972226929401,Exports (ZWE),Bottom-up,High
+ZMB,2029.0,BWAEL1,2218.6388906638,Exports (BWA),Bottom-up,High
+ZMB,2029.0,CODEL1,15.3611111234,Exports (COD),Bottom-up,High
+ZMB,2029.0,NAMEL1,2002.4722238242,Exports (NAM),Bottom-up,High
+ZMB,2029.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2029.0,ZWEEL1,6008.3611159178,Exports (ZWE),Bottom-up,High
+ZMB,2030.0,BWAEL1,2188.8333350844,Exports (BWA),Bottom-up,High
+ZMB,2030.0,CODEL1,173.41666680539998,Exports (COD),Bottom-up,High
+ZMB,2030.0,NAMEL1,1800.6388903294005,Exports (NAM),Bottom-up,High
+ZMB,2030.0,TZAEL1,1429.305556699,Exports (TZA),Bottom-up,High
+ZMB,2030.0,ZWEEL1,6128.2222271248,Exports (ZWE),Bottom-up,High
+ZMB,2020.0,EL3E,14589.305567227,Current electrified,Top-down high,No
+ZMB,2021.0,EL3E,14682.1944561902,Current electrified,Top-down high,No
+ZMB,2021.0,EL3U,881.6111118164,New electrified,Top-down high,No
+ZMB,2022.0,EL3E,15417.638901223,Current electrified,Top-down high,No
+ZMB,2022.0,EL3U,1763.2500014106,New electrified,Top-down high,No
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Top-down high,No
+ZMB,2023.0,EL3U,2644.861113227,New electrified,Top-down high,No
+ZMB,2024.0,EL3E,16934.8889024368,Current electrified,Top-down high,No
+ZMB,2024.0,EL3U,3526.4722250434,New electrified,Top-down high,No
+ZMB,2025.0,EL3E,17716.8611252846,Current electrified,Top-down high,No
+ZMB,2025.0,EL3U,4408.1111146376,New electrified,Top-down high,No
+ZMB,2026.0,EL3E,17912.222236552,Current electrified,Top-down high,No
+ZMB,2026.0,EL3U,5289.722226454,New electrified,Top-down high,No
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Top-down high,No
+ZMB,2027.0,EL3U,5600.4722267026,New electrified,Top-down high,No
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Top-down high,No
+ZMB,2028.0,EL3U,5911.2500047290005,New electrified,Top-down high,No
+ZMB,2029.0,EL3E,18590.138903761,Current electrified,Top-down high,No
+ZMB,2029.0,EL3U,6222.0277827554,New electrified,Top-down high,No
+ZMB,2030.0,EL3E,18844.8055706314,Current electrified,Top-down high,No
+ZMB,2030.0,EL3U,6532.777783004,New electrified,Top-down high,No
+ZMB,2020.0,ZWEEL1,1135.5000009084,Exports (ZWE),Top-down high,No
+ZMB,2021.0,CODEL1,1062.638889739,Exports (COD),Top-down high,No
+ZMB,2021.0,TZAEL1,3165.9166691994,Exports (TZA),Top-down high,No
+ZMB,2022.0,CODEL1,1828.5833347962,Exports (COD),Top-down high,No
+ZMB,2022.0,TZAEL1,3236.6944470338003,Exports (TZA),Top-down high,No
+ZMB,2023.0,CODEL1,1885.000001508,Exports (COD),Top-down high,No
+ZMB,2023.0,TZAEL1,2320.6111129676,Exports (TZA),Top-down high,No
+ZMB,2024.0,CODEL1,1277.1944454662,Exports (COD),Top-down high,No
+ZMB,2025.0,CODEL1,799.5000006396001,Exports (COD),Top-down high,No
+ZMB,2025.0,TZAEL1,299.2777780172,Exports (TZA),Top-down high,No
+ZMB,2026.0,TZAEL1,192.6666668208,Exports (TZA),Top-down high,No
+ZMB,2027.0,TZAEL1,211.0555557244,Exports (TZA),Top-down high,No
+ZMB,2028.0,TZAEL1,229.16666685,Exports (TZA),Top-down high,No
+ZMB,2029.0,NAMEL1,810.0833339814001,Exports (NAM),Top-down high,No
+ZMB,2029.0,TZAEL1,299.2777780172,Exports (TZA),Top-down high,No
+ZMB,2030.0,NAMEL1,1798.5277792166005,Exports (NAM),Top-down high,No
+ZMB,2020.0,EL3E,14589.2777894492,Current electrified,Top-down high,High
+ZMB,2021.0,EL3E,14682.1666784124,Current electrified,Top-down high,High
+ZMB,2021.0,EL3U,881.6111118164,New electrified,Top-down high,High
+ZMB,2022.0,EL3E,15417.6111234452,Current electrified,Top-down high,High
+ZMB,2022.0,EL3U,1763.2500014106,New electrified,Top-down high,High
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Top-down high,High
+ZMB,2023.0,EL3U,2644.861113227,New electrified,Top-down high,High
+ZMB,2024.0,EL3E,16934.8889024368,Current electrified,Top-down high,High
+ZMB,2024.0,EL3U,3526.4722250434,New electrified,Top-down high,High
+ZMB,2025.0,EL3E,17716.8333475068,Current electrified,Top-down high,High
+ZMB,2025.0,EL3U,4408.1111146376,New electrified,Top-down high,High
+ZMB,2026.0,EL3E,17912.2500143298,Current electrified,Top-down high,High
+ZMB,2026.0,EL3U,5289.722226454,New electrified,Top-down high,High
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Top-down high,High
+ZMB,2027.0,EL3U,5600.4722267026,New electrified,Top-down high,High
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Top-down high,High
+ZMB,2028.0,EL3U,5911.2500047290005,New electrified,Top-down high,High
+ZMB,2029.0,EL3E,18590.138903761,Current electrified,Top-down high,High
+ZMB,2029.0,EL3U,6222.0277827554,New electrified,Top-down high,High
+ZMB,2030.0,EL3E,18844.8055706314,Current electrified,Top-down high,High
+ZMB,2030.0,EL3U,6532.777783004,New electrified,Top-down high,High
+ZMB,2020.0,ZWEEL1,2730.2777799620003,Exports (ZWE),Top-down high,High
+ZMB,2021.0,BWAEL1,2475.5555575360004,Exports (BWA),Top-down high,High
+ZMB,2021.0,CODEL1,411.250000329,Exports (COD),Top-down high,High
+ZMB,2021.0,NAMEL1,2496.6111131084003,Exports (NAM),Top-down high,High
+ZMB,2021.0,ZWEEL1,4910.9444483732,Exports (ZWE),Top-down high,High
+ZMB,2022.0,BWAEL1,1788.0277792082,Exports (BWA),Top-down high,High
+ZMB,2022.0,CODEL1,811.388889538,Exports (COD),Top-down high,High
+ZMB,2022.0,NAMEL1,1929.3888904324,Exports (NAM),Top-down high,High
+ZMB,2022.0,ZWEEL1,3901.111114232,Exports (ZWE),Top-down high,High
+ZMB,2023.0,BWAEL1,2018.7222238372,Exports (BWA),Top-down high,High
+ZMB,2023.0,CODEL1,2163.7222239532,Exports (COD),Top-down high,High
+ZMB,2023.0,NAMEL1,1963.2500015706005,Exports (NAM),Top-down high,High
+ZMB,2023.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2023.0,ZWEEL1,4978.388892871601,Exports (ZWE),Top-down high,High
+ZMB,2024.0,BWAEL1,2255.9166684714,Exports (BWA),Top-down high,High
+ZMB,2024.0,CODEL1,2163.7222239532,Exports (COD),Top-down high,High
+ZMB,2024.0,NAMEL1,2329.9722240862,Exports (NAM),Top-down high,High
+ZMB,2024.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2024.0,ZWEEL1,3731.94444743,Exports (ZWE),Top-down high,High
+ZMB,2025.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down high,High
+ZMB,2025.0,CODEL1,522.6666670848,Exports (COD),Top-down high,High
+ZMB,2025.0,NAMEL1,2287.8888907192,Exports (NAM),Top-down high,High
+ZMB,2025.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2025.0,ZWEEL1,6041.0555603884,Exports (ZWE),Top-down high,High
+ZMB,2026.0,BWAEL1,2263.1944462550005,Exports (BWA),Top-down high,High
+ZMB,2026.0,NAMEL1,2328.7777796408,Exports (NAM),Top-down high,High
+ZMB,2026.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2026.0,ZWEEL1,6535.0277830058,Exports (ZWE),Top-down high,High
+ZMB,2027.0,BWAEL1,2250.8888906896,Exports (BWA),Top-down high,High
+ZMB,2027.0,NAMEL1,2161.250001729,Exports (NAM),Top-down high,High
+ZMB,2027.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2027.0,ZWEEL1,6272.4722272402005,Exports (ZWE),Top-down high,High
+ZMB,2028.0,BWAEL1,2263.1944462550005,Exports (BWA),Top-down high,High
+ZMB,2028.0,CODEL1,7.8055555618,Exports (COD),Top-down high,High
+ZMB,2028.0,NAMEL1,2054.0555571988,Exports (NAM),Top-down high,High
+ZMB,2028.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2028.0,ZWEEL1,6328.1111161736,Exports (ZWE),Top-down high,High
+ZMB,2029.0,BWAEL1,2032.3333349592,Exports (BWA),Top-down high,High
+ZMB,2029.0,CODEL1,262.11111132080003,Exports (COD),Top-down high,High
+ZMB,2029.0,NAMEL1,1931.1388904338,Exports (NAM),Top-down high,High
+ZMB,2029.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2029.0,ZWEEL1,6029.0833381566,Exports (ZWE),Top-down high,High
+ZMB,2030.0,BWAEL1,2337.4722240922,Exports (BWA),Top-down high,High
+ZMB,2030.0,CODEL1,20.3611111274,Exports (COD),Top-down high,High
+ZMB,2030.0,NAMEL1,1796.3611125482,Exports (NAM),Top-down high,High
+ZMB,2030.0,TZAEL1,1429.305556699,Exports (TZA),Top-down high,High
+ZMB,2030.0,ZWEEL1,6651.527783099,Exports (ZWE),Top-down high,High
+ZMB,2020.0,EL3E,14589.305567227,Current electrified,Top-down low,No
+ZMB,2021.0,EL3E,14682.1944561902,Current electrified,Top-down low,No
+ZMB,2021.0,EL3U,613.611111602,New electrified,Top-down low,No
+ZMB,2022.0,EL3E,15417.638901223,Current electrified,Top-down low,No
+ZMB,2022.0,EL3U,1227.222223204,New electrified,Top-down low,No
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Top-down low,No
+ZMB,2023.0,EL3U,1840.833334806,New electrified,Top-down low,No
+ZMB,2024.0,EL3E,16934.9166802146,Current electrified,Top-down low,No
+ZMB,2024.0,EL3U,2454.444446408,New electrified,Top-down low,No
+ZMB,2025.0,EL3E,17716.8333475068,Current electrified,Top-down low,No
+ZMB,2025.0,EL3U,3068.05555801,New electrified,Top-down low,No
+ZMB,2026.0,EL3E,17912.2500143298,Current electrified,Top-down low,No
+ZMB,2026.0,EL3U,3681.666669612,New electrified,Top-down low,No
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Top-down low,No
+ZMB,2027.0,EL3U,3900.00000312,New electrified,Top-down low,No
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Top-down low,No
+ZMB,2028.0,EL3U,4118.333336628,New electrified,Top-down low,No
+ZMB,2029.0,EL3E,18590.1666815388,Current electrified,Top-down low,No
+ZMB,2029.0,EL3U,4336.666670136,New electrified,Top-down low,No
+ZMB,2030.0,EL3E,18844.7777928536,Current electrified,Top-down low,No
+ZMB,2030.0,EL3U,4555.000003644,New electrified,Top-down low,No
+ZMB,2020.0,ZWEEL1,2748.8055577546,Exports (ZWE),Top-down low,No
+ZMB,2021.0,ZWEEL1,2084.2500016674003,Exports (ZWE),Top-down low,No
+ZMB,2022.0,CODEL1,368.6944447394,Exports (COD),Top-down low,No
+ZMB,2022.0,ZWEEL1,662.8888894192,Exports (ZWE),Top-down low,No
+ZMB,2023.0,CODEL1,1507.500001206,Exports (COD),Top-down low,No
+ZMB,2024.0,NAMEL1,120.1944445406,Exports (NAM),Top-down low,No
+ZMB,2025.0,NAMEL1,159.19444457180003,Exports (NAM),Top-down low,No
+ZMB,2026.0,CODEL1,43.44444447920001,Exports (COD),Top-down low,No
+ZMB,2026.0,NAMEL1,159.19444457180003,Exports (NAM),Top-down low,No
+ZMB,2027.0,CODEL1,146.527777895,Exports (COD),Top-down low,No
+ZMB,2027.0,NAMEL1,183.27777792440003,Exports (NAM),Top-down low,No
+ZMB,2028.0,CODEL1,195.7777779344,Exports (COD),Top-down low,No
+ZMB,2028.0,NAMEL1,183.27777792440003,Exports (NAM),Top-down low,No
+ZMB,2029.0,CODEL1,112.4166667566,Exports (COD),Top-down low,No
+ZMB,2029.0,NAMEL1,171.08333347020002,Exports (NAM),Top-down low,No
+ZMB,2030.0,NAMEL1,207.361111277,Exports (NAM),Top-down low,No
+ZMB,2030.0,ZWEEL1,600.00000048,Exports (ZWE),Top-down low,No
+ZMB,2020.0,EL3E,14589.2777894492,Current electrified,Top-down low,High
+ZMB,2021.0,EL3E,14682.1666784124,Current electrified,Top-down low,High
+ZMB,2021.0,EL3U,613.611111602,New electrified,Top-down low,High
+ZMB,2022.0,EL3E,15417.6111234452,Current electrified,Top-down low,High
+ZMB,2022.0,EL3U,1227.222223204,New electrified,Top-down low,High
+ZMB,2023.0,EL3E,16168.5000129348,Current electrified,Top-down low,High
+ZMB,2023.0,EL3U,1840.833334806,New electrified,Top-down low,High
+ZMB,2024.0,EL3E,16934.8889024368,Current electrified,Top-down low,High
+ZMB,2024.0,EL3U,2454.444446408,New electrified,Top-down low,High
+ZMB,2025.0,EL3E,17716.8333475068,Current electrified,Top-down low,High
+ZMB,2025.0,EL3U,3068.05555801,New electrified,Top-down low,High
+ZMB,2026.0,EL3E,17912.2500143298,Current electrified,Top-down low,High
+ZMB,2026.0,EL3U,3681.666669612,New electrified,Top-down low,High
+ZMB,2027.0,EL3E,18123.1111256096,Current electrified,Top-down low,High
+ZMB,2027.0,EL3U,3900.00000312,New electrified,Top-down low,High
+ZMB,2028.0,EL3E,18349.2777924572,Current electrified,Top-down low,High
+ZMB,2028.0,EL3U,4118.333336628,New electrified,Top-down low,High
+ZMB,2029.0,EL3E,18590.138903761,Current electrified,Top-down low,High
+ZMB,2029.0,EL3U,4336.666670136,New electrified,Top-down low,High
+ZMB,2030.0,EL3E,18844.8055706314,Current electrified,Top-down low,High
+ZMB,2030.0,EL3U,4555.000003644,New electrified,Top-down low,High
+ZMB,2020.0,ZWEEL1,2730.2777799620003,Exports (ZWE),Top-down low,High
+ZMB,2021.0,BWAEL1,2177.5833350754,Exports (BWA),Top-down low,High
+ZMB,2021.0,NAMEL1,2496.6111131084003,Exports (NAM),Top-down low,High
+ZMB,2021.0,ZWEEL1,5179.083337476601,Exports (ZWE),Top-down low,High
+ZMB,2022.0,BWAEL1,2177.5833350754,Exports (BWA),Top-down low,High
+ZMB,2022.0,NAMEL1,2134.2777794852,Exports (NAM),Top-down low,High
+ZMB,2022.0,ZWEEL1,3897.0555586732,Exports (ZWE),Top-down low,High
+ZMB,2023.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down low,High
+ZMB,2023.0,CODEL1,599.3333338128,Exports (COD),Top-down low,High
+ZMB,2023.0,NAMEL1,1587.5277790478,Exports (NAM),Top-down low,High
+ZMB,2023.0,ZWEEL1,2203.1111128736,Exports (ZWE),Top-down low,High
+ZMB,2024.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down low,High
+ZMB,2024.0,CODEL1,177.083333475,Exports (COD),Top-down low,High
+ZMB,2024.0,NAMEL1,2015.7222238348,Exports (NAM),Top-down low,High
+ZMB,2024.0,ZWEEL1,3941.527780931001,Exports (ZWE),Top-down low,High
+ZMB,2025.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down low,High
+ZMB,2025.0,CODEL1,226.5555557368,Exports (COD),Top-down low,High
+ZMB,2025.0,NAMEL1,2171.7500017374,Exports (NAM),Top-down low,High
+ZMB,2025.0,ZWEEL1,4049.5555587952,Exports (ZWE),Top-down low,High
+ZMB,2026.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down low,High
+ZMB,2026.0,CODEL1,476.250000381,Exports (COD),Top-down low,High
+ZMB,2026.0,NAMEL1,2416.5555574888003,Exports (NAM),Top-down low,High
+ZMB,2026.0,ZWEEL1,5280.0555597796,Exports (ZWE),Top-down low,High
+ZMB,2027.0,BWAEL1,2496.6111131084003,Exports (BWA),Top-down low,High
+ZMB,2027.0,CODEL1,413.9444447756,Exports (COD),Top-down low,High
+ZMB,2027.0,NAMEL1,2377.8055574578,Exports (NAM),Top-down low,High
+ZMB,2027.0,ZWEEL1,5158.777781904801,Exports (ZWE),Top-down low,High
+ZMB,2028.0,BWAEL1,2451.4444464056,Exports (BWA),Top-down low,High
+ZMB,2028.0,CODEL1,352.0277780594,Exports (COD),Top-down low,High
+ZMB,2028.0,NAMEL1,2384.3333352408004,Exports (NAM),Top-down low,High
+ZMB,2028.0,ZWEEL1,4811.1944482934005,Exports (ZWE),Top-down low,High
+ZMB,2029.0,BWAEL1,2300.6666685072005,Exports (BWA),Top-down low,High
+ZMB,2029.0,CODEL1,204.5277779414,Exports (COD),Top-down low,High
+ZMB,2029.0,NAMEL1,2496.6111131084003,Exports (NAM),Top-down low,High
+ZMB,2029.0,ZWEEL1,5273.055559774,Exports (ZWE),Top-down low,High
+ZMB,2030.0,BWAEL1,2202.638890651,Exports (BWA),Top-down low,High
+ZMB,2030.0,CODEL1,136.0833334422,Exports (COD),Top-down low,High
+ZMB,2030.0,NAMEL1,2266.6944462578,Exports (NAM),Top-down low,High
+ZMB,2030.0,TZAEL1,429.583333677,Exports (TZA),Top-down low,High
+ZMB,2030.0,ZWEEL1,5560.3333377816,Exports (ZWE),Top-down low,High

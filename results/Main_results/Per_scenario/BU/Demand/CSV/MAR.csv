@@ -1,0 +1,13 @@
+Country,y,f,Total annual demand (GWh),Demand type
+MAR,2020.0,EL3E,31560.555580804,Current electrified
+MAR,2021.0,EL3E,36539.861140343,Current electrified
+MAR,2022.0,EL3E,40885.5833660418,Current electrified
+MAR,2023.0,EL3E,45240.416702859,Current electrified
+MAR,2024.0,EL3E,49605.7500396846,Current electrified
+MAR,2025.0,EL3E,53983.0278209642,Current electrified
+MAR,2026.0,EL3E,57217.1667124404,Current electrified
+MAR,2027.0,EL3E,60465.1667150388,Current electrified
+MAR,2028.0,EL3E,63727.0556065372,Current electrified
+MAR,2029.0,EL3E,67002.7222758244,Current electrified
+MAR,2030.0,EL3E,70291.52783401101,Current electrified
+MAR,2030.0,DZAEL1,1608.0277790642,Exports (DZA)

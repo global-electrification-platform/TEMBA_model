@@ -1,0 +1,543 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Bottom-up,No
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Bottom-up,No
+MLI,2020.0,Imports (BFA),190.555555708,Imports (BFA),Bottom-up,No
+MLI,2020.0,Imports (CIV),2194.6666684224,Imports (CIV),Bottom-up,No
+MLI,2020.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,No
+MLI,2020.0,Imports (SLE),731.4166672518,Imports (SLE),Bottom-up,No
+MLI,2020.0,LFO,371.72222251960005,Light Fuel Oil,Bottom-up,No
+MLI,2020.0,SOL,529.1944448678,Solar,Bottom-up,No
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Bottom-up,No
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Bottom-up,No
+MLI,2021.0,Imports (BFA),533.4444448712001,Imports (BFA),Bottom-up,No
+MLI,2021.0,Imports (CIV),2467.3611130850004,Imports (CIV),Bottom-up,No
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2021.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,No
+MLI,2021.0,Imports (SLE),731.4166672518,Imports (SLE),Bottom-up,No
+MLI,2021.0,LFO,358.69444473140004,Light Fuel Oil,Bottom-up,No
+MLI,2021.0,SOL,654.1944449678001,Solar,Bottom-up,No
+MLI,2022.0,HFO,539.3333337648,Heavy Fuel Oil,Bottom-up,No
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Bottom-up,No
+MLI,2022.0,Imports (BFA),759.2777783852,Imports (BFA),Bottom-up,No
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Bottom-up,No
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2022.0,Imports (SEN),2602.2500020818,Imports (SEN),Bottom-up,No
+MLI,2022.0,Imports (SLE),731.4166672518,Imports (SLE),Bottom-up,No
+MLI,2022.0,LFO,345.63888916540003,Light Fuel Oil,Bottom-up,No
+MLI,2022.0,SOL,766.1944450574,Solar,Bottom-up,No
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Bottom-up,No
+MLI,2023.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2023.0,Imports (CIV),1899.4722237418,Imports (CIV),Bottom-up,No
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2023.0,Imports (SEN),2364.0000018912,Imports (SEN),Bottom-up,No
+MLI,2023.0,Imports (SLE),269.8333335492,Imports (SLE),Bottom-up,No
+MLI,2023.0,LFO,332.50000026600003,Light Fuel Oil,Bottom-up,No
+MLI,2023.0,SOL,866.7222229155999,Solar,Bottom-up,No
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Bottom-up,No
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2024.0,Imports (CIV),2149.6944461642,Imports (CIV),Bottom-up,No
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2024.0,Imports (SEN),2272.4444462624,Imports (SEN),Bottom-up,No
+MLI,2024.0,Imports (SLE),693.0833338878,Imports (SLE),Bottom-up,No
+MLI,2024.0,LFO,319.3333335888,Light Fuel Oil,Bottom-up,No
+MLI,2024.0,SOL,957.8611118774,Solar,Bottom-up,No
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Bottom-up,No
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2025.0,Imports (BFA),113.5555556464,Imports (BFA),Bottom-up,No
+MLI,2025.0,Imports (CIV),2660.555557684,Imports (CIV),Bottom-up,No
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2025.0,Imports (SEN),2250.5000018004,Imports (SEN),Bottom-up,No
+MLI,2025.0,Imports (SLE),854.7777784616001,Imports (SLE),Bottom-up,No
+MLI,2025.0,LFO,307.19444469020004,Light Fuel Oil,Bottom-up,No
+MLI,2025.0,SOL,1244.6944454402,Solar,Bottom-up,No
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Bottom-up,No
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2026.0,Imports (CIV),2660.555557684,Imports (CIV),Bottom-up,No
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2026.0,Imports (SEN),2314.8333351852,Imports (SEN),Bottom-up,No
+MLI,2026.0,Imports (SLE),1657.1111124368,Imports (SLE),Bottom-up,No
+MLI,2026.0,LFO,295.0833335694,Light Fuel Oil,Bottom-up,No
+MLI,2026.0,SOL,1535.2500012281998,Solar,Bottom-up,No
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Bottom-up,No
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2027.0,Imports (CIV),2491.9166686602,Imports (CIV),Bottom-up,No
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2027.0,Imports (SEN),2132.8888905952,Imports (SEN),Bottom-up,No
+MLI,2027.0,Imports (SLE),2244.9166684626,Imports (SLE),Bottom-up,No
+MLI,2027.0,LFO,255.4722224266,Light Fuel Oil,Bottom-up,No
+MLI,2027.0,SOL,2025.694446065,Solar,Bottom-up,No
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Bottom-up,No
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2028.0,Imports (BFA),3.0277777802,Imports (BFA),Bottom-up,No
+MLI,2028.0,Imports (CIV),2015.833334946,Imports (CIV),Bottom-up,No
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2028.0,Imports (SEN),2669.9166688026003,Imports (SEN),Bottom-up,No
+MLI,2028.0,Imports (SLE),2244.9166684626,Imports (SLE),Bottom-up,No
+MLI,2028.0,LFO,194.63888904460003,Light Fuel Oil,Bottom-up,No
+MLI,2028.0,SOL,2672.8055576938,Solar,Bottom-up,No
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Bottom-up,No
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2029.0,Imports (BFA),56.5000000452,Imports (BFA),Bottom-up,No
+MLI,2029.0,Imports (CIV),1951.0000015608,Imports (CIV),Bottom-up,No
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,No
+MLI,2029.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,No
+MLI,2029.0,Imports (SLE),2244.9166684626,Imports (SLE),Bottom-up,No
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Bottom-up,No
+MLI,2029.0,SOL,3319.888891544801,Solar,Bottom-up,No
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Bottom-up,No
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Bottom-up,No
+MLI,2030.0,Imports (CIV),1800.3888903292,Imports (CIV),Bottom-up,No
+MLI,2030.0,Imports (GIN),2608.9166687538,Imports (GIN),Bottom-up,No
+MLI,2030.0,Imports (MRT),825.3888895492,Imports (MRT),Bottom-up,No
+MLI,2030.0,Imports (SEN),2362.3611130010004,Imports (SEN),Bottom-up,No
+MLI,2030.0,Imports (SLE),2188.4166684174,Imports (SLE),Bottom-up,No
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Bottom-up,No
+MLI,2030.0,SOL,3966.9722253958,Solar,Bottom-up,No
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Bottom-up,High
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Bottom-up,High
+MLI,2020.0,Imports (BFA),89.166666738,Imports (BFA),Bottom-up,High
+MLI,2020.0,Imports (CIV),1611.3055568446,Imports (CIV),Bottom-up,High
+MLI,2020.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2020.0,Imports (SLE),1071.5555564128,Imports (SLE),Bottom-up,High
+MLI,2020.0,LFO,308.97222246940004,Light Fuel Oil,Bottom-up,High
+MLI,2020.0,SOL,865.6111118036,Solar,Bottom-up,High
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Bottom-up,High
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Bottom-up,High
+MLI,2021.0,Imports (BFA),1902.1944459662,Imports (BFA),Bottom-up,High
+MLI,2021.0,Imports (CIV),2660.555557684,Imports (CIV),Bottom-up,High
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2021.0,Imports (SLE),1403.3055566782,Imports (SLE),Bottom-up,High
+MLI,2021.0,LFO,260.97222243100003,Light Fuel Oil,Bottom-up,High
+MLI,2021.0,SOL,1153.2222231448,Solar,Bottom-up,High
+MLI,2022.0,HFO,218.9722223974,Heavy Fuel Oil,Bottom-up,High
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Bottom-up,High
+MLI,2022.0,Imports (BFA),1382.2777788836,Imports (BFA),Bottom-up,High
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Bottom-up,High
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2022.0,Imports (SEN),32.500000026,Imports (SEN),Bottom-up,High
+MLI,2022.0,Imports (SLE),2490.8333353260005,Imports (SLE),Bottom-up,High
+MLI,2022.0,LFO,247.2500001978,Light Fuel Oil,Bottom-up,High
+MLI,2022.0,SOL,1268.333334348,Solar,Bottom-up,High
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Bottom-up,High
+MLI,2023.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2023.0,Imports (CIV),250.138889089,Imports (CIV),Bottom-up,High
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2023.0,Imports (SEN),1631.0833346382,Imports (SEN),Bottom-up,High
+MLI,2023.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2023.0,LFO,255.83333353800003,Light Fuel Oil,Bottom-up,High
+MLI,2023.0,SOL,1267.8611121254,Solar,Bottom-up,High
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Bottom-up,High
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2024.0,Imports (CIV),63.0277778282,Imports (CIV),Bottom-up,High
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2024.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2024.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2024.0,LFO,262.3888890988,Light Fuel Oil,Bottom-up,High
+MLI,2024.0,SOL,1267.4166676806,Solar,Bottom-up,High
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Bottom-up,High
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2025.0,Imports (CIV),791.7222228556001,Imports (CIV),Bottom-up,High
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2025.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2025.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2025.0,LFO,254.69444464820003,Light Fuel Oil,Bottom-up,High
+MLI,2025.0,SOL,1533.5555567824,Solar,Bottom-up,High
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Bottom-up,High
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2026.0,Imports (CIV),1083.7777786448,Imports (CIV),Bottom-up,High
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2026.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2026.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2026.0,LFO,192.3055557094,Light Fuel Oil,Bottom-up,High
+MLI,2026.0,SOL,2180.6666684112,Solar,Bottom-up,High
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Bottom-up,High
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2027.0,Imports (CIV),1556.5555568008,Imports (CIV),Bottom-up,High
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2027.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2027.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2027.0,LFO,178.5555556984,Light Fuel Oil,Bottom-up,High
+MLI,2027.0,SOL,2553.2777798204,Solar,Bottom-up,High
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Bottom-up,High
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2028.0,Imports (CIV),1932.6666682128,Imports (CIV),Bottom-up,High
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2028.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2028.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2028.0,LFO,164.8333334652,Light Fuel Oil,Bottom-up,High
+MLI,2028.0,SOL,3070.6666691232,Solar,Bottom-up,High
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Bottom-up,High
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2029.0,Imports (CIV),1634.1944457518,Imports (CIV),Bottom-up,High
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2029.0,Imports (SEN),2738.7777799688,Imports (SEN),Bottom-up,High
+MLI,2029.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Bottom-up,High
+MLI,2029.0,SOL,4094.8333366092,Solar,Bottom-up,High
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Bottom-up,High
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Bottom-up,High
+MLI,2030.0,Imports (CIV),1210.8888898576,Imports (CIV),Bottom-up,High
+MLI,2030.0,Imports (GIN),2673.8611132502,Imports (GIN),Bottom-up,High
+MLI,2030.0,Imports (SEN),2732.8333355196,Imports (SEN),Bottom-up,High
+MLI,2030.0,Imports (SLE),2721.3055577326,Imports (SLE),Bottom-up,High
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Bottom-up,High
+MLI,2030.0,SOL,5764.0555601668,Solar,Bottom-up,High
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Top-down high,No
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Top-down high,No
+MLI,2020.0,Imports (BFA),278.055555778,Imports (BFA),Top-down high,No
+MLI,2020.0,Imports (CIV),2222.5277795558,Imports (CIV),Top-down high,No
+MLI,2020.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,No
+MLI,2020.0,Imports (SLE),703.6666672296,Imports (SLE),Top-down high,No
+MLI,2020.0,LFO,372.80555585380006,Light Fuel Oil,Top-down high,No
+MLI,2020.0,SOL,458.52777814460006,Solar,Top-down high,No
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Top-down high,No
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Top-down high,No
+MLI,2021.0,Imports (BFA),547.6944448826,Imports (BFA),Top-down high,No
+MLI,2021.0,Imports (CIV),2442.9444463988,Imports (CIV),Top-down high,No
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2021.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,No
+MLI,2021.0,Imports (SLE),703.6666672296,Imports (SLE),Top-down high,No
+MLI,2021.0,LFO,359.80555584340004,Light Fuel Oil,Top-down high,No
+MLI,2021.0,SOL,583.4722226890001,Solar,Top-down high,No
+MLI,2022.0,HFO,230.4722224066,Heavy Fuel Oil,Top-down high,No
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Top-down high,No
+MLI,2022.0,Imports (BFA),827.3333339952001,Imports (BFA),Top-down high,No
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down high,No
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2022.0,Imports (SEN),2718.9444466196,Imports (SEN),Top-down high,No
+MLI,2022.0,Imports (SLE),692.3888894428001,Imports (SLE),Top-down high,No
+MLI,2022.0,LFO,346.75000027740003,Light Fuel Oil,Top-down high,No
+MLI,2022.0,SOL,695.416667223,Solar,Top-down high,No
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Top-down high,No
+MLI,2023.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2023.0,Imports (CIV),1179.6111120548,Imports (CIV),Top-down high,No
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2023.0,Imports (SEN),2479.305557539,Imports (SEN),Top-down high,No
+MLI,2023.0,Imports (SLE),586.3055560246,Imports (SLE),Top-down high,No
+MLI,2023.0,LFO,333.61111137800003,Light Fuel Oil,Top-down high,No
+MLI,2023.0,SOL,795.8888895256,Solar,Top-down high,No
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Top-down high,No
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2024.0,Imports (CIV),1762.9722236326002,Imports (CIV),Top-down high,No
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2024.0,Imports (SEN),2403.0277797002,Imports (SEN),Top-down high,No
+MLI,2024.0,Imports (SLE),536.4722226514,Imports (SLE),Top-down high,No
+MLI,2024.0,LFO,320.4444447008,Light Fuel Oil,Top-down high,No
+MLI,2024.0,SOL,886.9722229318,Solar,Top-down high,No
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Top-down high,No
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2025.0,Imports (CIV),2392.222224136,Imports (CIV),Top-down high,No
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2025.0,Imports (SEN),2286.5000018292003,Imports (SEN),Top-down high,No
+MLI,2025.0,Imports (SLE),652.9722227446,Imports (SLE),Top-down high,No
+MLI,2025.0,LFO,308.2777780244,Light Fuel Oil,Top-down high,No
+MLI,2025.0,SOL,1173.7500009389998,Solar,Top-down high,No
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Top-down high,No
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2026.0,Imports (CIV),2371.111113008,Imports (CIV),Top-down high,No
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2026.0,Imports (SEN),1991.6944460378,Imports (SEN),Top-down high,No
+MLI,2026.0,Imports (SLE),1662.1111124408,Imports (SLE),Top-down high,No
+MLI,2026.0,LFO,296.1666669036,Light Fuel Oil,Top-down high,No
+MLI,2026.0,SOL,1464.2777789492,Solar,Top-down high,No
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Top-down high,No
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2027.0,Imports (CIV),1929.861112655,Imports (CIV),Top-down high,No
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2027.0,Imports (SEN),2016.4722238354,Imports (SEN),Top-down high,No
+MLI,2027.0,Imports (SLE),2413.5555574864,Imports (SLE),Top-down high,No
+MLI,2027.0,LFO,272.2500002178,Light Fuel Oil,Top-down high,No
+MLI,2027.0,SOL,1813.2777792284,Solar,Top-down high,No
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Top-down high,No
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2028.0,Imports (CIV),1638.5833346442002,Imports (CIV),Top-down high,No
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2028.0,Imports (SEN),2267.1944462582,Imports (SEN),Top-down high,No
+MLI,2028.0,Imports (SLE),2413.5555574864,Imports (SLE),Top-down high,No
+MLI,2028.0,LFO,211.388889058,Light Fuel Oil,Top-down high,No
+MLI,2028.0,SOL,2460.3888908572003,Solar,Top-down high,No
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Top-down high,No
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2029.0,Imports (CIV),1702.1944458062,Imports (CIV),Top-down high,No
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2029.0,Imports (SEN),2226.777779559201,Imports (SEN),Top-down high,No
+MLI,2029.0,Imports (SLE),2413.5555574864,Imports (SLE),Top-down high,No
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Top-down high,No
+MLI,2029.0,SOL,3107.4722247082,Solar,Top-down high,No
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Top-down high,No
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Top-down high,No
+MLI,2030.0,Imports (CIV),1150.3611120314,Imports (CIV),Top-down high,No
+MLI,2030.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,No
+MLI,2030.0,Imports (MRT),471.666667044,Imports (MRT),Top-down high,No
+MLI,2030.0,Imports (SEN),2372.2500018978003,Imports (SEN),Top-down high,No
+MLI,2030.0,Imports (SLE),2413.5555574864,Imports (SLE),Top-down high,No
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Top-down high,No
+MLI,2030.0,SOL,3754.555558559201,Solar,Top-down high,No
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Top-down high,High
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Top-down high,High
+MLI,2020.0,Imports (BFA),89.166666738,Imports (BFA),Top-down high,High
+MLI,2020.0,Imports (CIV),1627.222223524,Imports (CIV),Top-down high,High
+MLI,2020.0,Imports (GIN),2658.472224349,Imports (GIN),Top-down high,High
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2020.0,Imports (SLE),1071.0277786346,Imports (SLE),Top-down high,High
+MLI,2020.0,LFO,308.97222246940004,Light Fuel Oil,Top-down high,High
+MLI,2020.0,SOL,865.6111118036,Solar,Top-down high,High
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Top-down high,High
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Top-down high,High
+MLI,2021.0,Imports (BFA),2092.0000016736003,Imports (BFA),Top-down high,High
+MLI,2021.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down high,High
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2021.0,Imports (SLE),1087.9722230926,Imports (SLE),Top-down high,High
+MLI,2021.0,LFO,260.97222243100003,Light Fuel Oil,Top-down high,High
+MLI,2021.0,SOL,1153.2222231448,Solar,Top-down high,High
+MLI,2022.0,HFO,218.9722223974,Heavy Fuel Oil,Top-down high,High
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Top-down high,High
+MLI,2022.0,Imports (BFA),1805.8888903336,Imports (BFA),Top-down high,High
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down high,High
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2022.0,Imports (SLE),1848.9722237014,Imports (SLE),Top-down high,High
+MLI,2022.0,LFO,247.2500001978,Light Fuel Oil,Top-down high,High
+MLI,2022.0,SOL,1268.333334348,Solar,Top-down high,High
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Top-down high,High
+MLI,2023.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2023.0,Imports (CIV),101.250000081,Imports (CIV),Top-down high,High
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2023.0,Imports (SEN),988.2222230128,Imports (SEN),Top-down high,High
+MLI,2023.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2023.0,LFO,255.83333353800003,Light Fuel Oil,Top-down high,High
+MLI,2023.0,SOL,1267.8611121254,Solar,Top-down high,High
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Top-down high,High
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2024.0,Imports (CIV),49.2222222616,Imports (CIV),Top-down high,High
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2024.0,Imports (SEN),2434.027779725,Imports (SEN),Top-down high,High
+MLI,2024.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2024.0,LFO,262.3888890988,Light Fuel Oil,Top-down high,High
+MLI,2024.0,SOL,1267.4166676806,Solar,Top-down high,High
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Top-down high,High
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2025.0,Imports (CIV),244.2777779732,Imports (CIV),Top-down high,High
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2025.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2025.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2025.0,LFO,206.0277779426,Light Fuel Oil,Top-down high,High
+MLI,2025.0,SOL,1759.7500014078,Solar,Top-down high,High
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Top-down high,High
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2026.0,Imports (CIV),136.8611112206,Imports (CIV),Top-down high,High
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2026.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2026.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2026.0,LFO,228.75000018300003,Light Fuel Oil,Top-down high,High
+MLI,2026.0,SOL,1918.7777793128,Solar,Top-down high,High
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Top-down high,High
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2027.0,Imports (CIV),226.97222240380003,Imports (CIV),Top-down high,High
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2027.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2027.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2027.0,LFO,178.5555556984,Light Fuel Oil,Top-down high,High
+MLI,2027.0,SOL,2500.3333353336,Solar,Top-down high,High
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Top-down high,High
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2028.0,Imports (CIV),502.66666706880005,Imports (CIV),Top-down high,High
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2028.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2028.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2028.0,LFO,164.8333334652,Light Fuel Oil,Top-down high,High
+MLI,2028.0,SOL,2940.8333356860003,Solar,Top-down high,High
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Top-down high,High
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2029.0,Imports (CIV),582.2777782436001,Imports (CIV),Top-down high,High
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2029.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down high,High
+MLI,2029.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Top-down high,High
+MLI,2029.0,SOL,3587.9444473148005,Solar,Top-down high,High
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Top-down high,High
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Top-down high,High
+MLI,2030.0,Imports (CIV),9.2222222296,Imports (CIV),Top-down high,High
+MLI,2030.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down high,High
+MLI,2030.0,Imports (SEN),2359.1111129984,Imports (SEN),Top-down high,High
+MLI,2030.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down high,High
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Top-down high,High
+MLI,2030.0,SOL,5649.166671186,Solar,Top-down high,High
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Top-down low,No
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Top-down low,No
+MLI,2020.0,Imports (BFA),735.3888894772001,Imports (BFA),Top-down low,No
+MLI,2020.0,Imports (CIV),2335.5833352018,Imports (CIV),Top-down low,No
+MLI,2020.0,Imports (GIN),2604.1944465278,Imports (GIN),Top-down low,No
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,No
+MLI,2020.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2020.0,LFO,379.7777780816,Light Fuel Oil,Top-down low,No
+MLI,2020.0,SOL,8.527777784600001,Solar,Top-down low,No
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Top-down low,No
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Top-down low,No
+MLI,2021.0,Imports (BFA),836.1944451134,Imports (BFA),Top-down low,No
+MLI,2021.0,Imports (CIV),2516.944446458,Imports (CIV),Top-down low,No
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2021.0,Imports (SEN),2602.1666687484003,Imports (SEN),Top-down low,No
+MLI,2021.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2021.0,LFO,366.7777780712,Light Fuel Oil,Top-down low,No
+MLI,2021.0,SOL,133.1388889954,Solar,Top-down low,No
+MLI,2022.0,HFO,218.9722223974,Heavy Fuel Oil,Top-down low,No
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Top-down low,No
+MLI,2022.0,Imports (BFA),1143.0277786922,Imports (BFA),Top-down low,No
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down low,No
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2022.0,Imports (SEN),2355.1666685508003,Imports (SEN),Top-down low,No
+MLI,2022.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2022.0,LFO,353.7222225052,Light Fuel Oil,Top-down low,No
+MLI,2022.0,SOL,244.7500001958,Solar,Top-down low,No
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Top-down low,No
+MLI,2023.0,HYD,3504.1388916922,Hydropower,Top-down low,No
+MLI,2023.0,Imports (CIV),1149.6944453642,Imports (CIV),Top-down low,No
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2023.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,No
+MLI,2023.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2023.0,LFO,340.5833336058,Light Fuel Oil,Top-down low,No
+MLI,2023.0,SOL,344.88888916480005,Solar,Top-down low,No
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Top-down low,No
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2024.0,Imports (CIV),783.8888895160001,Imports (CIV),Top-down low,No
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2024.0,Imports (SEN),2620.2222243184,Imports (SEN),Top-down low,No
+MLI,2024.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2024.0,LFO,327.4166669286,Light Fuel Oil,Top-down low,No
+MLI,2024.0,SOL,435.6388892374,Solar,Top-down low,No
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Top-down low,No
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2025.0,Imports (CIV),1949.7500015598,Imports (CIV),Top-down low,No
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2025.0,Imports (SEN),2217.777779552,Imports (SEN),Top-down low,No
+MLI,2025.0,Imports (SLE),354.0555558388,Imports (SLE),Top-down low,No
+MLI,2025.0,LFO,315.27777803000004,Light Fuel Oil,Top-down low,No
+MLI,2025.0,SOL,722.0833339110002,Solar,Top-down low,No
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Top-down low,No
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2026.0,Imports (CIV),1591.111112384,Imports (CIV),Top-down low,No
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2026.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,No
+MLI,2026.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2026.0,LFO,303.16666690920005,Light Fuel Oil,Top-down low,No
+MLI,2026.0,SOL,1012.2777785876,Solar,Top-down low,No
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Top-down low,No
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2027.0,Imports (CIV),1693.3888902436,Imports (CIV),Top-down low,No
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2027.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,No
+MLI,2027.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2027.0,LFO,291.05555578840006,Light Fuel Oil,Top-down low,No
+MLI,2027.0,SOL,1306.111112156,Solar,Top-down low,No
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Top-down low,No
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2028.0,Imports (BFA),116.9722223158,Imports (BFA),Top-down low,No
+MLI,2028.0,Imports (CIV),1736.7500013894,Imports (CIV),Top-down low,No
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2028.0,Imports (SEN),2629.583335437,Imports (SEN),Top-down low,No
+MLI,2028.0,Imports (SLE),716.111111684,Imports (SLE),Top-down low,No
+MLI,2028.0,LFO,211.47222239140004,Light Fuel Oil,Top-down low,No
+MLI,2028.0,SOL,1917.1388904226,Solar,Top-down low,No
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Top-down low,No
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2029.0,Imports (BFA),158.8333334604,Imports (BFA),Top-down low,No
+MLI,2029.0,Imports (CIV),1483.6944456314002,Imports (CIV),Top-down low,No
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2029.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,No
+MLI,2029.0,Imports (SLE),760.8888894976,Imports (SLE),Top-down low,No
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Top-down low,No
+MLI,2029.0,SOL,2564.2500020514,Solar,Top-down low,No
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Top-down low,No
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Top-down low,No
+MLI,2030.0,Imports (BFA),5.694444449000001,Imports (BFA),Top-down low,No
+MLI,2030.0,Imports (CIV),1529.6944456682,Imports (CIV),Top-down low,No
+MLI,2030.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,No
+MLI,2030.0,Imports (MRT),296.7222224596,Imports (MRT),Top-down low,No
+MLI,2030.0,Imports (SEN),2545.8611131478,Imports (SEN),Top-down low,No
+MLI,2030.0,Imports (SLE),749.1666672660001,Imports (SLE),Top-down low,No
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Top-down low,No
+MLI,2030.0,SOL,3211.3055581246003,Solar,Top-down low,No
+MLI,2020.0,HFO,243.3055557502,Heavy Fuel Oil,Top-down low,High
+MLI,2020.0,HYD,1040.8888897216002,Hydropower,Top-down low,High
+MLI,2020.0,Imports (CIV),1751.4166680678002,Imports (CIV),Top-down low,High
+MLI,2020.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2020.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2020.0,Imports (SLE),1020.6111119276,Imports (SLE),Top-down low,High
+MLI,2020.0,LFO,308.97222246940004,Light Fuel Oil,Top-down low,High
+MLI,2020.0,SOL,865.6111118036,Solar,Top-down low,High
+MLI,2021.0,HFO,231.1388890738,Heavy Fuel Oil,Top-down low,High
+MLI,2021.0,HYD,1040.8888897216002,Hydropower,Top-down low,High
+MLI,2021.0,Imports (BFA),1894.5277792934,Imports (BFA),Top-down low,High
+MLI,2021.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down low,High
+MLI,2021.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2021.0,Imports (SLE),1010.6388896974,Imports (SLE),Top-down low,High
+MLI,2021.0,LFO,260.97222243100003,Light Fuel Oil,Top-down low,High
+MLI,2021.0,SOL,1153.2222231448,Solar,Top-down low,High
+MLI,2022.0,HFO,218.9722223974,Heavy Fuel Oil,Top-down low,High
+MLI,2022.0,HYD,1040.8888897216002,Hydropower,Top-down low,High
+MLI,2022.0,Imports (BFA),1785.2500014282,Imports (BFA),Top-down low,High
+MLI,2022.0,Imports (CIV),2660.555557684,Imports (CIV),Top-down low,High
+MLI,2022.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2022.0,Imports (SEN),300.00000024,Imports (SEN),Top-down low,High
+MLI,2022.0,Imports (SLE),1020.6111119276,Imports (SLE),Top-down low,High
+MLI,2022.0,LFO,247.2500001978,Light Fuel Oil,Top-down low,High
+MLI,2022.0,SOL,1268.333334348,Solar,Top-down low,High
+MLI,2023.0,HFO,206.805555721,Heavy Fuel Oil,Top-down low,High
+MLI,2023.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2023.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2023.0,Imports (SEN),839.4166673382,Imports (SEN),Top-down low,High
+MLI,2023.0,Imports (SLE),2087.9444461148,Imports (SLE),Top-down low,High
+MLI,2023.0,LFO,255.83333353800003,Light Fuel Oil,Top-down low,High
+MLI,2023.0,SOL,1267.8611121254,Solar,Top-down low,High
+MLI,2024.0,HFO,194.6388890446,Heavy Fuel Oil,Top-down low,High
+MLI,2024.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2024.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2024.0,Imports (SEN),505.416667071,Imports (SEN),Top-down low,High
+MLI,2024.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2024.0,LFO,262.3888890988,Light Fuel Oil,Top-down low,High
+MLI,2024.0,SOL,1267.4166676806,Solar,Top-down low,High
+MLI,2025.0,HFO,182.4722223682,Heavy Fuel Oil,Top-down low,High
+MLI,2025.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2025.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2025.0,Imports (SEN),1192.4166676206,Imports (SEN),Top-down low,High
+MLI,2025.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2025.0,LFO,306.4444446896,Light Fuel Oil,Top-down low,High
+MLI,2025.0,SOL,1293.1388899234,Solar,Top-down low,High
+MLI,2026.0,HFO,170.3055556918,Heavy Fuel Oil,Top-down low,High
+MLI,2026.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2026.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2026.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2026.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2026.0,LFO,276.97222244380004,Light Fuel Oil,Top-down low,High
+MLI,2026.0,SOL,1664.4166679982002,Solar,Top-down low,High
+MLI,2027.0,HFO,158.13888901540005,Heavy Fuel Oil,Top-down low,High
+MLI,2027.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2027.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2027.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2027.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2027.0,LFO,215.36111128340005,Light Fuel Oil,Top-down low,High
+MLI,2027.0,SOL,2311.527779627,Solar,Top-down low,High
+MLI,2028.0,HFO,145.97222233899998,Heavy Fuel Oil,Top-down low,High
+MLI,2028.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2028.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2028.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2028.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2028.0,LFO,164.8333334652,Light Fuel Oil,Top-down low,High
+MLI,2028.0,SOL,2899.4166689862004,Solar,Top-down low,High
+MLI,2029.0,HFO,133.8055556626,Heavy Fuel Oil,Top-down low,High
+MLI,2029.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2029.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2029.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2029.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2029.0,LFO,151.08333345420002,Light Fuel Oil,Top-down low,High
+MLI,2029.0,SOL,3546.5000028372,Solar,Top-down low,High
+MLI,2030.0,HFO,121.666666764,Heavy Fuel Oil,Top-down low,High
+MLI,2030.0,HYD,4172.8611144494,Hydropower,Top-down low,High
+MLI,2030.0,Imports (GIN),2673.8611132502,Imports (GIN),Top-down low,High
+MLI,2030.0,Imports (SEN),2738.7777799688,Imports (SEN),Top-down low,High
+MLI,2030.0,Imports (SLE),2721.3055577326,Imports (SLE),Top-down low,High
+MLI,2030.0,LFO,137.36111122100002,Light Fuel Oil,Top-down low,High
+MLI,2030.0,SOL,4933.777781724801,Solar,Top-down low,High

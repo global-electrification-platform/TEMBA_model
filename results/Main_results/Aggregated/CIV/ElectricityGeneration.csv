@@ -1,0 +1,483 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Bottom-up,No
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Bottom-up,No
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Bottom-up,No
+CIV,2020.0,Imports (LBR),962.0277785474,Imports (LBR),Bottom-up,No
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Bottom-up,No
+CIV,2020.0,NGA,6412.138894018601,Natural Gas,Bottom-up,No
+CIV,2020.0,SOL,5.4444444488,Solar,Bottom-up,No
+CIV,2021.0,HFO,64.1388889402,Heavy Fuel Oil,Bottom-up,No
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Bottom-up,No
+CIV,2021.0,Imports (GHA),1798.1388903274,Imports (GHA),Bottom-up,No
+CIV,2021.0,Imports (LBR),571.388889346,Imports (LBR),Bottom-up,No
+CIV,2021.0,LFO,320.7222224788,Light Fuel Oil,Bottom-up,No
+CIV,2021.0,NGA,11323.2777868364,Natural Gas,Bottom-up,No
+CIV,2021.0,SOL,5.2222222264,Solar,Bottom-up,No
+CIV,2022.0,BIO,245.5000001964,Biomass,Bottom-up,No
+CIV,2022.0,HFO,60.7777778264,Heavy Fuel Oil,Bottom-up,No
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Bottom-up,No
+CIV,2022.0,Imports (GHA),2721.3055577326,Imports (GHA),Bottom-up,No
+CIV,2022.0,LFO,310.72222247080003,Light Fuel Oil,Bottom-up,No
+CIV,2022.0,NGA,13763.5833443442,Natural Gas,Bottom-up,No
+CIV,2022.0,SOL,5.000000003999999,Solar,Bottom-up,No
+CIV,2023.0,BIO,245.5000001964,Biomass,Bottom-up,No
+CIV,2023.0,HFO,57.3888889348,Heavy Fuel Oil,Bottom-up,No
+CIV,2023.0,HYD,4977.8333373156,Hydropower,Bottom-up,No
+CIV,2023.0,Imports (LBR),233.750000187,Imports (LBR),Bottom-up,No
+CIV,2023.0,LFO,296.4722224594,Light Fuel Oil,Bottom-up,No
+CIV,2023.0,NGA,13621.388899786003,Natural Gas,Bottom-up,No
+CIV,2023.0,SOL,4.7777777816,Solar,Bottom-up,No
+CIV,2024.0,BIO,245.5000001964,Biomass,Bottom-up,No
+CIV,2024.0,HFO,54.0000000432,Heavy Fuel Oil,Bottom-up,No
+CIV,2024.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2024.0,LFO,282.1944446702,Light Fuel Oil,Bottom-up,No
+CIV,2024.0,NGA,13479.138899672202,Natural Gas,Bottom-up,No
+CIV,2024.0,SOL,4.555555559200001,Solar,Bottom-up,No
+CIV,2025.0,BIO,245.5000001964,Biomass,Bottom-up,No
+CIV,2025.0,COA,2650.6666687872003,Coal,Bottom-up,No
+CIV,2025.0,HFO,50.6388889294,Heavy Fuel Oil,Bottom-up,No
+CIV,2025.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2025.0,LFO,267.9722224366,Light Fuel Oil,Bottom-up,No
+CIV,2025.0,NGA,13336.9166773362,Natural Gas,Bottom-up,No
+CIV,2025.0,SOL,4.305555559,Solar,Bottom-up,No
+CIV,2026.0,BIO,265.9166668794,Biomass,Bottom-up,No
+CIV,2026.0,COA,4878.0833372358,Coal,Bottom-up,No
+CIV,2026.0,HFO,47.2500000378,Heavy Fuel Oil,Bottom-up,No
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2026.0,Imports (LBR),90.6666667392,Imports (LBR),Bottom-up,No
+CIV,2026.0,LFO,193.472222377,Light Fuel Oil,Bottom-up,No
+CIV,2026.0,NGA,13194.666677222402,Natural Gas,Bottom-up,No
+CIV,2026.0,SOL,4.0833333366,Solar,Bottom-up,No
+CIV,2027.0,BIO,669.1388894242,Biomass,Bottom-up,No
+CIV,2027.0,COA,5338.4444487152,Coal,Bottom-up,No
+CIV,2027.0,HFO,43.888888924,Heavy Fuel Oil,Bottom-up,No
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2027.0,Imports (LBR),742.5277783718,Imports (LBR),Bottom-up,No
+CIV,2027.0,LFO,180.0277779218,Light Fuel Oil,Bottom-up,No
+CIV,2027.0,NGA,13052.4722326642,Natural Gas,Bottom-up,No
+CIV,2027.0,SOL,3.8611111142,Solar,Bottom-up,No
+CIV,2028.0,BIO,669.1388894242,Biomass,Bottom-up,No
+CIV,2028.0,COA,5472.916671045001,Coal,Bottom-up,No
+CIV,2028.0,HFO,40.5000000324,Heavy Fuel Oil,Bottom-up,No
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2028.0,Imports (LBR),994.2500007954,Imports (LBR),Bottom-up,No
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Bottom-up,No
+CIV,2028.0,NGA,12910.222232550404,Natural Gas,Bottom-up,No
+CIV,2028.0,SOL,384.1388891962,Solar,Bottom-up,No
+CIV,2029.0,BIO,669.1388894242,Biomass,Bottom-up,No
+CIV,2029.0,COA,6253.0833383358,Coal,Bottom-up,No
+CIV,2029.0,HFO,37.1388889186,Heavy Fuel Oil,Bottom-up,No
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2029.0,Imports (GHA),143.3888890036,Imports (GHA),Bottom-up,No
+CIV,2029.0,Imports (LBR),443.9166670218,Imports (LBR),Bottom-up,No
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Bottom-up,No
+CIV,2029.0,NGA,12768.000010214402,Natural Gas,Bottom-up,No
+CIV,2029.0,SOL,887.0000007096,Solar,Bottom-up,No
+CIV,2030.0,BIO,669.1388894242,Biomass,Bottom-up,No
+CIV,2030.0,COA,6808.444449891201,Coal,Bottom-up,No
+CIV,2030.0,HFO,33.750000027,Heavy Fuel Oil,Bottom-up,No
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Bottom-up,No
+CIV,2030.0,Imports (LBR),285.55555578400003,Imports (LBR),Bottom-up,No
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Bottom-up,No
+CIV,2030.0,NGA,12625.7500101006,Natural Gas,Bottom-up,No
+CIV,2030.0,SOL,1389.861112223,Solar,Bottom-up,No
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Bottom-up,High
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Bottom-up,High
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Bottom-up,High
+CIV,2020.0,Imports (LBR),970.277778554,Imports (LBR),Bottom-up,High
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Bottom-up,High
+CIV,2020.0,NGA,4837.361114981,Natural Gas,Bottom-up,High
+CIV,2020.0,SOL,5.4444444488,Solar,Bottom-up,High
+CIV,2021.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2021.0,HFO,12.8333333436,Heavy Fuel Oil,Bottom-up,High
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Bottom-up,High
+CIV,2021.0,LFO,312.1388891386,Light Fuel Oil,Bottom-up,High
+CIV,2021.0,NGA,4614.388892580399,Natural Gas,Bottom-up,High
+CIV,2021.0,SOL,5.2222222264,Solar,Bottom-up,High
+CIV,2022.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2022.0,HFO,12.1666666764,Heavy Fuel Oil,Bottom-up,High
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Bottom-up,High
+CIV,2022.0,Imports (GHA),1923.7222237612,Imports (GHA),Bottom-up,High
+CIV,2022.0,LFO,297.8611113494,Light Fuel Oil,Bottom-up,High
+CIV,2022.0,NGA,4472.1388924666,Natural Gas,Bottom-up,High
+CIV,2022.0,SOL,5.000000003999999,Solar,Bottom-up,High
+CIV,2023.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2023.0,HFO,11.472222231400002,Heavy Fuel Oil,Bottom-up,High
+CIV,2023.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2023.0,Imports (LBR),880.6111118156,Imports (LBR),Bottom-up,High
+CIV,2023.0,LFO,244.9444446404,Light Fuel Oil,Bottom-up,High
+CIV,2023.0,NGA,1034.1944452718,Natural Gas,Bottom-up,High
+CIV,2023.0,SOL,4.7777777816,Solar,Bottom-up,High
+CIV,2024.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2024.0,HFO,10.8055555642,Heavy Fuel Oil,Bottom-up,High
+CIV,2024.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2024.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2024.0,LFO,232.2500001858,Light Fuel Oil,Bottom-up,High
+CIV,2024.0,NGA,973.3611118898,Natural Gas,Bottom-up,High
+CIV,2024.0,SOL,4.555555559200001,Solar,Bottom-up,High
+CIV,2025.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2025.0,HFO,10.138888897,Heavy Fuel Oil,Bottom-up,High
+CIV,2025.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2025.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2025.0,LFO,219.5555557312,Light Fuel Oil,Bottom-up,High
+CIV,2025.0,NGA,912.5277785078,Natural Gas,Bottom-up,High
+CIV,2025.0,SOL,4.305555559,Solar,Bottom-up,High
+CIV,2026.0,BIO,13031.111121536,Biomass,Bottom-up,High
+CIV,2026.0,HFO,9.444444452,Heavy Fuel Oil,Bottom-up,High
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2026.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2026.0,LFO,188.333333484,Light Fuel Oil,Bottom-up,High
+CIV,2026.0,NGA,1195.1388898450002,Natural Gas,Bottom-up,High
+CIV,2026.0,SOL,4.0833333366,Solar,Bottom-up,High
+CIV,2027.0,BIO,15066.5555676088,Biomass,Bottom-up,High
+CIV,2027.0,HFO,8.777777784800001,Heavy Fuel Oil,Bottom-up,High
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2027.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2027.0,LFO,174.8888890288,Light Fuel Oil,Bottom-up,High
+CIV,2027.0,NGA,802.0277784194001,Natural Gas,Bottom-up,High
+CIV,2027.0,SOL,3.8611111142,Solar,Bottom-up,High
+CIV,2028.0,BIO,16711.444457813603,Biomass,Bottom-up,High
+CIV,2028.0,HFO,8.1111111176,Heavy Fuel Oil,Bottom-up,High
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2028.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Bottom-up,High
+CIV,2028.0,NGA,730.0277783618,Natural Gas,Bottom-up,High
+CIV,2028.0,SOL,506.7222226276,Solar,Bottom-up,High
+CIV,2029.0,BIO,16711.444457813603,Biomass,Bottom-up,High
+CIV,2029.0,HFO,7.416666672600001,Heavy Fuel Oil,Bottom-up,High
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2029.0,Imports (GHA),460.6111114796,Imports (GHA),Bottom-up,High
+CIV,2029.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Bottom-up,High
+CIV,2029.0,NGA,669.1944449798,Natural Gas,Bottom-up,High
+CIV,2029.0,SOL,1009.583334141,Solar,Bottom-up,High
+CIV,2030.0,BIO,16711.444457813603,Biomass,Bottom-up,High
+CIV,2030.0,HFO,6.7500000054,Heavy Fuel Oil,Bottom-up,High
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Bottom-up,High
+CIV,2030.0,Imports (LBR),2809.5000022476,Imports (LBR),Bottom-up,High
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Bottom-up,High
+CIV,2030.0,NGA,608.33333382,Natural Gas,Bottom-up,High
+CIV,2030.0,SOL,1676.0833346742002,Solar,Bottom-up,High
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Top-down high,No
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Top-down high,No
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down high,No
+CIV,2020.0,Imports (LBR),986.4722230114,Imports (LBR),Top-down high,No
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Top-down high,No
+CIV,2020.0,NGA,6513.9722274334,Natural Gas,Top-down high,No
+CIV,2020.0,SOL,5.4444444488,Solar,Top-down high,No
+CIV,2021.0,HFO,64.1388889402,Heavy Fuel Oil,Top-down high,No
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Top-down high,No
+CIV,2021.0,Imports (GHA),1873.6666681656,Imports (GHA),Top-down high,No
+CIV,2021.0,Imports (LBR),956.5833340986,Imports (LBR),Top-down high,No
+CIV,2021.0,LFO,320.7222224788,Light Fuel Oil,Top-down high,No
+CIV,2021.0,NGA,10849.9166753466,Natural Gas,Top-down high,No
+CIV,2021.0,SOL,5.2222222264,Solar,Top-down high,No
+CIV,2022.0,BIO,301.3333335744,Biomass,Top-down high,No
+CIV,2022.0,HFO,60.7777778264,Heavy Fuel Oil,Top-down high,No
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Top-down high,No
+CIV,2022.0,Imports (GHA),720.8055561322001,Imports (GHA),Top-down high,No
+CIV,2022.0,LFO,310.72222247080003,Light Fuel Oil,Top-down high,No
+CIV,2022.0,NGA,15453.083345695804,Natural Gas,Top-down high,No
+CIV,2022.0,SOL,5.000000003999999,Solar,Top-down high,No
+CIV,2023.0,BIO,301.3333335744,Biomass,Top-down high,No
+CIV,2023.0,HFO,57.3888889348,Heavy Fuel Oil,Top-down high,No
+CIV,2023.0,HYD,3555.222225066401,Hydropower,Top-down high,No
+CIV,2023.0,LFO,296.4722224594,Light Fuel Oil,Top-down high,No
+CIV,2023.0,NGA,15310.888901137603,Natural Gas,Top-down high,No
+CIV,2023.0,SOL,4.7777777816,Solar,Top-down high,No
+CIV,2024.0,BIO,301.3333335744,Biomass,Top-down high,No
+CIV,2024.0,HFO,54.0000000432,Heavy Fuel Oil,Top-down high,No
+CIV,2024.0,HYD,7261.888894698401,Hydropower,Top-down high,No
+CIV,2024.0,LFO,282.1944446702,Light Fuel Oil,Top-down high,No
+CIV,2024.0,NGA,15168.638901023802,Natural Gas,Top-down high,No
+CIV,2024.0,SOL,4.555555559200001,Solar,Top-down high,No
+CIV,2025.0,BIO,301.3333335744,Biomass,Top-down high,No
+CIV,2025.0,COA,1460.7777789464,Coal,Top-down high,No
+CIV,2025.0,HFO,50.6388889294,Heavy Fuel Oil,Top-down high,No
+CIV,2025.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2025.0,LFO,267.9722224366,Light Fuel Oil,Top-down high,No
+CIV,2025.0,NGA,15026.4166786878,Natural Gas,Top-down high,No
+CIV,2025.0,SOL,4.305555559,Solar,Top-down high,No
+CIV,2026.0,BIO,392.7222225364,Biomass,Top-down high,No
+CIV,2026.0,COA,4404.4444479680005,Coal,Top-down high,No
+CIV,2026.0,HFO,25.4722222426,Heavy Fuel Oil,Top-down high,No
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2026.0,LFO,193.472222377,Light Fuel Oil,Top-down high,No
+CIV,2026.0,NGA,14884.166678574002,Natural Gas,Top-down high,No
+CIV,2026.0,SOL,4.0833333366,Solar,Top-down high,No
+CIV,2027.0,BIO,764.444445056,Biomass,Top-down high,No
+CIV,2027.0,COA,4404.4444479680005,Coal,Top-down high,No
+CIV,2027.0,HFO,43.888888924,Heavy Fuel Oil,Top-down high,No
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2027.0,Imports (LBR),748.750000599,Imports (LBR),Top-down high,No
+CIV,2027.0,LFO,180.0277779218,Light Fuel Oil,Top-down high,No
+CIV,2027.0,NGA,14741.9722340158,Natural Gas,Top-down high,No
+CIV,2027.0,SOL,3.8611111142,Solar,Top-down high,No
+CIV,2028.0,BIO,764.444445056,Biomass,Top-down high,No
+CIV,2028.0,COA,4404.4444479680005,Coal,Top-down high,No
+CIV,2028.0,HFO,40.5000000324,Heavy Fuel Oil,Top-down high,No
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2028.0,Imports (LBR),1060.6388897374,Imports (LBR),Top-down high,No
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Top-down high,No
+CIV,2028.0,NGA,14599.722233902005,Natural Gas,Top-down high,No
+CIV,2028.0,SOL,380.000000304,Solar,Top-down high,No
+CIV,2029.0,BIO,764.444445056,Biomass,Top-down high,No
+CIV,2029.0,COA,5105.4722263066005,Coal,Top-down high,No
+CIV,2029.0,HFO,37.1388889186,Heavy Fuel Oil,Top-down high,No
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2029.0,Imports (GHA),594.1388893642,Imports (GHA),Top-down high,No
+CIV,2029.0,Imports (LBR),586.666667136,Imports (LBR),Top-down high,No
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Top-down high,No
+CIV,2029.0,NGA,14457.500011566002,Natural Gas,Top-down high,No
+CIV,2029.0,SOL,882.8888895952001,Solar,Top-down high,No
+CIV,2030.0,BIO,764.444445056,Biomass,Top-down high,No
+CIV,2030.0,COA,5597.5555600336,Coal,Top-down high,No
+CIV,2030.0,HFO,33.750000027,Heavy Fuel Oil,Top-down high,No
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Top-down high,No
+CIV,2030.0,Imports (GHA),92.1111111848,Imports (GHA),Top-down high,No
+CIV,2030.0,Imports (LBR),334.16666693400003,Imports (LBR),Top-down high,No
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Top-down high,No
+CIV,2030.0,NGA,14315.2500114522,Natural Gas,Top-down high,No
+CIV,2030.0,SOL,1385.7500011086,Solar,Top-down high,No
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Top-down high,High
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Top-down high,High
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down high,High
+CIV,2020.0,Imports (LBR),986.4722230114,Imports (LBR),Top-down high,High
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Top-down high,High
+CIV,2020.0,NGA,4837.916670537,Natural Gas,Top-down high,High
+CIV,2020.0,SOL,5.4444444488,Solar,Top-down high,High
+CIV,2021.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2021.0,HFO,12.8333333436,Heavy Fuel Oil,Top-down high,High
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Top-down high,High
+CIV,2021.0,Imports (GHA),541.1944448774,Imports (GHA),Top-down high,High
+CIV,2021.0,LFO,312.1388891386,Light Fuel Oil,Top-down high,High
+CIV,2021.0,NGA,4614.388892580399,Natural Gas,Top-down high,High
+CIV,2021.0,SOL,5.2222222264,Solar,Top-down high,High
+CIV,2022.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2022.0,HFO,12.1666666764,Heavy Fuel Oil,Top-down high,High
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Top-down high,High
+CIV,2022.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down high,High
+CIV,2022.0,LFO,297.8611113494,Light Fuel Oil,Top-down high,High
+CIV,2022.0,NGA,4472.1388924666,Natural Gas,Top-down high,High
+CIV,2022.0,SOL,5.000000003999999,Solar,Top-down high,High
+CIV,2023.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2023.0,HFO,11.472222231400002,Heavy Fuel Oil,Top-down high,High
+CIV,2023.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2023.0,Imports (LBR),2686.8333354828,Imports (LBR),Top-down high,High
+CIV,2023.0,LFO,244.9444446404,Light Fuel Oil,Top-down high,High
+CIV,2023.0,NGA,1034.1944452718,Natural Gas,Top-down high,High
+CIV,2023.0,SOL,4.7777777816,Solar,Top-down high,High
+CIV,2024.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2024.0,HFO,10.8055555642,Heavy Fuel Oil,Top-down high,High
+CIV,2024.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2024.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2024.0,LFO,232.2500001858,Light Fuel Oil,Top-down high,High
+CIV,2024.0,NGA,973.3611118898,Natural Gas,Top-down high,High
+CIV,2024.0,SOL,4.555555559200001,Solar,Top-down high,High
+CIV,2025.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2025.0,HFO,10.138888897,Heavy Fuel Oil,Top-down high,High
+CIV,2025.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2025.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2025.0,LFO,219.5555557312,Light Fuel Oil,Top-down high,High
+CIV,2025.0,NGA,1591.3333346064005,Natural Gas,Top-down high,High
+CIV,2025.0,SOL,4.305555559,Solar,Top-down high,High
+CIV,2026.0,BIO,12697.5555657136,Biomass,Top-down high,High
+CIV,2026.0,HFO,9.444444452,Heavy Fuel Oil,Top-down high,High
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2026.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2026.0,LFO,188.333333484,Light Fuel Oil,Top-down high,High
+CIV,2026.0,NGA,1956.9722237878,Natural Gas,Top-down high,High
+CIV,2026.0,SOL,4.0833333366,Solar,Top-down high,High
+CIV,2027.0,BIO,14415.5833448658,Biomass,Top-down high,High
+CIV,2027.0,HFO,8.777777784800001,Heavy Fuel Oil,Top-down high,High
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2027.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2027.0,LFO,174.8888890288,Light Fuel Oil,Top-down high,High
+CIV,2027.0,NGA,1180.5000009444002,Natural Gas,Top-down high,High
+CIV,2027.0,SOL,3.8611111142,Solar,Top-down high,High
+CIV,2028.0,BIO,16003.583346136202,Biomass,Top-down high,High
+CIV,2028.0,HFO,8.1111111176,Heavy Fuel Oil,Top-down high,High
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2028.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Top-down high,High
+CIV,2028.0,NGA,909.2222229496,Natural Gas,Top-down high,High
+CIV,2028.0,SOL,506.7222226276,Solar,Top-down high,High
+CIV,2029.0,BIO,16800.4722356626,Biomass,Top-down high,High
+CIV,2029.0,HFO,7.416666672600001,Heavy Fuel Oil,Top-down high,High
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2029.0,Imports (GHA),285.36111133940005,Imports (GHA),Top-down high,High
+CIV,2029.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Top-down high,High
+CIV,2029.0,NGA,669.1944449798,Natural Gas,Top-down high,High
+CIV,2029.0,SOL,1009.583334141,Solar,Top-down high,High
+CIV,2030.0,BIO,16800.4722356626,Biomass,Top-down high,High
+CIV,2030.0,HFO,6.7500000054,Heavy Fuel Oil,Top-down high,High
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Top-down high,High
+CIV,2030.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down high,High
+CIV,2030.0,Imports (MLI),36.0555555844,Imports (MLI),Top-down high,High
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Top-down high,High
+CIV,2030.0,NGA,608.33333382,Natural Gas,Top-down high,High
+CIV,2030.0,SOL,1676.0833346742002,Solar,Top-down high,High
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Top-down low,No
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Top-down low,No
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down low,No
+CIV,2020.0,Imports (LBR),986.4722230114,Imports (LBR),Top-down low,No
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Top-down low,No
+CIV,2020.0,NGA,7202.555561317601,Natural Gas,Top-down low,No
+CIV,2020.0,SOL,5.4444444488,Solar,Top-down low,No
+CIV,2021.0,HFO,64.1388889402,Heavy Fuel Oil,Top-down low,No
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Top-down low,No
+CIV,2021.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down low,No
+CIV,2021.0,Imports (LBR),456.25000036500006,Imports (LBR),Top-down low,No
+CIV,2021.0,LFO,320.7222224788,Light Fuel Oil,Top-down low,No
+CIV,2021.0,NGA,9786.4444522736,Natural Gas,Top-down low,No
+CIV,2021.0,SOL,5.2222222264,Solar,Top-down low,No
+CIV,2022.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2022.0,HFO,60.7777778264,Heavy Fuel Oil,Top-down low,No
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Top-down low,No
+CIV,2022.0,Imports (GHA),2316.6388907422,Imports (GHA),Top-down low,No
+CIV,2022.0,Imports (LBR),217.9722223966,Imports (LBR),Top-down low,No
+CIV,2022.0,LFO,306.4444446896,Light Fuel Oil,Top-down low,No
+CIV,2022.0,NGA,11837.8611205814,Natural Gas,Top-down low,No
+CIV,2022.0,SOL,5.000000003999999,Solar,Top-down low,No
+CIV,2023.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2023.0,HFO,57.3888889348,Heavy Fuel Oil,Top-down low,No
+CIV,2023.0,HYD,2627.0277798794,Hydropower,Top-down low,No
+CIV,2023.0,Imports (LBR),744.1111117064,Imports (LBR),Top-down low,No
+CIV,2023.0,LFO,292.19444467820006,Light Fuel Oil,Top-down low,No
+CIV,2023.0,NGA,11695.666676023202,Natural Gas,Top-down low,No
+CIV,2023.0,SOL,4.7777777816,Solar,Top-down low,No
+CIV,2024.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2024.0,HFO,54.0000000432,Heavy Fuel Oil,Top-down low,No
+CIV,2024.0,HYD,4452.4166702286,Hydropower,Top-down low,No
+CIV,2024.0,Imports (LBR),326.8888891504,Imports (LBR),Top-down low,No
+CIV,2024.0,LFO,277.9444446668,Light Fuel Oil,Top-down low,No
+CIV,2024.0,NGA,11553.4166759094,Natural Gas,Top-down low,No
+CIV,2024.0,SOL,4.555555559200001,Solar,Top-down low,No
+CIV,2025.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2025.0,HFO,50.6388889294,Heavy Fuel Oil,Top-down low,No
+CIV,2025.0,HYD,7056.6111167564,Hydropower,Top-down low,No
+CIV,2025.0,LFO,263.72222243320005,Light Fuel Oil,Top-down low,No
+CIV,2025.0,NGA,11411.1944535734,Natural Gas,Top-down low,No
+CIV,2025.0,SOL,4.305555559,Solar,Top-down low,No
+CIV,2026.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2026.0,COA,1977.2777793596,Coal,Top-down low,No
+CIV,2026.0,HFO,47.2500000378,Heavy Fuel Oil,Top-down low,No
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Top-down low,No
+CIV,2026.0,Imports (LBR),400.1111114312,Imports (LBR),Top-down low,No
+CIV,2026.0,LFO,191.388889042,Light Fuel Oil,Top-down low,No
+CIV,2026.0,NGA,11268.944453459602,Natural Gas,Top-down low,No
+CIV,2026.0,SOL,4.0833333366,Solar,Top-down low,No
+CIV,2027.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2027.0,COA,1977.2777793596,Coal,Top-down low,No
+CIV,2027.0,HFO,43.888888924,Heavy Fuel Oil,Top-down low,No
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Top-down low,No
+CIV,2027.0,Imports (LBR),755.972222827,Imports (LBR),Top-down low,No
+CIV,2027.0,LFO,177.94444458680002,Light Fuel Oil,Top-down low,No
+CIV,2027.0,NGA,11126.7500089014,Natural Gas,Top-down low,No
+CIV,2027.0,SOL,3.8611111142,Solar,Top-down low,No
+CIV,2028.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2028.0,COA,1977.2777793596,Coal,Top-down low,No
+CIV,2028.0,HFO,40.5000000324,Heavy Fuel Oil,Top-down low,No
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Top-down low,No
+CIV,2028.0,Imports (LBR),224.6388890686,Imports (LBR),Top-down low,No
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Top-down low,No
+CIV,2028.0,NGA,10984.5000087876,Natural Gas,Top-down low,No
+CIV,2028.0,SOL,75.8055556162,Solar,Top-down low,No
+CIV,2029.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2029.0,COA,2558.7222242692,Coal,Top-down low,No
+CIV,2029.0,HFO,37.1388889186,Heavy Fuel Oil,Top-down low,No
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Top-down low,No
+CIV,2029.0,Imports (LBR),83.4444445112,Imports (LBR),Top-down low,No
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Top-down low,No
+CIV,2029.0,NGA,10842.2777864516,Natural Gas,Top-down low,No
+CIV,2029.0,SOL,429.027778121,Solar,Top-down low,No
+CIV,2030.0,BIO,181.6944445898,Biomass,Top-down low,No
+CIV,2030.0,COA,3492.3333361272003,Coal,Top-down low,No
+CIV,2030.0,HFO,33.750000027,Heavy Fuel Oil,Top-down low,No
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Top-down low,No
+CIV,2030.0,Imports (LBR),3.9722222254,Imports (LBR),Top-down low,No
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Top-down low,No
+CIV,2030.0,NGA,10700.0277863378,Natural Gas,Top-down low,No
+CIV,2030.0,SOL,947.5833340914,Solar,Top-down low,No
+CIV,2020.0,HFO,67.52777783180001,Heavy Fuel Oil,Top-down low,High
+CIV,2020.0,HYD,2422.9444463828,Hydropower,Top-down low,High
+CIV,2020.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down low,High
+CIV,2020.0,Imports (LBR),986.4722230114,Imports (LBR),Top-down low,High
+CIV,2020.0,LFO,327.2500002618,Light Fuel Oil,Top-down low,High
+CIV,2020.0,NGA,5598.888893368,Natural Gas,Top-down low,High
+CIV,2020.0,SOL,5.4444444488,Solar,Top-down low,High
+CIV,2021.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2021.0,HFO,12.8333333436,Heavy Fuel Oil,Top-down low,High
+CIV,2021.0,HYD,2422.9444463828,Hydropower,Top-down low,High
+CIV,2021.0,Imports (GHA),2159.583335061,Imports (GHA),Top-down low,High
+CIV,2021.0,LFO,312.1388891386,Light Fuel Oil,Top-down low,High
+CIV,2021.0,NGA,4614.388892580399,Natural Gas,Top-down low,High
+CIV,2021.0,SOL,5.2222222264,Solar,Top-down low,High
+CIV,2022.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2022.0,HFO,12.1666666764,Heavy Fuel Oil,Top-down low,High
+CIV,2022.0,HYD,2422.9444463828,Hydropower,Top-down low,High
+CIV,2022.0,Imports (GHA),2721.3055577326,Imports (GHA),Top-down low,High
+CIV,2022.0,LFO,297.8611113494,Light Fuel Oil,Top-down low,High
+CIV,2022.0,NGA,4472.1388924666,Natural Gas,Top-down low,High
+CIV,2022.0,SOL,5.000000003999999,Solar,Top-down low,High
+CIV,2023.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2023.0,HFO,11.472222231400002,Heavy Fuel Oil,Top-down low,High
+CIV,2023.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2023.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2023.0,LFO,244.9444446404,Light Fuel Oil,Top-down low,High
+CIV,2023.0,NGA,1034.1944452718,Natural Gas,Top-down low,High
+CIV,2023.0,SOL,4.7777777816,Solar,Top-down low,High
+CIV,2024.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2024.0,HFO,10.8055555642,Heavy Fuel Oil,Top-down low,High
+CIV,2024.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2024.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2024.0,LFO,232.2500001858,Light Fuel Oil,Top-down low,High
+CIV,2024.0,NGA,973.3611118898,Natural Gas,Top-down low,High
+CIV,2024.0,SOL,4.555555559200001,Solar,Top-down low,High
+CIV,2025.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2025.0,HFO,10.138888897,Heavy Fuel Oil,Top-down low,High
+CIV,2025.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2025.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2025.0,LFO,219.5555557312,Light Fuel Oil,Top-down low,High
+CIV,2025.0,NGA,912.5277785078,Natural Gas,Top-down low,High
+CIV,2025.0,SOL,4.305555559,Solar,Top-down low,High
+CIV,2026.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2026.0,HFO,9.444444452,Heavy Fuel Oil,Top-down low,High
+CIV,2026.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2026.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2026.0,LFO,188.333333484,Light Fuel Oil,Top-down low,High
+CIV,2026.0,NGA,1468.5833345082,Natural Gas,Top-down low,High
+CIV,2026.0,SOL,4.0833333366,Solar,Top-down low,High
+CIV,2027.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2027.0,HFO,8.777777784800001,Heavy Fuel Oil,Top-down low,High
+CIV,2027.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2027.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2027.0,Imports (MLI),304.16666691,Imports (MLI),Top-down low,High
+CIV,2027.0,LFO,174.8888890288,Light Fuel Oil,Top-down low,High
+CIV,2027.0,NGA,790.8611117438,Natural Gas,Top-down low,High
+CIV,2027.0,SOL,3.8611111142,Solar,Top-down low,High
+CIV,2028.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2028.0,HFO,8.1111111176,Heavy Fuel Oil,Top-down low,High
+CIV,2028.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2028.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2028.0,Imports (MLI),161.9722223518,Imports (MLI),Top-down low,High
+CIV,2028.0,LFO,161.41666679579998,Light Fuel Oil,Top-down low,High
+CIV,2028.0,NGA,730.0277783618,Natural Gas,Top-down low,High
+CIV,2028.0,SOL,506.7222226276,Solar,Top-down low,High
+CIV,2029.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2029.0,HFO,7.416666672600001,Heavy Fuel Oil,Top-down low,High
+CIV,2029.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2029.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2029.0,Imports (MLI),299.9722224622,Imports (MLI),Top-down low,High
+CIV,2029.0,LFO,147.97222234059998,Light Fuel Oil,Top-down low,High
+CIV,2029.0,NGA,669.1944449798,Natural Gas,Top-down low,High
+CIV,2029.0,SOL,1009.583334141,Solar,Top-down low,High
+CIV,2030.0,BIO,8379.861117815,Biomass,Top-down low,High
+CIV,2030.0,HFO,6.7500000054,Heavy Fuel Oil,Top-down low,High
+CIV,2030.0,HYD,7916.2777841108,Hydropower,Top-down low,High
+CIV,2030.0,Imports (LBR),2809.5000022476,Imports (LBR),Top-down low,High
+CIV,2030.0,Imports (MLI),890.0000007120001,Imports (MLI),Top-down low,High
+CIV,2030.0,LFO,134.5277778854,Light Fuel Oil,Top-down low,High
+CIV,2030.0,NGA,608.33333382,Natural Gas,Top-down low,High
+CIV,2030.0,SOL,1676.0833346742002,Solar,Top-down low,High

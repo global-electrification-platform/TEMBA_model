@@ -1,0 +1,22 @@
+Country,y,f,Total annual demand (GWh),Demand type
+ERI,2020.0,EL3E,427.4722225642,Current electrified
+ERI,2021.0,EL3E,438.3611114618,Current electrified
+ERI,2021.0,EL3U,14.1111111224,New electrified
+ERI,2022.0,EL3E,448.1388892474,Current electrified
+ERI,2022.0,EL3U,28.2500000226,New electrified
+ERI,2023.0,EL3E,456.9722225878001,Current electrified
+ERI,2023.0,EL3U,42.361111145,New electrified
+ERI,2024.0,EL3E,464.9722225942,Current electrified
+ERI,2024.0,EL3U,56.47222226740001,New electrified
+ERI,2025.0,EL3E,489.5555559472,Current electrified
+ERI,2025.0,EL3U,70.6111111676,New electrified
+ERI,2026.0,EL3E,514.444444856,Current electrified
+ERI,2026.0,EL3U,84.72222229,New electrified
+ERI,2027.0,EL3E,539.6388893206,Current electrified
+ERI,2027.0,EL3U,94.6388889646,New electrified
+ERI,2028.0,EL3E,565.138889341,Current electrified
+ERI,2028.0,EL3U,104.583333417,New electrified
+ERI,2029.0,EL3E,590.8055560282,Current electrified
+ERI,2029.0,EL3U,114.5000000916,New electrified
+ERI,2030.0,EL3E,620.5000004964,Current electrified
+ERI,2030.0,EL3U,124.444444544,New electrified

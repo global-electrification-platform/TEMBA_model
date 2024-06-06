@@ -1,0 +1,197 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+SSD,2020.0,HFO,3.7222222252,Heavy Fuel Oil,Bottom-up,No
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Bottom-up,No
+SSD,2020.0,NGA,502.0555559572,Natural Gas,Bottom-up,No
+SSD,2021.0,HFO,15.5833333458,Heavy Fuel Oil,Bottom-up,No
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Bottom-up,No
+SSD,2021.0,NGA,515.0555559676001,Natural Gas,Bottom-up,No
+SSD,2022.0,HFO,26.833333354800004,Heavy Fuel Oil,Bottom-up,No
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Bottom-up,No
+SSD,2022.0,NGA,527.3333337552001,Natural Gas,Bottom-up,No
+SSD,2023.0,HFO,40.1111111432,Heavy Fuel Oil,Bottom-up,No
+SSD,2023.0,LFO,24.305555575,Light Fuel Oil,Bottom-up,No
+SSD,2023.0,NGA,527.3333337552001,Natural Gas,Bottom-up,No
+SSD,2024.0,GEO,130.1111112152,Geothermal,Bottom-up,No
+SSD,2024.0,LFO,14.4722222338,Light Fuel Oil,Bottom-up,No
+SSD,2024.0,NGA,467.7500003742,Natural Gas,Bottom-up,No
+SSD,2025.0,GEO,190.5277779302,Geothermal,Bottom-up,No
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Bottom-up,No
+SSD,2025.0,NGA,450.8055559162,Natural Gas,Bottom-up,No
+SSD,2026.0,GEO,245.0833335294,Geothermal,Bottom-up,No
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Bottom-up,No
+SSD,2026.0,NGA,438.2777781284,Natural Gas,Bottom-up,No
+SSD,2027.0,GEO,293.750000235,Geothermal,Bottom-up,No
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Bottom-up,No
+SSD,2027.0,NGA,426.9722225638,Natural Gas,Bottom-up,No
+SSD,2028.0,GEO,342.8333336076,Geothermal,Bottom-up,No
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Bottom-up,No
+SSD,2028.0,NGA,415.5833336658,Natural Gas,Bottom-up,No
+SSD,2029.0,GEO,392.2777780916,Geothermal,Bottom-up,No
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Bottom-up,No
+SSD,2029.0,NGA,404.1111114344,Natural Gas,Bottom-up,No
+SSD,2030.0,GEO,447.8055559138001,Geothermal,Bottom-up,No
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Bottom-up,No
+SSD,2030.0,NGA,391.388889202,Natural Gas,Bottom-up,No
+SSD,2020.0,HFO,3.7222222252,Heavy Fuel Oil,Bottom-up,High
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Bottom-up,High
+SSD,2020.0,NGA,502.0555559572,Natural Gas,Bottom-up,High
+SSD,2021.0,HFO,15.5833333458,Heavy Fuel Oil,Bottom-up,High
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Bottom-up,High
+SSD,2021.0,NGA,515.0555559676001,Natural Gas,Bottom-up,High
+SSD,2022.0,HFO,26.833333354800004,Heavy Fuel Oil,Bottom-up,High
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Bottom-up,High
+SSD,2022.0,NGA,527.3333337552001,Natural Gas,Bottom-up,High
+SSD,2023.0,HFO,40.1111111432,Heavy Fuel Oil,Bottom-up,High
+SSD,2023.0,LFO,24.305555575,Light Fuel Oil,Bottom-up,High
+SSD,2023.0,NGA,527.3333337552001,Natural Gas,Bottom-up,High
+SSD,2024.0,GEO,527.4444448664001,Geothermal,Bottom-up,High
+SSD,2024.0,LFO,13.027777788200002,Light Fuel Oil,Bottom-up,High
+SSD,2024.0,NGA,72.0277778354,Natural Gas,Bottom-up,High
+SSD,2025.0,GEO,562.6111115612,Geothermal,Bottom-up,High
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Bottom-up,High
+SSD,2025.0,NGA,78.69444450740001,Natural Gas,Bottom-up,High
+SSD,2026.0,GEO,598.1388893674001,Geothermal,Bottom-up,High
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Bottom-up,High
+SSD,2026.0,NGA,85.22222229040001,Natural Gas,Bottom-up,High
+SSD,2027.0,GEO,637.0000005096001,Geothermal,Bottom-up,High
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Bottom-up,High
+SSD,2027.0,NGA,83.7222222892,Natural Gas,Bottom-up,High
+SSD,2028.0,GEO,669.1388894242,Geothermal,Bottom-up,High
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Bottom-up,High
+SSD,2028.0,NGA,89.2777778492,Natural Gas,Bottom-up,High
+SSD,2029.0,GEO,701.5000005612,Geothermal,Bottom-up,High
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Bottom-up,High
+SSD,2029.0,NGA,94.861111187,Natural Gas,Bottom-up,High
+SSD,2030.0,GEO,738.1111117016001,Geothermal,Bottom-up,High
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Bottom-up,High
+SSD,2030.0,NGA,101.0833334142,Natural Gas,Bottom-up,High
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Top-down high,No
+SSD,2020.0,NGA,505.7777781824,Natural Gas,Top-down high,No
+SSD,2021.0,HFO,12.6666666768,Heavy Fuel Oil,Top-down high,No
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Top-down high,No
+SSD,2021.0,NGA,527.3611115330001,Natural Gas,Top-down high,No
+SSD,2022.0,HFO,28.2500000226,Heavy Fuel Oil,Top-down high,No
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Top-down high,No
+SSD,2022.0,NGA,544.6944448802001,Natural Gas,Top-down high,No
+SSD,2023.0,HFO,45.1666667028,Heavy Fuel Oil,Top-down high,No
+SSD,2023.0,LFO,30.0555555796,Light Fuel Oil,Top-down high,No
+SSD,2023.0,NGA,544.6944448802001,Natural Gas,Top-down high,No
+SSD,2024.0,GEO,157.88888901520002,Geothermal,Top-down high,No
+SSD,2024.0,LFO,14.4722222338,Light Fuel Oil,Top-down high,No
+SSD,2024.0,NGA,477.5277781598001,Natural Gas,Top-down high,No
+SSD,2025.0,GEO,230.0833335174,Geothermal,Top-down high,No
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Top-down high,No
+SSD,2025.0,NGA,458.1666670332,Natural Gas,Top-down high,No
+SSD,2026.0,GEO,296.4166669038,Geothermal,Top-down high,No
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Top-down high,No
+SSD,2026.0,NGA,443.2777781324,Natural Gas,Top-down high,No
+SSD,2027.0,GEO,350.972222503,Geothermal,Top-down high,No
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Top-down high,No
+SSD,2027.0,NGA,430.7777781224,Natural Gas,Top-down high,No
+SSD,2028.0,GEO,405.9444447692,Geothermal,Top-down high,No
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Top-down high,No
+SSD,2028.0,NGA,418.194444779,Natural Gas,Top-down high,No
+SSD,2029.0,GEO,461.2777781468,Geothermal,Top-down high,No
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Top-down high,No
+SSD,2029.0,NGA,405.5277781022,Natural Gas,Top-down high,No
+SSD,2030.0,GEO,522.6944448626,Geothermal,Top-down high,No
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Top-down high,No
+SSD,2030.0,NGA,391.6388892022,Natural Gas,Top-down high,No
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Top-down high,High
+SSD,2020.0,NGA,505.7777781824,Natural Gas,Top-down high,High
+SSD,2021.0,HFO,12.6666666768,Heavy Fuel Oil,Top-down high,High
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Top-down high,High
+SSD,2021.0,NGA,527.3611115330001,Natural Gas,Top-down high,High
+SSD,2022.0,HFO,28.2500000226,Heavy Fuel Oil,Top-down high,High
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Top-down high,High
+SSD,2022.0,NGA,544.6944448802001,Natural Gas,Top-down high,High
+SSD,2023.0,HFO,45.1666667028,Heavy Fuel Oil,Top-down high,High
+SSD,2023.0,LFO,30.0555555796,Light Fuel Oil,Top-down high,High
+SSD,2023.0,NGA,544.6944448802001,Natural Gas,Top-down high,High
+SSD,2024.0,GEO,559.7777782256001,Geothermal,Top-down high,High
+SSD,2024.0,LFO,13.027777788200002,Light Fuel Oil,Top-down high,High
+SSD,2024.0,NGA,77.25000006180001,Natural Gas,Top-down high,High
+SSD,2025.0,GEO,603.055556038,Geothermal,Top-down high,High
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Top-down high,High
+SSD,2025.0,NGA,85.22222229040001,Natural Gas,Top-down high,High
+SSD,2026.0,GEO,646.6388894062001,Geothermal,Top-down high,High
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Top-down high,High
+SSD,2026.0,NGA,93.05555563,Natural Gas,Top-down high,High
+SSD,2027.0,GEO,690.1666672188001,Geothermal,Top-down high,High
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Top-down high,High
+SSD,2027.0,NGA,91.5833334066,Natural Gas,Top-down high,High
+SSD,2028.0,GEO,726.3888894700001,Geothermal,Top-down high,High
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Top-down high,High
+SSD,2028.0,NGA,97.7500000782,Natural Gas,Top-down high,High
+SSD,2029.0,GEO,762.8611117214001,Geothermal,Top-down high,High
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Top-down high,High
+SSD,2029.0,NGA,103.9444445276,Natural Gas,Top-down high,High
+SSD,2030.0,GEO,803.5555561984,Geothermal,Top-down high,High
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Top-down high,High
+SSD,2030.0,NGA,110.7777778664,Natural Gas,Top-down high,High
+SSD,2020.0,HFO,6.5833333386,Heavy Fuel Oil,Top-down low,No
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Top-down low,No
+SSD,2020.0,NGA,499.1944448438,Natural Gas,Top-down low,No
+SSD,2021.0,HFO,16.7222222356,Heavy Fuel Oil,Top-down low,No
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Top-down low,No
+SSD,2021.0,NGA,510.1666670748001,Natural Gas,Top-down low,No
+SSD,2022.0,HFO,26.250000021,Heavy Fuel Oil,Top-down low,No
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Top-down low,No
+SSD,2022.0,NGA,520.416667083,Natural Gas,Top-down low,No
+SSD,2023.0,HFO,38.1111111416,Heavy Fuel Oil,Top-down low,No
+SSD,2023.0,LFO,22.0277777954,Light Fuel Oil,Top-down low,No
+SSD,2023.0,NGA,520.416667083,Natural Gas,Top-down low,No
+SSD,2024.0,GEO,119.0555556508,Geothermal,Top-down low,No
+SSD,2024.0,LFO,14.4722222338,Light Fuel Oil,Top-down low,No
+SSD,2024.0,NGA,463.88888926,Natural Gas,Top-down low,No
+SSD,2025.0,GEO,174.7777779176,Geothermal,Top-down low,No
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Top-down low,No
+SSD,2025.0,NGA,447.8611114694,Natural Gas,Top-down low,No
+SSD,2026.0,GEO,224.6666668464,Geothermal,Top-down low,No
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Top-down low,No
+SSD,2026.0,NGA,436.3055559046,Natural Gas,Top-down low,No
+SSD,2027.0,GEO,270.9444446612,Geothermal,Top-down low,No
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Top-down low,No
+SSD,2027.0,NGA,425.47222256260005,Natural Gas,Top-down low,No
+SSD,2028.0,GEO,317.6666669208,Geothermal,Top-down low,No
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Top-down low,No
+SSD,2028.0,NGA,414.5555558872,Natural Gas,Top-down low,No
+SSD,2029.0,GEO,364.722222514,Geothermal,Top-down low,No
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Top-down low,No
+SSD,2029.0,NGA,403.55555587840007,Natural Gas,Top-down low,No
+SSD,2030.0,GEO,417.8888892232,Geothermal,Top-down low,No
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Top-down low,No
+SSD,2030.0,NGA,391.3333336464,Natural Gas,Top-down low,No
+SSD,2020.0,HFO,6.5833333386,Heavy Fuel Oil,Top-down low,High
+SSD,2020.0,LFO,17.555555569600003,Light Fuel Oil,Top-down low,High
+SSD,2020.0,NGA,499.1944448438,Natural Gas,Top-down low,High
+SSD,2021.0,HFO,16.7222222356,Heavy Fuel Oil,Top-down low,High
+SSD,2021.0,LFO,16.805555569,Light Fuel Oil,Top-down low,High
+SSD,2021.0,NGA,510.1666670748001,Natural Gas,Top-down low,High
+SSD,2022.0,HFO,26.250000021,Heavy Fuel Oil,Top-down low,High
+SSD,2022.0,LFO,16.027777790600002,Light Fuel Oil,Top-down low,High
+SSD,2022.0,NGA,520.416667083,Natural Gas,Top-down low,High
+SSD,2023.0,HFO,38.1111111416,Heavy Fuel Oil,Top-down low,High
+SSD,2023.0,LFO,22.0277777954,Light Fuel Oil,Top-down low,High
+SSD,2023.0,NGA,520.416667083,Natural Gas,Top-down low,High
+SSD,2024.0,GEO,514.583333745,Geothermal,Top-down low,High
+SSD,2024.0,LFO,13.027777788200002,Light Fuel Oil,Top-down low,High
+SSD,2024.0,NGA,69.97222227820001,Natural Gas,Top-down low,High
+SSD,2025.0,GEO,546.5555559928,Geothermal,Top-down low,High
+SSD,2025.0,LFO,12.0555555652,Light Fuel Oil,Top-down low,High
+SSD,2025.0,NGA,76.11111117200001,Natural Gas,Top-down low,High
+SSD,2026.0,GEO,578.8333337964001,Geothermal,Top-down low,High
+SSD,2026.0,LFO,11.250000009,Light Fuel Oil,Top-down low,High
+SSD,2026.0,NGA,82.1111111768,Natural Gas,Top-down low,High
+SSD,2027.0,GEO,615.8055560482,Geothermal,Top-down low,High
+SSD,2027.0,LFO,10.4444444528,Light Fuel Oil,Top-down low,High
+SSD,2027.0,NGA,80.5833333978,Natural Gas,Top-down low,High
+SSD,2028.0,GEO,646.3055560726001,Geothermal,Top-down low,High
+SSD,2028.0,LFO,9.6388888966,Light Fuel Oil,Top-down low,High
+SSD,2028.0,NGA,85.91666673540001,Natural Gas,Top-down low,High
+SSD,2029.0,GEO,677.0277783194,Geothermal,Top-down low,High
+SSD,2029.0,LFO,8.833333340400001,Light Fuel Oil,Top-down low,High
+SSD,2029.0,NGA,91.250000073,Natural Gas,Top-down low,High
+SSD,2030.0,GEO,712.0000005696,Geothermal,Top-down low,High
+SSD,2030.0,LFO,8.055555562,Light Fuel Oil,Top-down low,High
+SSD,2030.0,NGA,97.2222223,Natural Gas,Top-down low,High

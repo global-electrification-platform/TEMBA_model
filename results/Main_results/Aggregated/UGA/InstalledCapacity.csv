@@ -1,0 +1,364 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+UGA,2020,BIO,0.0605,Biomass,Bottom-up,No
+UGA,2020,HFO,0.172819,Heavy Fuel Oil,Bottom-up,No
+UGA,2020,HYD,1.521951,Hydropower,Bottom-up,No
+UGA,2020,LFO,0.1040003911317279,Light Fuel Oil,Bottom-up,No
+UGA,2020,SOL,0.0450094999999999,Solar,Bottom-up,No
+UGA,2021,BIO,0.057475,Biomass,Bottom-up,No
+UGA,2021,HFO,0.16417805,Heavy Fuel Oil,Bottom-up,No
+UGA,2021,HYD,1.521951,Hydropower,Bottom-up,No
+UGA,2021,LFO,0.0988053911317279,Light Fuel Oil,Bottom-up,No
+UGA,2021,SOL,0.044009,Solar,Bottom-up,No
+UGA,2022,BIO,0.05445,Biomass,Bottom-up,No
+UGA,2022,HFO,0.1555371,Heavy Fuel Oil,Bottom-up,No
+UGA,2022,HYD,1.521951,Hydropower,Bottom-up,No
+UGA,2022,LFO,0.0936103911317279,Light Fuel Oil,Bottom-up,No
+UGA,2022,SOL,0.0430085,Solar,Bottom-up,No
+UGA,2023,BIO,0.051425,Biomass,Bottom-up,No
+UGA,2023,HFO,0.14689615,Heavy Fuel Oil,Bottom-up,No
+UGA,2023,HYD,1.521951,Hydropower,Bottom-up,No
+UGA,2023,LFO,0.0884153911317279,Light Fuel Oil,Bottom-up,No
+UGA,2023,SOL,0.042008,Solar,Bottom-up,No
+UGA,2024,BIO,0.0484,Biomass,Bottom-up,No
+UGA,2024,GAS,0.0638627753734855,Natural Gas,Bottom-up,No
+UGA,2024,HFO,0.1382552,Heavy Fuel Oil,Bottom-up,No
+UGA,2024,HYD,1.521951,Hydropower,Bottom-up,No
+UGA,2024,LFO,0.0832203911317279,Light Fuel Oil,Bottom-up,No
+UGA,2024,SOL,0.0410075,Solar,Bottom-up,No
+UGA,2025,BIO,0.03025,Biomass,Bottom-up,No
+UGA,2025,GAS,0.3235509765524721,Natural Gas,Bottom-up,No
+UGA,2025,GEO,0.1,Geothermal,Bottom-up,No
+UGA,2025,HFO,0.12961425,Heavy Fuel Oil,Bottom-up,No
+UGA,2025,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2025,LFO,0.0780253911317278,Light Fuel Oil,Bottom-up,No
+UGA,2025,SOL,0.040007,Solar,Bottom-up,No
+UGA,2026,BIO,0.027225,Biomass,Bottom-up,No
+UGA,2026,GAS,0.4133661019421986,Natural Gas,Bottom-up,No
+UGA,2026,GEO,0.2,Geothermal,Bottom-up,No
+UGA,2026,HFO,0.1209733,Heavy Fuel Oil,Bottom-up,No
+UGA,2026,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2026,LFO,0.0728303911317279,Light Fuel Oil,Bottom-up,No
+UGA,2026,SOL,0.0390065,Solar,Bottom-up,No
+UGA,2027,BIO,0.0242,Biomass,Bottom-up,No
+UGA,2027,GAS,0.4133661019421986,Natural Gas,Bottom-up,No
+UGA,2027,GEO,0.3,Geothermal,Bottom-up,No
+UGA,2027,HFO,0.11233235,Heavy Fuel Oil,Bottom-up,No
+UGA,2027,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2027,LFO,0.0676353911317279,Light Fuel Oil,Bottom-up,No
+UGA,2027,SOL,0.038006,Solar,Bottom-up,No
+UGA,2028,BIO,0.021175,Biomass,Bottom-up,No
+UGA,2028,GAS,0.4219095500683485,Natural Gas,Bottom-up,No
+UGA,2028,GEO,0.4,Geothermal,Bottom-up,No
+UGA,2028,HFO,0.1036914,Heavy Fuel Oil,Bottom-up,No
+UGA,2028,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2028,LFO,0.06234,Light Fuel Oil,Bottom-up,No
+UGA,2028,SOL,0.0370055,Solar,Bottom-up,No
+UGA,2029,BIO,0.01815,Biomass,Bottom-up,No
+UGA,2029,GAS,0.4910178512100235,Natural Gas,Bottom-up,No
+UGA,2029,GEO,0.4499999999999999,Geothermal,Bottom-up,No
+UGA,2029,HFO,0.09505045,Heavy Fuel Oil,Bottom-up,No
+UGA,2029,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2029,LFO,0.057145,Light Fuel Oil,Bottom-up,No
+UGA,2029,SOL,0.0360049999999999,Solar,Bottom-up,No
+UGA,2030,BIO,0.015125,Biomass,Bottom-up,No
+UGA,2030,GAS,0.5636960663703741,Natural Gas,Bottom-up,No
+UGA,2030,GEO,0.4499999999999999,Geothermal,Bottom-up,No
+UGA,2030,HFO,0.0864095,Heavy Fuel Oil,Bottom-up,No
+UGA,2030,HYD,1.527351,Hydropower,Bottom-up,No
+UGA,2030,LFO,0.05195,Light Fuel Oil,Bottom-up,No
+UGA,2030,SOL,0.0350045,Solar,Bottom-up,No
+UGA,2020,BIO,0.0605,Biomass,Bottom-up,High
+UGA,2020,HYD,1.521951,Hydropower,Bottom-up,High
+UGA,2020,LFO,0.1039,Light Fuel Oil,Bottom-up,High
+UGA,2020,SOL,0.0450094999999999,Solar,Bottom-up,High
+UGA,2021,BIO,0.057475,Biomass,Bottom-up,High
+UGA,2021,HYD,1.521951,Hydropower,Bottom-up,High
+UGA,2021,LFO,0.098705,Light Fuel Oil,Bottom-up,High
+UGA,2021,SOL,0.044009,Solar,Bottom-up,High
+UGA,2022,BIO,0.05445,Biomass,Bottom-up,High
+UGA,2022,HYD,1.521951,Hydropower,Bottom-up,High
+UGA,2022,LFO,0.09351,Light Fuel Oil,Bottom-up,High
+UGA,2022,SOL,0.0430085,Solar,Bottom-up,High
+UGA,2023,BIO,0.051425,Biomass,Bottom-up,High
+UGA,2023,HYD,1.521951,Hydropower,Bottom-up,High
+UGA,2023,LFO,0.088315,Light Fuel Oil,Bottom-up,High
+UGA,2023,SOL,0.042008,Solar,Bottom-up,High
+UGA,2024,BIO,0.0484,Biomass,Bottom-up,High
+UGA,2024,GEO,0.1,Geothermal,Bottom-up,High
+UGA,2024,HYD,1.521951,Hydropower,Bottom-up,High
+UGA,2024,LFO,0.08312,Light Fuel Oil,Bottom-up,High
+UGA,2024,SOL,0.0410075,Solar,Bottom-up,High
+UGA,2025,BIO,0.03025,Biomass,Bottom-up,High
+UGA,2025,GEO,0.2,Geothermal,Bottom-up,High
+UGA,2025,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2025,LFO,0.077925,Light Fuel Oil,Bottom-up,High
+UGA,2025,SOL,0.040007,Solar,Bottom-up,High
+UGA,2026,BIO,0.027225,Biomass,Bottom-up,High
+UGA,2026,GEO,0.3,Geothermal,Bottom-up,High
+UGA,2026,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2026,LFO,0.07273,Light Fuel Oil,Bottom-up,High
+UGA,2026,SOL,0.0390065,Solar,Bottom-up,High
+UGA,2027,BIO,0.0242,Biomass,Bottom-up,High
+UGA,2027,GEO,0.4,Geothermal,Bottom-up,High
+UGA,2027,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2027,LFO,0.067535,Light Fuel Oil,Bottom-up,High
+UGA,2027,SOL,0.038006,Solar,Bottom-up,High
+UGA,2028,BIO,0.021175,Biomass,Bottom-up,High
+UGA,2028,GAS,0.0283427206109605,Natural Gas,Bottom-up,High
+UGA,2028,GEO,0.4499999999999999,Geothermal,Bottom-up,High
+UGA,2028,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2028,LFO,0.06234,Light Fuel Oil,Bottom-up,High
+UGA,2028,SOL,0.0456687141979675,Solar,Bottom-up,High
+UGA,2029,BIO,0.01815,Biomass,Bottom-up,High
+UGA,2029,GAS,0.0787594050943106,Natural Gas,Bottom-up,High
+UGA,2029,GEO,0.4499999999999999,Geothermal,Bottom-up,High
+UGA,2029,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2029,LFO,0.057145,Light Fuel Oil,Bottom-up,High
+UGA,2029,SOL,0.1727620806003419,Solar,Bottom-up,High
+UGA,2030,BIO,0.015125,Biomass,Bottom-up,High
+UGA,2030,GAS,0.0787594050943106,Natural Gas,Bottom-up,High
+UGA,2030,GEO,0.4499999999999999,Geothermal,Bottom-up,High
+UGA,2030,HYD,1.527351,Hydropower,Bottom-up,High
+UGA,2030,LFO,0.05195,Light Fuel Oil,Bottom-up,High
+UGA,2030,SOL,0.3201986239802544,Solar,Bottom-up,High
+UGA,2020,BIO,0.0605,Biomass,Top-down high,No
+UGA,2020,HFO,0.172819,Heavy Fuel Oil,Top-down high,No
+UGA,2020,HYD,1.521951,Hydropower,Top-down high,No
+UGA,2020,LFO,0.1040369142342328,Light Fuel Oil,Top-down high,No
+UGA,2020,SOL,0.0450094999999999,Solar,Top-down high,No
+UGA,2021,BIO,0.057475,Biomass,Top-down high,No
+UGA,2021,HFO,0.16417805,Heavy Fuel Oil,Top-down high,No
+UGA,2021,HYD,1.521951,Hydropower,Top-down high,No
+UGA,2021,LFO,0.0988419142342328,Light Fuel Oil,Top-down high,No
+UGA,2021,SOL,0.044009,Solar,Top-down high,No
+UGA,2022,BIO,0.05445,Biomass,Top-down high,No
+UGA,2022,GAS,0.314530184506545,Natural Gas,Top-down high,No
+UGA,2022,HFO,0.1555371,Heavy Fuel Oil,Top-down high,No
+UGA,2022,HYD,1.521951,Hydropower,Top-down high,No
+UGA,2022,LFO,0.0936469142342328,Light Fuel Oil,Top-down high,No
+UGA,2022,SOL,0.0430085,Solar,Top-down high,No
+UGA,2023,BIO,0.051425,Biomass,Top-down high,No
+UGA,2023,GAS,0.5576184290926317,Natural Gas,Top-down high,No
+UGA,2023,HFO,0.14689615,Heavy Fuel Oil,Top-down high,No
+UGA,2023,HYD,1.521951,Hydropower,Top-down high,No
+UGA,2023,LFO,0.0884519142342328,Light Fuel Oil,Top-down high,No
+UGA,2023,SOL,0.042008,Solar,Top-down high,No
+UGA,2024,BIO,0.0484,Biomass,Top-down high,No
+UGA,2024,GAS,0.7043946637258605,Natural Gas,Top-down high,No
+UGA,2024,GEO,0.1,Geothermal,Top-down high,No
+UGA,2024,HFO,0.1382552,Heavy Fuel Oil,Top-down high,No
+UGA,2024,HYD,1.521951,Hydropower,Top-down high,No
+UGA,2024,LFO,0.0832569142342328,Light Fuel Oil,Top-down high,No
+UGA,2024,SOL,0.0410075,Solar,Top-down high,No
+UGA,2025,BIO,0.03025,Biomass,Top-down high,No
+UGA,2025,GAS,0.9940139502523104,Natural Gas,Top-down high,No
+UGA,2025,GEO,0.2,Geothermal,Top-down high,No
+UGA,2025,HFO,0.12961425,Heavy Fuel Oil,Top-down high,No
+UGA,2025,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2025,LFO,0.0780619142342328,Light Fuel Oil,Top-down high,No
+UGA,2025,SOL,0.040007,Solar,Top-down high,No
+UGA,2026,BIO,0.027225,Biomass,Top-down high,No
+UGA,2026,GAS,1.218154193812773,Natural Gas,Top-down high,No
+UGA,2026,GEO,0.3,Geothermal,Top-down high,No
+UGA,2026,HFO,0.1209733,Heavy Fuel Oil,Top-down high,No
+UGA,2026,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2026,LFO,0.0728669142342328,Light Fuel Oil,Top-down high,No
+UGA,2026,SOL,0.0390065,Solar,Top-down high,No
+UGA,2027,BIO,0.0242,Biomass,Top-down high,No
+UGA,2027,GAS,1.2881023018008633,Natural Gas,Top-down high,No
+UGA,2027,GEO,0.4,Geothermal,Top-down high,No
+UGA,2027,HFO,0.11233235,Heavy Fuel Oil,Top-down high,No
+UGA,2027,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2027,LFO,0.0676719142342328,Light Fuel Oil,Top-down high,No
+UGA,2027,SOL,0.038006,Solar,Top-down high,No
+UGA,2028,BIO,0.021175,Biomass,Top-down high,No
+UGA,2028,GAS,1.4631310881830126,Natural Gas,Top-down high,No
+UGA,2028,GEO,0.4499999999999999,Geothermal,Top-down high,No
+UGA,2028,HFO,0.1036914,Heavy Fuel Oil,Top-down high,No
+UGA,2028,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2028,LFO,0.06234,Light Fuel Oil,Top-down high,No
+UGA,2028,SOL,0.0370055,Solar,Top-down high,No
+UGA,2029,BIO,0.01815,Biomass,Top-down high,No
+UGA,2029,GAS,1.5908697613778795,Natural Gas,Top-down high,No
+UGA,2029,GEO,0.4499999999999999,Geothermal,Top-down high,No
+UGA,2029,HFO,0.09505045,Heavy Fuel Oil,Top-down high,No
+UGA,2029,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2029,LFO,0.057145,Light Fuel Oil,Top-down high,No
+UGA,2029,SOL,0.0360049999999999,Solar,Top-down high,No
+UGA,2030,BIO,0.015125,Biomass,Top-down high,No
+UGA,2030,GAS,1.6894408414447597,Natural Gas,Top-down high,No
+UGA,2030,GEO,0.4499999999999999,Geothermal,Top-down high,No
+UGA,2030,HFO,0.0864095,Heavy Fuel Oil,Top-down high,No
+UGA,2030,HYD,1.527351,Hydropower,Top-down high,No
+UGA,2030,LFO,0.05195,Light Fuel Oil,Top-down high,No
+UGA,2030,SOL,0.0470645495123041,Solar,Top-down high,No
+UGA,2020,BIO,0.0605,Biomass,Top-down high,High
+UGA,2020,HYD,1.521951,Hydropower,Top-down high,High
+UGA,2020,LFO,0.1040003911317279,Light Fuel Oil,Top-down high,High
+UGA,2020,SOL,0.0450094999999999,Solar,Top-down high,High
+UGA,2021,BIO,0.057475,Biomass,Top-down high,High
+UGA,2021,HYD,1.521951,Hydropower,Top-down high,High
+UGA,2021,LFO,0.0988053911317279,Light Fuel Oil,Top-down high,High
+UGA,2021,SOL,0.044009,Solar,Top-down high,High
+UGA,2022,BIO,0.05445,Biomass,Top-down high,High
+UGA,2022,GAS,0.0276169020718918,Natural Gas,Top-down high,High
+UGA,2022,HYD,1.521951,Hydropower,Top-down high,High
+UGA,2022,LFO,0.0936103911317279,Light Fuel Oil,Top-down high,High
+UGA,2022,SOL,0.0430085,Solar,Top-down high,High
+UGA,2023,BIO,0.051425,Biomass,Top-down high,High
+UGA,2023,GAS,0.0276169020718918,Natural Gas,Top-down high,High
+UGA,2023,HYD,1.722955491764812,Hydropower,Top-down high,High
+UGA,2023,LFO,0.0884153911317279,Light Fuel Oil,Top-down high,High
+UGA,2023,SOL,0.042008,Solar,Top-down high,High
+UGA,2024,BIO,0.0484,Biomass,Top-down high,High
+UGA,2024,GAS,0.3105796478045335,Natural Gas,Top-down high,High
+UGA,2024,GEO,0.1,Geothermal,Top-down high,High
+UGA,2024,HYD,1.722955491764812,Hydropower,Top-down high,High
+UGA,2024,LFO,0.0832203911317279,Light Fuel Oil,Top-down high,High
+UGA,2024,SOL,0.0410075,Solar,Top-down high,High
+UGA,2025,BIO,0.03025,Biomass,Top-down high,High
+UGA,2025,GAS,0.3105796478045335,Natural Gas,Top-down high,High
+UGA,2025,GEO,0.2,Geothermal,Top-down high,High
+UGA,2025,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2025,LFO,0.0780253911317278,Light Fuel Oil,Top-down high,High
+UGA,2025,SOL,0.040007,Solar,Top-down high,High
+UGA,2026,BIO,0.027225,Biomass,Top-down high,High
+UGA,2026,GAS,1.2427674069187415,Natural Gas,Top-down high,High
+UGA,2026,GEO,0.3,Geothermal,Top-down high,High
+UGA,2026,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2026,LFO,0.0728303911317279,Light Fuel Oil,Top-down high,High
+UGA,2026,SOL,0.0390065,Solar,Top-down high,High
+UGA,2027,BIO,0.0242,Biomass,Top-down high,High
+UGA,2027,GAS,1.2448864838327856,Natural Gas,Top-down high,High
+UGA,2027,GEO,0.4,Geothermal,Top-down high,High
+UGA,2027,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2027,LFO,0.0676353911317279,Light Fuel Oil,Top-down high,High
+UGA,2027,SOL,0.038006,Solar,Top-down high,High
+UGA,2028,BIO,0.021175,Biomass,Top-down high,High
+UGA,2028,GAS,1.2448864838327856,Natural Gas,Top-down high,High
+UGA,2028,GEO,0.4499999999999999,Geothermal,Top-down high,High
+UGA,2028,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2028,LFO,0.06234,Light Fuel Oil,Top-down high,High
+UGA,2028,SOL,0.1623748651824731,Solar,Top-down high,High
+UGA,2029,BIO,0.01815,Biomass,Top-down high,High
+UGA,2029,GAS,1.4071486394367856,Natural Gas,Top-down high,High
+UGA,2029,GEO,0.4499999999999999,Geothermal,Top-down high,High
+UGA,2029,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2029,LFO,0.057145,Light Fuel Oil,Top-down high,High
+UGA,2029,SOL,0.2896074990681231,Solar,Top-down high,High
+UGA,2030,BIO,0.015125,Biomass,Top-down high,High
+UGA,2030,GAS,1.4071486394367856,Natural Gas,Top-down high,High
+UGA,2030,GEO,0.4499999999999999,Geothermal,Top-down high,High
+UGA,2030,HYD,1.7283554917648118,Hydropower,Top-down high,High
+UGA,2030,LFO,0.05195,Light Fuel Oil,Top-down high,High
+UGA,2030,SOL,0.4371833099313104,Solar,Top-down high,High
+UGA,2020,BIO,0.0605,Biomass,Top-down low,No
+UGA,2020,HFO,0.172819,Heavy Fuel Oil,Top-down low,No
+UGA,2020,HYD,1.521951,Hydropower,Top-down low,No
+UGA,2020,LFO,0.1039,Light Fuel Oil,Top-down low,No
+UGA,2020,SOL,0.0450094999999999,Solar,Top-down low,No
+UGA,2021,BIO,0.057475,Biomass,Top-down low,No
+UGA,2021,HFO,0.16417805,Heavy Fuel Oil,Top-down low,No
+UGA,2021,HYD,1.521951,Hydropower,Top-down low,No
+UGA,2021,LFO,0.098705,Light Fuel Oil,Top-down low,No
+UGA,2021,SOL,0.044009,Solar,Top-down low,No
+UGA,2022,BIO,0.05445,Biomass,Top-down low,No
+UGA,2022,HFO,0.1555371,Heavy Fuel Oil,Top-down low,No
+UGA,2022,HYD,1.521951,Hydropower,Top-down low,No
+UGA,2022,LFO,0.09351,Light Fuel Oil,Top-down low,No
+UGA,2022,SOL,0.0430085,Solar,Top-down low,No
+UGA,2023,BIO,0.051425,Biomass,Top-down low,No
+UGA,2023,HFO,0.14689615,Heavy Fuel Oil,Top-down low,No
+UGA,2023,HYD,1.521951,Hydropower,Top-down low,No
+UGA,2023,LFO,0.088315,Light Fuel Oil,Top-down low,No
+UGA,2023,SOL,0.042008,Solar,Top-down low,No
+UGA,2024,BIO,0.0484,Biomass,Top-down low,No
+UGA,2024,HFO,0.1382552,Heavy Fuel Oil,Top-down low,No
+UGA,2024,HYD,1.521951,Hydropower,Top-down low,No
+UGA,2024,LFO,0.08312,Light Fuel Oil,Top-down low,No
+UGA,2024,SOL,0.0410075,Solar,Top-down low,No
+UGA,2025,BIO,0.03025,Biomass,Top-down low,No
+UGA,2025,HFO,0.12961425,Heavy Fuel Oil,Top-down low,No
+UGA,2025,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2025,LFO,0.077925,Light Fuel Oil,Top-down low,No
+UGA,2025,SOL,0.040007,Solar,Top-down low,No
+UGA,2026,BIO,0.027225,Biomass,Top-down low,No
+UGA,2026,HFO,0.1209733,Heavy Fuel Oil,Top-down low,No
+UGA,2026,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2026,LFO,0.07273,Light Fuel Oil,Top-down low,No
+UGA,2026,SOL,0.0390065,Solar,Top-down low,No
+UGA,2027,BIO,0.0242,Biomass,Top-down low,No
+UGA,2027,HFO,0.11233235,Heavy Fuel Oil,Top-down low,No
+UGA,2027,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2027,LFO,0.067535,Light Fuel Oil,Top-down low,No
+UGA,2027,SOL,0.038006,Solar,Top-down low,No
+UGA,2028,BIO,0.021175,Biomass,Top-down low,No
+UGA,2028,GEO,0.1,Geothermal,Top-down low,No
+UGA,2028,HFO,0.1036914,Heavy Fuel Oil,Top-down low,No
+UGA,2028,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2028,LFO,0.06234,Light Fuel Oil,Top-down low,No
+UGA,2028,SOL,0.0370055,Solar,Top-down low,No
+UGA,2029,BIO,0.01815,Biomass,Top-down low,No
+UGA,2029,GAS,0.0935356792606914,Natural Gas,Top-down low,No
+UGA,2029,GEO,0.2,Geothermal,Top-down low,No
+UGA,2029,HFO,0.09505045,Heavy Fuel Oil,Top-down low,No
+UGA,2029,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2029,LFO,0.057145,Light Fuel Oil,Top-down low,No
+UGA,2029,SOL,0.0360049999999999,Solar,Top-down low,No
+UGA,2030,BIO,0.015125,Biomass,Top-down low,No
+UGA,2030,GAS,0.3570823120965398,Natural Gas,Top-down low,No
+UGA,2030,GEO,0.3,Geothermal,Top-down low,No
+UGA,2030,HFO,0.0864095,Heavy Fuel Oil,Top-down low,No
+UGA,2030,HYD,1.527351,Hydropower,Top-down low,No
+UGA,2030,LFO,0.05195,Light Fuel Oil,Top-down low,No
+UGA,2030,SOL,0.0350045,Solar,Top-down low,No
+UGA,2020,BIO,0.0605,Biomass,Top-down low,High
+UGA,2020,HYD,1.521951,Hydropower,Top-down low,High
+UGA,2020,LFO,0.1039,Light Fuel Oil,Top-down low,High
+UGA,2020,SOL,0.0450094999999999,Solar,Top-down low,High
+UGA,2021,BIO,0.057475,Biomass,Top-down low,High
+UGA,2021,HYD,1.521951,Hydropower,Top-down low,High
+UGA,2021,LFO,0.098705,Light Fuel Oil,Top-down low,High
+UGA,2021,SOL,0.044009,Solar,Top-down low,High
+UGA,2022,BIO,0.05445,Biomass,Top-down low,High
+UGA,2022,HYD,1.521951,Hydropower,Top-down low,High
+UGA,2022,LFO,0.09351,Light Fuel Oil,Top-down low,High
+UGA,2022,SOL,0.0430085,Solar,Top-down low,High
+UGA,2023,BIO,0.051425,Biomass,Top-down low,High
+UGA,2023,HYD,1.521951,Hydropower,Top-down low,High
+UGA,2023,LFO,0.088315,Light Fuel Oil,Top-down low,High
+UGA,2023,SOL,0.042008,Solar,Top-down low,High
+UGA,2024,BIO,0.0484,Biomass,Top-down low,High
+UGA,2024,HYD,1.521951,Hydropower,Top-down low,High
+UGA,2024,LFO,0.08312,Light Fuel Oil,Top-down low,High
+UGA,2024,SOL,0.0410075,Solar,Top-down low,High
+UGA,2025,BIO,0.03025,Biomass,Top-down low,High
+UGA,2025,GEO,0.0928795293412715,Geothermal,Top-down low,High
+UGA,2025,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2025,LFO,0.077925,Light Fuel Oil,Top-down low,High
+UGA,2025,SOL,0.040007,Solar,Top-down low,High
+UGA,2026,BIO,0.027225,Biomass,Top-down low,High
+UGA,2026,GEO,0.0928795293412715,Geothermal,Top-down low,High
+UGA,2026,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2026,LFO,0.07273,Light Fuel Oil,Top-down low,High
+UGA,2026,SOL,0.0390065,Solar,Top-down low,High
+UGA,2027,BIO,0.0242,Biomass,Top-down low,High
+UGA,2027,GEO,0.1928795293412715,Geothermal,Top-down low,High
+UGA,2027,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2027,LFO,0.067535,Light Fuel Oil,Top-down low,High
+UGA,2027,SOL,0.038006,Solar,Top-down low,High
+UGA,2028,BIO,0.021175,Biomass,Top-down low,High
+UGA,2028,GEO,0.2928795293412715,Geothermal,Top-down low,High
+UGA,2028,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2028,LFO,0.06234,Light Fuel Oil,Top-down low,High
+UGA,2028,SOL,0.0370055,Solar,Top-down low,High
+UGA,2029,BIO,0.01815,Biomass,Top-down low,High
+UGA,2029,GEO,0.3928795293412715,Geothermal,Top-down low,High
+UGA,2029,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2029,LFO,0.057145,Light Fuel Oil,Top-down low,High
+UGA,2029,SOL,0.0360049999999999,Solar,Top-down low,High
+UGA,2030,BIO,0.015125,Biomass,Top-down low,High
+UGA,2030,GEO,0.45,Geothermal,Top-down low,High
+UGA,2030,HYD,1.527351,Hydropower,Top-down low,High
+UGA,2030,LFO,0.05195,Light Fuel Oil,Top-down low,High
+UGA,2030,SOL,0.0470645495123041,Solar,Top-down low,High

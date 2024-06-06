@@ -1,0 +1,367 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+ZWE,2020.0,BIO,387.222222532,Biomass,Bottom-up,No
+ZWE,2020.0,COA,4607.1666703524,Coal,Bottom-up,No
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2020.0,Imports (ZMB),1987.1666682564005,Imports (ZMB),Bottom-up,No
+ZWE,2020.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2021.0,BIO,367.8611114054,Biomass,Bottom-up,No
+ZWE,2021.0,COA,7439.805561507401,Coal,Bottom-up,No
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2021.0,Imports (ZAF),1375.0277788778,Imports (ZAF),Bottom-up,No
+ZWE,2021.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2022.0,BIO,348.5000002788,Biomass,Bottom-up,No
+ZWE,2022.0,COA,10847.4722309002,Coal,Bottom-up,No
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2022.0,Imports (ZAF),726.5833339146,Imports (ZAF),Bottom-up,No
+ZWE,2022.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2023.0,BIO,329.1388891522,Biomass,Bottom-up,No
+ZWE,2023.0,COA,12562.7222322724,Coal,Bottom-up,No
+ZWE,2023.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2023.0,Imports (MOZ),117.0277778714,Imports (MOZ),Bottom-up,No
+ZWE,2023.0,Imports (ZAF),1801.5000014412,Imports (ZAF),Bottom-up,No
+ZWE,2023.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2024.0,BIO,309.7777780256,Biomass,Bottom-up,No
+ZWE,2024.0,COA,12170.6666764032,Coal,Bottom-up,No
+ZWE,2024.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2024.0,Imports (ZAF),822.4166673246001,Imports (ZAF),Bottom-up,No
+ZWE,2024.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2025.0,BIO,193.611111266,Biomass,Bottom-up,No
+ZWE,2025.0,COA,11778.611120534,Coal,Bottom-up,No
+ZWE,2025.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2025.0,Imports (MOZ),301.3333335744,Imports (MOZ),Bottom-up,No
+ZWE,2025.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2026.0,BIO,174.2500001394,Biomass,Bottom-up,No
+ZWE,2026.0,COA,11386.527786887002,Coal,Bottom-up,No
+ZWE,2026.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2026.0,Imports (MOZ),384.7500003078,Imports (MOZ),Bottom-up,No
+ZWE,2026.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2027.0,BIO,154.8888890128,Biomass,Bottom-up,No
+ZWE,2027.0,COA,10994.4722310178,Coal,Bottom-up,No
+ZWE,2027.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2027.0,Imports (MOZ),384.7500003078,Imports (MOZ),Bottom-up,No
+ZWE,2027.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2028.0,BIO,135.5277778862,Biomass,Bottom-up,No
+ZWE,2028.0,COA,10602.4166751486,Coal,Bottom-up,No
+ZWE,2028.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2028.0,Imports (MOZ),493.7777781728,Imports (MOZ),Bottom-up,No
+ZWE,2028.0,Imports (ZAF),60.25000004820001,Imports (ZAF),Bottom-up,No
+ZWE,2028.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2029.0,BIO,116.1666667596,Biomass,Bottom-up,No
+ZWE,2029.0,COA,13002.305565957402,Coal,Bottom-up,No
+ZWE,2029.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2029.0,Imports (MOZ),336.6944447138,Imports (MOZ),Bottom-up,No
+ZWE,2029.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2030.0,BIO,96.805555633,Biomass,Bottom-up,No
+ZWE,2030.0,COA,12702.6944546066,Coal,Bottom-up,No
+ZWE,2030.0,HYD,4148.8611144302,Hydropower,Bottom-up,No
+ZWE,2030.0,Imports (ZMB),172.19444458220002,Imports (ZMB),Bottom-up,No
+ZWE,2030.0,SOL,9.2777777852,Solar,Bottom-up,No
+ZWE,2020.0,BIO,387.222222532,Biomass,Bottom-up,High
+ZWE,2020.0,COA,3069.1666691220003,Coal,Bottom-up,High
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Bottom-up,High
+ZWE,2020.0,Imports (ZMB),2730.2777799620003,Imports (ZMB),Bottom-up,High
+ZWE,2020.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2021.0,BIO,367.8611114054,Biomass,Bottom-up,High
+ZWE,2021.0,COA,1568.2500012546,Coal,Bottom-up,High
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Bottom-up,High
+ZWE,2021.0,Imports (MOZ),629.6666671704,Imports (MOZ),Bottom-up,High
+ZWE,2021.0,Imports (ZMB),4769.166670482,Imports (ZMB),Bottom-up,High
+ZWE,2021.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2022.0,BIO,348.5000002788,Biomass,Bottom-up,High
+ZWE,2022.0,COA,1568.2500012546,Coal,Bottom-up,High
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Bottom-up,High
+ZWE,2022.0,Imports (MOZ),263.8611113222,Imports (MOZ),Bottom-up,High
+ZWE,2022.0,Imports (ZMB),3292.9722248566,Imports (ZMB),Bottom-up,High
+ZWE,2022.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2023.0,BIO,329.1388891522,Biomass,Bottom-up,High
+ZWE,2023.0,COA,1489.8333345252,Coal,Bottom-up,High
+ZWE,2023.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2023.0,Imports (MOZ),339.583333605,Imports (MOZ),Bottom-up,High
+ZWE,2023.0,Imports (ZMB),3569.7222250780005,Imports (ZMB),Bottom-up,High
+ZWE,2023.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2024.0,BIO,309.7777780256,Biomass,Bottom-up,High
+ZWE,2024.0,COA,1411.4166677958,Coal,Bottom-up,High
+ZWE,2024.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2024.0,Imports (MOZ),488.472222613,Imports (MOZ),Bottom-up,High
+ZWE,2024.0,Imports (ZMB),5192.2777819316,Imports (ZMB),Bottom-up,High
+ZWE,2024.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2025.0,BIO,193.611111266,Biomass,Bottom-up,High
+ZWE,2025.0,COA,1333.0000010664,Coal,Bottom-up,High
+ZWE,2025.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2025.0,Imports (MOZ),430.3333336776,Imports (MOZ),Bottom-up,High
+ZWE,2025.0,Imports (ZMB),5248.2777819764,Imports (ZMB),Bottom-up,High
+ZWE,2025.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2026.0,BIO,174.2500001394,Biomass,Bottom-up,High
+ZWE,2026.0,COA,1254.583334337,Coal,Bottom-up,High
+ZWE,2026.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2026.0,Imports (MOZ),626.6944449458,Imports (MOZ),Bottom-up,High
+ZWE,2026.0,Imports (ZMB),5610.833337822,Imports (ZMB),Bottom-up,High
+ZWE,2026.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2027.0,BIO,154.8888890128,Biomass,Bottom-up,High
+ZWE,2027.0,COA,1176.1944453854,Coal,Bottom-up,High
+ZWE,2027.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2027.0,Imports (MOZ),1066.5833341866,Imports (MOZ),Bottom-up,High
+ZWE,2027.0,Imports (ZMB),5403.2222265448,Imports (ZMB),Bottom-up,High
+ZWE,2027.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2028.0,BIO,135.5277778862,Biomass,Bottom-up,High
+ZWE,2028.0,COA,1097.777778656,Coal,Bottom-up,High
+ZWE,2028.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2028.0,Imports (MOZ),692.3055561094001,Imports (MOZ),Bottom-up,High
+ZWE,2028.0,Imports (ZMB),5883.972226929401,Imports (ZMB),Bottom-up,High
+ZWE,2028.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2029.0,BIO,116.1666667596,Biomass,Bottom-up,High
+ZWE,2029.0,COA,1019.3611119266,Coal,Bottom-up,High
+ZWE,2029.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2029.0,Imports (MOZ),765.5000006124,Imports (MOZ),Bottom-up,High
+ZWE,2029.0,Imports (ZMB),6008.3611159178,Imports (ZMB),Bottom-up,High
+ZWE,2029.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2030.0,BIO,96.805555633,Biomass,Bottom-up,High
+ZWE,2030.0,COA,940.9444451972,Coal,Bottom-up,High
+ZWE,2030.0,HYD,8809.1944514918,Hydropower,Bottom-up,High
+ZWE,2030.0,Imports (MOZ),546.1666671036,Imports (MOZ),Bottom-up,High
+ZWE,2030.0,Imports (ZMB),6128.2222271248,Imports (ZMB),Bottom-up,High
+ZWE,2030.0,SOL,9.2777777852,Solar,Bottom-up,High
+ZWE,2020.0,BIO,387.222222532,Biomass,Top-down high,No
+ZWE,2020.0,COA,3719.000002975201,Coal,Top-down high,No
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2020.0,Imports (ZMB),1135.5000009084,Imports (ZMB),Top-down high,No
+ZWE,2020.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2021.0,BIO,367.8611114054,Biomass,Top-down high,No
+ZWE,2021.0,COA,8508.222229028801,Coal,Top-down high,No
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2021.0,Imports (MOZ),568.5833337882,Imports (MOZ),Top-down high,No
+ZWE,2021.0,Imports (ZAF),1872.4444459424,Imports (ZAF),Top-down high,No
+ZWE,2021.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2022.0,BIO,348.5000002788,Biomass,Top-down high,No
+ZWE,2022.0,COA,12954.7777881416,Coal,Top-down high,No
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2022.0,Imports (ZAF),1367.0555566492,Imports (ZAF),Top-down high,No
+ZWE,2022.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2023.0,BIO,329.1388891522,Biomass,Top-down high,No
+ZWE,2023.0,COA,12562.7222322724,Coal,Top-down high,No
+ZWE,2023.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2023.0,Imports (MOZ),20.2500000162,Imports (MOZ),Top-down high,No
+ZWE,2023.0,Imports (ZAF),2995.9444468412,Imports (ZAF),Top-down high,No
+ZWE,2023.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2024.0,BIO,309.7777780256,Biomass,Top-down high,No
+ZWE,2024.0,COA,12170.6666764032,Coal,Top-down high,No
+ZWE,2024.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2024.0,Imports (MOZ),1141.250000913,Imports (MOZ),Top-down high,No
+ZWE,2024.0,Imports (ZAF),67.80555560980001,Imports (ZAF),Top-down high,No
+ZWE,2024.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2025.0,BIO,193.611111266,Biomass,Top-down high,No
+ZWE,2025.0,COA,11778.611120534,Coal,Top-down high,No
+ZWE,2025.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2025.0,Imports (MOZ),633.6111116180001,Imports (MOZ),Top-down high,No
+ZWE,2025.0,Imports (ZAF),133.1388889954,Imports (ZAF),Top-down high,No
+ZWE,2025.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2026.0,BIO,174.2500001394,Biomass,Top-down high,No
+ZWE,2026.0,COA,12215.7500097726,Coal,Top-down high,No
+ZWE,2026.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2026.0,Imports (MOZ),462.083333703,Imports (MOZ),Top-down high,No
+ZWE,2026.0,Imports (ZAF),210.0833335014,Imports (ZAF),Top-down high,No
+ZWE,2026.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2027.0,BIO,154.8888890128,Biomass,Top-down high,No
+ZWE,2027.0,COA,12771.1944546614,Coal,Top-down high,No
+ZWE,2027.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2027.0,Imports (MOZ),635.8611116198,Imports (MOZ),Top-down high,No
+ZWE,2027.0,Imports (ZAF),192.638889043,Imports (ZAF),Top-down high,No
+ZWE,2027.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2028.0,BIO,135.5277778862,Biomass,Top-down high,No
+ZWE,2028.0,COA,14602.277789459602,Coal,Top-down high,No
+ZWE,2028.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2028.0,Imports (MOZ),585.9166671354001,Imports (MOZ),Top-down high,No
+ZWE,2028.0,Imports (ZAF),42.750000034200006,Imports (ZAF),Top-down high,No
+ZWE,2028.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2029.0,BIO,116.1666667596,Biomass,Top-down high,No
+ZWE,2029.0,COA,18219.277792353205,Coal,Top-down high,No
+ZWE,2029.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2029.0,Imports (MOZ),115.0555556476,Imports (MOZ),Top-down high,No
+ZWE,2029.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2030.0,BIO,96.805555633,Biomass,Top-down high,No
+ZWE,2030.0,COA,20687.083349883,Coal,Top-down high,No
+ZWE,2030.0,HYD,4148.8611144302,Hydropower,Top-down high,No
+ZWE,2030.0,SOL,9.2777777852,Solar,Top-down high,No
+ZWE,2020.0,BIO,387.222222532,Biomass,Top-down high,High
+ZWE,2020.0,COA,3242.7500025942,Coal,Top-down high,High
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Top-down high,High
+ZWE,2020.0,Imports (ZMB),2730.2777799620003,Imports (ZMB),Top-down high,High
+ZWE,2020.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2021.0,BIO,367.8611114054,Biomass,Top-down high,High
+ZWE,2021.0,COA,1568.2500012546,Coal,Top-down high,High
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Top-down high,High
+ZWE,2021.0,Imports (MOZ),810.3888895372,Imports (MOZ),Top-down high,High
+ZWE,2021.0,Imports (ZMB),4910.9444483732,Imports (ZMB),Top-down high,High
+ZWE,2021.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2022.0,BIO,348.5000002788,Biomass,Top-down high,High
+ZWE,2022.0,COA,1568.2500012546,Coal,Top-down high,High
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Top-down high,High
+ZWE,2022.0,Imports (MOZ),507.8333337396001,Imports (MOZ),Top-down high,High
+ZWE,2022.0,Imports (ZMB),3901.111114232,Imports (ZMB),Top-down high,High
+ZWE,2022.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2023.0,BIO,329.1388891522,Biomass,Top-down high,High
+ZWE,2023.0,COA,1489.8333345252,Coal,Top-down high,High
+ZWE,2023.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2023.0,Imports (MOZ),331.9722224878,Imports (MOZ),Top-down high,High
+ZWE,2023.0,Imports (ZMB),4978.388892871601,Imports (ZMB),Top-down high,High
+ZWE,2023.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2024.0,BIO,309.7777780256,Biomass,Top-down high,High
+ZWE,2024.0,COA,1411.4166677958,Coal,Top-down high,High
+ZWE,2024.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2024.0,Imports (MOZ),2422.361113049,Imports (MOZ),Top-down high,High
+ZWE,2024.0,Imports (ZMB),3731.94444743,Imports (ZMB),Top-down high,High
+ZWE,2024.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2025.0,BIO,193.611111266,Biomass,Top-down high,High
+ZWE,2025.0,COA,1333.0000010664,Coal,Top-down high,High
+ZWE,2025.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2025.0,Imports (MOZ),150.1111112312,Imports (MOZ),Top-down high,High
+ZWE,2025.0,Imports (ZMB),6041.0555603884,Imports (ZMB),Top-down high,High
+ZWE,2025.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2026.0,BIO,174.2500001394,Biomass,Top-down high,High
+ZWE,2026.0,COA,1254.583334337,Coal,Top-down high,High
+ZWE,2026.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2026.0,Imports (MOZ),518.0833337478,Imports (MOZ),Top-down high,High
+ZWE,2026.0,Imports (ZMB),6535.0277830058,Imports (ZMB),Top-down high,High
+ZWE,2026.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2027.0,BIO,154.8888890128,Biomass,Top-down high,High
+ZWE,2027.0,COA,1176.1944453854,Coal,Top-down high,High
+ZWE,2027.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2027.0,Imports (MOZ),1233.1666676532,Imports (MOZ),Top-down high,High
+ZWE,2027.0,Imports (ZMB),6272.4722272402005,Imports (ZMB),Top-down high,High
+ZWE,2027.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2028.0,BIO,135.5277778862,Biomass,Top-down high,High
+ZWE,2028.0,COA,1097.777778656,Coal,Top-down high,High
+ZWE,2028.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2028.0,Imports (MOZ),1509.5000012076,Imports (MOZ),Top-down high,High
+ZWE,2028.0,Imports (ZMB),6328.1111161736,Imports (ZMB),Top-down high,High
+ZWE,2028.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2029.0,BIO,116.1666667596,Biomass,Top-down high,High
+ZWE,2029.0,COA,1019.3611119266,Coal,Top-down high,High
+ZWE,2029.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2029.0,Imports (MOZ),2056.5555572008,Imports (MOZ),Top-down high,High
+ZWE,2029.0,Imports (ZMB),6029.0833381566,Imports (ZMB),Top-down high,High
+ZWE,2029.0,SOL,9.2777777852,Solar,Top-down high,High
+ZWE,2030.0,BIO,96.805555633,Biomass,Top-down high,High
+ZWE,2030.0,COA,940.9444451972,Coal,Top-down high,High
+ZWE,2030.0,HYD,8809.1944514918,Hydropower,Top-down high,High
+ZWE,2030.0,Imports (MOZ),814.1388895402,Imports (MOZ),Top-down high,High
+ZWE,2030.0,Imports (ZMB),6651.527783099,Imports (ZMB),Top-down high,High
+ZWE,2030.0,SOL,851.6111117924002,Solar,Top-down high,High
+ZWE,2020.0,BIO,387.222222532,Biomass,Top-down low,No
+ZWE,2020.0,COA,4702.3055593174,Coal,Top-down low,No
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2020.0,Imports (ZMB),2748.8055577546,Imports (ZMB),Top-down low,No
+ZWE,2020.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2021.0,BIO,367.8611114054,Biomass,Top-down low,No
+ZWE,2021.0,COA,3638.8055584666,Coal,Top-down low,No
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2021.0,Imports (ZMB),2084.2500016674003,Imports (ZMB),Top-down low,No
+ZWE,2021.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2022.0,BIO,348.5000002788,Biomass,Top-down low,No
+ZWE,2022.0,COA,9002.5555627576,Coal,Top-down low,No
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2022.0,Imports (ZMB),662.8888894192,Imports (ZMB),Top-down low,No
+ZWE,2022.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2023.0,BIO,329.1388891522,Biomass,Top-down low,No
+ZWE,2023.0,COA,9098.5555628344,Coal,Top-down low,No
+ZWE,2023.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2023.0,Imports (ZAF),659.1666671940001,Imports (ZAF),Top-down low,No
+ZWE,2023.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2024.0,BIO,309.7777780256,Biomass,Top-down low,No
+ZWE,2024.0,COA,10377.6666749688,Coal,Top-down low,No
+ZWE,2024.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2024.0,Imports (ZAF),5.1666666708,Imports (ZAF),Top-down low,No
+ZWE,2024.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2025.0,BIO,193.611111266,Biomass,Top-down low,No
+ZWE,2025.0,COA,11608.666675953602,Coal,Top-down low,No
+ZWE,2025.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2025.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2026.0,BIO,174.2500001394,Biomass,Top-down low,No
+ZWE,2026.0,COA,11386.527786887002,Coal,Top-down low,No
+ZWE,2026.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2026.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2027.0,BIO,154.8888890128,Biomass,Top-down low,No
+ZWE,2027.0,COA,10994.4722310178,Coal,Top-down low,No
+ZWE,2027.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2027.0,Imports (MOZ),342.8055558298,Imports (MOZ),Top-down low,No
+ZWE,2027.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2028.0,BIO,135.5277778862,Biomass,Top-down low,No
+ZWE,2028.0,COA,10602.4166751486,Coal,Top-down low,No
+ZWE,2028.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2028.0,Imports (MOZ),480.80555594020007,Imports (MOZ),Top-down low,No
+ZWE,2028.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2029.0,BIO,116.1666667596,Biomass,Top-down low,No
+ZWE,2029.0,COA,10231.527785963,Coal,Top-down low,No
+ZWE,2029.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2029.0,Imports (MOZ),384.7500003078,Imports (MOZ),Top-down low,No
+ZWE,2029.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2030.0,BIO,96.805555633,Biomass,Top-down low,No
+ZWE,2030.0,COA,13893.4166777814,Coal,Top-down low,No
+ZWE,2030.0,HYD,4148.8611144302,Hydropower,Top-down low,No
+ZWE,2030.0,Imports (ZMB),600.00000048,Imports (ZMB),Top-down low,No
+ZWE,2030.0,SOL,9.2777777852,Solar,Top-down low,No
+ZWE,2020.0,BIO,387.222222532,Biomass,Top-down low,High
+ZWE,2020.0,COA,3234.0555581428,Coal,Top-down low,High
+ZWE,2020.0,HYD,4148.8611144302,Hydropower,Top-down low,High
+ZWE,2020.0,Imports (ZMB),2730.2777799620003,Imports (ZMB),Top-down low,High
+ZWE,2020.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2021.0,BIO,367.8611114054,Biomass,Top-down low,High
+ZWE,2021.0,COA,1568.2500012546,Coal,Top-down low,High
+ZWE,2021.0,HYD,4148.8611144302,Hydropower,Top-down low,High
+ZWE,2021.0,Imports (MOZ),653.055556078,Imports (MOZ),Top-down low,High
+ZWE,2021.0,Imports (ZMB),5179.083337476601,Imports (ZMB),Top-down low,High
+ZWE,2021.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2022.0,BIO,348.5000002788,Biomass,Top-down low,High
+ZWE,2022.0,COA,1568.2500012546,Coal,Top-down low,High
+ZWE,2022.0,HYD,4148.8611144302,Hydropower,Top-down low,High
+ZWE,2022.0,Imports (MOZ),201.00000016080003,Imports (MOZ),Top-down low,High
+ZWE,2022.0,Imports (ZMB),3897.0555586732,Imports (ZMB),Top-down low,High
+ZWE,2022.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2023.0,BIO,329.1388891522,Biomass,Top-down low,High
+ZWE,2023.0,COA,1489.8333345252,Coal,Top-down low,High
+ZWE,2023.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2023.0,Imports (MOZ),607.4444449304,Imports (MOZ),Top-down low,High
+ZWE,2023.0,Imports (ZMB),2203.1111128736,Imports (ZMB),Top-down low,High
+ZWE,2023.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2024.0,BIO,309.7777780256,Biomass,Top-down low,High
+ZWE,2024.0,COA,1411.4166677958,Coal,Top-down low,High
+ZWE,2024.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2024.0,Imports (MOZ),566.1666671196,Imports (MOZ),Top-down low,High
+ZWE,2024.0,Imports (ZMB),3941.527780931001,Imports (ZMB),Top-down low,High
+ZWE,2024.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2025.0,BIO,193.611111266,Biomass,Top-down low,High
+ZWE,2025.0,COA,1333.0000010664,Coal,Top-down low,High
+ZWE,2025.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2025.0,Imports (MOZ),154.9722223462,Imports (MOZ),Top-down low,High
+ZWE,2025.0,Imports (ZMB),4049.5555587952,Imports (ZMB),Top-down low,High
+ZWE,2025.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2026.0,BIO,174.2500001394,Biomass,Top-down low,High
+ZWE,2026.0,COA,1254.583334337,Coal,Top-down low,High
+ZWE,2026.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2026.0,Imports (MOZ),148.2222223408,Imports (MOZ),Top-down low,High
+ZWE,2026.0,Imports (ZMB),5280.0555597796,Imports (ZMB),Top-down low,High
+ZWE,2026.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2027.0,BIO,154.8888890128,Biomass,Top-down low,High
+ZWE,2027.0,COA,1176.1944453854,Coal,Top-down low,High
+ZWE,2027.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2027.0,Imports (MOZ),443.0000003544,Imports (MOZ),Top-down low,High
+ZWE,2027.0,Imports (ZMB),5158.777781904801,Imports (ZMB),Top-down low,High
+ZWE,2027.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2028.0,BIO,135.5277778862,Biomass,Top-down low,High
+ZWE,2028.0,COA,1097.777778656,Coal,Top-down low,High
+ZWE,2028.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2028.0,Imports (MOZ),1804.861112555,Imports (MOZ),Top-down low,High
+ZWE,2028.0,Imports (ZMB),4811.1944482934005,Imports (ZMB),Top-down low,High
+ZWE,2028.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2029.0,BIO,116.1666667596,Biomass,Top-down low,High
+ZWE,2029.0,COA,1019.3611119266,Coal,Top-down low,High
+ZWE,2029.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2029.0,Imports (MOZ),1583.7500012670002,Imports (MOZ),Top-down low,High
+ZWE,2029.0,Imports (ZMB),5273.055559774,Imports (ZMB),Top-down low,High
+ZWE,2029.0,SOL,9.2777777852,Solar,Top-down low,High
+ZWE,2030.0,BIO,96.805555633,Biomass,Top-down low,High
+ZWE,2030.0,COA,940.9444451972,Coal,Top-down low,High
+ZWE,2030.0,HYD,8809.1944514918,Hydropower,Top-down low,High
+ZWE,2030.0,Imports (MOZ),452.27777813960006,Imports (MOZ),Top-down low,High
+ZWE,2030.0,Imports (ZMB),5560.3333377816,Imports (ZMB),Top-down low,High
+ZWE,2030.0,SOL,851.6111117924002,Solar,Top-down low,High

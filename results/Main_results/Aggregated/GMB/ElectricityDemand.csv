@@ -1,0 +1,177 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Bottom-up,No
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Bottom-up,No
+GMB,2021.0,EL3U,61.388888938,New electrified,Bottom-up,No
+GMB,2022.0,EL3E,265.416666879,Current electrified,Bottom-up,No
+GMB,2022.0,EL3U,122.777777876,New electrified,Bottom-up,No
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Bottom-up,No
+GMB,2023.0,EL3U,184.166666814,New electrified,Bottom-up,No
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Bottom-up,No
+GMB,2024.0,EL3U,245.555555752,New electrified,Bottom-up,No
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Bottom-up,No
+GMB,2025.0,EL3U,306.94444469,New electrified,Bottom-up,No
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Bottom-up,No
+GMB,2026.0,EL3U,368.3333336280001,New electrified,Bottom-up,No
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Bottom-up,No
+GMB,2027.0,EL3U,382.6944447506,New electrified,Bottom-up,No
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Bottom-up,No
+GMB,2028.0,EL3U,397.083333651,New electrified,Bottom-up,No
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Bottom-up,No
+GMB,2029.0,EL3U,411.4722225514,New electrified,Bottom-up,No
+GMB,2030.0,EL3E,367.500000294,Current electrified,Bottom-up,No
+GMB,2030.0,EL3U,425.833333674,New electrified,Bottom-up,No
+GMB,2020.0,GNBEL1,52.4444444864,Exports (GNB),Bottom-up,No
+GMB,2026.0,SENEL1,25.694444465,Exports (SEN),Bottom-up,No
+GMB,2028.0,SENEL1,66.7222222756,Exports (SEN),Bottom-up,No
+GMB,2029.0,SENEL1,37.8055555858,Exports (SEN),Bottom-up,No
+GMB,2030.0,SENEL1,29.6111111348,Exports (SEN),Bottom-up,No
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Bottom-up,High
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Bottom-up,High
+GMB,2021.0,EL3U,61.388888938,New electrified,Bottom-up,High
+GMB,2022.0,EL3E,265.416666879,Current electrified,Bottom-up,High
+GMB,2022.0,EL3U,122.777777876,New electrified,Bottom-up,High
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Bottom-up,High
+GMB,2023.0,EL3U,184.166666814,New electrified,Bottom-up,High
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Bottom-up,High
+GMB,2024.0,EL3U,245.555555752,New electrified,Bottom-up,High
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Bottom-up,High
+GMB,2025.0,EL3U,306.94444469,New electrified,Bottom-up,High
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Bottom-up,High
+GMB,2026.0,EL3U,368.3333336280001,New electrified,Bottom-up,High
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Bottom-up,High
+GMB,2027.0,EL3U,382.6944447506,New electrified,Bottom-up,High
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Bottom-up,High
+GMB,2028.0,EL3U,397.083333651,New electrified,Bottom-up,High
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Bottom-up,High
+GMB,2029.0,EL3U,411.4722225514,New electrified,Bottom-up,High
+GMB,2030.0,EL3E,367.52777807180007,Current electrified,Bottom-up,High
+GMB,2030.0,EL3U,425.833333674,New electrified,Bottom-up,High
+GMB,2020.0,GNBEL1,16.5555555688,Exports (GNB),Bottom-up,High
+GMB,2020.0,SENEL1,35.916666695400004,Exports (SEN),Bottom-up,High
+GMB,2024.0,SENEL1,58.1388889354,Exports (SEN),Bottom-up,High
+GMB,2025.0,SENEL1,847.1944451222,Exports (SEN),Bottom-up,High
+GMB,2026.0,SENEL1,1436.9166678162,Exports (SEN),Bottom-up,High
+GMB,2027.0,SENEL1,1734.72222361,Exports (SEN),Bottom-up,High
+GMB,2028.0,SENEL1,1916.2222237552,Exports (SEN),Bottom-up,High
+GMB,2029.0,SENEL1,1990.7500015926,Exports (SEN),Bottom-up,High
+GMB,2030.0,SENEL1,1948.1388904474,Exports (SEN),Bottom-up,High
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Top-down high,No
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Top-down high,No
+GMB,2021.0,EL3U,31.4722222474,New electrified,Top-down high,No
+GMB,2022.0,EL3E,265.416666879,Current electrified,Top-down high,No
+GMB,2022.0,EL3U,62.97222227260001,New electrified,Top-down high,No
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Top-down high,No
+GMB,2023.0,EL3U,94.44444452,New electrified,Top-down high,No
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Top-down high,No
+GMB,2024.0,EL3U,125.9166667674,New electrified,Top-down high,No
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Top-down high,No
+GMB,2025.0,EL3U,157.4166667926,New electrified,Top-down high,No
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Top-down high,No
+GMB,2026.0,EL3U,188.88888904,New electrified,Top-down high,No
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Top-down high,No
+GMB,2027.0,EL3U,195.7500001566,New electrified,Top-down high,No
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Top-down high,No
+GMB,2028.0,EL3U,202.638889051,New electrified,Top-down high,No
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Top-down high,No
+GMB,2029.0,EL3U,209.5277779454,New electrified,Top-down high,No
+GMB,2030.0,EL3E,367.500000294,Current electrified,Top-down high,No
+GMB,2030.0,EL3U,216.388889062,New electrified,Top-down high,No
+GMB,2020.0,GNBEL1,52.4444444864,Exports (GNB),Top-down high,No
+GMB,2023.0,SENEL1,58.5555556024,Exports (SEN),Top-down high,No
+GMB,2024.0,SENEL1,6.4722222274000005,Exports (SEN),Top-down high,No
+GMB,2025.0,SENEL1,0.1944444446,Exports (SEN),Top-down high,No
+GMB,2027.0,SENEL1,28.416666689400003,Exports (SEN),Top-down high,No
+GMB,2028.0,GNBEL1,12.0277777874,Exports (GNB),Top-down high,No
+GMB,2028.0,SENEL1,30.6666666912,Exports (SEN),Top-down high,No
+GMB,2029.0,SENEL1,25.6388889094,Exports (SEN),Top-down high,No
+GMB,2030.0,SENEL1,0.138888889,Exports (SEN),Top-down high,No
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Top-down high,High
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Top-down high,High
+GMB,2021.0,EL3U,31.4722222474,New electrified,Top-down high,High
+GMB,2022.0,EL3E,265.416666879,Current electrified,Top-down high,High
+GMB,2022.0,EL3U,62.97222227260001,New electrified,Top-down high,High
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Top-down high,High
+GMB,2023.0,EL3U,94.44444452,New electrified,Top-down high,High
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Top-down high,High
+GMB,2024.0,EL3U,125.9166667674,New electrified,Top-down high,High
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Top-down high,High
+GMB,2025.0,EL3U,157.4166667926,New electrified,Top-down high,High
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Top-down high,High
+GMB,2026.0,EL3U,188.88888904,New electrified,Top-down high,High
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Top-down high,High
+GMB,2027.0,EL3U,195.7500001566,New electrified,Top-down high,High
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Top-down high,High
+GMB,2028.0,EL3U,202.638889051,New electrified,Top-down high,High
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Top-down high,High
+GMB,2029.0,EL3U,209.5277779454,New electrified,Top-down high,High
+GMB,2030.0,EL3E,367.52777807180007,Current electrified,Top-down high,High
+GMB,2030.0,EL3U,216.388889062,New electrified,Top-down high,High
+GMB,2020.0,GNBEL1,29.861111135,Exports (GNB),Top-down high,High
+GMB,2020.0,SENEL1,22.5833333514,Exports (SEN),Top-down high,High
+GMB,2023.0,SENEL1,1418.3333344680002,Exports (SEN),Top-down high,High
+GMB,2024.0,SENEL1,2035.5833349618,Exports (SEN),Top-down high,High
+GMB,2025.0,SENEL1,2336.7222240916003,Exports (SEN),Top-down high,High
+GMB,2026.0,SENEL1,2279.16666849,Exports (SEN),Top-down high,High
+GMB,2027.0,SENEL1,2558.1388909354005,Exports (SEN),Top-down high,High
+GMB,2028.0,SENEL1,2572.2500020578,Exports (SEN),Top-down high,High
+GMB,2029.0,SENEL1,2793.2500022346003,Exports (SEN),Top-down high,High
+GMB,2030.0,SENEL1,2521.6944464618,Exports (SEN),Top-down high,High
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Top-down low,No
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Top-down low,No
+GMB,2021.0,EL3U,7.638888895,New electrified,Top-down low,No
+GMB,2022.0,EL3E,265.416666879,Current electrified,Top-down low,No
+GMB,2022.0,EL3U,15.27777779,New electrified,Top-down low,No
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Top-down low,No
+GMB,2023.0,EL3U,22.916666685000003,New electrified,Top-down low,No
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Top-down low,No
+GMB,2024.0,EL3U,30.55555558,New electrified,Top-down low,No
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Top-down low,No
+GMB,2025.0,EL3U,38.194444475000005,New electrified,Top-down low,No
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Top-down low,No
+GMB,2026.0,EL3U,45.833333370000005,New electrified,Top-down low,No
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Top-down low,No
+GMB,2027.0,EL3U,47.638888927,New electrified,Top-down low,No
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Top-down low,No
+GMB,2028.0,EL3U,49.444444484,New electrified,Top-down low,No
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Top-down low,No
+GMB,2029.0,EL3U,51.250000041,New electrified,Top-down low,No
+GMB,2030.0,EL3E,367.500000294,Current electrified,Top-down low,No
+GMB,2030.0,EL3U,53.055555598000005,New electrified,Top-down low,No
+GMB,2020.0,GNBEL1,52.4444444864,Exports (GNB),Top-down low,No
+GMB,2025.0,GNBEL1,27.1944444662,Exports (GNB),Top-down low,No
+GMB,2025.0,SENEL1,36.8611111406,Exports (SEN),Top-down low,No
+GMB,2026.0,GNBEL1,6.0833333382,Exports (GNB),Top-down low,No
+GMB,2026.0,SENEL1,14.2500000114,Exports (SEN),Top-down low,No
+GMB,2027.0,GNBEL1,6.2777777828,Exports (GNB),Top-down low,No
+GMB,2027.0,SENEL1,13.5000000108,Exports (SEN),Top-down low,No
+GMB,2028.0,SENEL1,7.222222228,Exports (SEN),Top-down low,No
+GMB,2020.0,EL3E,253.1666668692,Current electrified,Top-down low,High
+GMB,2021.0,EL3E,259.6388890966,Current electrified,Top-down low,High
+GMB,2021.0,EL3U,7.638888895,New electrified,Top-down low,High
+GMB,2022.0,EL3E,265.416666879,Current electrified,Top-down low,High
+GMB,2022.0,EL3U,15.27777779,New electrified,Top-down low,High
+GMB,2023.0,EL3E,270.66666688320004,Current electrified,Top-down low,High
+GMB,2023.0,EL3U,22.916666685000003,New electrified,Top-down low,High
+GMB,2024.0,EL3E,275.3888891092,Current electrified,Top-down low,High
+GMB,2024.0,EL3U,30.55555558,New electrified,Top-down low,High
+GMB,2025.0,EL3E,289.94444467640005,Current electrified,Top-down low,High
+GMB,2025.0,EL3U,38.194444475000005,New electrified,Top-down low,High
+GMB,2026.0,EL3E,304.6944446882,Current electrified,Top-down low,High
+GMB,2026.0,EL3U,45.833333370000005,New electrified,Top-down low,High
+GMB,2027.0,EL3E,319.61111136679995,Current electrified,Top-down low,High
+GMB,2027.0,EL3U,47.638888927,New electrified,Top-down low,High
+GMB,2028.0,EL3E,334.72222249000004,Current electrified,Top-down low,High
+GMB,2028.0,EL3U,49.444444484,New electrified,Top-down low,High
+GMB,2029.0,EL3E,349.9166669466,Current electrified,Top-down low,High
+GMB,2029.0,EL3U,51.250000041,New electrified,Top-down low,High
+GMB,2030.0,EL3E,367.52777807180007,Current electrified,Top-down low,High
+GMB,2030.0,EL3U,53.055555598000005,New electrified,Top-down low,High
+GMB,2020.0,GNBEL1,30.138888913,Exports (GNB),Top-down low,High
+GMB,2020.0,SENEL1,22.3055555734,Exports (SEN),Top-down low,High
+GMB,2024.0,SENEL1,290.69444467700004,Exports (SEN),Top-down low,High
+GMB,2025.0,SENEL1,1418.6666678016,Exports (SEN),Top-down low,High
+GMB,2026.0,SENEL1,2127.500001702,Exports (SEN),Top-down low,High
+GMB,2027.0,SENEL1,2105.8888905736003,Exports (SEN),Top-down low,High
+GMB,2028.0,SENEL1,2081.0277794426,Exports (SEN),Top-down low,High
+GMB,2029.0,SENEL1,2062.5555572056,Exports (SEN),Top-down low,High
+GMB,2030.0,SENEL1,2053.0000016424,Exports (SEN),Top-down low,High

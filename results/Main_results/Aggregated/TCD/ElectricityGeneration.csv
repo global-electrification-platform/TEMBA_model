@@ -1,0 +1,265 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+TCD,2020.0,HFO,153.2222223448,Heavy Fuel Oil,Bottom-up,No
+TCD,2020.0,LFO,54.8333333772,Light Fuel Oil,Bottom-up,No
+TCD,2020.0,SOL,172.11111124880003,Solar,Bottom-up,No
+TCD,2020.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Bottom-up,No
+TCD,2021.0,LFO,52.11111115280001,Light Fuel Oil,Bottom-up,No
+TCD,2021.0,SOL,312.27777802760005,Solar,Bottom-up,No
+TCD,2021.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Bottom-up,No
+TCD,2022.0,LFO,49.444444484,Light Fuel Oil,Bottom-up,No
+TCD,2022.0,SOL,451.6111114724,Solar,Bottom-up,No
+TCD,2022.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Bottom-up,No
+TCD,2023.0,LFO,46.7777778152,Light Fuel Oil,Bottom-up,No
+TCD,2023.0,SOL,548.2222226608001,Solar,Bottom-up,No
+TCD,2023.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Bottom-up,No
+TCD,2024.0,LFO,44.1388889242,Light Fuel Oil,Bottom-up,No
+TCD,2024.0,SOL,823.7500006590001,Solar,Bottom-up,No
+TCD,2024.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Bottom-up,No
+TCD,2025.0,LFO,41.5000000332,Light Fuel Oil,Bottom-up,No
+TCD,2025.0,SOL,2669.2500021354,Solar,Bottom-up,No
+TCD,2025.0,WIN,3.1111111136000003,Wind,Bottom-up,No
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Bottom-up,No
+TCD,2026.0,LFO,38.5555555864,Light Fuel Oil,Bottom-up,No
+TCD,2026.0,SOL,4809.8055594034,Solar,Bottom-up,No
+TCD,2026.0,WIN,3.5000000028,Wind,Bottom-up,No
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Bottom-up,No
+TCD,2027.0,LFO,35.916666695400004,Light Fuel Oil,Bottom-up,No
+TCD,2027.0,SOL,6951.3055611166,Solar,Bottom-up,No
+TCD,2027.0,WIN,3.1111111136000003,Wind,Bottom-up,No
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Bottom-up,No
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Bottom-up,No
+TCD,2028.0,SOL,8648.222229140802,Solar,Bottom-up,No
+TCD,2028.0,WIN,3.1111111136000003,Wind,Bottom-up,No
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Bottom-up,No
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Bottom-up,No
+TCD,2029.0,SOL,10352.3333416152,Solar,Bottom-up,No
+TCD,2029.0,WIN,3.1111111136000003,Wind,Bottom-up,No
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Bottom-up,No
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Bottom-up,No
+TCD,2030.0,SOL,11932.222231768,Solar,Bottom-up,No
+TCD,2030.0,WIN,2.8611111134,Wind,Bottom-up,No
+TCD,2020.0,HFO,851.3055562366001,Heavy Fuel Oil,Bottom-up,High
+TCD,2020.0,LFO,54.6944444882,Light Fuel Oil,Bottom-up,High
+TCD,2020.0,SOL,2323.5555574144005,Solar,Bottom-up,High
+TCD,2020.0,WIN,3.5000000028,Wind,Bottom-up,High
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Bottom-up,High
+TCD,2021.0,LFO,51.972222263800006,Light Fuel Oil,Bottom-up,High
+TCD,2021.0,SOL,4475.00000358,Solar,Bottom-up,High
+TCD,2021.0,WIN,3.5000000028,Wind,Bottom-up,High
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Bottom-up,High
+TCD,2022.0,LFO,49.333333372800006,Light Fuel Oil,Bottom-up,High
+TCD,2022.0,SOL,6593.888894164,Solar,Bottom-up,High
+TCD,2022.0,WIN,3.1111111136000003,Wind,Bottom-up,High
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Bottom-up,High
+TCD,2023.0,LFO,46.694444481800005,Light Fuel Oil,Bottom-up,High
+TCD,2023.0,SOL,7442.9722281766,Solar,Bottom-up,High
+TCD,2023.0,WIN,3.1111111136000003,Wind,Bottom-up,High
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Bottom-up,High
+TCD,2024.0,LFO,44.0555555908,Light Fuel Oil,Bottom-up,High
+TCD,2024.0,SOL,8093.500006474801,Solar,Bottom-up,High
+TCD,2024.0,WIN,3.1111111136000003,Wind,Bottom-up,High
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Bottom-up,High
+TCD,2025.0,LFO,41.4166666998,Light Fuel Oil,Bottom-up,High
+TCD,2025.0,SOL,8877.5277848798,Solar,Bottom-up,High
+TCD,2025.0,WIN,3.1111111136000003,Wind,Bottom-up,High
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Bottom-up,High
+TCD,2026.0,LFO,38.5000000308,Light Fuel Oil,Bottom-up,High
+TCD,2026.0,SOL,10329.5555638192,Solar,Bottom-up,High
+TCD,2026.0,WIN,2.8611111134,Wind,Bottom-up,High
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Bottom-up,High
+TCD,2027.0,LFO,35.8611111398,Light Fuel Oil,Bottom-up,High
+TCD,2027.0,SOL,11084.9166755346,Solar,Bottom-up,High
+TCD,2027.0,WIN,2.8611111134,Wind,Bottom-up,High
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Bottom-up,High
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Bottom-up,High
+TCD,2028.0,SOL,12025.833342954,Solar,Bottom-up,High
+TCD,2028.0,WIN,2.638888891,Wind,Bottom-up,High
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Bottom-up,High
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Bottom-up,High
+TCD,2029.0,SOL,12046.4166763038,Solar,Bottom-up,High
+TCD,2029.0,WIN,2.638888891,Wind,Bottom-up,High
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Bottom-up,High
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Bottom-up,High
+TCD,2030.0,SOL,12625.6666767672,Solar,Bottom-up,High
+TCD,2030.0,WIN,2.5277777798,Wind,Bottom-up,High
+TCD,2020.0,HFO,153.2222223448,Heavy Fuel Oil,Top-down high,No
+TCD,2020.0,LFO,54.8333333772,Light Fuel Oil,Top-down high,No
+TCD,2020.0,SOL,172.11111124880003,Solar,Top-down high,No
+TCD,2020.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Top-down high,No
+TCD,2021.0,LFO,52.11111115280001,Light Fuel Oil,Top-down high,No
+TCD,2021.0,SOL,357.916666953,Solar,Top-down high,No
+TCD,2021.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Top-down high,No
+TCD,2022.0,LFO,49.444444484,Light Fuel Oil,Top-down high,No
+TCD,2022.0,SOL,521.388889306,Solar,Top-down high,No
+TCD,2022.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Top-down high,No
+TCD,2023.0,LFO,46.7777778152,Light Fuel Oil,Top-down high,No
+TCD,2023.0,SOL,659.1666671940001,Solar,Top-down high,No
+TCD,2023.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Top-down high,No
+TCD,2024.0,LFO,44.1388889242,Light Fuel Oil,Top-down high,No
+TCD,2024.0,SOL,952.500000762,Solar,Top-down high,No
+TCD,2024.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Top-down high,No
+TCD,2025.0,LFO,41.5000000332,Light Fuel Oil,Top-down high,No
+TCD,2025.0,SOL,2909.305557883,Solar,Top-down high,No
+TCD,2025.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Top-down high,No
+TCD,2026.0,LFO,38.5555555864,Light Fuel Oil,Top-down high,No
+TCD,2026.0,SOL,5050.1111151512,Solar,Top-down high,No
+TCD,2026.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Top-down high,No
+TCD,2027.0,LFO,35.916666695400004,Light Fuel Oil,Top-down high,No
+TCD,2027.0,SOL,7191.1944501974,Solar,Top-down high,No
+TCD,2027.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Top-down high,No
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Top-down high,No
+TCD,2028.0,SOL,8903.8055626786,Solar,Top-down high,No
+TCD,2028.0,WIN,3.5000000028,Wind,Top-down high,No
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Top-down high,No
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Top-down high,No
+TCD,2029.0,SOL,10623.9444529436,Solar,Top-down high,No
+TCD,2029.0,WIN,3.1111111136000003,Wind,Top-down high,No
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Top-down high,No
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Top-down high,No
+TCD,2030.0,SOL,12208.805565322602,Solar,Top-down high,No
+TCD,2030.0,WIN,2.8611111134,Wind,Top-down high,No
+TCD,2020.0,HFO,824.5833339930001,Heavy Fuel Oil,Top-down high,High
+TCD,2020.0,LFO,54.6944444882,Light Fuel Oil,Top-down high,High
+TCD,2020.0,SOL,2323.5555574144005,Solar,Top-down high,High
+TCD,2020.0,WIN,3.5000000028,Wind,Top-down high,High
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Top-down high,High
+TCD,2021.0,LFO,51.972222263800006,Light Fuel Oil,Top-down high,High
+TCD,2021.0,SOL,4475.00000358,Solar,Top-down high,High
+TCD,2021.0,WIN,3.5000000028,Wind,Top-down high,High
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Top-down high,High
+TCD,2022.0,LFO,49.333333372800006,Light Fuel Oil,Top-down high,High
+TCD,2022.0,SOL,6593.638894163801,Solar,Top-down high,High
+TCD,2022.0,WIN,3.1111111136000003,Wind,Top-down high,High
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Top-down high,High
+TCD,2023.0,LFO,46.694444481800005,Light Fuel Oil,Top-down high,High
+TCD,2023.0,SOL,7515.2222282344,Solar,Top-down high,High
+TCD,2023.0,WIN,3.1111111136000003,Wind,Top-down high,High
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Top-down high,High
+TCD,2024.0,LFO,44.0555555908,Light Fuel Oil,Top-down high,High
+TCD,2024.0,SOL,8189.8333398852,Solar,Top-down high,High
+TCD,2024.0,WIN,3.1111111136000003,Wind,Top-down high,High
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Top-down high,High
+TCD,2025.0,LFO,41.4166666998,Light Fuel Oil,Top-down high,High
+TCD,2025.0,SOL,9010.7222294308,Solar,Top-down high,High
+TCD,2025.0,WIN,3.1111111136000003,Wind,Top-down high,High
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Top-down high,High
+TCD,2026.0,LFO,38.5000000308,Light Fuel Oil,Top-down high,High
+TCD,2026.0,SOL,10529.361119534602,Solar,Top-down high,High
+TCD,2026.0,WIN,2.8611111134,Wind,Top-down high,High
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Top-down high,High
+TCD,2027.0,LFO,35.8611111398,Light Fuel Oil,Top-down high,High
+TCD,2027.0,SOL,11306.1944534894,Solar,Top-down high,High
+TCD,2027.0,WIN,2.8611111134,Wind,Top-down high,High
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Top-down high,High
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Top-down high,High
+TCD,2028.0,SOL,12226.0555653364,Solar,Top-down high,High
+TCD,2028.0,WIN,2.638888891,Wind,Top-down high,High
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Top-down high,High
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Top-down high,High
+TCD,2029.0,SOL,12273.666676485602,Solar,Top-down high,High
+TCD,2029.0,WIN,2.638888891,Wind,Top-down high,High
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Top-down high,High
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Top-down high,High
+TCD,2030.0,SOL,12966.9722325958,Solar,Top-down high,High
+TCD,2030.0,WIN,2.5277777798,Wind,Top-down high,High
+TCD,2020.0,HFO,153.2222223448,Heavy Fuel Oil,Top-down low,No
+TCD,2020.0,LFO,54.8333333772,Light Fuel Oil,Top-down low,No
+TCD,2020.0,SOL,418.6944447794,Solar,Top-down low,No
+TCD,2020.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Top-down low,No
+TCD,2021.0,LFO,52.11111115280001,Light Fuel Oil,Top-down low,No
+TCD,2021.0,SOL,844.3333340088001,Solar,Top-down low,No
+TCD,2021.0,WIN,3.1111111136000003,Wind,Top-down low,No
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Top-down low,No
+TCD,2022.0,LFO,49.444444484,Light Fuel Oil,Top-down low,No
+TCD,2022.0,SOL,1271.9722232398,Solar,Top-down low,No
+TCD,2022.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Top-down low,No
+TCD,2023.0,LFO,46.7777778152,Light Fuel Oil,Top-down low,No
+TCD,2023.0,SOL,1700.3611124714,Solar,Top-down low,No
+TCD,2023.0,WIN,3.1111111136000003,Wind,Top-down low,No
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Top-down low,No
+TCD,2024.0,LFO,44.1388889242,Light Fuel Oil,Top-down low,No
+TCD,2024.0,SOL,2128.0833350358,Solar,Top-down low,No
+TCD,2024.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Top-down low,No
+TCD,2025.0,LFO,41.5000000332,Light Fuel Oil,Top-down low,No
+TCD,2025.0,SOL,2556.1388909338,Solar,Top-down low,No
+TCD,2025.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Top-down low,No
+TCD,2026.0,LFO,38.5555555864,Light Fuel Oil,Top-down low,No
+TCD,2026.0,SOL,2984.5277801654,Solar,Top-down low,No
+TCD,2026.0,WIN,3.1111111136000003,Wind,Top-down low,No
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Top-down low,No
+TCD,2027.0,LFO,35.916666695400004,Light Fuel Oil,Top-down low,No
+TCD,2027.0,SOL,3412.3333360632,Solar,Top-down low,No
+TCD,2027.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Top-down low,No
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Top-down low,No
+TCD,2028.0,SOL,3840.4722252946,Solar,Top-down low,No
+TCD,2028.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Top-down low,No
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Top-down low,No
+TCD,2029.0,SOL,4268.6388923038,Solar,Top-down low,No
+TCD,2029.0,WIN,3.5000000028,Wind,Top-down low,No
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Top-down low,No
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Top-down low,No
+TCD,2030.0,SOL,4707.916670433,Solar,Top-down low,No
+TCD,2030.0,WIN,3.1111111136000003,Wind,Top-down low,No
+TCD,2020.0,HFO,1191.1666676196,Heavy Fuel Oil,Top-down low,High
+TCD,2020.0,LFO,54.7500000438,Light Fuel Oil,Top-down low,High
+TCD,2020.0,SOL,602.4166671486,Solar,Top-down low,High
+TCD,2020.0,WIN,3.5000000028,Wind,Top-down low,High
+TCD,2021.0,HFO,145.58333344980002,Heavy Fuel Oil,Top-down low,High
+TCD,2021.0,LFO,52.055555597200005,Light Fuel Oil,Top-down low,High
+TCD,2021.0,SOL,1032.6944452706,Solar,Top-down low,High
+TCD,2021.0,WIN,3.5000000028,Wind,Top-down low,High
+TCD,2022.0,HFO,137.91666677700002,Heavy Fuel Oil,Top-down low,High
+TCD,2022.0,LFO,49.3611111506,Light Fuel Oil,Top-down low,High
+TCD,2022.0,SOL,1455.138890053,Solar,Top-down low,High
+TCD,2022.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2023.0,HFO,130.2500001042,Heavy Fuel Oil,Top-down low,High
+TCD,2023.0,LFO,46.7222222596,Light Fuel Oil,Top-down low,High
+TCD,2023.0,SOL,1883.2222237288,Solar,Top-down low,High
+TCD,2023.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2024.0,HFO,122.5833334314,Heavy Fuel Oil,Top-down low,High
+TCD,2024.0,LFO,44.0833333686,Light Fuel Oil,Top-down low,High
+TCD,2024.0,SOL,2311.2777796268,Solar,Top-down low,High
+TCD,2024.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2025.0,HFO,114.9166667586,Heavy Fuel Oil,Top-down low,High
+TCD,2025.0,LFO,41.4444444776,Light Fuel Oil,Top-down low,High
+TCD,2025.0,SOL,2739.3333355248,Solar,Top-down low,High
+TCD,2025.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2026.0,HFO,107.2777778636,Heavy Fuel Oil,Top-down low,High
+TCD,2026.0,LFO,38.5277778086,Light Fuel Oil,Top-down low,High
+TCD,2026.0,SOL,3167.361113645,Solar,Top-down low,High
+TCD,2026.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2027.0,HFO,99.6111111908,Heavy Fuel Oil,Top-down low,High
+TCD,2027.0,LFO,35.8888889176,Light Fuel Oil,Top-down low,High
+TCD,2027.0,SOL,3595.5277806542,Solar,Top-down low,High
+TCD,2027.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2028.0,HFO,91.944444518,Heavy Fuel Oil,Top-down low,High
+TCD,2028.0,LFO,31.7500000254,Light Fuel Oil,Top-down low,High
+TCD,2028.0,SOL,4058.6944476914,Solar,Top-down low,High
+TCD,2028.0,WIN,3.5000000028,Wind,Top-down low,High
+TCD,2029.0,HFO,84.2777778452,Heavy Fuel Oil,Top-down low,High
+TCD,2029.0,LFO,29.1111111344,Light Fuel Oil,Top-down low,High
+TCD,2029.0,SOL,4491.111114704,Solar,Top-down low,High
+TCD,2029.0,WIN,3.1111111136000003,Wind,Top-down low,High
+TCD,2030.0,HFO,76.6111111724,Heavy Fuel Oil,Top-down low,High
+TCD,2030.0,LFO,26.444444465600004,Light Fuel Oil,Top-down low,High
+TCD,2030.0,SOL,4913.88889282,Solar,Top-down low,High
+TCD,2030.0,WIN,3.1111111136000003,Wind,Top-down low,High

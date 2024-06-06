@@ -1,0 +1,106 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+LBY,2020.0,EL3E,19157.4444597704,Current electrified,Bottom-up,No
+LBY,2021.0,EL3E,21895.6389064054,Current electrified,Bottom-up,No
+LBY,2022.0,EL3E,24611.2777974668,Current electrified,Bottom-up,No
+LBY,2023.0,EL3E,27308.1111329576,Current electrified,Bottom-up,No
+LBY,2024.0,EL3E,29990.3611351034,Current electrified,Bottom-up,No
+LBY,2025.0,EL3E,31588.333358604003,Current electrified,Bottom-up,No
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Bottom-up,No
+LBY,2027.0,EL3E,34757.4166944726,Current electrified,Bottom-up,No
+LBY,2028.0,EL3E,36329.0833623966,Current electrified,Bottom-up,No
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Bottom-up,No
+LBY,2030.0,EL3E,39540.555587188006,Current electrified,Bottom-up,No
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,No
+LBY,2022.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,No
+LBY,2028.0,EGYEL1,399.72222254200005,Exports (EGY),Bottom-up,No
+LBY,2029.0,EGYEL1,1188.9166676178002,Exports (EGY),Bottom-up,No
+LBY,2030.0,EGYEL1,399.72222254200005,Exports (EGY),Bottom-up,No
+LBY,2020.0,EL3E,19157.4444597704,Current electrified,Bottom-up,High
+LBY,2021.0,EL3E,21895.6666841832,Current electrified,Bottom-up,High
+LBY,2022.0,EL3E,24611.3055752446,Current electrified,Bottom-up,High
+LBY,2023.0,EL3E,27308.1389107354,Current electrified,Bottom-up,High
+LBY,2024.0,EL3E,29990.3611351034,Current electrified,Bottom-up,High
+LBY,2025.0,EL3E,31588.3611363818,Current electrified,Bottom-up,High
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Bottom-up,High
+LBY,2027.0,EL3E,34757.4166944726,Current electrified,Bottom-up,High
+LBY,2028.0,EL3E,36329.0833623966,Current electrified,Bottom-up,High
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Bottom-up,High
+LBY,2030.0,EL3E,39540.5278094102,Current electrified,Bottom-up,High
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2025.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2026.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2027.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2028.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2029.0,EGYEL1,1414.7500011318,Exports (EGY),Bottom-up,High
+LBY,2030.0,EGYEL1,951.666667428,Exports (EGY),Bottom-up,High
+LBY,2020.0,EL3E,19157.4444597704,Current electrified,Top-down high,No
+LBY,2021.0,EL3E,21895.6389064054,Current electrified,Top-down high,No
+LBY,2022.0,EL3E,24611.2777974668,Current electrified,Top-down high,No
+LBY,2023.0,EL3E,27308.1111329576,Current electrified,Top-down high,No
+LBY,2024.0,EL3E,29990.3333573256,Current electrified,Top-down high,No
+LBY,2025.0,EL3E,31588.3055808262,Current electrified,Top-down high,No
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Top-down high,No
+LBY,2027.0,EL3E,34757.4166944726,Current electrified,Top-down high,No
+LBY,2028.0,EL3E,36329.05558461881,Current electrified,Top-down high,No
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Top-down high,No
+LBY,2030.0,EL3E,39540.555587188006,Current electrified,Top-down high,No
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,No
+LBY,2022.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,No
+LBY,2024.0,EGYEL1,618.3888893836,Exports (EGY),Top-down high,No
+LBY,2027.0,EGYEL1,135.3888889972,Exports (EGY),Top-down high,No
+LBY,2028.0,EGYEL1,399.72222254200005,Exports (EGY),Top-down high,No
+LBY,2029.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,No
+LBY,2030.0,EGYEL1,399.72222254200005,Exports (EGY),Top-down high,No
+LBY,2020.0,EL3E,19157.4444597704,Current electrified,Top-down high,High
+LBY,2021.0,EL3E,21895.6666841832,Current electrified,Top-down high,High
+LBY,2022.0,EL3E,24611.2777974668,Current electrified,Top-down high,High
+LBY,2023.0,EL3E,27308.1389107354,Current electrified,Top-down high,High
+LBY,2024.0,EL3E,29990.3611351034,Current electrified,Top-down high,High
+LBY,2025.0,EL3E,31588.3611363818,Current electrified,Top-down high,High
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Top-down high,High
+LBY,2027.0,EL3E,34757.4166944726,Current electrified,Top-down high,High
+LBY,2028.0,EL3E,36329.0833623966,Current electrified,Top-down high,High
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Top-down high,High
+LBY,2030.0,EL3E,39540.5278094102,Current electrified,Top-down high,High
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2022.0,EGYEL1,847.2777784556,Exports (EGY),Top-down high,High
+LBY,2025.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2026.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2027.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2028.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2029.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down high,High
+LBY,2030.0,EGYEL1,951.666667428,Exports (EGY),Top-down high,High
+LBY,2020.0,EL3E,19157.416681992603,Current electrified,Top-down low,No
+LBY,2021.0,EL3E,21895.694461961,Current electrified,Top-down low,No
+LBY,2022.0,EL3E,24611.2777974668,Current electrified,Top-down low,No
+LBY,2023.0,EL3E,27308.1389107354,Current electrified,Top-down low,No
+LBY,2024.0,EL3E,29990.3611351034,Current electrified,Top-down low,No
+LBY,2025.0,EL3E,31588.3611363818,Current electrified,Top-down low,No
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Top-down low,No
+LBY,2027.0,EL3E,34757.4166944726,Current electrified,Top-down low,No
+LBY,2028.0,EL3E,36329.05558461881,Current electrified,Top-down low,No
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Top-down low,No
+LBY,2030.0,EL3E,39540.555587188006,Current electrified,Top-down low,No
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,No
+LBY,2022.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,No
+LBY,2028.0,EGYEL1,399.72222254200005,Exports (EGY),Top-down low,No
+LBY,2029.0,EGYEL1,1231.9722232078002,Exports (EGY),Top-down low,No
+LBY,2030.0,EGYEL1,399.72222254200005,Exports (EGY),Top-down low,No
+LBY,2020.0,EL3E,19157.416681992603,Current electrified,Top-down low,High
+LBY,2021.0,EL3E,21895.6666841832,Current electrified,Top-down low,High
+LBY,2022.0,EL3E,24611.2777974668,Current electrified,Top-down low,High
+LBY,2023.0,EL3E,27308.1111329576,Current electrified,Top-down low,High
+LBY,2024.0,EL3E,29990.361135103405,Current electrified,Top-down low,High
+LBY,2025.0,EL3E,31588.333358604003,Current electrified,Top-down low,High
+LBY,2026.0,EL3E,33177.500026542,Current electrified,Top-down low,High
+LBY,2027.0,EL3E,34757.444472250405,Current electrified,Top-down low,High
+LBY,2028.0,EL3E,36329.0833623966,Current electrified,Top-down low,High
+LBY,2029.0,EL3E,37893.8333636484,Current electrified,Top-down low,High
+LBY,2030.0,EL3E,39540.5278094102,Current electrified,Top-down low,High
+LBY,2021.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2025.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2026.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2027.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2028.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2029.0,EGYEL1,1414.7500011318,Exports (EGY),Top-down low,High
+LBY,2030.0,EGYEL1,211.3333335024,Exports (EGY),Top-down low,High

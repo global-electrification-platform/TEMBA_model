@@ -1,0 +1,198 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Bottom-up,No
+DJI,2020,LFO,0.0821597864374756,Light Fuel Oil,Bottom-up,No
+DJI,2021,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Bottom-up,No
+DJI,2021,LFO,0.0782847864374755,Light Fuel Oil,Bottom-up,No
+DJI,2022,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Bottom-up,No
+DJI,2022,LFO,0.0744097864374756,Light Fuel Oil,Bottom-up,No
+DJI,2023,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Bottom-up,No
+DJI,2023,LFO,0.0705347864374756,Light Fuel Oil,Bottom-up,No
+DJI,2024,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Bottom-up,No
+DJI,2024,LFO,0.0666597864374756,Light Fuel Oil,Bottom-up,No
+DJI,2025,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Bottom-up,No
+DJI,2025,LFO,0.0627847864374756,Light Fuel Oil,Bottom-up,No
+DJI,2026,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Bottom-up,No
+DJI,2026,LFO,0.0589097864374756,Light Fuel Oil,Bottom-up,No
+DJI,2027,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Bottom-up,No
+DJI,2027,LFO,0.0508084269659717,Light Fuel Oil,Bottom-up,No
+DJI,2028,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Bottom-up,No
+DJI,2028,LFO,0.0465,Light Fuel Oil,Bottom-up,No
+DJI,2029,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Bottom-up,No
+DJI,2029,LFO,0.042625,Light Fuel Oil,Bottom-up,No
+DJI,2030,GEO,0.03,Geothermal,Bottom-up,No
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Bottom-up,No
+DJI,2030,LFO,0.03875,Light Fuel Oil,Bottom-up,No
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Bottom-up,High
+DJI,2020,LFO,0.0820440284079751,Light Fuel Oil,Bottom-up,High
+DJI,2021,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Bottom-up,High
+DJI,2021,LFO,0.0781690284079751,Light Fuel Oil,Bottom-up,High
+DJI,2022,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Bottom-up,High
+DJI,2022,LFO,0.0742940284079751,Light Fuel Oil,Bottom-up,High
+DJI,2023,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Bottom-up,High
+DJI,2023,LFO,0.0704190284079751,Light Fuel Oil,Bottom-up,High
+DJI,2024,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Bottom-up,High
+DJI,2024,LFO,0.0665440284079751,Light Fuel Oil,Bottom-up,High
+DJI,2025,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Bottom-up,High
+DJI,2025,LFO,0.0626690284079751,Light Fuel Oil,Bottom-up,High
+DJI,2026,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Bottom-up,High
+DJI,2026,LFO,0.058794028407975,Light Fuel Oil,Bottom-up,High
+DJI,2027,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Bottom-up,High
+DJI,2027,LFO,0.0506926689364712,Light Fuel Oil,Bottom-up,High
+DJI,2028,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Bottom-up,High
+DJI,2028,LFO,0.0465,Light Fuel Oil,Bottom-up,High
+DJI,2029,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Bottom-up,High
+DJI,2029,LFO,0.042625,Light Fuel Oil,Bottom-up,High
+DJI,2030,GEO,0.03,Geothermal,Bottom-up,High
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Bottom-up,High
+DJI,2030,LFO,0.03875,Light Fuel Oil,Bottom-up,High
+DJI,2030,SOL,0.0247036357906621,Solar,Bottom-up,High
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Top-down high,No
+DJI,2020,LFO,0.0827041840342774,Light Fuel Oil,Top-down high,No
+DJI,2021,GEO,0.03,Geothermal,Top-down high,No
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Top-down high,No
+DJI,2021,LFO,0.0788291840342774,Light Fuel Oil,Top-down high,No
+DJI,2022,GEO,0.03,Geothermal,Top-down high,No
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Top-down high,No
+DJI,2022,LFO,0.0749541840342774,Light Fuel Oil,Top-down high,No
+DJI,2023,GEO,0.03,Geothermal,Top-down high,No
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Top-down high,No
+DJI,2023,LFO,0.0710791840342774,Light Fuel Oil,Top-down high,No
+DJI,2024,GEO,0.03,Geothermal,Top-down high,No
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Top-down high,No
+DJI,2024,LFO,0.0672041840342774,Light Fuel Oil,Top-down high,No
+DJI,2025,GEO,0.03,Geothermal,Top-down high,No
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Top-down high,No
+DJI,2025,LFO,0.0633291840342774,Light Fuel Oil,Top-down high,No
+DJI,2026,GEO,0.0583881618486856,Geothermal,Top-down high,No
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Top-down high,No
+DJI,2026,LFO,0.0594541840342774,Light Fuel Oil,Top-down high,No
+DJI,2027,GEO,0.11403243413266,Geothermal,Top-down high,No
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Top-down high,No
+DJI,2027,LFO,0.0513528245627735,Light Fuel Oil,Top-down high,No
+DJI,2028,GEO,0.1158481947987935,Geothermal,Top-down high,No
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Top-down high,No
+DJI,2028,LFO,0.0465,Light Fuel Oil,Top-down high,No
+DJI,2029,GEO,0.1382167970215655,Geothermal,Top-down high,No
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Top-down high,No
+DJI,2029,LFO,0.042625,Light Fuel Oil,Top-down high,No
+DJI,2030,GEO,0.1565235115557194,Geothermal,Top-down high,No
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Top-down high,No
+DJI,2030,LFO,0.03875,Light Fuel Oil,Top-down high,No
+DJI,2030,SOL,0.0247036357906621,Solar,Top-down high,No
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Top-down high,High
+DJI,2020,LFO,0.082357661170254,Light Fuel Oil,Top-down high,High
+DJI,2021,GEO,0.03,Geothermal,Top-down high,High
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Top-down high,High
+DJI,2021,LFO,0.078482661170254,Light Fuel Oil,Top-down high,High
+DJI,2022,GEO,0.03,Geothermal,Top-down high,High
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Top-down high,High
+DJI,2022,LFO,0.074607661170254,Light Fuel Oil,Top-down high,High
+DJI,2023,GEO,0.03,Geothermal,Top-down high,High
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Top-down high,High
+DJI,2023,LFO,0.070732661170254,Light Fuel Oil,Top-down high,High
+DJI,2024,GEO,0.03,Geothermal,Top-down high,High
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Top-down high,High
+DJI,2024,LFO,0.066857661170254,Light Fuel Oil,Top-down high,High
+DJI,2025,GEO,0.03,Geothermal,Top-down high,High
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Top-down high,High
+DJI,2025,LFO,0.062982661170254,Light Fuel Oil,Top-down high,High
+DJI,2026,GEO,0.1015782381919072,Geothermal,Top-down high,High
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Top-down high,High
+DJI,2026,LFO,0.059107661170254,Light Fuel Oil,Top-down high,High
+DJI,2027,GEO,0.1339169539369229,Geothermal,Top-down high,High
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Top-down high,High
+DJI,2027,LFO,0.0510063016987501,Light Fuel Oil,Top-down high,High
+DJI,2028,GEO,0.1339169539369229,Geothermal,Top-down high,High
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Top-down high,High
+DJI,2028,LFO,0.0465,Light Fuel Oil,Top-down high,High
+DJI,2028,SOL,0.024071866404383,Solar,Top-down high,High
+DJI,2029,GEO,0.1339169539369229,Geothermal,Top-down high,High
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Top-down high,High
+DJI,2029,LFO,0.042625,Light Fuel Oil,Top-down high,High
+DJI,2029,SOL,0.0454378180580259,Solar,Top-down high,High
+DJI,2030,GEO,0.1339169539369229,Geothermal,Top-down high,High
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Top-down high,High
+DJI,2030,LFO,0.03875,Light Fuel Oil,Top-down high,High
+DJI,2030,SOL,0.070199042971702,Solar,Top-down high,High
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Top-down low,No
+DJI,2020,LFO,0.0821597864374756,Light Fuel Oil,Top-down low,No
+DJI,2021,GEO,0.03,Geothermal,Top-down low,No
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Top-down low,No
+DJI,2021,LFO,0.0782847864374755,Light Fuel Oil,Top-down low,No
+DJI,2022,GEO,0.03,Geothermal,Top-down low,No
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Top-down low,No
+DJI,2022,LFO,0.0744097864374756,Light Fuel Oil,Top-down low,No
+DJI,2023,GEO,0.03,Geothermal,Top-down low,No
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Top-down low,No
+DJI,2023,LFO,0.0705347864374756,Light Fuel Oil,Top-down low,No
+DJI,2024,GEO,0.03,Geothermal,Top-down low,No
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Top-down low,No
+DJI,2024,LFO,0.0666597864374756,Light Fuel Oil,Top-down low,No
+DJI,2025,GEO,0.03,Geothermal,Top-down low,No
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Top-down low,No
+DJI,2025,LFO,0.0627847864374756,Light Fuel Oil,Top-down low,No
+DJI,2026,GEO,0.03,Geothermal,Top-down low,No
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Top-down low,No
+DJI,2026,LFO,0.0589097864374756,Light Fuel Oil,Top-down low,No
+DJI,2027,GEO,0.03,Geothermal,Top-down low,No
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Top-down low,No
+DJI,2027,LFO,0.0508084269659717,Light Fuel Oil,Top-down low,No
+DJI,2028,GEO,0.03,Geothermal,Top-down low,No
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Top-down low,No
+DJI,2028,LFO,0.0465,Light Fuel Oil,Top-down low,No
+DJI,2029,GEO,0.03,Geothermal,Top-down low,No
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Top-down low,No
+DJI,2029,LFO,0.042625,Light Fuel Oil,Top-down low,No
+DJI,2030,GEO,0.03,Geothermal,Top-down low,No
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Top-down low,No
+DJI,2030,LFO,0.03875,Light Fuel Oil,Top-down low,No
+DJI,2020,HFO,0.094,Heavy Fuel Oil,Top-down low,High
+DJI,2020,LFO,0.0820142532788021,Light Fuel Oil,Top-down low,High
+DJI,2021,GEO,0.03,Geothermal,Top-down low,High
+DJI,2021,HFO,0.0893,Heavy Fuel Oil,Top-down low,High
+DJI,2021,LFO,0.0781392532788021,Light Fuel Oil,Top-down low,High
+DJI,2022,GEO,0.03,Geothermal,Top-down low,High
+DJI,2022,HFO,0.0846,Heavy Fuel Oil,Top-down low,High
+DJI,2022,LFO,0.0742642532788021,Light Fuel Oil,Top-down low,High
+DJI,2023,GEO,0.03,Geothermal,Top-down low,High
+DJI,2023,HFO,0.0799,Heavy Fuel Oil,Top-down low,High
+DJI,2023,LFO,0.0703892532788021,Light Fuel Oil,Top-down low,High
+DJI,2024,GEO,0.03,Geothermal,Top-down low,High
+DJI,2024,HFO,0.0752,Heavy Fuel Oil,Top-down low,High
+DJI,2024,LFO,0.0665142532788021,Light Fuel Oil,Top-down low,High
+DJI,2025,GEO,0.03,Geothermal,Top-down low,High
+DJI,2025,HFO,0.0705,Heavy Fuel Oil,Top-down low,High
+DJI,2025,LFO,0.0626392532788021,Light Fuel Oil,Top-down low,High
+DJI,2026,GEO,0.03,Geothermal,Top-down low,High
+DJI,2026,HFO,0.0658,Heavy Fuel Oil,Top-down low,High
+DJI,2026,LFO,0.0587642532788021,Light Fuel Oil,Top-down low,High
+DJI,2027,GEO,0.03,Geothermal,Top-down low,High
+DJI,2027,HFO,0.0611,Heavy Fuel Oil,Top-down low,High
+DJI,2027,LFO,0.0506628938072982,Light Fuel Oil,Top-down low,High
+DJI,2028,GEO,0.03,Geothermal,Top-down low,High
+DJI,2028,HFO,0.0564,Heavy Fuel Oil,Top-down low,High
+DJI,2028,LFO,0.0465,Light Fuel Oil,Top-down low,High
+DJI,2029,GEO,0.03,Geothermal,Top-down low,High
+DJI,2029,HFO,0.0517,Heavy Fuel Oil,Top-down low,High
+DJI,2029,LFO,0.042625,Light Fuel Oil,Top-down low,High
+DJI,2030,GEO,0.03,Geothermal,Top-down low,High
+DJI,2030,HFO,0.047,Heavy Fuel Oil,Top-down low,High
+DJI,2030,LFO,0.03875,Light Fuel Oil,Top-down low,High

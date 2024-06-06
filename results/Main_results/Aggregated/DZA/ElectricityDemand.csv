@@ -1,0 +1,173 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+DZA,2020.0,EL3E,59751.750047801404,Current electrified,Bottom-up,No
+DZA,2021.0,EL3E,64961.2778297468,Current electrified,Bottom-up,No
+DZA,2022.0,EL3E,73620.7778366744,Current electrified,Bottom-up,No
+DZA,2023.0,EL3E,82135.7500657086,Current electrified,Bottom-up,No
+DZA,2024.0,EL3E,90514.7500724118,Current electrified,Bottom-up,No
+DZA,2025.0,EL3E,98779.0556345788,Current electrified,Bottom-up,No
+DZA,2026.0,EL3E,103792.0556385892,Current electrified,Bottom-up,No
+DZA,2027.0,EL3E,108707.361198077,Current electrified,Bottom-up,No
+DZA,2028.0,EL3E,113520.86120192782,Current electrified,Bottom-up,No
+DZA,2029.0,EL3E,118243.2500945946,Current electrified,Bottom-up,No
+DZA,2030.0,EL3E,122888.2500983106,Current electrified,Bottom-up,No
+DZA,2020.0,MAREL1,2819.166668922001,Exports (MAR),Bottom-up,No
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,No
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,No
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,No
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,No
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,No
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,No
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,No
+DZA,2024.0,MAREL1,5867.000004693601,Exports (MAR),Bottom-up,No
+DZA,2024.0,TUNEL1,3446.8888916464,Exports (TUN),Bottom-up,No
+DZA,2025.0,MAREL1,2750.9444466452,Exports (MAR),Bottom-up,No
+DZA,2025.0,TUNEL1,3358.3055582422003,Exports (TUN),Bottom-up,No
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,No
+DZA,2027.0,MAREL1,5257.6111153172,Exports (MAR),Bottom-up,No
+DZA,2027.0,TUNEL1,38.2777778084,Exports (TUN),Bottom-up,No
+DZA,2028.0,MAREL1,4702.611114873201,Exports (MAR),Bottom-up,No
+DZA,2028.0,TUNEL1,114.444444536,Exports (TUN),Bottom-up,No
+DZA,2029.0,MAREL1,4305.3333367776,Exports (MAR),Bottom-up,No
+DZA,2030.0,MAREL1,1759.2500014073998,Exports (MAR),Bottom-up,No
+DZA,2020.0,EL3E,59751.750047801404,Current electrified,Bottom-up,High
+DZA,2021.0,EL3E,64961.2778297468,Current electrified,Bottom-up,High
+DZA,2022.0,EL3E,73620.75005889659,Current electrified,Bottom-up,High
+DZA,2023.0,EL3E,82135.72228793081,Current electrified,Bottom-up,High
+DZA,2024.0,EL3E,90514.7500724118,Current electrified,Bottom-up,High
+DZA,2025.0,EL3E,98779.027856801,Current electrified,Bottom-up,High
+DZA,2026.0,EL3E,103792.0278608114,Current electrified,Bottom-up,High
+DZA,2027.0,EL3E,108707.38897585482,Current electrified,Bottom-up,High
+DZA,2028.0,EL3E,113520.8612019278,Current electrified,Bottom-up,High
+DZA,2029.0,EL3E,118243.2500945946,Current electrified,Bottom-up,High
+DZA,2030.0,EL3E,122888.2778760884,Current electrified,Bottom-up,High
+DZA,2020.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,High
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,High
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,High
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,High
+DZA,2024.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2024.0,TUNEL1,3994.5555587512,Exports (TUN),Bottom-up,High
+DZA,2025.0,MAREL1,5168.638893023801,Exports (MAR),Bottom-up,High
+DZA,2025.0,TUNEL1,2840.27778005,Exports (TUN),Bottom-up,High
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Bottom-up,High
+DZA,2026.0,TUNEL1,1255.833334338,Exports (TUN),Bottom-up,High
+DZA,2027.0,MAREL1,5985.694449233,Exports (MAR),Bottom-up,High
+DZA,2028.0,MAREL1,5414.555559887201,Exports (MAR),Bottom-up,High
+DZA,2029.0,MAREL1,5003.3611151138,Exports (MAR),Bottom-up,High
+DZA,2030.0,MAREL1,3116.388891382001,Exports (MAR),Bottom-up,High
+DZA,2020.0,EL3E,59751.750047801404,Current electrified,Top-down high,No
+DZA,2021.0,EL3E,64961.2778297468,Current electrified,Top-down high,No
+DZA,2022.0,EL3E,73620.7778366744,Current electrified,Top-down high,No
+DZA,2023.0,EL3E,82135.7500657086,Current electrified,Top-down high,No
+DZA,2024.0,EL3E,90514.7500724118,Current electrified,Top-down high,No
+DZA,2025.0,EL3E,98779.0556345788,Current electrified,Top-down high,No
+DZA,2026.0,EL3E,103792.0556385892,Current electrified,Top-down high,No
+DZA,2027.0,EL3E,108707.361198077,Current electrified,Top-down high,No
+DZA,2028.0,EL3E,113520.86120192782,Current electrified,Top-down high,No
+DZA,2029.0,EL3E,118243.2500945946,Current electrified,Top-down high,No
+DZA,2030.0,EL3E,122888.2500983106,Current electrified,Top-down high,No
+DZA,2020.0,MAREL1,2819.166668922,Exports (MAR),Top-down high,No
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,No
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,No
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,No
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,No
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,No
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,No
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,No
+DZA,2024.0,MAREL1,5867.0000046936,Exports (MAR),Top-down high,No
+DZA,2024.0,TUNEL1,3446.8888916464,Exports (TUN),Top-down high,No
+DZA,2025.0,MAREL1,2750.9444466452,Exports (MAR),Top-down high,No
+DZA,2025.0,TUNEL1,3358.3055582422003,Exports (TUN),Top-down high,No
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,No
+DZA,2027.0,MAREL1,5257.6111153172,Exports (MAR),Top-down high,No
+DZA,2027.0,TUNEL1,38.2777778084,Exports (TUN),Top-down high,No
+DZA,2028.0,MAREL1,4702.5833370954,Exports (MAR),Top-down high,No
+DZA,2028.0,TUNEL1,114.444444536,Exports (TUN),Top-down high,No
+DZA,2029.0,MAREL1,4305.3611145554005,Exports (MAR),Top-down high,No
+DZA,2030.0,MAREL1,1759.2500014073998,Exports (MAR),Top-down high,No
+DZA,2020.0,EL3E,59751.750047801404,Current electrified,Top-down high,High
+DZA,2021.0,EL3E,64961.2778297468,Current electrified,Top-down high,High
+DZA,2022.0,EL3E,73620.75005889659,Current electrified,Top-down high,High
+DZA,2023.0,EL3E,82135.72228793081,Current electrified,Top-down high,High
+DZA,2024.0,EL3E,90514.7500724118,Current electrified,Top-down high,High
+DZA,2025.0,EL3E,98779.027856801,Current electrified,Top-down high,High
+DZA,2026.0,EL3E,103792.0278608114,Current electrified,Top-down high,High
+DZA,2027.0,EL3E,108707.38897585482,Current electrified,Top-down high,High
+DZA,2028.0,EL3E,113520.8612019278,Current electrified,Top-down high,High
+DZA,2029.0,EL3E,118243.2500945946,Current electrified,Top-down high,High
+DZA,2030.0,EL3E,122888.2778760884,Current electrified,Top-down high,High
+DZA,2020.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,High
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,High
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,High
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,High
+DZA,2024.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2024.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down high,High
+DZA,2025.0,MAREL1,5168.6388930238,Exports (MAR),Top-down high,High
+DZA,2025.0,TUNEL1,2840.27778005,Exports (TUN),Top-down high,High
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Top-down high,High
+DZA,2026.0,TUNEL1,1255.833334338,Exports (TUN),Top-down high,High
+DZA,2027.0,MAREL1,5985.694449233,Exports (MAR),Top-down high,High
+DZA,2028.0,MAREL1,5414.555559887201,Exports (MAR),Top-down high,High
+DZA,2029.0,MAREL1,5003.3611151138,Exports (MAR),Top-down high,High
+DZA,2030.0,MAREL1,3116.388891382,Exports (MAR),Top-down high,High
+DZA,2020.0,EL3E,59751.77782557921,Current electrified,Top-down low,No
+DZA,2021.0,EL3E,64961.25005196899,Current electrified,Top-down low,No
+DZA,2022.0,EL3E,73620.75005889659,Current electrified,Top-down low,No
+DZA,2023.0,EL3E,82135.77784348639,Current electrified,Top-down low,No
+DZA,2024.0,EL3E,90514.722294634,Current electrified,Top-down low,No
+DZA,2025.0,EL3E,98779.0556345788,Current electrified,Top-down low,No
+DZA,2026.0,EL3E,103792.08341636702,Current electrified,Top-down low,No
+DZA,2027.0,EL3E,108707.361198077,Current electrified,Top-down low,No
+DZA,2028.0,EL3E,113520.86120192782,Current electrified,Top-down low,No
+DZA,2029.0,EL3E,118243.2778723724,Current electrified,Top-down low,No
+DZA,2030.0,EL3E,122888.2500983106,Current electrified,Top-down low,No
+DZA,2020.0,MAREL1,3782.3055585814,Exports (MAR),Top-down low,No
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,No
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,No
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,No
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,No
+DZA,2024.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2024.0,TUNEL1,2911.388891218,Exports (TUN),Top-down low,No
+DZA,2025.0,MAREL1,1287.2777788076005,Exports (MAR),Top-down low,No
+DZA,2025.0,TUNEL1,1405.8611122358,Exports (TUN),Top-down low,No
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2027.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2028.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2029.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,No
+DZA,2020.0,EL3E,59751.77782557921,Current electrified,Top-down low,High
+DZA,2021.0,EL3E,64961.25005196899,Current electrified,Top-down low,High
+DZA,2022.0,EL3E,73620.75005889659,Current electrified,Top-down low,High
+DZA,2023.0,EL3E,82135.77784348639,Current electrified,Top-down low,High
+DZA,2024.0,EL3E,90514.722294634,Current electrified,Top-down low,High
+DZA,2025.0,EL3E,98779.0556345788,Current electrified,Top-down low,High
+DZA,2026.0,EL3E,103792.08341636702,Current electrified,Top-down low,High
+DZA,2027.0,EL3E,108707.361198077,Current electrified,Top-down low,High
+DZA,2028.0,EL3E,113520.86120192782,Current electrified,Top-down low,High
+DZA,2029.0,EL3E,118243.2778723724,Current electrified,Top-down low,High
+DZA,2030.0,EL3E,122888.2500983106,Current electrified,Top-down low,High
+DZA,2020.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2020.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,High
+DZA,2021.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2021.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,High
+DZA,2022.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2022.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,High
+DZA,2023.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2023.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,High
+DZA,2024.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2024.0,TUNEL1,3994.5555587512,Exports (TUN),Top-down low,High
+DZA,2025.0,MAREL1,5270.277781994,Exports (MAR),Top-down low,High
+DZA,2025.0,TUNEL1,1201.2222231832,Exports (TUN),Top-down low,High
+DZA,2026.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2027.0,MAREL1,5991.8333381268,Exports (MAR),Top-down low,High
+DZA,2028.0,MAREL1,5828.916671329801,Exports (MAR),Top-down low,High
+DZA,2029.0,MAREL1,5068.5000040548,Exports (MAR),Top-down low,High

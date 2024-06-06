@@ -1,0 +1,325 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Bottom-up,No
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Bottom-up,No
+ETH,2021.0,EL3U,662.6944449746001,New electrified,Bottom-up,No
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Bottom-up,No
+ETH,2022.0,EL3U,1325.3611121714,New electrified,Bottom-up,No
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Bottom-up,No
+ETH,2023.0,EL3U,1988.055557146,New electrified,Bottom-up,No
+ETH,2024.0,EL3E,18366.333348026405,Current electrified,Bottom-up,No
+ETH,2024.0,EL3U,2650.7500021206,New electrified,Bottom-up,No
+ETH,2025.0,EL3E,20132.7222383284,Current electrified,Bottom-up,No
+ETH,2025.0,EL3U,3313.4166693174,New electrified,Bottom-up,No
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Bottom-up,No
+ETH,2026.0,EL3U,3976.111114292,New electrified,Bottom-up,No
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Bottom-up,No
+ETH,2027.0,EL3U,4171.944447782,New electrified,Bottom-up,No
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Bottom-up,No
+ETH,2028.0,EL3U,4367.7777812720005,New electrified,Bottom-up,No
+ETH,2029.0,EL3E,25918.555576290404,Current electrified,Bottom-up,No
+ETH,2029.0,EL3U,4563.611114762,New electrified,Bottom-up,No
+ETH,2030.0,EL3E,27362.944466334804,Current electrified,Bottom-up,No
+ETH,2030.0,EL3U,4759.444448252,New electrified,Bottom-up,No
+ETH,2020.0,DJIEL1,401.41666698780006,Exports (DJI),Bottom-up,No
+ETH,2020.0,KENEL1,7861.9166729562,Exports (KEN),Bottom-up,No
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2021.0,DJIEL1,244.0555557508,Exports (DJI),Bottom-up,No
+ETH,2021.0,KENEL1,11294.9166757026,Exports (KEN),Bottom-up,No
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2022.0,DJIEL1,301.3055557966,Exports (DJI),Bottom-up,No
+ETH,2022.0,KENEL1,13414.1111218424,Exports (KEN),Bottom-up,No
+ETH,2022.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2023.0,DJIEL1,360.694444733,Exports (DJI),Bottom-up,No
+ETH,2023.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2023.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2024.0,DJIEL1,418.888889224,Exports (DJI),Bottom-up,No
+ETH,2024.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2025.0,DJIEL1,501.5000004012,Exports (DJI),Bottom-up,No
+ETH,2025.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2025.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2026.0,DJIEL1,584.4722226898,Exports (DJI),Bottom-up,No
+ETH,2026.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2026.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2027.0,DJIEL1,640.5000005124,Exports (DJI),Bottom-up,No
+ETH,2027.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2027.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2028.0,DJIEL1,693.2777783324001,Exports (DJI),Bottom-up,No
+ETH,2028.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2028.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2029.0,DJIEL1,745.8611117078,Exports (DJI),Bottom-up,No
+ETH,2029.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,No
+ETH,2029.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,No
+ETH,2030.0,DJIEL1,735.9166672554001,Exports (DJI),Bottom-up,No
+ETH,2030.0,KENEL1,16300.444457484802,Exports (KEN),Bottom-up,No
+ETH,2030.0,SDNEL1,1320.8611121678,Exports (SDN),Bottom-up,No
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Bottom-up,High
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Bottom-up,High
+ETH,2021.0,EL3U,662.6944449746001,New electrified,Bottom-up,High
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Bottom-up,High
+ETH,2022.0,EL3U,1325.3611121714,New electrified,Bottom-up,High
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Bottom-up,High
+ETH,2023.0,EL3U,1988.055557146,New electrified,Bottom-up,High
+ETH,2024.0,EL3E,18366.333348026405,Current electrified,Bottom-up,High
+ETH,2024.0,EL3U,2650.7500021206,New electrified,Bottom-up,High
+ETH,2025.0,EL3E,20132.7222383284,Current electrified,Bottom-up,High
+ETH,2025.0,EL3U,3313.4166693174,New electrified,Bottom-up,High
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Bottom-up,High
+ETH,2026.0,EL3U,3976.111114292,New electrified,Bottom-up,High
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Bottom-up,High
+ETH,2027.0,EL3U,4171.944447782,New electrified,Bottom-up,High
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Bottom-up,High
+ETH,2028.0,EL3U,4367.7777812720005,New electrified,Bottom-up,High
+ETH,2029.0,EL3E,25918.555576290404,Current electrified,Bottom-up,High
+ETH,2029.0,EL3U,4563.611114762,New electrified,Bottom-up,High
+ETH,2030.0,EL3E,27362.944466334804,Current electrified,Bottom-up,High
+ETH,2030.0,EL3U,4759.444448252,New electrified,Bottom-up,High
+ETH,2020.0,DJIEL1,401.41666698780006,Exports (DJI),Bottom-up,High
+ETH,2020.0,KENEL1,7701.6111172724,Exports (KEN),Bottom-up,High
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2021.0,DJIEL1,244.0555557508,Exports (DJI),Bottom-up,High
+ETH,2021.0,KENEL1,11294.8055645914,Exports (KEN),Bottom-up,High
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2022.0,DJIEL1,301.4166669078,Exports (DJI),Bottom-up,High
+ETH,2022.0,KENEL1,14038.138900119402,Exports (KEN),Bottom-up,High
+ETH,2022.0,SDNEL1,1040.2500008322,Exports (SDN),Bottom-up,High
+ETH,2023.0,DJIEL1,500.4166670670001,Exports (DJI),Bottom-up,High
+ETH,2023.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2023.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2024.0,DJIEL1,642.3888894028,Exports (DJI),Bottom-up,High
+ETH,2024.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2025.0,DJIEL1,725.00000058,Exports (DJI),Bottom-up,High
+ETH,2025.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2025.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2026.0,DJIEL1,724.1944450238,Exports (DJI),Bottom-up,High
+ETH,2026.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2026.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2027.0,DJIEL1,780.2222228464001,Exports (DJI),Bottom-up,High
+ETH,2027.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2027.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2028.0,DJIEL1,832.8888895552001,Exports (DJI),Bottom-up,High
+ETH,2028.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2028.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2029.0,DJIEL1,885.4722229306001,Exports (DJI),Bottom-up,High
+ETH,2029.0,KENEL1,16644.0000133152,Exports (KEN),Bottom-up,High
+ETH,2029.0,SDNEL1,1664.3888902203998,Exports (SDN),Bottom-up,High
+ETH,2030.0,DJIEL1,750.6666672672,Exports (DJI),Bottom-up,High
+ETH,2030.0,KENEL1,15933.6666794136,Exports (KEN),Bottom-up,High
+ETH,2030.0,SDNEL1,1613.194445735,Exports (SDN),Bottom-up,High
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Top-down high,No
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Top-down high,No
+ETH,2021.0,EL3U,2952.5833356954004,New electrified,Top-down high,No
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Top-down high,No
+ETH,2022.0,EL3U,5905.194449168601,New electrified,Top-down high,No
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Top-down high,No
+ETH,2023.0,EL3U,8857.777784864002,New electrified,Top-down high,No
+ETH,2024.0,EL3E,18366.361125804204,Current electrified,Top-down high,No
+ETH,2024.0,EL3U,11810.3611205594,New electrified,Top-down high,No
+ETH,2025.0,EL3E,20132.7500161062,Current electrified,Top-down high,No
+ETH,2025.0,EL3U,14762.9722340326,New electrified,Top-down high,No
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Top-down high,No
+ETH,2026.0,EL3U,17715.555569728003,New electrified,Top-down high,No
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Top-down high,No
+ETH,2027.0,EL3U,18513.2777925884,New electrified,Top-down high,No
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Top-down high,No
+ETH,2028.0,EL3U,19310.972237671,New electrified,Top-down high,No
+ETH,2029.0,EL3E,25918.555576290404,Current electrified,Top-down high,No
+ETH,2029.0,EL3U,20108.6944605314,New electrified,Top-down high,No
+ETH,2030.0,EL3E,27362.944466334804,Current electrified,Top-down high,No
+ETH,2030.0,EL3U,20906.388905614003,New electrified,Top-down high,No
+ETH,2020.0,DJIEL1,401.41666698780006,Exports (DJI),Top-down high,No
+ETH,2020.0,KENEL1,7623.2777838764,Exports (KEN),Top-down high,No
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,No
+ETH,2021.0,DJIEL1,261.1666668756,Exports (DJI),Top-down high,No
+ETH,2021.0,KENEL1,8780.1111181352,Exports (KEN),Top-down high,No
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,No
+ETH,2022.0,DJIEL1,305.833333578,Exports (DJI),Top-down high,No
+ETH,2022.0,KENEL1,9493.5277853726,Exports (KEN),Top-down high,No
+ETH,2022.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2023.0,DJIEL1,349.6944447242,Exports (DJI),Top-down high,No
+ETH,2023.0,KENEL1,15876.527790479002,Exports (KEN),Top-down high,No
+ETH,2023.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2024.0,DJIEL1,680.6388894334,Exports (DJI),Top-down high,No
+ETH,2024.0,KENEL1,16644.0000133152,Exports (KEN),Top-down high,No
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,No
+ETH,2025.0,DJIEL1,691.2500005530001,Exports (DJI),Top-down high,No
+ETH,2025.0,KENEL1,16142.0277906914,Exports (KEN),Top-down high,No
+ETH,2025.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2026.0,DJIEL1,460.6666670352,Exports (DJI),Top-down high,No
+ETH,2026.0,KENEL1,16486.2777909668,Exports (KEN),Top-down high,No
+ETH,2026.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2027.0,DJIEL1,140.50000011240002,Exports (DJI),Top-down high,No
+ETH,2027.0,KENEL1,16204.222235185602,Exports (KEN),Top-down high,No
+ETH,2027.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2028.0,DJIEL1,163.5277779086,Exports (DJI),Top-down high,No
+ETH,2028.0,KENEL1,15919.0000127352,Exports (KEN),Top-down high,No
+ETH,2028.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,No
+ETH,2029.0,DJIEL1,78.08333339580001,Exports (DJI),Top-down high,No
+ETH,2029.0,KENEL1,15614.9444569364,Exports (KEN),Top-down high,No
+ETH,2029.0,SDNEL1,1197.5833342914,Exports (SDN),Top-down high,No
+ETH,2030.0,DJIEL1,11.805555565,Exports (DJI),Top-down high,No
+ETH,2030.0,KENEL1,15237.222234412,Exports (KEN),Top-down high,No
+ETH,2030.0,SDNEL1,1197.5833342914,Exports (SDN),Top-down high,No
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Top-down high,High
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Top-down high,High
+ETH,2021.0,EL3U,2952.5833356954004,New electrified,Top-down high,High
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Top-down high,High
+ETH,2022.0,EL3U,5905.194449168601,New electrified,Top-down high,High
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Top-down high,High
+ETH,2023.0,EL3U,8857.777784864002,New electrified,Top-down high,High
+ETH,2024.0,EL3E,18366.333348026405,Current electrified,Top-down high,High
+ETH,2024.0,EL3U,11810.3611205594,New electrified,Top-down high,High
+ETH,2025.0,EL3E,20132.7222383284,Current electrified,Top-down high,High
+ETH,2025.0,EL3U,14762.9722340326,New electrified,Top-down high,High
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Top-down high,High
+ETH,2026.0,EL3U,17715.555569728003,New electrified,Top-down high,High
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Top-down high,High
+ETH,2027.0,EL3U,18513.2777925884,New electrified,Top-down high,High
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Top-down high,High
+ETH,2028.0,EL3U,19310.972237671,New electrified,Top-down high,High
+ETH,2029.0,EL3E,25918.5833540682,Current electrified,Top-down high,High
+ETH,2029.0,EL3U,20108.6944605314,New electrified,Top-down high,High
+ETH,2030.0,EL3E,27362.9444663348,Current electrified,Top-down high,High
+ETH,2030.0,EL3U,20906.388905614003,New electrified,Top-down high,High
+ETH,2020.0,DJIEL1,401.41666698780006,Exports (DJI),Top-down high,High
+ETH,2020.0,KENEL1,7691.277783930801,Exports (KEN),Top-down high,High
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,High
+ETH,2021.0,DJIEL1,270.66666688320004,Exports (DJI),Top-down high,High
+ETH,2021.0,KENEL1,8770.5833403498,Exports (KEN),Top-down high,High
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,High
+ETH,2022.0,DJIEL1,362.2500002898,Exports (DJI),Top-down high,High
+ETH,2022.0,KENEL1,9581.3611187762,Exports (KEN),Top-down high,High
+ETH,2022.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2023.0,DJIEL1,452.33333369520005,Exports (DJI),Top-down high,High
+ETH,2023.0,KENEL1,15761.2222348312,Exports (KEN),Top-down high,High
+ETH,2023.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2024.0,DJIEL1,680.7222227668001,Exports (DJI),Top-down high,High
+ETH,2024.0,KENEL1,16644.0000133152,Exports (KEN),Top-down high,High
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down high,High
+ETH,2025.0,DJIEL1,654.3333338568,Exports (DJI),Top-down high,High
+ETH,2025.0,KENEL1,15490.1111235032,Exports (KEN),Top-down high,High
+ETH,2025.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2026.0,DJIEL1,234.9444446324,Exports (DJI),Top-down high,High
+ETH,2026.0,KENEL1,13099.3611215906,Exports (KEN),Top-down high,High
+ETH,2026.0,SDNEL1,1280.3055565798,Exports (SDN),Top-down high,High
+ETH,2027.0,DJIEL1,54.2500000434,Exports (DJI),Top-down high,High
+ETH,2027.0,KENEL1,12585.277787846002,Exports (KEN),Top-down high,High
+ETH,2027.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2028.0,DJIEL1,61.2777778268,Exports (DJI),Top-down high,High
+ETH,2028.0,KENEL1,12567.1388989426,Exports (KEN),Top-down high,High
+ETH,2028.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2029.0,DJIEL1,73.00000005839999,Exports (DJI),Top-down high,High
+ETH,2029.0,KENEL1,12576.0277878386,Exports (KEN),Top-down high,High
+ETH,2029.0,SDNEL1,1040.2500008322,Exports (SDN),Top-down high,High
+ETH,2030.0,DJIEL1,105.3611111954,Exports (DJI),Top-down high,High
+ETH,2030.0,KENEL1,11312.8611201614,Exports (KEN),Top-down high,High
+ETH,2030.0,SDNEL1,1087.0000008696,Exports (SDN),Top-down high,High
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Top-down low,No
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Top-down low,No
+ETH,2021.0,EL3U,836.5833340025999,New electrified,Top-down low,No
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Top-down low,No
+ETH,2022.0,EL3U,1673.1388902274,New electrified,Top-down low,No
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Top-down low,No
+ETH,2023.0,EL3U,2509.72222423,New electrified,Top-down low,No
+ETH,2024.0,EL3E,18366.333348026405,Current electrified,Top-down low,No
+ETH,2024.0,EL3U,3346.3055582326,New electrified,Top-down low,No
+ETH,2025.0,EL3E,20132.7222383284,Current electrified,Top-down low,No
+ETH,2025.0,EL3U,4182.8611144574,New electrified,Top-down low,No
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Top-down low,No
+ETH,2026.0,EL3U,5019.44444846,New electrified,Top-down low,No
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Top-down low,No
+ETH,2027.0,EL3U,5294.44444868,New electrified,Top-down low,No
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Top-down low,No
+ETH,2028.0,EL3U,5569.444448900001,New electrified,Top-down low,No
+ETH,2029.0,EL3E,25918.555576290404,Current electrified,Top-down low,No
+ETH,2029.0,EL3U,5844.44444912,New electrified,Top-down low,No
+ETH,2030.0,EL3E,27362.944466334804,Current electrified,Top-down low,No
+ETH,2030.0,EL3U,6119.444449340001,New electrified,Top-down low,No
+ETH,2020.0,DJIEL1,401.41666698780006,Exports (DJI),Top-down low,No
+ETH,2020.0,KENEL1,7967.472228596201,Exports (KEN),Top-down low,No
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2021.0,DJIEL1,250.5000002004,Exports (DJI),Top-down low,No
+ETH,2021.0,KENEL1,10673.9722307614,Exports (KEN),Top-down low,No
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2022.0,DJIEL1,321.388889146,Exports (DJI),Top-down low,No
+ETH,2022.0,KENEL1,13015.1666770788,Exports (KEN),Top-down low,No
+ETH,2022.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2023.0,DJIEL1,390.833333646,Exports (DJI),Top-down low,No
+ETH,2023.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,No
+ETH,2023.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2024.0,DJIEL1,459.05555592280007,Exports (DJI),Top-down low,No
+ETH,2024.0,KENEL1,16251.0555685564,Exports (KEN),Top-down low,No
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2025.0,DJIEL1,551.7222226636001,Exports (DJI),Top-down low,No
+ETH,2025.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,No
+ETH,2025.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2026.0,DJIEL1,644.722222738,Exports (DJI),Top-down low,No
+ETH,2026.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,No
+ETH,2026.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2027.0,DJIEL1,702.1944450062,Exports (DJI),Top-down low,No
+ETH,2027.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,No
+ETH,2027.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2028.0,DJIEL1,756.388889494,Exports (DJI),Top-down low,No
+ETH,2028.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,No
+ETH,2028.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,No
+ETH,2029.0,DJIEL1,735.3055561438,Exports (DJI),Top-down low,No
+ETH,2029.0,KENEL1,16418.6944575794,Exports (KEN),Top-down low,No
+ETH,2029.0,SDNEL1,1406.9722233478,Exports (SDN),Top-down low,No
+ETH,2030.0,DJIEL1,801.8888895304001,Exports (DJI),Top-down low,No
+ETH,2030.0,KENEL1,15710.3333459016,Exports (KEN),Top-down low,No
+ETH,2030.0,SDNEL1,1317.8333343876002,Exports (SDN),Top-down low,No
+ETH,2020.0,EL3E,11070.1111199672,Current electrified,Top-down low,High
+ETH,2021.0,EL3E,13057.4722326682,Current electrified,Top-down low,High
+ETH,2021.0,EL3U,836.5833340025999,New electrified,Top-down low,High
+ETH,2022.0,EL3E,14828.8333451964,Current electrified,Top-down low,High
+ETH,2022.0,EL3U,1673.1388902274,New electrified,Top-down low,High
+ETH,2023.0,EL3E,16598.3889021676,Current electrified,Top-down low,High
+ETH,2023.0,EL3U,2509.72222423,New electrified,Top-down low,High
+ETH,2024.0,EL3E,18366.333348026405,Current electrified,Top-down low,High
+ETH,2024.0,EL3U,3346.3055582326,New electrified,Top-down low,High
+ETH,2025.0,EL3E,20132.7222383284,Current electrified,Top-down low,High
+ETH,2025.0,EL3U,4182.8611144574,New electrified,Top-down low,High
+ETH,2026.0,EL3E,21580.9444617092,Current electrified,Top-down low,High
+ETH,2026.0,EL3U,5019.44444846,New electrified,Top-down low,High
+ETH,2027.0,EL3E,23027.8333517556,Current electrified,Top-down low,High
+ETH,2027.0,EL3U,5294.44444868,New electrified,Top-down low,High
+ETH,2028.0,EL3E,24473.638908467805,Current electrified,Top-down low,High
+ETH,2028.0,EL3U,5569.444448900001,New electrified,Top-down low,High
+ETH,2029.0,EL3E,25918.555576290404,Current electrified,Top-down low,High
+ETH,2029.0,EL3U,5844.44444912,New electrified,Top-down low,High
+ETH,2030.0,EL3E,27362.944466334804,Current electrified,Top-down low,High
+ETH,2030.0,EL3U,6119.444449340001,New electrified,Top-down low,High
+ETH,2020.0,DJIEL1,401.44444476560005,Exports (DJI),Top-down low,High
+ETH,2020.0,KENEL1,7401.555561476801,Exports (KEN),Top-down low,High
+ETH,2020.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2021.0,DJIEL1,250.6388890894,Exports (DJI),Top-down low,High
+ETH,2021.0,KENEL1,10756.6388974942,Exports (KEN),Top-down low,High
+ETH,2021.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2022.0,DJIEL1,321.527778035,Exports (DJI),Top-down low,High
+ETH,2022.0,KENEL1,13154.277788301202,Exports (KEN),Top-down low,High
+ETH,2022.0,SDNEL1,1525.1666678868,Exports (SDN),Top-down low,High
+ETH,2023.0,DJIEL1,530.5833337578,Exports (DJI),Top-down low,High
+ETH,2023.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2023.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2024.0,DJIEL1,682.5833338794,Exports (DJI),Top-down low,High
+ETH,2024.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2024.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2025.0,DJIEL1,775.2222228424,Exports (DJI),Top-down low,High
+ETH,2025.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2025.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2026.0,DJIEL1,784.4722228498,Exports (DJI),Top-down low,High
+ETH,2026.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2026.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2027.0,DJIEL1,841.9444451180001,Exports (DJI),Top-down low,High
+ETH,2027.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2027.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2028.0,DJIEL1,896.0000007168001,Exports (DJI),Top-down low,High
+ETH,2028.0,KENEL1,16644.0000133152,Exports (KEN),Top-down low,High
+ETH,2028.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2029.0,DJIEL1,810.3888895372,Exports (DJI),Top-down low,High
+ETH,2029.0,KENEL1,16085.833346202,Exports (KEN),Top-down low,High
+ETH,2029.0,SDNEL1,1664.3888902203998,Exports (SDN),Top-down low,High
+ETH,2030.0,DJIEL1,870.138889585,Exports (DJI),Top-down low,High
+ETH,2030.0,KENEL1,15163.750012131,Exports (KEN),Top-down low,High
+ETH,2030.0,SDNEL1,1649.583334653,Exports (SDN),Top-down low,High

@@ -1,0 +1,411 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+ETH,2020,BIO,0.1962,Biomass,Bottom-up,No
+ETH,2020,GEO,0.1285,Geothermal,Bottom-up,No
+ETH,2020,HYD,5.245628000000001,Hydropower,Bottom-up,No
+ETH,2020,LFO,0.141634,Light Fuel Oil,Bottom-up,No
+ETH,2020,SOL,0.012702,Solar,Bottom-up,No
+ETH,2020,WIN,0.32218,Wind,Bottom-up,No
+ETH,2021,BIO,0.18639,Biomass,Bottom-up,No
+ETH,2021,GEO,0.2985,Geothermal,Bottom-up,No
+ETH,2021,HYD,6.325628000000001,Hydropower,Bottom-up,No
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Bottom-up,No
+ETH,2021,SOL,0.012244,Solar,Bottom-up,No
+ETH,2021,WIN,0.313621,Wind,Bottom-up,No
+ETH,2022,BIO,0.17658,Biomass,Bottom-up,No
+ETH,2022,GEO,0.3985,Geothermal,Bottom-up,No
+ETH,2022,HYD,7.405628000000001,Hydropower,Bottom-up,No
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Bottom-up,No
+ETH,2022,SOL,0.011786,Solar,Bottom-up,No
+ETH,2022,WIN,0.305062,Wind,Bottom-up,No
+ETH,2023,BIO,0.16677,Biomass,Bottom-up,No
+ETH,2023,GEO,0.5985,Geothermal,Bottom-up,No
+ETH,2023,HYD,10.030628,Hydropower,Bottom-up,No
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Bottom-up,No
+ETH,2023,SOL,0.011328,Solar,Bottom-up,No
+ETH,2023,WIN,0.2965029999999999,Wind,Bottom-up,No
+ETH,2024,BIO,0.15696,Biomass,Bottom-up,No
+ETH,2024,GEO,0.8485,Geothermal,Bottom-up,No
+ETH,2024,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Bottom-up,No
+ETH,2024,SOL,0.01087,Solar,Bottom-up,No
+ETH,2024,WIN,0.287944,Wind,Bottom-up,No
+ETH,2025,BIO,0.0981,Biomass,Bottom-up,No
+ETH,2025,GEO,1.0485,Geothermal,Bottom-up,No
+ETH,2025,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Bottom-up,No
+ETH,2025,SOL,0.010412,Solar,Bottom-up,No
+ETH,2025,WIN,0.279385,Wind,Bottom-up,No
+ETH,2026,BIO,0.08829,Biomass,Bottom-up,No
+ETH,2026,GEO,1.048075,Geothermal,Bottom-up,No
+ETH,2026,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Bottom-up,No
+ETH,2026,SOL,0.009954,Solar,Bottom-up,No
+ETH,2026,WIN,0.270826,Wind,Bottom-up,No
+ETH,2027,BIO,0.07848,Biomass,Bottom-up,No
+ETH,2027,GEO,1.04765,Geothermal,Bottom-up,No
+ETH,2027,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Bottom-up,No
+ETH,2027,SOL,0.009496,Solar,Bottom-up,No
+ETH,2027,WIN,0.262267,Wind,Bottom-up,No
+ETH,2028,BIO,0.06867,Biomass,Bottom-up,No
+ETH,2028,GEO,1.047225,Geothermal,Bottom-up,No
+ETH,2028,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Bottom-up,No
+ETH,2028,SOL,0.009038,Solar,Bottom-up,No
+ETH,2028,WIN,0.253708,Wind,Bottom-up,No
+ETH,2029,BIO,0.05886,Biomass,Bottom-up,No
+ETH,2029,GEO,1.0468,Geothermal,Bottom-up,No
+ETH,2029,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Bottom-up,No
+ETH,2029,SOL,0.00858,Solar,Bottom-up,No
+ETH,2029,WIN,0.245149,Wind,Bottom-up,No
+ETH,2030,BIO,0.04905,Biomass,Bottom-up,No
+ETH,2030,GEO,1.046375,Geothermal,Bottom-up,No
+ETH,2030,HFO,0.000136488526706,Heavy Fuel Oil,Bottom-up,No
+ETH,2030,HYD,12.655628,Hydropower,Bottom-up,No
+ETH,2030,LFO,0.070817,Light Fuel Oil,Bottom-up,No
+ETH,2030,SOL,0.008122,Solar,Bottom-up,No
+ETH,2030,WIN,0.23659,Wind,Bottom-up,No
+ETH,2020,BIO,0.1962,Biomass,Bottom-up,High
+ETH,2020,GEO,0.1285,Geothermal,Bottom-up,High
+ETH,2020,HYD,5.245628000000001,Hydropower,Bottom-up,High
+ETH,2020,LFO,0.141634,Light Fuel Oil,Bottom-up,High
+ETH,2020,SOL,0.012702,Solar,Bottom-up,High
+ETH,2020,WIN,0.32218,Wind,Bottom-up,High
+ETH,2021,BIO,0.18639,Biomass,Bottom-up,High
+ETH,2021,GEO,0.2985,Geothermal,Bottom-up,High
+ETH,2021,HYD,6.325628000000001,Hydropower,Bottom-up,High
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Bottom-up,High
+ETH,2021,SOL,0.012244,Solar,Bottom-up,High
+ETH,2021,WIN,0.313621,Wind,Bottom-up,High
+ETH,2022,BIO,0.17658,Biomass,Bottom-up,High
+ETH,2022,GEO,0.3985,Geothermal,Bottom-up,High
+ETH,2022,HYD,7.405628000000001,Hydropower,Bottom-up,High
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Bottom-up,High
+ETH,2022,SOL,0.011786,Solar,Bottom-up,High
+ETH,2022,WIN,0.305062,Wind,Bottom-up,High
+ETH,2023,BIO,0.16677,Biomass,Bottom-up,High
+ETH,2023,GEO,0.5985,Geothermal,Bottom-up,High
+ETH,2023,HYD,10.030628,Hydropower,Bottom-up,High
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Bottom-up,High
+ETH,2023,SOL,0.011328,Solar,Bottom-up,High
+ETH,2023,WIN,0.2965029999999999,Wind,Bottom-up,High
+ETH,2024,BIO,0.15696,Biomass,Bottom-up,High
+ETH,2024,GEO,0.8485,Geothermal,Bottom-up,High
+ETH,2024,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Bottom-up,High
+ETH,2024,SOL,0.01087,Solar,Bottom-up,High
+ETH,2024,WIN,0.287944,Wind,Bottom-up,High
+ETH,2025,BIO,0.0981,Biomass,Bottom-up,High
+ETH,2025,GEO,1.0485,Geothermal,Bottom-up,High
+ETH,2025,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Bottom-up,High
+ETH,2025,SOL,0.010412,Solar,Bottom-up,High
+ETH,2025,WIN,0.279385,Wind,Bottom-up,High
+ETH,2026,BIO,0.08829,Biomass,Bottom-up,High
+ETH,2026,GEO,1.048075,Geothermal,Bottom-up,High
+ETH,2026,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Bottom-up,High
+ETH,2026,SOL,0.009954,Solar,Bottom-up,High
+ETH,2026,WIN,0.270826,Wind,Bottom-up,High
+ETH,2027,BIO,0.07848,Biomass,Bottom-up,High
+ETH,2027,GEO,1.04765,Geothermal,Bottom-up,High
+ETH,2027,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Bottom-up,High
+ETH,2027,SOL,0.009496,Solar,Bottom-up,High
+ETH,2027,WIN,0.262267,Wind,Bottom-up,High
+ETH,2028,BIO,0.06867,Biomass,Bottom-up,High
+ETH,2028,GEO,1.047225,Geothermal,Bottom-up,High
+ETH,2028,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Bottom-up,High
+ETH,2028,SOL,0.009038,Solar,Bottom-up,High
+ETH,2028,WIN,0.253708,Wind,Bottom-up,High
+ETH,2029,BIO,0.05886,Biomass,Bottom-up,High
+ETH,2029,GEO,1.0468,Geothermal,Bottom-up,High
+ETH,2029,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Bottom-up,High
+ETH,2029,SOL,0.00858,Solar,Bottom-up,High
+ETH,2029,WIN,0.245149,Wind,Bottom-up,High
+ETH,2030,BIO,0.04905,Biomass,Bottom-up,High
+ETH,2030,GEO,1.046375,Geothermal,Bottom-up,High
+ETH,2030,HYD,12.655628,Hydropower,Bottom-up,High
+ETH,2030,LFO,0.070817,Light Fuel Oil,Bottom-up,High
+ETH,2030,SOL,0.008122,Solar,Bottom-up,High
+ETH,2030,WIN,0.23659,Wind,Bottom-up,High
+ETH,2020,BIO,0.1962,Biomass,Top-down high,No
+ETH,2020,GEO,0.1285,Geothermal,Top-down high,No
+ETH,2020,HYD,5.245628000000001,Hydropower,Top-down high,No
+ETH,2020,LFO,0.141634,Light Fuel Oil,Top-down high,No
+ETH,2020,SOL,0.012702,Solar,Top-down high,No
+ETH,2020,WIN,0.32218,Wind,Top-down high,No
+ETH,2021,BIO,0.18639,Biomass,Top-down high,No
+ETH,2021,GEO,0.2985,Geothermal,Top-down high,No
+ETH,2021,HYD,6.325628000000001,Hydropower,Top-down high,No
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Top-down high,No
+ETH,2021,SOL,0.012244,Solar,Top-down high,No
+ETH,2021,WIN,0.313621,Wind,Top-down high,No
+ETH,2022,BIO,0.17658,Biomass,Top-down high,No
+ETH,2022,GEO,0.3985,Geothermal,Top-down high,No
+ETH,2022,HYD,7.405628000000001,Hydropower,Top-down high,No
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Top-down high,No
+ETH,2022,SOL,0.011786,Solar,Top-down high,No
+ETH,2022,WIN,0.305062,Wind,Top-down high,No
+ETH,2023,BIO,0.16677,Biomass,Top-down high,No
+ETH,2023,GEO,0.5985,Geothermal,Top-down high,No
+ETH,2023,HYD,10.030628,Hydropower,Top-down high,No
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Top-down high,No
+ETH,2023,SOL,0.011328,Solar,Top-down high,No
+ETH,2023,WIN,0.2965029999999999,Wind,Top-down high,No
+ETH,2024,BIO,0.15696,Biomass,Top-down high,No
+ETH,2024,GEO,0.8485,Geothermal,Top-down high,No
+ETH,2024,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Top-down high,No
+ETH,2024,SOL,0.01087,Solar,Top-down high,No
+ETH,2024,WIN,0.287944,Wind,Top-down high,No
+ETH,2025,BIO,0.0981,Biomass,Top-down high,No
+ETH,2025,GEO,1.0485,Geothermal,Top-down high,No
+ETH,2025,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2025,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Top-down high,No
+ETH,2025,SOL,0.010412,Solar,Top-down high,No
+ETH,2025,WIN,0.279385,Wind,Top-down high,No
+ETH,2026,BIO,0.08829,Biomass,Top-down high,No
+ETH,2026,GAS,0.8787498902025587,Natural Gas,Top-down high,No
+ETH,2026,GEO,1.048075,Geothermal,Top-down high,No
+ETH,2026,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2026,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Top-down high,No
+ETH,2026,SOL,0.009954,Solar,Top-down high,No
+ETH,2026,WIN,0.270826,Wind,Top-down high,No
+ETH,2027,BIO,0.07848,Biomass,Top-down high,No
+ETH,2027,GAS,1.1392741099455896,Natural Gas,Top-down high,No
+ETH,2027,GEO,1.23927913764897,Geothermal,Top-down high,No
+ETH,2027,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2027,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Top-down high,No
+ETH,2027,SOL,0.009496,Solar,Top-down high,No
+ETH,2027,WIN,0.262267,Wind,Top-down high,No
+ETH,2028,BIO,0.06867,Biomass,Top-down high,No
+ETH,2028,GAS,1.31638065104983,Natural Gas,Top-down high,No
+ETH,2028,GEO,1.48885413764897,Geothermal,Top-down high,No
+ETH,2028,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2028,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Top-down high,No
+ETH,2028,SOL,0.009038,Solar,Top-down high,No
+ETH,2028,WIN,0.253708,Wind,Top-down high,No
+ETH,2029,BIO,0.05886,Biomass,Top-down high,No
+ETH,2029,GAS,1.6251358395303446,Natural Gas,Top-down high,No
+ETH,2029,GEO,1.73842913764897,Geothermal,Top-down high,No
+ETH,2029,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2029,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Top-down high,No
+ETH,2029,SOL,0.00858,Solar,Top-down high,No
+ETH,2029,WIN,0.245149,Wind,Top-down high,No
+ETH,2030,BIO,0.04905,Biomass,Top-down high,No
+ETH,2030,GAS,1.6251358395303446,Natural Gas,Top-down high,No
+ETH,2030,GEO,1.9880041376489697,Geothermal,Top-down high,No
+ETH,2030,HFO,0.000300274758754,Heavy Fuel Oil,Top-down high,No
+ETH,2030,HYD,12.655628,Hydropower,Top-down high,No
+ETH,2030,LFO,0.070817,Light Fuel Oil,Top-down high,No
+ETH,2030,SOL,0.008122,Solar,Top-down high,No
+ETH,2030,WIN,0.23659,Wind,Top-down high,No
+ETH,2020,BIO,0.1962,Biomass,Top-down high,High
+ETH,2020,GEO,0.1285,Geothermal,Top-down high,High
+ETH,2020,HYD,5.245628000000001,Hydropower,Top-down high,High
+ETH,2020,LFO,0.141634,Light Fuel Oil,Top-down high,High
+ETH,2020,SOL,0.012702,Solar,Top-down high,High
+ETH,2020,WIN,0.32218,Wind,Top-down high,High
+ETH,2021,BIO,0.18639,Biomass,Top-down high,High
+ETH,2021,GEO,0.2985,Geothermal,Top-down high,High
+ETH,2021,HYD,6.325628000000001,Hydropower,Top-down high,High
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Top-down high,High
+ETH,2021,SOL,0.012244,Solar,Top-down high,High
+ETH,2021,WIN,0.313621,Wind,Top-down high,High
+ETH,2022,BIO,0.17658,Biomass,Top-down high,High
+ETH,2022,GEO,0.3985,Geothermal,Top-down high,High
+ETH,2022,HYD,7.405628000000001,Hydropower,Top-down high,High
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Top-down high,High
+ETH,2022,SOL,0.011786,Solar,Top-down high,High
+ETH,2022,WIN,0.305062,Wind,Top-down high,High
+ETH,2023,BIO,0.16677,Biomass,Top-down high,High
+ETH,2023,GEO,0.5985,Geothermal,Top-down high,High
+ETH,2023,HYD,10.030628,Hydropower,Top-down high,High
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Top-down high,High
+ETH,2023,SOL,0.011328,Solar,Top-down high,High
+ETH,2023,WIN,0.2965029999999999,Wind,Top-down high,High
+ETH,2024,BIO,0.15696,Biomass,Top-down high,High
+ETH,2024,GEO,0.8485,Geothermal,Top-down high,High
+ETH,2024,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Top-down high,High
+ETH,2024,SOL,0.01087,Solar,Top-down high,High
+ETH,2024,WIN,0.287944,Wind,Top-down high,High
+ETH,2025,BIO,0.0981,Biomass,Top-down high,High
+ETH,2025,GEO,1.0485,Geothermal,Top-down high,High
+ETH,2025,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Top-down high,High
+ETH,2025,SOL,0.010412,Solar,Top-down high,High
+ETH,2025,WIN,0.279385,Wind,Top-down high,High
+ETH,2026,BIO,0.08829,Biomass,Top-down high,High
+ETH,2026,GEO,1.048075,Geothermal,Top-down high,High
+ETH,2026,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Top-down high,High
+ETH,2026,SOL,0.009954,Solar,Top-down high,High
+ETH,2026,WIN,0.270826,Wind,Top-down high,High
+ETH,2027,BIO,0.07848,Biomass,Top-down high,High
+ETH,2027,GEO,1.181155727542172,Geothermal,Top-down high,High
+ETH,2027,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Top-down high,High
+ETH,2027,SOL,0.009496,Solar,Top-down high,High
+ETH,2027,WIN,0.262267,Wind,Top-down high,High
+ETH,2028,BIO,0.06867,Biomass,Top-down high,High
+ETH,2028,GEO,1.379111660227303,Geothermal,Top-down high,High
+ETH,2028,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Top-down high,High
+ETH,2028,SOL,0.509038,Solar,Top-down high,High
+ETH,2028,WIN,0.253708,Wind,Top-down high,High
+ETH,2029,BIO,0.05886,Biomass,Top-down high,High
+ETH,2029,GEO,1.608293436137175,Geothermal,Top-down high,High
+ETH,2029,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Top-down high,High
+ETH,2029,SOL,1.0085799999999998,Solar,Top-down high,High
+ETH,2029,WIN,0.245149,Wind,Top-down high,High
+ETH,2030,BIO,0.04905,Biomass,Top-down high,High
+ETH,2030,GEO,1.6078684361371751,Geothermal,Top-down high,High
+ETH,2030,HYD,12.655628,Hydropower,Top-down high,High
+ETH,2030,LFO,0.070817,Light Fuel Oil,Top-down high,High
+ETH,2030,SOL,1.6405075464833945,Solar,Top-down high,High
+ETH,2030,WIN,0.23659,Wind,Top-down high,High
+ETH,2020,BIO,0.1962,Biomass,Top-down low,No
+ETH,2020,GEO,0.1285,Geothermal,Top-down low,No
+ETH,2020,HYD,5.245628000000001,Hydropower,Top-down low,No
+ETH,2020,LFO,0.141634,Light Fuel Oil,Top-down low,No
+ETH,2020,SOL,0.012702,Solar,Top-down low,No
+ETH,2020,WIN,0.32218,Wind,Top-down low,No
+ETH,2021,BIO,0.18639,Biomass,Top-down low,No
+ETH,2021,GEO,0.2985,Geothermal,Top-down low,No
+ETH,2021,HYD,6.325628000000001,Hydropower,Top-down low,No
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Top-down low,No
+ETH,2021,SOL,0.012244,Solar,Top-down low,No
+ETH,2021,WIN,0.313621,Wind,Top-down low,No
+ETH,2022,BIO,0.17658,Biomass,Top-down low,No
+ETH,2022,GEO,0.3985,Geothermal,Top-down low,No
+ETH,2022,HYD,7.405628000000001,Hydropower,Top-down low,No
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Top-down low,No
+ETH,2022,SOL,0.011786,Solar,Top-down low,No
+ETH,2022,WIN,0.305062,Wind,Top-down low,No
+ETH,2023,BIO,0.16677,Biomass,Top-down low,No
+ETH,2023,GEO,0.5985,Geothermal,Top-down low,No
+ETH,2023,HYD,10.030628,Hydropower,Top-down low,No
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Top-down low,No
+ETH,2023,SOL,0.011328,Solar,Top-down low,No
+ETH,2023,WIN,0.2965029999999999,Wind,Top-down low,No
+ETH,2024,BIO,0.15696,Biomass,Top-down low,No
+ETH,2024,GEO,0.8485,Geothermal,Top-down low,No
+ETH,2024,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Top-down low,No
+ETH,2024,SOL,0.01087,Solar,Top-down low,No
+ETH,2024,WIN,0.287944,Wind,Top-down low,No
+ETH,2025,BIO,0.0981,Biomass,Top-down low,No
+ETH,2025,GEO,1.0485,Geothermal,Top-down low,No
+ETH,2025,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Top-down low,No
+ETH,2025,SOL,0.010412,Solar,Top-down low,No
+ETH,2025,WIN,0.279385,Wind,Top-down low,No
+ETH,2026,BIO,0.08829,Biomass,Top-down low,No
+ETH,2026,GEO,1.048075,Geothermal,Top-down low,No
+ETH,2026,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Top-down low,No
+ETH,2026,SOL,0.009954,Solar,Top-down low,No
+ETH,2026,WIN,0.270826,Wind,Top-down low,No
+ETH,2027,BIO,0.07848,Biomass,Top-down low,No
+ETH,2027,GEO,1.04765,Geothermal,Top-down low,No
+ETH,2027,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Top-down low,No
+ETH,2027,SOL,0.009496,Solar,Top-down low,No
+ETH,2027,WIN,0.262267,Wind,Top-down low,No
+ETH,2028,BIO,0.06867,Biomass,Top-down low,No
+ETH,2028,GEO,1.047225,Geothermal,Top-down low,No
+ETH,2028,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Top-down low,No
+ETH,2028,SOL,0.009038,Solar,Top-down low,No
+ETH,2028,WIN,0.253708,Wind,Top-down low,No
+ETH,2029,BIO,0.05886,Biomass,Top-down low,No
+ETH,2029,GEO,1.0468,Geothermal,Top-down low,No
+ETH,2029,HFO,0.0001364885267053,Heavy Fuel Oil,Top-down low,No
+ETH,2029,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Top-down low,No
+ETH,2029,SOL,0.00858,Solar,Top-down low,No
+ETH,2029,WIN,0.245149,Wind,Top-down low,No
+ETH,2030,BIO,0.04905,Biomass,Top-down low,No
+ETH,2030,GEO,1.046375,Geothermal,Top-down low,No
+ETH,2030,HFO,0.0001364885267053,Heavy Fuel Oil,Top-down low,No
+ETH,2030,HYD,12.655628,Hydropower,Top-down low,No
+ETH,2030,LFO,0.070817,Light Fuel Oil,Top-down low,No
+ETH,2030,SOL,0.008122,Solar,Top-down low,No
+ETH,2030,WIN,0.23659,Wind,Top-down low,No
+ETH,2020,BIO,0.1962,Biomass,Top-down low,High
+ETH,2020,GEO,0.1285,Geothermal,Top-down low,High
+ETH,2020,HYD,5.245628000000001,Hydropower,Top-down low,High
+ETH,2020,LFO,0.141634,Light Fuel Oil,Top-down low,High
+ETH,2020,SOL,0.012702,Solar,Top-down low,High
+ETH,2020,WIN,0.32218,Wind,Top-down low,High
+ETH,2021,BIO,0.18639,Biomass,Top-down low,High
+ETH,2021,GEO,0.2985,Geothermal,Top-down low,High
+ETH,2021,HYD,6.325628000000001,Hydropower,Top-down low,High
+ETH,2021,LFO,0.1345523,Light Fuel Oil,Top-down low,High
+ETH,2021,SOL,0.012244,Solar,Top-down low,High
+ETH,2021,WIN,0.313621,Wind,Top-down low,High
+ETH,2022,BIO,0.17658,Biomass,Top-down low,High
+ETH,2022,GEO,0.3985,Geothermal,Top-down low,High
+ETH,2022,HYD,7.405628000000001,Hydropower,Top-down low,High
+ETH,2022,LFO,0.1274706,Light Fuel Oil,Top-down low,High
+ETH,2022,SOL,0.011786,Solar,Top-down low,High
+ETH,2022,WIN,0.305062,Wind,Top-down low,High
+ETH,2023,BIO,0.16677,Biomass,Top-down low,High
+ETH,2023,GEO,0.5985,Geothermal,Top-down low,High
+ETH,2023,HYD,10.030628,Hydropower,Top-down low,High
+ETH,2023,LFO,0.1203889,Light Fuel Oil,Top-down low,High
+ETH,2023,SOL,0.011328,Solar,Top-down low,High
+ETH,2023,WIN,0.2965029999999999,Wind,Top-down low,High
+ETH,2024,BIO,0.15696,Biomass,Top-down low,High
+ETH,2024,GEO,0.8485,Geothermal,Top-down low,High
+ETH,2024,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2024,LFO,0.1133072,Light Fuel Oil,Top-down low,High
+ETH,2024,SOL,0.01087,Solar,Top-down low,High
+ETH,2024,WIN,0.287944,Wind,Top-down low,High
+ETH,2025,BIO,0.0981,Biomass,Top-down low,High
+ETH,2025,GEO,1.0485,Geothermal,Top-down low,High
+ETH,2025,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2025,LFO,0.1062255,Light Fuel Oil,Top-down low,High
+ETH,2025,SOL,0.010412,Solar,Top-down low,High
+ETH,2025,WIN,0.279385,Wind,Top-down low,High
+ETH,2026,BIO,0.08829,Biomass,Top-down low,High
+ETH,2026,GEO,1.048075,Geothermal,Top-down low,High
+ETH,2026,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2026,LFO,0.0991438,Light Fuel Oil,Top-down low,High
+ETH,2026,SOL,0.009954,Solar,Top-down low,High
+ETH,2026,WIN,0.270826,Wind,Top-down low,High
+ETH,2027,BIO,0.07848,Biomass,Top-down low,High
+ETH,2027,GEO,1.04765,Geothermal,Top-down low,High
+ETH,2027,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2027,LFO,0.0920621,Light Fuel Oil,Top-down low,High
+ETH,2027,SOL,0.009496,Solar,Top-down low,High
+ETH,2027,WIN,0.262267,Wind,Top-down low,High
+ETH,2028,BIO,0.06867,Biomass,Top-down low,High
+ETH,2028,GEO,1.047225,Geothermal,Top-down low,High
+ETH,2028,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2028,LFO,0.0849804,Light Fuel Oil,Top-down low,High
+ETH,2028,SOL,0.009038,Solar,Top-down low,High
+ETH,2028,WIN,0.253708,Wind,Top-down low,High
+ETH,2029,BIO,0.05886,Biomass,Top-down low,High
+ETH,2029,GEO,1.0468,Geothermal,Top-down low,High
+ETH,2029,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2029,LFO,0.0778987,Light Fuel Oil,Top-down low,High
+ETH,2029,SOL,0.00858,Solar,Top-down low,High
+ETH,2029,WIN,0.245149,Wind,Top-down low,High
+ETH,2030,BIO,0.04905,Biomass,Top-down low,High
+ETH,2030,GEO,1.046375,Geothermal,Top-down low,High
+ETH,2030,HYD,12.655628,Hydropower,Top-down low,High
+ETH,2030,LFO,0.070817,Light Fuel Oil,Top-down low,High
+ETH,2030,SOL,0.008122,Solar,Top-down low,High
+ETH,2030,WIN,0.23659,Wind,Top-down low,High

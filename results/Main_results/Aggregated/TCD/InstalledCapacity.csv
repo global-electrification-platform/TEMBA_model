@@ -1,0 +1,265 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Bottom-up,No
+TCD,2020,LFO,0.0418847903979451,Light Fuel Oil,Bottom-up,No
+TCD,2020,SOL,0.04,Solar,Bottom-up,No
+TCD,2020,WIN,0.001,Wind,Bottom-up,No
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Bottom-up,No
+TCD,2021,LFO,0.0399110403979451,Light Fuel Oil,Bottom-up,No
+TCD,2021,SOL,0.0725733571373132,Solar,Bottom-up,No
+TCD,2021,WIN,0.001,Wind,Bottom-up,No
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Bottom-up,No
+TCD,2022,LFO,0.0379372903979451,Light Fuel Oil,Bottom-up,No
+TCD,2022,SOL,0.1049581589113063,Solar,Bottom-up,No
+TCD,2022,WIN,0.001,Wind,Bottom-up,No
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Bottom-up,No
+TCD,2023,LFO,0.0359635403979451,Light Fuel Oil,Bottom-up,No
+TCD,2023,SOL,0.1274096133105812,Solar,Bottom-up,No
+TCD,2023,WIN,0.001,Wind,Bottom-up,No
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Bottom-up,No
+TCD,2024,LFO,0.0339897903979451,Light Fuel Oil,Bottom-up,No
+TCD,2024,SOL,0.1914388766661853,Solar,Bottom-up,No
+TCD,2024,WIN,0.001,Wind,Bottom-up,No
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Bottom-up,No
+TCD,2025,LFO,0.0320160403979451,Light Fuel Oil,Bottom-up,No
+TCD,2025,SOL,0.6238269136492601,Solar,Bottom-up,No
+TCD,2025,WIN,0.001,Wind,Bottom-up,No
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Bottom-up,No
+TCD,2026,LFO,0.0296970192980309,Light Fuel Oil,Bottom-up,No
+TCD,2026,SOL,1.1238269136492602,Solar,Bottom-up,No
+TCD,2026,WIN,0.001,Wind,Bottom-up,No
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Bottom-up,No
+TCD,2027,LFO,0.0277232692980309,Light Fuel Oil,Bottom-up,No
+TCD,2027,SOL,1.6238269136492602,Solar,Bottom-up,No
+TCD,2027,WIN,0.001,Wind,Bottom-up,No
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Bottom-up,No
+TCD,2028,LFO,0.023685,Light Fuel Oil,Bottom-up,No
+TCD,2028,SOL,2.02010310630733,Solar,Bottom-up,No
+TCD,2028,WIN,0.001,Wind,Bottom-up,No
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Bottom-up,No
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Bottom-up,No
+TCD,2029,SOL,2.4180557991891285,Solar,Bottom-up,No
+TCD,2029,WIN,0.001,Wind,Bottom-up,No
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Bottom-up,No
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Bottom-up,No
+TCD,2030,SOL,2.8286586507336,Solar,Bottom-up,No
+TCD,2030,WIN,0.001,Wind,Bottom-up,No
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Bottom-up,High
+TCD,2020,LFO,0.0417866388370891,Light Fuel Oil,Bottom-up,High
+TCD,2020,SOL,0.54,Solar,Bottom-up,High
+TCD,2020,WIN,0.001,Wind,Bottom-up,High
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Bottom-up,High
+TCD,2021,LFO,0.0398128888370891,Light Fuel Oil,Bottom-up,High
+TCD,2021,SOL,1.04,Solar,Bottom-up,High
+TCD,2021,WIN,0.001,Wind,Bottom-up,High
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Bottom-up,High
+TCD,2022,LFO,0.037839138837089,Light Fuel Oil,Bottom-up,High
+TCD,2022,SOL,1.54,Solar,Bottom-up,High
+TCD,2022,WIN,0.001,Wind,Bottom-up,High
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Bottom-up,High
+TCD,2023,LFO,0.0358653888370891,Light Fuel Oil,Bottom-up,High
+TCD,2023,SOL,1.7383419419984456,Solar,Bottom-up,High
+TCD,2023,WIN,0.001,Wind,Bottom-up,High
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Bottom-up,High
+TCD,2024,LFO,0.033891638837089,Light Fuel Oil,Bottom-up,High
+TCD,2024,SOL,1.8903256293509,Solar,Bottom-up,High
+TCD,2024,WIN,0.001,Wind,Bottom-up,High
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Bottom-up,High
+TCD,2025,LFO,0.0319178888370891,Light Fuel Oil,Bottom-up,High
+TCD,2025,SOL,2.0734849608817294,Solar,Bottom-up,High
+TCD,2025,WIN,0.001,Wind,Bottom-up,High
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Bottom-up,High
+TCD,2026,LFO,0.0295988677371749,Light Fuel Oil,Bottom-up,High
+TCD,2026,SOL,2.4476025368227843,Solar,Bottom-up,High
+TCD,2026,WIN,0.001,Wind,Bottom-up,High
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Bottom-up,High
+TCD,2027,LFO,0.0276251177371749,Light Fuel Oil,Bottom-up,High
+TCD,2027,SOL,2.626573245842301,Solar,Bottom-up,High
+TCD,2027,WIN,0.001,Wind,Bottom-up,High
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Bottom-up,High
+TCD,2028,LFO,0.023685,Light Fuel Oil,Bottom-up,High
+TCD,2028,SOL,2.884790923448466,Solar,Bottom-up,High
+TCD,2028,WIN,0.001,Wind,Bottom-up,High
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Bottom-up,High
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Bottom-up,High
+TCD,2029,SOL,2.884790923448466,Solar,Bottom-up,High
+TCD,2029,WIN,0.001,Wind,Bottom-up,High
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Bottom-up,High
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Bottom-up,High
+TCD,2030,SOL,3.124353848465732,Solar,Bottom-up,High
+TCD,2030,WIN,0.001,Wind,Bottom-up,High
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Top-down high,No
+TCD,2020,LFO,0.0418847903979451,Light Fuel Oil,Top-down high,No
+TCD,2020,SOL,0.04,Solar,Top-down high,No
+TCD,2020,WIN,0.001,Wind,Top-down high,No
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Top-down high,No
+TCD,2021,LFO,0.0399110403979451,Light Fuel Oil,Top-down high,No
+TCD,2021,SOL,0.0831820505235358,Solar,Top-down high,No
+TCD,2021,WIN,0.001,Wind,Top-down high,No
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Top-down high,No
+TCD,2022,LFO,0.0379372903979451,Light Fuel Oil,Top-down high,No
+TCD,2022,SOL,0.1211743677683769,Solar,Top-down high,No
+TCD,2022,WIN,0.001,Wind,Top-down high,No
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Top-down high,No
+TCD,2023,LFO,0.0359635403979451,Light Fuel Oil,Top-down high,No
+TCD,2023,SOL,0.1536726853818374,Solar,Top-down high,No
+TCD,2023,WIN,0.001,Wind,Top-down high,No
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Top-down high,No
+TCD,2024,LFO,0.0339897903979451,Light Fuel Oil,Top-down high,No
+TCD,2024,SOL,0.2225992700221935,Solar,Top-down high,No
+TCD,2024,WIN,0.001,Wind,Top-down high,No
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Top-down high,No
+TCD,2025,LFO,0.0320160403979451,Light Fuel Oil,Top-down high,No
+TCD,2025,SOL,0.6801103367239156,Solar,Top-down high,No
+TCD,2025,WIN,0.001,Wind,Top-down high,No
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Top-down high,No
+TCD,2026,LFO,0.0296970192980309,Light Fuel Oil,Top-down high,No
+TCD,2026,SOL,1.180110336723916,Solar,Top-down high,No
+TCD,2026,WIN,0.001,Wind,Top-down high,No
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Top-down high,No
+TCD,2027,LFO,0.0277232692980309,Light Fuel Oil,Top-down high,No
+TCD,2027,SOL,1.680110336723916,Solar,Top-down high,No
+TCD,2027,WIN,0.001,Wind,Top-down high,No
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Top-down high,No
+TCD,2028,LFO,0.023685,Light Fuel Oil,Top-down high,No
+TCD,2028,SOL,2.080059260742765,Solar,Top-down high,No
+TCD,2028,WIN,0.001,Wind,Top-down high,No
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Top-down high,No
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Top-down high,No
+TCD,2029,SOL,2.4816846849853467,Solar,Top-down high,No
+TCD,2029,WIN,0.001,Wind,Top-down high,No
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Top-down high,No
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Top-down high,No
+TCD,2030,SOL,2.8954404147439115,Solar,Top-down high,No
+TCD,2030,WIN,0.001,Wind,Top-down high,No
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Top-down high,High
+TCD,2020,LFO,0.0417866388370891,Light Fuel Oil,Top-down high,High
+TCD,2020,SOL,0.54,Solar,Top-down high,High
+TCD,2020,WIN,0.001,Wind,Top-down high,High
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Top-down high,High
+TCD,2021,LFO,0.0398128888370891,Light Fuel Oil,Top-down high,High
+TCD,2021,SOL,1.04,Solar,Top-down high,High
+TCD,2021,WIN,0.001,Wind,Top-down high,High
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Top-down high,High
+TCD,2022,LFO,0.037839138837089,Light Fuel Oil,Top-down high,High
+TCD,2022,SOL,1.54,Solar,Top-down high,High
+TCD,2022,WIN,0.001,Wind,Top-down high,High
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Top-down high,High
+TCD,2023,LFO,0.0358653888370891,Light Fuel Oil,Top-down high,High
+TCD,2023,SOL,1.7552985609853136,Solar,Top-down high,High
+TCD,2023,WIN,0.001,Wind,Top-down high,High
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Top-down high,High
+TCD,2024,LFO,0.033891638837089,Light Fuel Oil,Top-down high,High
+TCD,2024,SOL,1.9129344546667209,Solar,Top-down high,High
+TCD,2024,WIN,0.001,Wind,Top-down high,High
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Top-down high,High
+TCD,2025,LFO,0.0319178888370891,Light Fuel Oil,Top-down high,High
+TCD,2025,SOL,2.104733141806713,Solar,Top-down high,High
+TCD,2025,WIN,0.001,Wind,Top-down high,High
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Top-down high,High
+TCD,2026,LFO,0.0295988677371749,Light Fuel Oil,Top-down high,High
+TCD,2026,SOL,2.495972130903031,Solar,Top-down high,High
+TCD,2026,WIN,0.001,Wind,Top-down high,High
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Top-down high,High
+TCD,2027,LFO,0.0276251177371749,Light Fuel Oil,Top-down high,High
+TCD,2027,SOL,2.6800871774473025,Solar,Top-down high,High
+TCD,2027,WIN,0.001,Wind,Top-down high,High
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Top-down high,High
+TCD,2028,LFO,0.023685,Light Fuel Oil,Top-down high,High
+TCD,2028,SOL,2.9333191518533064,Solar,Top-down high,High
+TCD,2028,WIN,0.001,Wind,Top-down high,High
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Top-down high,High
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Top-down high,High
+TCD,2029,SOL,2.9333191518533064,Solar,Top-down high,High
+TCD,2029,WIN,0.001,Wind,Top-down high,High
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Top-down high,High
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Top-down high,High
+TCD,2030,SOL,3.225812464269893,Solar,Top-down high,High
+TCD,2030,WIN,0.001,Wind,Top-down high,High
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Top-down low,No
+TCD,2020,LFO,0.0418847903979451,Light Fuel Oil,Top-down low,No
+TCD,2020,SOL,0.0973070874454958,Solar,Top-down low,No
+TCD,2020,WIN,0.001,Wind,Top-down low,No
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Top-down low,No
+TCD,2021,LFO,0.0399110403979451,Light Fuel Oil,Top-down low,No
+TCD,2021,SOL,0.1973070874454958,Solar,Top-down low,No
+TCD,2021,WIN,0.001,Wind,Top-down low,No
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Top-down low,No
+TCD,2022,LFO,0.0379372903979451,Light Fuel Oil,Top-down low,No
+TCD,2022,SOL,0.2973070874454959,Solar,Top-down low,No
+TCD,2022,WIN,0.001,Wind,Top-down low,No
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Top-down low,No
+TCD,2023,LFO,0.0359635403979451,Light Fuel Oil,Top-down low,No
+TCD,2023,SOL,0.3973070874454958,Solar,Top-down low,No
+TCD,2023,WIN,0.001,Wind,Top-down low,No
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Top-down low,No
+TCD,2024,LFO,0.0339897903979451,Light Fuel Oil,Top-down low,No
+TCD,2024,SOL,0.4973070874454958,Solar,Top-down low,No
+TCD,2024,WIN,0.001,Wind,Top-down low,No
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Top-down low,No
+TCD,2025,LFO,0.0320160403979451,Light Fuel Oil,Top-down low,No
+TCD,2025,SOL,0.5973070874454959,Solar,Top-down low,No
+TCD,2025,WIN,0.001,Wind,Top-down low,No
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Top-down low,No
+TCD,2026,LFO,0.0296970192980309,Light Fuel Oil,Top-down low,No
+TCD,2026,SOL,0.6973070874454959,Solar,Top-down low,No
+TCD,2026,WIN,0.001,Wind,Top-down low,No
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Top-down low,No
+TCD,2027,LFO,0.0277232692980309,Light Fuel Oil,Top-down low,No
+TCD,2027,SOL,0.7973070874454958,Solar,Top-down low,No
+TCD,2027,WIN,0.001,Wind,Top-down low,No
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Top-down low,No
+TCD,2028,LFO,0.023685,Light Fuel Oil,Top-down low,No
+TCD,2028,SOL,0.8973070874454958,Solar,Top-down low,No
+TCD,2028,WIN,0.001,Wind,Top-down low,No
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Top-down low,No
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Top-down low,No
+TCD,2029,SOL,0.9973070874454958,Solar,Top-down low,No
+TCD,2029,WIN,0.001,Wind,Top-down low,No
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Top-down low,No
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Top-down low,No
+TCD,2030,SOL,1.104068670392408,Solar,Top-down low,No
+TCD,2030,WIN,0.001,Wind,Top-down low,No
+TCD,2020,HFO,0.17775,Heavy Fuel Oil,Top-down low,High
+TCD,2020,LFO,0.0418382673301873,Light Fuel Oil,Top-down low,High
+TCD,2020,SOL,0.14,Solar,Top-down low,High
+TCD,2020,WIN,0.001,Wind,Top-down low,High
+TCD,2021,HFO,0.1688625,Heavy Fuel Oil,Top-down low,High
+TCD,2021,LFO,0.0398645173301872,Light Fuel Oil,Top-down low,High
+TCD,2021,SOL,0.24,Solar,Top-down low,High
+TCD,2021,WIN,0.001,Wind,Top-down low,High
+TCD,2022,HFO,0.159975,Heavy Fuel Oil,Top-down low,High
+TCD,2022,LFO,0.0378907673301873,Light Fuel Oil,Top-down low,High
+TCD,2022,SOL,0.34,Solar,Top-down low,High
+TCD,2022,WIN,0.001,Wind,Top-down low,High
+TCD,2023,HFO,0.1510875,Heavy Fuel Oil,Top-down low,High
+TCD,2023,LFO,0.0359170173301873,Light Fuel Oil,Top-down low,High
+TCD,2023,SOL,0.44,Solar,Top-down low,High
+TCD,2023,WIN,0.001,Wind,Top-down low,High
+TCD,2024,HFO,0.1422,Heavy Fuel Oil,Top-down low,High
+TCD,2024,LFO,0.0339432673301872,Light Fuel Oil,Top-down low,High
+TCD,2024,SOL,0.54,Solar,Top-down low,High
+TCD,2024,WIN,0.001,Wind,Top-down low,High
+TCD,2025,HFO,0.1333125,Heavy Fuel Oil,Top-down low,High
+TCD,2025,LFO,0.0319695173301873,Light Fuel Oil,Top-down low,High
+TCD,2025,SOL,0.64,Solar,Top-down low,High
+TCD,2025,WIN,0.001,Wind,Top-down low,High
+TCD,2026,HFO,0.124425,Heavy Fuel Oil,Top-down low,High
+TCD,2026,LFO,0.0296504962302731,Light Fuel Oil,Top-down low,High
+TCD,2026,SOL,0.74,Solar,Top-down low,High
+TCD,2026,WIN,0.001,Wind,Top-down low,High
+TCD,2027,HFO,0.1155375,Heavy Fuel Oil,Top-down low,High
+TCD,2027,LFO,0.0276767462302731,Light Fuel Oil,Top-down low,High
+TCD,2027,SOL,0.84,Solar,Top-down low,High
+TCD,2027,WIN,0.001,Wind,Top-down low,High
+TCD,2028,HFO,0.10665,Heavy Fuel Oil,Top-down low,High
+TCD,2028,LFO,0.023685,Light Fuel Oil,Top-down low,High
+TCD,2028,SOL,0.9486359444841668,Solar,Top-down low,High
+TCD,2028,WIN,0.001,Wind,Top-down low,High
+TCD,2029,HFO,0.0977625,Heavy Fuel Oil,Top-down low,High
+TCD,2029,LFO,0.02171125,Light Fuel Oil,Top-down low,High
+TCD,2029,SOL,1.0544836830628936,Solar,Top-down low,High
+TCD,2029,WIN,0.001,Wind,Top-down low,High
+TCD,2030,HFO,0.088875,Heavy Fuel Oil,Top-down low,High
+TCD,2030,LFO,0.0197375,Light Fuel Oil,Top-down low,High
+TCD,2030,SOL,1.1612689077564664,Solar,Top-down low,High
+TCD,2030,WIN,0.001,Wind,Top-down low,High

@@ -1,0 +1,396 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+ETH,2020.0,GEO,953.0833340958,Geothermal,Bottom-up,No
+ETH,2020.0,HYD,21807.083350779,Hydropower,Bottom-up,No
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Bottom-up,No
+ETH,2020.0,SOL,22.777777796,Solar,Bottom-up,No
+ETH,2020.0,WIN,813.5000006508,Wind,Bottom-up,No
+ETH,2021.0,BIO,744.0555561508,Biomass,Bottom-up,No
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Bottom-up,No
+ETH,2021.0,HYD,26300.972243263,Hydropower,Bottom-up,No
+ETH,2021.0,Imports (DJI),3.4166666694,Imports (DJI),Bottom-up,No
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Bottom-up,No
+ETH,2021.0,SOL,21.944444462,Solar,Bottom-up,No
+ETH,2021.0,WIN,900.0277784978,Wind,Bottom-up,No
+ETH,2022.0,BIO,704.8888894528,Biomass,Bottom-up,No
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Bottom-up,No
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Bottom-up,No
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Bottom-up,No
+ETH,2022.0,SOL,21.1388889058,Solar,Bottom-up,No
+ETH,2022.0,WIN,875.4722229226,Wind,Bottom-up,No
+ETH,2023.0,GEO,3390.833336046001,Geothermal,Bottom-up,No
+ETH,2023.0,HYD,38296.5833639706,Hydropower,Bottom-up,No
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Bottom-up,No
+ETH,2023.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2024.0,GEO,6314.194449495801,Geothermal,Bottom-up,No
+ETH,2024.0,HYD,38299.75003063981,Hydropower,Bottom-up,No
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Bottom-up,No
+ETH,2024.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2025.0,GEO,7803.388895131601,Geothermal,Bottom-up,No
+ETH,2025.0,HYD,39755.9166984714,Hydropower,Bottom-up,No
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Bottom-up,No
+ETH,2025.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2026.0,GEO,6134.555560463201,Geothermal,Bottom-up,No
+ETH,2026.0,HYD,43985.00003518799,Hydropower,Bottom-up,No
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Bottom-up,No
+ETH,2026.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2027.0,GEO,1699.6666680264002,Geothermal,Bottom-up,No
+ETH,2027.0,HYD,50410.7500403286,Hydropower,Bottom-up,No
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Bottom-up,No
+ETH,2027.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2028.0,GEO,7706.277783942801,Geothermal,Bottom-up,No
+ETH,2028.0,HYD,46386.1667037756,Hydropower,Bottom-up,No
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Bottom-up,No
+ETH,2028.0,SOL,7.1666666724,Solar,Bottom-up,No
+ETH,2029.0,BIO,9.972222230200002,Biomass,Bottom-up,No
+ETH,2029.0,GEO,3175.4444469848,Geothermal,Bottom-up,No
+ETH,2029.0,HYD,52637.8055976658,Hydropower,Bottom-up,No
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Bottom-up,No
+ETH,2029.0,SOL,11.0000000088,Solar,Bottom-up,No
+ETH,2029.0,WIN,242.19444463820005,Wind,Bottom-up,No
+ETH,2030.0,BIO,78.94444450760001,Biomass,Bottom-up,No
+ETH,2030.0,GEO,6568.5833385882,Geothermal,Bottom-up,No
+ETH,2030.0,HFO,0.5833333338,Heavy Fuel Oil,Bottom-up,No
+ETH,2030.0,HYD,50304.3889291324,Hydropower,Bottom-up,No
+ETH,2030.0,Imports (SDN),33.1666666932,Imports (SDN),Bottom-up,No
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Bottom-up,No
+ETH,2030.0,SOL,10.6111111196,Solar,Bottom-up,No
+ETH,2030.0,WIN,263.22222243280004,Wind,Bottom-up,No
+ETH,2020.0,BIO,315.80555580820004,Biomass,Bottom-up,High
+ETH,2020.0,GEO,357.4166669526,Geothermal,Bottom-up,High
+ETH,2020.0,HYD,21807.083350779,Hydropower,Bottom-up,High
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Bottom-up,High
+ETH,2020.0,SOL,22.777777796,Solar,Bottom-up,High
+ETH,2020.0,WIN,924.6111118508,Wind,Bottom-up,High
+ETH,2021.0,BIO,744.0555561508,Biomass,Bottom-up,High
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Bottom-up,High
+ETH,2021.0,HYD,26300.972243263,Hydropower,Bottom-up,High
+ETH,2021.0,Imports (DJI),3.3333333360000004,Imports (DJI),Bottom-up,High
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Bottom-up,High
+ETH,2021.0,SOL,21.944444462,Solar,Bottom-up,High
+ETH,2021.0,WIN,900.0277784978,Wind,Bottom-up,High
+ETH,2022.0,BIO,704.8888894528,Biomass,Bottom-up,High
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Bottom-up,High
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Bottom-up,High
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Bottom-up,High
+ETH,2022.0,SOL,21.1388889058,Solar,Bottom-up,High
+ETH,2022.0,WIN,875.4722229226,Wind,Bottom-up,High
+ETH,2023.0,GEO,497.3333337312,Geothermal,Bottom-up,High
+ETH,2023.0,HYD,40473.1111434896,Hydropower,Bottom-up,High
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Bottom-up,High
+ETH,2023.0,SOL,20.3055555718,Solar,Bottom-up,High
+ETH,2023.0,WIN,850.9166673474,Wind,Bottom-up,High
+ETH,2024.0,HYD,44010.55559076401,Hydropower,Bottom-up,High
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Bottom-up,High
+ETH,2024.0,SOL,19.4722222378,Solar,Bottom-up,High
+ETH,2024.0,WIN,826.3611117722,Wind,Bottom-up,High
+ETH,2025.0,HYD,46981.3333709184,Hydropower,Bottom-up,High
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Bottom-up,High
+ETH,2025.0,SOL,18.6666666816,Solar,Bottom-up,High
+ETH,2025.0,WIN,801.7777784192001,Wind,Bottom-up,High
+ETH,2026.0,GEO,110.3611111994,Geothermal,Bottom-up,High
+ETH,2026.0,HYD,49368.3611506058,Hydropower,Bottom-up,High
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Bottom-up,High
+ETH,2026.0,SOL,17.8333333476,Solar,Bottom-up,High
+ETH,2026.0,WIN,777.222222844,Wind,Bottom-up,High
+ETH,2027.0,GEO,1045.6666675032002,Geothermal,Bottom-up,High
+ETH,2027.0,HYD,50449.3333736928,Hydropower,Bottom-up,High
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Bottom-up,High
+ETH,2027.0,SOL,17.0277777914,Solar,Bottom-up,High
+ETH,2027.0,WIN,752.6666672688,Wind,Bottom-up,High
+ETH,2028.0,GEO,1974.722223802,Geothermal,Bottom-up,High
+ETH,2028.0,HYD,51527.583374555405,Hydropower,Bottom-up,High
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Bottom-up,High
+ETH,2028.0,SOL,16.194444457400003,Solar,Bottom-up,High
+ETH,2028.0,WIN,728.1111116936,Wind,Bottom-up,High
+ETH,2029.0,BIO,9.972222230200002,Biomass,Bottom-up,High
+ETH,2029.0,GEO,2891.2777800908,Geothermal,Bottom-up,High
+ETH,2029.0,HYD,52603.22226430479,Hydropower,Bottom-up,High
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Bottom-up,High
+ETH,2029.0,SOL,15.3888889012,Solar,Bottom-up,High
+ETH,2029.0,WIN,703.5277783406001,Wind,Bottom-up,High
+ETH,2030.0,BIO,78.94444450760001,Biomass,Bottom-up,High
+ETH,2030.0,GEO,3784.0833363606,Geothermal,Bottom-up,High
+ETH,2030.0,HYD,52640.08337544539,Hydropower,Bottom-up,High
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Bottom-up,High
+ETH,2030.0,SOL,14.5555555672,Solar,Bottom-up,High
+ETH,2030.0,WIN,678.9722227654,Wind,Bottom-up,High
+ETH,2020.0,GEO,953.0833340958,Geothermal,Top-down high,No
+ETH,2020.0,HYD,21794.9722396582,Hydropower,Top-down high,No
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Top-down high,No
+ETH,2020.0,SOL,14.444444456,Solar,Top-down high,No
+ETH,2020.0,WIN,582.6944449106,Wind,Top-down high,No
+ETH,2021.0,BIO,744.0555561508,Biomass,Top-down high,No
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Top-down high,No
+ETH,2021.0,HYD,26300.972243263,Hydropower,Top-down high,No
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Top-down high,No
+ETH,2021.0,SOL,21.944444462,Solar,Top-down high,No
+ETH,2021.0,WIN,900.0277784978,Wind,Top-down high,No
+ETH,2022.0,BIO,704.8888894528,Biomass,Top-down high,No
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Top-down high,No
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Top-down high,No
+ETH,2022.0,Imports (DJI),63.75000005100001,Imports (DJI),Top-down high,No
+ETH,2022.0,Imports (SDN),408.5833336602,Imports (SDN),Top-down high,No
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Top-down high,No
+ETH,2022.0,SOL,21.1388889058,Solar,Top-down high,No
+ETH,2022.0,WIN,875.4722229226,Wind,Top-down high,No
+ETH,2023.0,BIO,416.4722225554,Biomass,Top-down high,No
+ETH,2023.0,GEO,4452.6944480066,Geothermal,Top-down high,No
+ETH,2023.0,HYD,41717.4722555962,Hydropower,Top-down high,No
+ETH,2023.0,Imports (DJI),13.333333344,Imports (DJI),Top-down high,No
+ETH,2023.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,No
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Top-down high,No
+ETH,2023.0,SOL,20.3055555718,Solar,Top-down high,No
+ETH,2023.0,WIN,850.9166673474,Wind,Top-down high,No
+ETH,2024.0,BIO,47.8611111494,Biomass,Top-down high,No
+ETH,2024.0,GEO,4335.6111145796,Geothermal,Top-down high,No
+ETH,2024.0,HYD,50687.4722627722,Hydropower,Top-down high,No
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Top-down high,No
+ETH,2024.0,SOL,9.111111118399998,Solar,Top-down high,No
+ETH,2024.0,WIN,320.3333335896,Wind,Top-down high,No
+ETH,2025.0,BIO,157.91666679300002,Biomass,Top-down high,No
+ETH,2025.0,GEO,7803.388895131601,Geothermal,Top-down high,No
+ETH,2025.0,HFO,0.8888888896000001,Heavy Fuel Oil,Top-down high,No
+ETH,2025.0,HYD,50804.41670731021,Hydropower,Top-down high,No
+ETH,2025.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,No
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Top-down high,No
+ETH,2025.0,SOL,8.7222222292,Solar,Top-down high,No
+ETH,2025.0,WIN,310.833333582,Wind,Top-down high,No
+ETH,2026.0,BIO,352.4444447264,Biomass,Top-down high,No
+ETH,2026.0,GEO,7800.416672907001,Geothermal,Top-down high,No
+ETH,2026.0,HFO,2.1388888906,Heavy Fuel Oil,Top-down high,No
+ETH,2026.0,HYD,52640.08337544539,Hydropower,Top-down high,No
+ETH,2026.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,No
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Top-down high,No
+ETH,2026.0,NGA,2713.5000021708,Natural Gas,Top-down high,No
+ETH,2026.0,SOL,17.8333333476,Solar,Top-down high,No
+ETH,2026.0,WIN,777.222222844,Wind,Top-down high,No
+ETH,2027.0,BIO,313.2777780284,Biomass,Top-down high,No
+ETH,2027.0,GEO,9224.3333407128,Geothermal,Top-down high,No
+ETH,2027.0,HFO,2.1388888906,Heavy Fuel Oil,Top-down high,No
+ETH,2027.0,HYD,52640.08337544539,Hydropower,Top-down high,No
+ETH,2027.0,Imports (DJI),26.0555555764,Imports (DJI),Top-down high,No
+ETH,2027.0,Imports (SDN),422.3888892268,Imports (SDN),Top-down high,No
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Top-down high,No
+ETH,2027.0,NGA,3517.9722250366003,Natural Gas,Top-down high,No
+ETH,2027.0,SOL,17.0277777914,Solar,Top-down high,No
+ETH,2027.0,WIN,752.6666672688,Wind,Top-down high,No
+ETH,2028.0,BIO,274.13888910820003,Biomass,Top-down high,No
+ETH,2028.0,GEO,11082.8611199774,Geothermal,Top-down high,No
+ETH,2028.0,HFO,2.1388888906,Heavy Fuel Oil,Top-down high,No
+ETH,2028.0,HYD,52640.08337544539,Hydropower,Top-down high,No
+ETH,2028.0,Imports (SDN),448.2500003586,Imports (SDN),Top-down high,No
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Top-down high,No
+ETH,2028.0,NGA,4064.861114363,Natural Gas,Top-down high,No
+ETH,2028.0,SOL,16.194444457400003,Solar,Top-down high,No
+ETH,2028.0,WIN,728.1111116936,Wind,Top-down high,No
+ETH,2029.0,BIO,234.9722224102,Biomass,Top-down high,No
+ETH,2029.0,GEO,12941.388899242,Geothermal,Top-down high,No
+ETH,2029.0,HFO,2.1388888906,Heavy Fuel Oil,Top-down high,No
+ETH,2029.0,HYD,52640.08337544539,Hydropower,Top-down high,No
+ETH,2029.0,Imports (DJI),16.916666680200002,Imports (DJI),Top-down high,No
+ETH,2029.0,Imports (SDN),51.1388889298,Imports (SDN),Top-down high,No
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Top-down high,No
+ETH,2029.0,NGA,5018.250004014601,Natural Gas,Top-down high,No
+ETH,2029.0,SOL,15.3888889012,Solar,Top-down high,No
+ETH,2029.0,WIN,703.5277783406001,Wind,Top-down high,No
+ETH,2030.0,BIO,195.8055557122,Biomass,Top-down high,No
+ETH,2030.0,GEO,14799.888900728802,Geothermal,Top-down high,No
+ETH,2030.0,HFO,1.944444446,Heavy Fuel Oil,Top-down high,No
+ETH,2030.0,HYD,52640.08337544539,Hydropower,Top-down high,No
+ETH,2030.0,Imports (DJI),68.6944444994,Imports (DJI),Top-down high,No
+ETH,2030.0,Imports (SDN),345.138889165,Imports (SDN),Top-down high,No
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Top-down high,No
+ETH,2030.0,NGA,5018.250004014601,Natural Gas,Top-down high,No
+ETH,2030.0,SOL,14.5555555672,Solar,Top-down high,No
+ETH,2030.0,WIN,678.9722227654,Wind,Top-down high,No
+ETH,2020.0,BIO,301.5555557968,Biomass,Top-down high,High
+ETH,2020.0,GEO,360.8055558442,Geothermal,Top-down high,High
+ETH,2020.0,HYD,21807.083350779,Hydropower,Top-down high,High
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Top-down high,High
+ETH,2020.0,SOL,22.777777796,Solar,Top-down high,High
+ETH,2020.0,WIN,924.6111118508,Wind,Top-down high,High
+ETH,2021.0,BIO,744.0555561508,Biomass,Top-down high,High
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Top-down high,High
+ETH,2021.0,HYD,26300.972243263,Hydropower,Top-down high,High
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Top-down high,High
+ETH,2021.0,SOL,21.944444462,Solar,Top-down high,High
+ETH,2021.0,WIN,900.0277784978,Wind,Top-down high,High
+ETH,2022.0,BIO,704.8888894528,Biomass,Top-down high,High
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Top-down high,High
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Top-down high,High
+ETH,2022.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,High
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Top-down high,High
+ETH,2022.0,SOL,21.1388889058,Solar,Top-down high,High
+ETH,2022.0,WIN,875.4722229226,Wind,Top-down high,High
+ETH,2023.0,BIO,416.4722225554,Biomass,Top-down high,High
+ETH,2023.0,GEO,4452.6944480066,Geothermal,Top-down high,High
+ETH,2023.0,HYD,41717.4722555962,Hydropower,Top-down high,High
+ETH,2023.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,High
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Top-down high,High
+ETH,2023.0,SOL,20.3055555718,Solar,Top-down high,High
+ETH,2023.0,WIN,850.9166673474,Wind,Top-down high,High
+ETH,2024.0,BIO,47.9444444828,Biomass,Top-down high,High
+ETH,2024.0,GEO,2367.8333352276,Geothermal,Top-down high,High
+ETH,2024.0,HYD,52138.111152821606,Hydropower,Top-down high,High
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Top-down high,High
+ETH,2024.0,SOL,19.4722222378,Solar,Top-down high,High
+ETH,2024.0,WIN,826.3611117722,Wind,Top-down high,High
+ETH,2025.0,BIO,157.91666679300002,Biomass,Top-down high,High
+ETH,2025.0,GEO,5319.111115366401,Geothermal,Top-down high,High
+ETH,2025.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2025.0,Imports (SDN),46.9166667042,Imports (SDN),Top-down high,High
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Top-down high,High
+ETH,2025.0,SOL,18.6666666816,Solar,Top-down high,High
+ETH,2025.0,WIN,801.7777784192001,Wind,Top-down high,High
+ETH,2026.0,BIO,142.11111122480003,Biomass,Top-down high,High
+ETH,2026.0,GEO,7800.416672907001,Geothermal,Top-down high,High
+ETH,2026.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Top-down high,High
+ETH,2026.0,SOL,17.8333333476,Solar,Top-down high,High
+ETH,2026.0,WIN,777.222222844,Wind,Top-down high,High
+ETH,2027.0,BIO,313.2777780284,Biomass,Top-down high,High
+ETH,2027.0,GEO,8791.527784811,Geothermal,Top-down high,High
+ETH,2027.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2027.0,Imports (DJI),0.1666666668,Imports (DJI),Top-down high,High
+ETH,2027.0,Imports (SDN),500.9166670674,Imports (SDN),Top-down high,High
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Top-down high,High
+ETH,2027.0,SOL,17.0277777914,Solar,Top-down high,High
+ETH,2027.0,WIN,752.6666672688,Wind,Top-down high,High
+ETH,2028.0,BIO,274.13888910820003,Biomass,Top-down high,High
+ETH,2028.0,GEO,10265.694452657,Geothermal,Top-down high,High
+ETH,2028.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2028.0,Imports (DJI),2.5277777798,Imports (DJI),Top-down high,High
+ETH,2028.0,Imports (SDN),624.1388893882,Imports (SDN),Top-down high,High
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Top-down high,High
+ETH,2028.0,SOL,912.6944451746,Solar,Top-down high,High
+ETH,2028.0,WIN,728.1111116936,Wind,Top-down high,High
+ETH,2029.0,BIO,234.9722224102,Biomass,Top-down high,High
+ETH,2029.0,GEO,11972.3888984668,Geothermal,Top-down high,High
+ETH,2029.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2029.0,Imports (DJI),3.944444447600001,Imports (DJI),Top-down high,High
+ETH,2029.0,Imports (SDN),546.6111115484,Imports (SDN),Top-down high,High
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Top-down high,High
+ETH,2029.0,SOL,1808.4166681134,Solar,Top-down high,High
+ETH,2029.0,WIN,703.5277783406001,Wind,Top-down high,High
+ETH,2030.0,BIO,195.8055557122,Biomass,Top-down high,High
+ETH,2030.0,GEO,11969.388898464402,Geothermal,Top-down high,High
+ETH,2030.0,HYD,52640.08337544539,Hydropower,Top-down high,High
+ETH,2030.0,Imports (DJI),26.416666687800003,Imports (DJI),Top-down high,High
+ETH,2030.0,Imports (SDN),466.8333337068,Imports (SDN),Top-down high,High
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Top-down high,High
+ETH,2030.0,SOL,3057.4166691126,Solar,Top-down high,High
+ETH,2030.0,WIN,678.9722227654,Wind,Top-down high,High
+ETH,2020.0,GEO,953.0833340958,Geothermal,Top-down low,No
+ETH,2020.0,HYD,21807.083350779,Hydropower,Top-down low,No
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Top-down low,No
+ETH,2020.0,SOL,22.777777796,Solar,Top-down low,No
+ETH,2020.0,WIN,924.6111118508,Wind,Top-down low,No
+ETH,2021.0,BIO,300.0277780178,Biomass,Top-down low,No
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Top-down low,No
+ETH,2021.0,HYD,26300.972243263,Hydropower,Top-down low,No
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Top-down low,No
+ETH,2021.0,SOL,21.944444462,Solar,Top-down low,No
+ETH,2021.0,WIN,900.0277784978,Wind,Top-down low,No
+ETH,2022.0,BIO,704.8888894528,Biomass,Top-down low,No
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Top-down low,No
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Top-down low,No
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Top-down low,No
+ETH,2022.0,SOL,21.1388889058,Solar,Top-down low,No
+ETH,2022.0,WIN,875.4722229226,Wind,Top-down low,No
+ETH,2023.0,GEO,3766.5000030132,Geothermal,Top-down low,No
+ETH,2023.0,HYD,38550.8055863962,Hydropower,Top-down low,No
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Top-down low,No
+ETH,2023.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2024.0,GEO,5723.861115690201,Geothermal,Top-down low,No
+ETH,2024.0,HYD,39316.3055870086,Hydropower,Top-down low,No
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Top-down low,No
+ETH,2024.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2025.0,GEO,7803.388895131601,Geothermal,Top-down low,No
+ETH,2025.0,HYD,40805.777810422405,Hydropower,Top-down low,No
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Top-down low,No
+ETH,2025.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2026.0,GEO,7800.416672907001,Geothermal,Top-down low,No
+ETH,2026.0,HYD,43578.888923752,Hydropower,Top-down low,No
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Top-down low,No
+ETH,2026.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2027.0,GEO,7797.444450682401,Geothermal,Top-down low,No
+ETH,2027.0,HYD,45665.02781430981,Hydropower,Top-down low,No
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Top-down low,No
+ETH,2027.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2028.0,GEO,7794.472228457801,Geothermal,Top-down low,No
+ETH,2028.0,HYD,47740.1667048588,Hydropower,Top-down low,No
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Top-down low,No
+ETH,2028.0,SOL,7.1666666724,Solar,Top-down low,No
+ETH,2028.0,WIN,2.1666666684,Wind,Top-down low,No
+ETH,2029.0,BIO,94.7500000758,Biomass,Top-down low,No
+ETH,2029.0,GEO,6598.111116389601,Geothermal,Top-down low,No
+ETH,2029.0,HFO,0.416666667,Heavy Fuel Oil,Top-down low,No
+ETH,2029.0,HYD,50048.9444844836,Hydropower,Top-down low,No
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Top-down low,No
+ETH,2029.0,SOL,11.0000000088,Solar,Top-down low,No
+ETH,2029.0,WIN,272.7222224404,Wind,Top-down low,No
+ETH,2030.0,BIO,78.94444450760001,Biomass,Top-down low,No
+ETH,2030.0,GEO,7788.5000062308,Geothermal,Top-down low,No
+ETH,2030.0,HFO,0.416666667,Heavy Fuel Oil,Top-down low,No
+ETH,2030.0,HYD,49968.4444844192,Hydropower,Top-down low,No
+ETH,2030.0,Imports (SDN),153.88888901200002,Imports (SDN),Top-down low,No
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Top-down low,No
+ETH,2030.0,SOL,10.6111111196,Solar,Top-down low,No
+ETH,2030.0,WIN,263.22222243280004,Wind,Top-down low,No
+ETH,2020.0,GEO,357.4166669526,Geothermal,Top-down low,High
+ETH,2020.0,HYD,21807.083350779,Hydropower,Top-down low,High
+ETH,2020.0,LFO,189.8333334852,Light Fuel Oil,Top-down low,High
+ETH,2020.0,SOL,22.777777796,Solar,Top-down low,High
+ETH,2020.0,WIN,924.6111118508,Wind,Top-down low,High
+ETH,2021.0,BIO,387.1944447542,Biomass,Top-down low,High
+ETH,2021.0,GEO,2218.8888906640004,Geothermal,Top-down low,High
+ETH,2021.0,HYD,26300.972243263,Hydropower,Top-down low,High
+ETH,2021.0,LFO,180.3333334776,Light Fuel Oil,Top-down low,High
+ETH,2021.0,SOL,21.944444462,Solar,Top-down low,High
+ETH,2021.0,WIN,900.0277784978,Wind,Top-down low,High
+ETH,2022.0,BIO,704.8888894528,Biomass,Top-down low,High
+ETH,2022.0,GEO,2963.5000023708,Geothermal,Top-down low,High
+ETH,2022.0,HYD,30794.8333579692,Hydropower,Top-down low,High
+ETH,2022.0,LFO,170.83333347,Light Fuel Oil,Top-down low,High
+ETH,2022.0,SOL,21.1388889058,Solar,Top-down low,High
+ETH,2022.0,WIN,875.4722229226,Wind,Top-down low,High
+ETH,2023.0,GEO,785.416667295,Geothermal,Top-down low,High
+ETH,2023.0,HYD,40814.9444770964,Hydropower,Top-down low,High
+ETH,2023.0,LFO,161.3611112402,Light Fuel Oil,Top-down low,High
+ETH,2023.0,SOL,20.3055555718,Solar,Top-down low,High
+ETH,2023.0,WIN,850.9166673474,Wind,Top-down low,High
+ETH,2024.0,HYD,44850.4444803248,Hydropower,Top-down low,High
+ETH,2024.0,LFO,151.8611112326,Light Fuel Oil,Top-down low,High
+ETH,2024.0,SOL,19.4722222378,Solar,Top-down low,High
+ETH,2024.0,WIN,826.3611117722,Wind,Top-down low,High
+ETH,2025.0,HYD,48031.1667050916,Hydropower,Top-down low,High
+ETH,2025.0,LFO,142.361111225,Light Fuel Oil,Top-down low,High
+ETH,2025.0,SOL,18.6666666816,Solar,Top-down low,High
+ETH,2025.0,WIN,801.7777784192001,Wind,Top-down low,High
+ETH,2026.0,GEO,686.5000005492001,Geothermal,Top-down low,High
+ETH,2026.0,HYD,50052.0278178194,Hydropower,Top-down low,High
+ETH,2026.0,LFO,132.8888889952,Light Fuel Oil,Top-down low,High
+ETH,2026.0,SOL,17.8333333476,Solar,Top-down low,High
+ETH,2026.0,WIN,777.222222844,Wind,Top-down low,High
+ETH,2027.0,GEO,1664.027779109,Geothermal,Top-down low,High
+ETH,2027.0,HYD,51183.055596502,Hydropower,Top-down low,High
+ETH,2027.0,LFO,123.3888889876,Light Fuel Oil,Top-down low,High
+ETH,2027.0,SOL,17.0277777914,Solar,Top-down low,High
+ETH,2027.0,WIN,752.6666672688,Wind,Top-down low,High
+ETH,2028.0,GEO,2635.3333354416,Geothermal,Top-down low,High
+ETH,2028.0,HYD,52311.3055974046,Hydropower,Top-down low,High
+ETH,2028.0,LFO,113.88888898,Light Fuel Oil,Top-down low,High
+ETH,2028.0,SOL,16.194444457400003,Solar,Top-down low,High
+ETH,2028.0,WIN,728.1111116936,Wind,Top-down low,High
+ETH,2029.0,BIO,94.7500000758,Biomass,Top-down low,High
+ETH,2029.0,GEO,3571.7777806352,Geothermal,Top-down low,High
+ETH,2029.0,HYD,52640.08337544539,Hydropower,Top-down low,High
+ETH,2029.0,LFO,104.4166667502,Light Fuel Oil,Top-down low,High
+ETH,2029.0,SOL,15.3888889012,Solar,Top-down low,High
+ETH,2029.0,WIN,703.5277783406001,Wind,Top-down low,High
+ETH,2030.0,BIO,78.94444450760001,Biomass,Top-down low,High
+ETH,2030.0,GEO,4697.166670424401,Geothermal,Top-down low,High
+ETH,2030.0,HYD,52640.08337544539,Hydropower,Top-down low,High
+ETH,2030.0,LFO,94.9166667426,Light Fuel Oil,Top-down low,High
+ETH,2030.0,SOL,14.5555555672,Solar,Top-down low,High
+ETH,2030.0,WIN,678.9722227654,Wind,Top-down low,High

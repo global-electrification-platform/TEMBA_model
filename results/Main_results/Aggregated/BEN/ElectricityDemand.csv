@@ -1,0 +1,211 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Bottom-up,No
+BEN,2021.0,EL3E,1372.6666677648,Current electrified,Bottom-up,No
+BEN,2021.0,EL3U,427.7777781200001,New electrified,Bottom-up,No
+BEN,2022.0,EL3E,1408.8055566826004,Current electrified,Bottom-up,No
+BEN,2022.0,EL3U,855.5555562400001,New electrified,Bottom-up,No
+BEN,2023.0,EL3E,1444.9166678226,Current electrified,Bottom-up,No
+BEN,2023.0,EL3U,1283.33333436,New electrified,Bottom-up,No
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Bottom-up,No
+BEN,2024.0,EL3U,1711.1111124800002,New electrified,Bottom-up,No
+BEN,2025.0,EL3E,1517.1944456582,Current electrified,Bottom-up,No
+BEN,2025.0,EL3U,2138.8888906,New electrified,Bottom-up,No
+BEN,2026.0,EL3E,1592.0000012736,Current electrified,Bottom-up,No
+BEN,2026.0,EL3U,2566.66666872,New electrified,Bottom-up,No
+BEN,2027.0,EL3E,1666.8333346668005,Current electrified,Bottom-up,No
+BEN,2027.0,EL3U,2689.2222243736,New electrified,Bottom-up,No
+BEN,2028.0,EL3E,1741.6388902822,Current electrified,Bottom-up,No
+BEN,2028.0,EL3U,2811.8055578050003,New electrified,Bottom-up,No
+BEN,2029.0,EL3E,1816.4444458976,Current electrified,Bottom-up,No
+BEN,2029.0,EL3U,2934.3888912364005,New electrified,Bottom-up,No
+BEN,2030.0,EL3E,1891.1944459574,Current electrified,Bottom-up,No
+BEN,2030.0,EL3U,3056.944446890001,New electrified,Bottom-up,No
+BEN,2020.0,TGOEL1,856.4722229074,Exports (TGO),Bottom-up,No
+BEN,2021.0,TGOEL1,1420.9444455812002,Exports (TGO),Bottom-up,No
+BEN,2022.0,GHAEL1,3486.2222250112,Exports (GHA),Bottom-up,No
+BEN,2022.0,TGOEL1,1984.5555571432,Exports (TGO),Bottom-up,No
+BEN,2023.0,GHAEL1,2365.7777796704,Exports (GHA),Bottom-up,No
+BEN,2023.0,TGOEL1,2543.6944464794,Exports (TGO),Bottom-up,No
+BEN,2024.0,GHAEL1,3656.0555584804,Exports (GHA),Bottom-up,No
+BEN,2024.0,TGOEL1,74.1388889482,Exports (TGO),Bottom-up,No
+BEN,2025.0,GHAEL1,2960.7777801464,Exports (GHA),Bottom-up,No
+BEN,2026.0,GHAEL1,2070.277779434,Exports (GHA),Bottom-up,No
+BEN,2027.0,GHAEL1,2672.7500021382,Exports (GHA),Bottom-up,No
+BEN,2027.0,TGOEL1,104.9444445284,Exports (TGO),Bottom-up,No
+BEN,2028.0,GHAEL1,3744.3888918844,Exports (GHA),Bottom-up,No
+BEN,2028.0,TGOEL1,291.52777801100007,Exports (TGO),Bottom-up,No
+BEN,2029.0,GHAEL1,4876.194448345401,Exports (GHA),Bottom-up,No
+BEN,2029.0,TGOEL1,478.3888892716,Exports (TGO),Bottom-up,No
+BEN,2030.0,GHAEL1,4547.8611147494,Exports (GHA),Bottom-up,No
+BEN,2030.0,TGOEL1,621.4444449416001,Exports (TGO),Bottom-up,No
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Bottom-up,High
+BEN,2021.0,EL3E,1372.6944455426,Current electrified,Bottom-up,High
+BEN,2021.0,EL3U,427.7777781200001,New electrified,Bottom-up,High
+BEN,2022.0,EL3E,1408.8333344604,Current electrified,Bottom-up,High
+BEN,2022.0,EL3U,855.5555562400001,New electrified,Bottom-up,High
+BEN,2023.0,EL3E,1444.9166678226,Current electrified,Bottom-up,High
+BEN,2023.0,EL3U,1283.33333436,New electrified,Bottom-up,High
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Bottom-up,High
+BEN,2024.0,EL3U,1711.1111124800002,New electrified,Bottom-up,High
+BEN,2025.0,EL3E,1517.1666678804002,Current electrified,Bottom-up,High
+BEN,2025.0,EL3U,2138.8888906,New electrified,Bottom-up,High
+BEN,2026.0,EL3E,1592.0277790514,Current electrified,Bottom-up,High
+BEN,2026.0,EL3U,2566.66666872,New electrified,Bottom-up,High
+BEN,2027.0,EL3E,1666.8611124446002,Current electrified,Bottom-up,High
+BEN,2027.0,EL3U,2689.2222243736,New electrified,Bottom-up,High
+BEN,2028.0,EL3E,1741.6388902822,Current electrified,Bottom-up,High
+BEN,2028.0,EL3U,2811.8055578050003,New electrified,Bottom-up,High
+BEN,2029.0,EL3E,1816.4166681198,Current electrified,Bottom-up,High
+BEN,2029.0,EL3U,2934.3888912364005,New electrified,Bottom-up,High
+BEN,2030.0,EL3E,1891.2222237352,Current electrified,Bottom-up,High
+BEN,2030.0,EL3U,3056.944446890001,New electrified,Bottom-up,High
+BEN,2020.0,TGOEL1,555.0000004440001,Exports (TGO),Bottom-up,High
+BEN,2023.0,NGAEL1,1053.3055563982,Exports (NGA),Bottom-up,High
+BEN,2023.0,TGOEL1,62.0555556052,Exports (TGO),Bottom-up,High
+BEN,2024.0,NGAEL1,1520.555556772,Exports (NGA),Bottom-up,High
+BEN,2025.0,NGAEL1,3321.0277804346,Exports (NGA),Bottom-up,High
+BEN,2026.0,NGAEL1,5501.4166710678,Exports (NGA),Bottom-up,High
+BEN,2027.0,NGAEL1,4735.8611148998,Exports (NGA),Bottom-up,High
+BEN,2028.0,NGAEL1,3749.444447444,Exports (NGA),Bottom-up,High
+BEN,2029.0,NGAEL1,2263.2777795884003,Exports (NGA),Bottom-up,High
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Top-down high,No
+BEN,2021.0,EL3E,1372.6666677648002,Current electrified,Top-down high,No
+BEN,2021.0,EL3U,320.694444701,New electrified,Top-down high,No
+BEN,2022.0,EL3E,1408.8333344604,Current electrified,Top-down high,No
+BEN,2022.0,EL3U,641.388889402,New electrified,Top-down high,No
+BEN,2023.0,EL3E,1444.9444456003998,Current electrified,Top-down high,No
+BEN,2023.0,EL3U,962.083334103,New electrified,Top-down high,No
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Top-down high,No
+BEN,2024.0,EL3U,1282.777778804,New electrified,Top-down high,No
+BEN,2025.0,EL3E,1517.1944456582,Current electrified,Top-down high,No
+BEN,2025.0,EL3U,1603.472223505,New electrified,Top-down high,No
+BEN,2026.0,EL3E,1592.0277790514,Current electrified,Top-down high,No
+BEN,2026.0,EL3U,1924.166668206,New electrified,Top-down high,No
+BEN,2027.0,EL3E,1666.8333346668005,Current electrified,Top-down high,No
+BEN,2027.0,EL3U,2010.7777793864,New electrified,Top-down high,No
+BEN,2028.0,EL3E,1741.6388902822,Current electrified,Top-down high,No
+BEN,2028.0,EL3U,2097.3611127890003,New electrified,Top-down high,No
+BEN,2029.0,EL3E,1816.4444458976,Current electrified,Top-down high,No
+BEN,2029.0,EL3U,2183.9722239694,New electrified,Top-down high,No
+BEN,2030.0,EL3E,1891.1944459574,Current electrified,Top-down high,No
+BEN,2030.0,EL3U,2270.555557372,New electrified,Top-down high,No
+BEN,2020.0,GHAEL1,4764.388892700401,Exports (GHA),Top-down high,No
+BEN,2020.0,TGOEL1,919.2777785132,Exports (TGO),Top-down high,No
+BEN,2021.0,TGOEL1,1496.3333345304002,Exports (TGO),Top-down high,No
+BEN,2022.0,TGOEL1,877.5833340354001,Exports (TGO),Top-down high,No
+BEN,2023.0,NGAEL1,441.527778131,Exports (NGA),Top-down high,No
+BEN,2024.0,GHAEL1,222.6944446226,Exports (GHA),Top-down high,No
+BEN,2024.0,TGOEL1,51.805555597,Exports (TGO),Top-down high,No
+BEN,2025.0,GHAEL1,4270.1666700828,Exports (GHA),Top-down high,No
+BEN,2025.0,TGOEL1,37.361111141,Exports (TGO),Top-down high,No
+BEN,2027.0,GHAEL1,400.5833336538,Exports (GHA),Top-down high,No
+BEN,2027.0,TGOEL1,324.6111113708,Exports (TGO),Top-down high,No
+BEN,2028.0,GHAEL1,868.4166673614001,Exports (GHA),Top-down high,No
+BEN,2028.0,TGOEL1,500.0277781778,Exports (TGO),Top-down high,No
+BEN,2029.0,GHAEL1,1343.9722232974002,Exports (GHA),Top-down high,No
+BEN,2029.0,TGOEL1,491.6388892822,Exports (TGO),Top-down high,No
+BEN,2030.0,GHAEL1,2047.500001638,Exports (GHA),Top-down high,No
+BEN,2030.0,TGOEL1,842.1944451182,Exports (TGO),Top-down high,No
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Top-down high,High
+BEN,2021.0,EL3E,1372.6666677648002,Current electrified,Top-down high,High
+BEN,2021.0,EL3U,320.694444701,New electrified,Top-down high,High
+BEN,2022.0,EL3E,1408.8055566826,Current electrified,Top-down high,High
+BEN,2022.0,EL3U,641.388889402,New electrified,Top-down high,High
+BEN,2023.0,EL3E,1444.9166678226,Current electrified,Top-down high,High
+BEN,2023.0,EL3U,962.083334103,New electrified,Top-down high,High
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Top-down high,High
+BEN,2024.0,EL3U,1282.777778804,New electrified,Top-down high,High
+BEN,2025.0,EL3E,1517.1944456582,Current electrified,Top-down high,High
+BEN,2025.0,EL3U,1603.472223505,New electrified,Top-down high,High
+BEN,2026.0,EL3E,1592.0277790514,Current electrified,Top-down high,High
+BEN,2026.0,EL3U,1924.166668206,New electrified,Top-down high,High
+BEN,2027.0,EL3E,1666.8333346668005,Current electrified,Top-down high,High
+BEN,2027.0,EL3U,2010.7777793864,New electrified,Top-down high,High
+BEN,2028.0,EL3E,1741.6388902822,Current electrified,Top-down high,High
+BEN,2028.0,EL3U,2097.3611127890003,New electrified,Top-down high,High
+BEN,2029.0,EL3E,1816.4444458976,Current electrified,Top-down high,High
+BEN,2029.0,EL3U,2183.9722239694,New electrified,Top-down high,High
+BEN,2030.0,EL3E,1891.2222237352005,Current electrified,Top-down high,High
+BEN,2030.0,EL3U,2270.555557372,New electrified,Top-down high,High
+BEN,2020.0,TGOEL1,547.1944448822001,Exports (TGO),Top-down high,High
+BEN,2022.0,GHAEL1,4082.4166699326,Exports (GHA),Top-down high,High
+BEN,2023.0,NGAEL1,1437.8611122614002,Exports (NGA),Top-down high,High
+BEN,2024.0,NGAEL1,634.4722227298,Exports (NGA),Top-down high,High
+BEN,2024.0,TGOEL1,277.638889111,Exports (TGO),Top-down high,High
+BEN,2025.0,NGAEL1,233.6944446314,Exports (NGA),Top-down high,High
+BEN,2025.0,TGOEL1,246.3333335304,Exports (TGO),Top-down high,High
+BEN,2026.0,NGAEL1,1075.1111119712,Exports (NGA),Top-down high,High
+BEN,2026.0,TGOEL1,635.416667175,Exports (TGO),Top-down high,High
+BEN,2027.0,NGAEL1,2025.555557176,Exports (NGA),Top-down high,High
+BEN,2027.0,TGOEL1,252.222222424,Exports (TGO),Top-down high,High
+BEN,2028.0,NGAEL1,2140.833335046,Exports (NGA),Top-down high,High
+BEN,2028.0,TGOEL1,170.97222235900003,Exports (TGO),Top-down high,High
+BEN,2029.0,NGAEL1,2690.0277799298005,Exports (NGA),Top-down high,High
+BEN,2030.0,NGAEL1,2887.4722245322,Exports (NGA),Top-down high,High
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Top-down low,No
+BEN,2021.0,EL3E,1372.6666677648,Current electrified,Top-down low,No
+BEN,2021.0,EL3U,76.0555556164,New electrified,Top-down low,No
+BEN,2022.0,EL3E,1408.8055566826004,Current electrified,Top-down low,No
+BEN,2022.0,EL3U,152.1388890106,New electrified,Top-down low,No
+BEN,2023.0,EL3E,1444.9166678226,Current electrified,Top-down low,No
+BEN,2023.0,EL3U,228.194444627,New electrified,Top-down low,No
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Top-down low,No
+BEN,2024.0,EL3U,304.2500002434,New electrified,Top-down low,No
+BEN,2025.0,EL3E,1517.1944456582,Current electrified,Top-down low,No
+BEN,2025.0,EL3U,380.3333336376,New electrified,Top-down low,No
+BEN,2026.0,EL3E,1592.0000012736,Current electrified,Top-down low,No
+BEN,2026.0,EL3U,456.3888892540001,New electrified,Top-down low,No
+BEN,2027.0,EL3E,1666.8333346668005,Current electrified,Top-down low,No
+BEN,2027.0,EL3U,478.8055559386,New electrified,Top-down low,No
+BEN,2028.0,EL3E,1741.6388902822,Current electrified,Top-down low,No
+BEN,2028.0,EL3U,501.250000401,New electrified,Top-down low,No
+BEN,2029.0,EL3E,1816.4444458976,Current electrified,Top-down low,No
+BEN,2029.0,EL3U,523.6944448634,New electrified,Top-down low,No
+BEN,2030.0,EL3E,1891.1944459574,Current electrified,Top-down low,No
+BEN,2030.0,EL3U,546.111111548,New electrified,Top-down low,No
+BEN,2020.0,TGOEL1,913.1388896194,Exports (TGO),Top-down low,No
+BEN,2021.0,TGOEL1,1023.2222230408,Exports (TGO),Top-down low,No
+BEN,2022.0,TGOEL1,1371.0277788746,Exports (TGO),Top-down low,No
+BEN,2023.0,TGOEL1,887.0555562652,Exports (TGO),Top-down low,No
+BEN,2024.0,TGOEL1,573.3888893476001,Exports (TGO),Top-down low,No
+BEN,2025.0,TGOEL1,419.5277781134,Exports (TGO),Top-down low,No
+BEN,2026.0,NGAEL1,500.3611115114,Exports (NGA),Top-down low,No
+BEN,2027.0,GHAEL1,3158.0000025264003,Exports (GHA),Top-down low,No
+BEN,2028.0,GHAEL1,5359.6111153988,Exports (GHA),Top-down low,No
+BEN,2028.0,TGOEL1,18.1111111256,Exports (TGO),Top-down low,No
+BEN,2029.0,GHAEL1,5159.833337461199,Exports (GHA),Top-down low,No
+BEN,2030.0,GHAEL1,4342.750003474201,Exports (GHA),Top-down low,No
+BEN,2030.0,TGOEL1,113.88888898,Exports (TGO),Top-down low,No
+BEN,2020.0,EL3E,1336.1666677356,Current electrified,Top-down low,High
+BEN,2021.0,EL3E,1372.6944455426,Current electrified,Top-down low,High
+BEN,2021.0,EL3U,76.0555556164,New electrified,Top-down low,High
+BEN,2022.0,EL3E,1408.8333344604,Current electrified,Top-down low,High
+BEN,2022.0,EL3U,152.1388890106,New electrified,Top-down low,High
+BEN,2023.0,EL3E,1444.9444456003998,Current electrified,Top-down low,High
+BEN,2023.0,EL3U,228.194444627,New electrified,Top-down low,High
+BEN,2024.0,EL3E,1481.0555567404,Current electrified,Top-down low,High
+BEN,2024.0,EL3U,304.2500002434,New electrified,Top-down low,High
+BEN,2025.0,EL3E,1517.1666678804002,Current electrified,Top-down low,High
+BEN,2025.0,EL3U,380.3333336376,New electrified,Top-down low,High
+BEN,2026.0,EL3E,1592.0000012736002,Current electrified,Top-down low,High
+BEN,2026.0,EL3U,456.3888892540001,New electrified,Top-down low,High
+BEN,2027.0,EL3E,1666.8055568890002,Current electrified,Top-down low,High
+BEN,2027.0,EL3U,478.8055559386,New electrified,Top-down low,High
+BEN,2028.0,EL3E,1741.6111125044,Current electrified,Top-down low,High
+BEN,2028.0,EL3U,501.250000401,New electrified,Top-down low,High
+BEN,2029.0,EL3E,1816.4444458976,Current electrified,Top-down low,High
+BEN,2029.0,EL3U,523.6944448634,New electrified,Top-down low,High
+BEN,2030.0,EL3E,1891.1944459574004,Current electrified,Top-down low,High
+BEN,2030.0,EL3U,546.111111548,New electrified,Top-down low,High
+BEN,2020.0,TGOEL1,584.6666671344,Exports (TGO),Top-down low,High
+BEN,2021.0,GHAEL1,223.2777779564,Exports (GHA),Top-down low,High
+BEN,2022.0,GHAEL1,2653.1944465670003,Exports (GHA),Top-down low,High
+BEN,2022.0,TGOEL1,160.86111123979998,Exports (TGO),Top-down low,High
+BEN,2023.0,NGAEL1,2517.9166686810004,Exports (NGA),Top-down low,High
+BEN,2024.0,NGAEL1,2026.527779399,Exports (NGA),Top-down low,High
+BEN,2025.0,NGAEL1,1879.2500015034,Exports (NGA),Top-down low,High
+BEN,2026.0,NGAEL1,2582.6944465106003,Exports (NGA),Top-down low,High
+BEN,2027.0,NGAEL1,3252.6388914910003,Exports (NGA),Top-down low,High
+BEN,2028.0,NGAEL1,3699.444447404,Exports (NGA),Top-down low,High
+BEN,2029.0,NGAEL1,4253.8611145142,Exports (NGA),Top-down low,High
+BEN,2030.0,NGAEL1,3720.0277807538,Exports (NGA),Top-down low,High

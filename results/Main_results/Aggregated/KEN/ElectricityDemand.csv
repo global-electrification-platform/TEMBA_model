@@ -1,0 +1,244 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Bottom-up,No
+KEN,2021.0,EL3E,11740.9166760594,Current electrified,Bottom-up,No
+KEN,2021.0,EL3U,1907.3055570814,New electrified,Bottom-up,No
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Bottom-up,No
+KEN,2022.0,EL3U,3814.6388919406,New electrified,Bottom-up,No
+KEN,2023.0,EL3E,13137.4722327322,Current electrified,Bottom-up,No
+KEN,2023.0,EL3U,5721.944449022,New electrified,Bottom-up,No
+KEN,2024.0,EL3E,13814.9166777186,Current electrified,Bottom-up,No
+KEN,2024.0,EL3U,7629.2500061034,New electrified,Bottom-up,No
+KEN,2025.0,EL3E,14480.611122695602,Current electrified,Bottom-up,No
+KEN,2025.0,EL3U,9536.5833409626,New electrified,Bottom-up,No
+KEN,2026.0,EL3E,15389.388901200402,Current electrified,Bottom-up,No
+KEN,2026.0,EL3U,11443.888898044,New electrified,Bottom-up,No
+KEN,2027.0,EL3E,16288.5833463642,Current electrified,Bottom-up,No
+KEN,2027.0,EL3U,11858.2500094866,New electrified,Bottom-up,No
+KEN,2028.0,EL3E,17178.4444581872,Current electrified,Bottom-up,No
+KEN,2028.0,EL3U,12272.638898707,New electrified,Bottom-up,No
+KEN,2029.0,EL3E,18060.000014448004,Current electrified,Bottom-up,No
+KEN,2029.0,EL3U,12687.0000101496,New electrified,Bottom-up,No
+KEN,2030.0,EL3E,18934.3611262586,Current electrified,Bottom-up,No
+KEN,2030.0,EL3U,13101.38889937,New electrified,Bottom-up,No
+KEN,2020.0,TZAEL1,8309.861117759001,Exports (TZA),Bottom-up,No
+KEN,2021.0,TZAEL1,7408.722228149199,Exports (TZA),Bottom-up,No
+KEN,2022.0,TZAEL1,9150.277785098002,Exports (TZA),Bottom-up,No
+KEN,2023.0,TZAEL1,12335.2500098682,Exports (TZA),Bottom-up,No
+KEN,2023.0,UGAEL1,362.9444447348,Exports (UGA),Bottom-up,No
+KEN,2024.0,TZAEL1,14117.222233516002,Exports (TZA),Bottom-up,No
+KEN,2024.0,UGAEL1,1264.9444454564,Exports (UGA),Bottom-up,No
+KEN,2025.0,TZAEL1,15863.1111238016,Exports (TZA),Bottom-up,No
+KEN,2025.0,UGAEL1,793.9444450796001,Exports (UGA),Bottom-up,No
+KEN,2026.0,TZAEL1,15372.750012298202,Exports (TZA),Bottom-up,No
+KEN,2026.0,UGAEL1,1541.6666679,Exports (UGA),Bottom-up,No
+KEN,2027.0,TZAEL1,15730.000012584002,Exports (TZA),Bottom-up,No
+KEN,2027.0,UGAEL1,814.305556207,Exports (UGA),Bottom-up,No
+KEN,2028.0,TZAEL1,14779.194456267802,Exports (TZA),Bottom-up,No
+KEN,2028.0,UGAEL1,918.5555562904,Exports (UGA),Bottom-up,No
+KEN,2029.0,TZAEL1,15501.8333457348,Exports (TZA),Bottom-up,No
+KEN,2029.0,UGAEL1,893.0833340478,Exports (UGA),Bottom-up,No
+KEN,2030.0,TZAEL1,15482.2500123858,Exports (TZA),Bottom-up,No
+KEN,2030.0,UGAEL1,1313.1111121616,Exports (UGA),Bottom-up,No
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Bottom-up,High
+KEN,2021.0,EL3E,11740.9166760594,Current electrified,Bottom-up,High
+KEN,2021.0,EL3U,1907.3055570814,New electrified,Bottom-up,High
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Bottom-up,High
+KEN,2022.0,EL3U,3814.6388919406,New electrified,Bottom-up,High
+KEN,2023.0,EL3E,13137.4722327322,Current electrified,Bottom-up,High
+KEN,2023.0,EL3U,5721.944449022,New electrified,Bottom-up,High
+KEN,2024.0,EL3E,13814.9166777186,Current electrified,Bottom-up,High
+KEN,2024.0,EL3U,7629.2500061034,New electrified,Bottom-up,High
+KEN,2025.0,EL3E,14480.611122695602,Current electrified,Bottom-up,High
+KEN,2025.0,EL3U,9536.5833409626,New electrified,Bottom-up,High
+KEN,2026.0,EL3E,15389.388901200402,Current electrified,Bottom-up,High
+KEN,2026.0,EL3U,11443.888898044,New electrified,Bottom-up,High
+KEN,2027.0,EL3E,16288.5833463642,Current electrified,Bottom-up,High
+KEN,2027.0,EL3U,11858.2500094866,New electrified,Bottom-up,High
+KEN,2028.0,EL3E,17178.4444581872,Current electrified,Bottom-up,High
+KEN,2028.0,EL3U,12272.638898707,New electrified,Bottom-up,High
+KEN,2029.0,EL3E,18059.9722366702,Current electrified,Bottom-up,High
+KEN,2029.0,EL3U,12687.0000101496,New electrified,Bottom-up,High
+KEN,2030.0,EL3E,18934.333348480803,Current electrified,Bottom-up,High
+KEN,2030.0,EL3U,13101.38889937,New electrified,Bottom-up,High
+KEN,2020.0,TZAEL1,8118.1666731612,Exports (TZA),Bottom-up,High
+KEN,2021.0,TZAEL1,7337.50000587,Exports (TZA),Bottom-up,High
+KEN,2022.0,TZAEL1,9740.277785570002,Exports (TZA),Bottom-up,High
+KEN,2023.0,TZAEL1,9375.388896389202,Exports (TZA),Bottom-up,High
+KEN,2023.0,UGAEL1,2280.3888907132005,Exports (UGA),Bottom-up,High
+KEN,2024.0,TZAEL1,11034.388897716402,Exports (TZA),Bottom-up,High
+KEN,2024.0,UGAEL1,461.9722225918,Exports (UGA),Bottom-up,High
+KEN,2025.0,TZAEL1,11762.4722316322,Exports (TZA),Bottom-up,High
+KEN,2025.0,UGAEL1,1011.5555563648,Exports (UGA),Bottom-up,High
+KEN,2026.0,TZAEL1,11207.8055645218,Exports (TZA),Bottom-up,High
+KEN,2026.0,UGAEL1,2614.3333354248,Exports (UGA),Bottom-up,High
+KEN,2027.0,TZAEL1,14167.500011334,Exports (TZA),Bottom-up,High
+KEN,2027.0,UGAEL1,2377.9444463468,Exports (UGA),Bottom-up,High
+KEN,2028.0,TZAEL1,15284.6389011166,Exports (TZA),Bottom-up,High
+KEN,2028.0,UGAEL1,3776.5000030212,Exports (UGA),Bottom-up,High
+KEN,2029.0,TZAEL1,16520.1666798828,Exports (TZA),Bottom-up,High
+KEN,2029.0,UGAEL1,4808.2777816244,Exports (UGA),Bottom-up,High
+KEN,2030.0,TZAEL1,16514.6389021006,Exports (TZA),Bottom-up,High
+KEN,2030.0,UGAEL1,4655.555559279999,Exports (UGA),Bottom-up,High
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Top-down high,No
+KEN,2021.0,EL3E,11740.9444538372,Current electrified,Top-down high,No
+KEN,2021.0,EL3U,2956.111113476,New electrified,Top-down high,No
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Top-down high,No
+KEN,2022.0,EL3U,5912.222226952,New electrified,Top-down high,No
+KEN,2023.0,EL3E,13137.50001051,Current electrified,Top-down high,No
+KEN,2023.0,EL3U,8868.333340428,New electrified,Top-down high,No
+KEN,2024.0,EL3E,13814.9444554964,Current electrified,Top-down high,No
+KEN,2024.0,EL3U,11824.444453904,New electrified,Top-down high,No
+KEN,2025.0,EL3E,14480.6111226956,Current electrified,Top-down high,No
+KEN,2025.0,EL3U,14780.55556738,New electrified,Top-down high,No
+KEN,2026.0,EL3E,15389.388901200402,Current electrified,Top-down high,No
+KEN,2026.0,EL3U,17736.666680856,New electrified,Top-down high,No
+KEN,2027.0,EL3E,16288.5833463642,Current electrified,Top-down high,No
+KEN,2027.0,EL3U,18465.833348106004,New electrified,Top-down high,No
+KEN,2028.0,EL3E,17178.4444581872,Current electrified,Top-down high,No
+KEN,2028.0,EL3U,19195.000015356003,New electrified,Top-down high,No
+KEN,2029.0,EL3E,18059.9722366702,Current electrified,Top-down high,No
+KEN,2029.0,EL3U,19924.166682606003,New electrified,Top-down high,No
+KEN,2030.0,EL3E,18934.3611262586,Current electrified,Top-down high,No
+KEN,2030.0,EL3U,20653.333349856,New electrified,Top-down high,No
+KEN,2020.0,TZAEL1,7835.0555618236,Exports (TZA),Top-down high,No
+KEN,2021.0,TZAEL1,4899.0833372526,Exports (TZA),Top-down high,No
+KEN,2022.0,TZAEL1,4319.7777812336,Exports (TZA),Top-down high,No
+KEN,2023.0,TZAEL1,6097.000004877601,Exports (TZA),Top-down high,No
+KEN,2023.0,UGAEL1,2357.8888907752003,Exports (UGA),Top-down high,No
+KEN,2024.0,TZAEL1,12039.1111207424,Exports (TZA),Top-down high,No
+KEN,2024.0,UGAEL1,2680.5277799222004,Exports (UGA),Top-down high,No
+KEN,2025.0,TZAEL1,9653.750007723002,Exports (TZA),Top-down high,No
+KEN,2025.0,UGAEL1,3689.0833362846006,Exports (UGA),Top-down high,No
+KEN,2026.0,TZAEL1,8068.3055620102,Exports (TZA),Top-down high,No
+KEN,2026.0,UGAEL1,4697.5277815358,Exports (UGA),Top-down high,No
+KEN,2027.0,TZAEL1,9746.6944522418,Exports (TZA),Top-down high,No
+KEN,2027.0,UGAEL1,4375.8611146118,Exports (UGA),Top-down high,No
+KEN,2028.0,TZAEL1,11175.3333422736,Exports (TZA),Top-down high,No
+KEN,2028.0,UGAEL1,5138.1388929994,Exports (UGA),Top-down high,No
+KEN,2029.0,TZAEL1,13062.166677116402,Exports (TZA),Top-down high,No
+KEN,2029.0,UGAEL1,5138.8333374444,Exports (UGA),Top-down high,No
+KEN,2030.0,TZAEL1,13744.9444554404,Exports (TZA),Top-down high,No
+KEN,2030.0,UGAEL1,5160.694448573,Exports (UGA),Top-down high,No
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Top-down high,High
+KEN,2021.0,EL3E,11740.9166760594,Current electrified,Top-down high,High
+KEN,2021.0,EL3U,2956.111113476,New electrified,Top-down high,High
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Top-down high,High
+KEN,2022.0,EL3U,5912.222226952,New electrified,Top-down high,High
+KEN,2023.0,EL3E,13137.50001051,Current electrified,Top-down high,High
+KEN,2023.0,EL3U,8868.333340428,New electrified,Top-down high,High
+KEN,2024.0,EL3E,13814.9444554964,Current electrified,Top-down high,High
+KEN,2024.0,EL3U,11824.444453904,New electrified,Top-down high,High
+KEN,2025.0,EL3E,14480.6111226956,Current electrified,Top-down high,High
+KEN,2025.0,EL3U,14780.55556738,New electrified,Top-down high,High
+KEN,2026.0,EL3E,15389.388901200402,Current electrified,Top-down high,High
+KEN,2026.0,EL3U,17736.666680856,New electrified,Top-down high,High
+KEN,2027.0,EL3E,16288.5833463642,Current electrified,Top-down high,High
+KEN,2027.0,EL3U,18465.833348106004,New electrified,Top-down high,High
+KEN,2028.0,EL3E,17178.416680409402,Current electrified,Top-down high,High
+KEN,2028.0,EL3U,19195.000015356003,New electrified,Top-down high,High
+KEN,2029.0,EL3E,18059.9722366702,Current electrified,Top-down high,High
+KEN,2029.0,EL3U,19924.166682606003,New electrified,Top-down high,High
+KEN,2030.0,EL3E,18934.3611262586,Current electrified,Top-down high,High
+KEN,2030.0,EL3U,20653.333349856,New electrified,Top-down high,High
+KEN,2020.0,TZAEL1,7768.9166728818,Exports (TZA),Top-down high,High
+KEN,2021.0,TZAEL1,3477.6944472266,Exports (TZA),Top-down high,High
+KEN,2021.0,UGAEL1,285.97222245100005,Exports (UGA),Top-down high,High
+KEN,2022.0,TZAEL1,1898.6388904078,Exports (TZA),Top-down high,High
+KEN,2022.0,UGAEL1,1574.5277790374005,Exports (UGA),Top-down high,High
+KEN,2023.0,TZAEL1,4468.611114686,Exports (TZA),Top-down high,High
+KEN,2023.0,UGAEL1,2819.8055578114,Exports (UGA),Top-down high,High
+KEN,2024.0,TZAEL1,3842.083336407,Exports (TZA),Top-down high,High
+KEN,2024.0,UGAEL1,2949.722224582,Exports (UGA),Top-down high,High
+KEN,2025.0,TZAEL1,6674.7500053398,Exports (TZA),Top-down high,High
+KEN,2025.0,UGAEL1,4539.4166702982,Exports (UGA),Top-down high,High
+KEN,2026.0,TZAEL1,5004.3888928924,Exports (TZA),Top-down high,High
+KEN,2026.0,UGAEL1,4780.055559379601,Exports (UGA),Top-down high,High
+KEN,2027.0,TZAEL1,7098.3611167898,Exports (TZA),Top-down high,High
+KEN,2027.0,UGAEL1,3886.7222253316,Exports (UGA),Top-down high,High
+KEN,2028.0,TZAEL1,9132.6666739728,Exports (TZA),Top-down high,High
+KEN,2028.0,UGAEL1,4160.833336662,Exports (UGA),Top-down high,High
+KEN,2029.0,TZAEL1,11132.6944533506,Exports (TZA),Top-down high,High
+KEN,2029.0,UGAEL1,4688.3611148618,Exports (UGA),Top-down high,High
+KEN,2030.0,TZAEL1,12357.0277876634,Exports (TZA),Top-down high,High
+KEN,2030.0,UGAEL1,5160.2222263504,Exports (UGA),Top-down high,High
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Top-down low,No
+KEN,2021.0,EL3E,11740.9166760594,Current electrified,Top-down low,No
+KEN,2021.0,EL3U,752.77777838,New electrified,Top-down low,No
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Top-down low,No
+KEN,2022.0,EL3U,1505.55555676,New electrified,Top-down low,No
+KEN,2023.0,EL3E,13137.50001051,Current electrified,Top-down low,No
+KEN,2023.0,EL3U,2258.33333514,New electrified,Top-down low,No
+KEN,2024.0,EL3E,13814.9444554964,Current electrified,Top-down low,No
+KEN,2024.0,EL3U,3011.11111352,New electrified,Top-down low,No
+KEN,2025.0,EL3E,14480.583344917804,Current electrified,Top-down low,No
+KEN,2025.0,EL3U,3763.888891900001,New electrified,Top-down low,No
+KEN,2026.0,EL3E,15389.3611234226,Current electrified,Top-down low,No
+KEN,2026.0,EL3U,4516.66667028,New electrified,Top-down low,No
+KEN,2027.0,EL3E,16288.555568586402,Current electrified,Top-down low,No
+KEN,2027.0,EL3U,4752.916670469,New electrified,Top-down low,No
+KEN,2028.0,EL3E,17178.4444581872,Current electrified,Top-down low,No
+KEN,2028.0,EL3U,4989.166670658,New electrified,Top-down low,No
+KEN,2029.0,EL3E,18060.000014448004,Current electrified,Top-down low,No
+KEN,2029.0,EL3U,5225.416670847,New electrified,Top-down low,No
+KEN,2030.0,EL3E,18934.3611262586,Current electrified,Top-down low,No
+KEN,2030.0,EL3U,5461.666671036,New electrified,Top-down low,No
+KEN,2020.0,TZAEL1,7431.138894833801,Exports (TZA),Top-down low,No
+KEN,2021.0,TZAEL1,7854.277784061201,Exports (TZA),Top-down low,No
+KEN,2022.0,TZAEL1,11357.1111201968,Exports (TZA),Top-down low,No
+KEN,2023.0,TZAEL1,12582.9444545108,Exports (TZA),Top-down low,No
+KEN,2023.0,UGAEL1,2954.3888912524,Exports (UGA),Top-down low,No
+KEN,2024.0,TZAEL1,16116.527790671002,Exports (TZA),Top-down low,No
+KEN,2024.0,UGAEL1,1128.8333342364,Exports (UGA),Top-down low,No
+KEN,2025.0,TZAEL1,14849.5000118796,Exports (TZA),Top-down low,No
+KEN,2025.0,UGAEL1,2978.611113494,Exports (UGA),Top-down low,No
+KEN,2026.0,TZAEL1,10770.3611197274,Exports (TZA),Top-down low,No
+KEN,2026.0,UGAEL1,5121.3611152082,Exports (UGA),Top-down low,No
+KEN,2027.0,TZAEL1,11070.3888977452,Exports (TZA),Top-down low,No
+KEN,2027.0,UGAEL1,4600.4444481248,Exports (UGA),Top-down low,No
+KEN,2028.0,TZAEL1,11884.9444539524,Exports (TZA),Top-down low,No
+KEN,2028.0,UGAEL1,2239.3611129026003,Exports (UGA),Top-down low,No
+KEN,2029.0,TZAEL1,11762.4722316322,Exports (TZA),Top-down low,No
+KEN,2029.0,UGAEL1,1459.5000011675995,Exports (UGA),Top-down low,No
+KEN,2030.0,TZAEL1,12918.2222325568,Exports (TZA),Top-down low,No
+KEN,2030.0,UGAEL1,828.6388895518,Exports (UGA),Top-down low,No
+KEN,2020.0,EL3E,9869.2222301176,Current electrified,Top-down low,High
+KEN,2021.0,EL3E,11740.9166760594,Current electrified,Top-down low,High
+KEN,2021.0,EL3U,752.77777838,New electrified,Top-down low,High
+KEN,2022.0,EL3E,12446.4722321794,Current electrified,Top-down low,High
+KEN,2022.0,EL3U,1505.55555676,New electrified,Top-down low,High
+KEN,2023.0,EL3E,13137.50001051,Current electrified,Top-down low,High
+KEN,2023.0,EL3U,2258.33333514,New electrified,Top-down low,High
+KEN,2024.0,EL3E,13814.9444554964,Current electrified,Top-down low,High
+KEN,2024.0,EL3U,3011.11111352,New electrified,Top-down low,High
+KEN,2025.0,EL3E,14480.583344917804,Current electrified,Top-down low,High
+KEN,2025.0,EL3U,3763.888891900001,New electrified,Top-down low,High
+KEN,2026.0,EL3E,15389.3611234226,Current electrified,Top-down low,High
+KEN,2026.0,EL3U,4516.66667028,New electrified,Top-down low,High
+KEN,2027.0,EL3E,16288.555568586402,Current electrified,Top-down low,High
+KEN,2027.0,EL3U,4752.916670469,New electrified,Top-down low,High
+KEN,2028.0,EL3E,17178.4444581872,Current electrified,Top-down low,High
+KEN,2028.0,EL3U,4989.166670658,New electrified,Top-down low,High
+KEN,2029.0,EL3E,18059.9722366702,Current electrified,Top-down low,High
+KEN,2029.0,EL3U,5225.416670847,New electrified,Top-down low,High
+KEN,2030.0,EL3E,18934.3611262586,Current electrified,Top-down low,High
+KEN,2030.0,EL3U,5461.666671036,New electrified,Top-down low,High
+KEN,2020.0,TZAEL1,5992.777782572,Exports (TZA),Top-down low,High
+KEN,2021.0,TZAEL1,8120.555562052001,Exports (TZA),Top-down low,High
+KEN,2022.0,TZAEL1,10933.33334208,Exports (TZA),Top-down low,High
+KEN,2022.0,UGAEL1,555.9444448892,Exports (UGA),Top-down low,High
+KEN,2023.0,TZAEL1,12790.9166768994,Exports (TZA),Top-down low,High
+KEN,2023.0,UGAEL1,2746.4166688638,Exports (UGA),Top-down low,High
+KEN,2024.0,TZAEL1,14535.5000116284,Exports (TZA),Top-down low,High
+KEN,2024.0,UGAEL1,2136.7500017094,Exports (UGA),Top-down low,High
+KEN,2025.0,TZAEL1,12241.7222320156,Exports (TZA),Top-down low,High
+KEN,2025.0,UGAEL1,2708.6388910558003,Exports (UGA),Top-down low,High
+KEN,2026.0,TZAEL1,10763.916675277802,Exports (TZA),Top-down low,High
+KEN,2026.0,UGAEL1,2129.2222239256,Exports (UGA),Top-down low,High
+KEN,2027.0,TZAEL1,10152.6666747888,Exports (TZA),Top-down low,High
+KEN,2027.0,UGAEL1,2310.8055574042,Exports (UGA),Top-down low,High
+KEN,2028.0,TZAEL1,11052.1388977306,Exports (TZA),Top-down low,High
+KEN,2028.0,UGAEL1,1856.0000014848,Exports (UGA),Top-down low,High
+KEN,2029.0,TZAEL1,10667.916675201,Exports (TZA),Top-down low,High
+KEN,2029.0,UGAEL1,1781.7500014254,Exports (UGA),Top-down low,High
+KEN,2030.0,TZAEL1,10044.2222302576,Exports (TZA),Top-down low,High
+KEN,2030.0,UGAEL1,1150.2500009202,Exports (UGA),Top-down low,High

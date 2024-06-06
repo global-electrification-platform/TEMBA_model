@@ -18,15 +18,15 @@ color_map = {'Biomass': 'seagreen',
              'Solar': 'orange',
              'Wind': 'rosybrown'}
 
-scenarios = {'BU': 'Bottom-up no carbon cost',
-             'High': 'Top-down high demand, no carbon cost',
-             'Low': 'Top-down low demand, no carbon cost',
-             'BU_CT_low': 'Bottom-up low cost of carbon',
-             'High_CT_low': 'Top-down high demand, low cost of carbon',
-             'Low_CT_low': 'Top-down low demand, low cost of carbon',
-             'BU_CT_high': 'Bottom-up high cost of carbon',
-             'High_CT_high': 'Top-down high demand, high cost of carbon',
-             'Low_CT_high': 'Top-down low demand, high cost of carbon'}
+scenarios = {'BU': 'Bottom-up no carbon price',
+             'High': 'Top-down high demand, no carbon price',
+             'Low': 'Top-down low demand, no carbon price',
+             'BU_CT_low': 'Bottom-up low price of carbon',
+             'High_CT_low': 'Top-down high demand, low price of carbon',
+             'Low_CT_low': 'Top-down low demand, low price of carbon',
+             'BU_CT_high': 'Bottom-up high price of carbon',
+             'High_CT_high': 'Top-down high demand, high price of carbon',
+             'Low_CT_high': 'Top-down low demand, high price of carbon'}
 
 # Installed capacity plots
 

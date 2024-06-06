@@ -161,4 +161,5 @@ cython_debug/
 
 .snakemake
 output_data/*
-results/*
+results/Model_files/*
+results/Model

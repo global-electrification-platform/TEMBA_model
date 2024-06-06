@@ -1,0 +1,241 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+SSD,2020,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Bottom-up,No
+SSD,2020,LFO,0.1492901582457418,Light Fuel Oil,Bottom-up,No
+SSD,2021,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Bottom-up,No
+SSD,2021,LFO,0.1482956582457418,Light Fuel Oil,Bottom-up,No
+SSD,2022,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Bottom-up,No
+SSD,2022,LFO,0.1473011582457418,Light Fuel Oil,Bottom-up,No
+SSD,2023,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Bottom-up,No
+SSD,2023,LFO,0.1463066582457418,Light Fuel Oil,Bottom-up,No
+SSD,2024,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2024,GEO,0.0174731134690048,Geothermal,Bottom-up,No
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Bottom-up,No
+SSD,2024,LFO,0.1453121582457418,Light Fuel Oil,Bottom-up,No
+SSD,2025,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2025,GEO,0.0255874932253798,Geothermal,Bottom-up,No
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Bottom-up,No
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Bottom-up,No
+SSD,2026,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2026,GEO,0.0329139556588622,Geothermal,Bottom-up,No
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Bottom-up,No
+SSD,2026,LFO,0.013923,Light Fuel Oil,Bottom-up,No
+SSD,2027,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2027,GEO,0.0394489390258084,Geothermal,Bottom-up,No
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Bottom-up,No
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Bottom-up,No
+SSD,2028,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2028,GEO,0.0460426698094549,Geothermal,Bottom-up,No
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Bottom-up,No
+SSD,2028,LFO,0.011934,Light Fuel Oil,Bottom-up,No
+SSD,2029,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2029,GEO,0.0526817503588796,Geothermal,Bottom-up,No
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Bottom-up,No
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Bottom-up,No
+SSD,2030,GAS,0.0711559461314298,Natural Gas,Bottom-up,No
+SSD,2030,GEO,0.0601407166366846,Geothermal,Bottom-up,No
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Bottom-up,No
+SSD,2030,LFO,0.009945,Light Fuel Oil,Bottom-up,No
+SSD,2020,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Bottom-up,High
+SSD,2020,LFO,0.1492901582457416,Light Fuel Oil,Bottom-up,High
+SSD,2021,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Bottom-up,High
+SSD,2021,LFO,0.1482956582457417,Light Fuel Oil,Bottom-up,High
+SSD,2022,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Bottom-up,High
+SSD,2022,LFO,0.1473011582457417,Light Fuel Oil,Bottom-up,High
+SSD,2023,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Bottom-up,High
+SSD,2023,LFO,0.1463066582457416,Light Fuel Oil,Bottom-up,High
+SSD,2024,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2024,GEO,0.0718160700985653,Geothermal,Bottom-up,High
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Bottom-up,High
+SSD,2024,LFO,0.1453121582457417,Light Fuel Oil,Bottom-up,High
+SSD,2025,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2025,GEO,0.076606004640589,Geothermal,Bottom-up,High
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Bottom-up,High
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Bottom-up,High
+SSD,2026,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2026,GEO,0.081441575696965,Geothermal,Bottom-up,High
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Bottom-up,High
+SSD,2026,LFO,0.013923,Light Fuel Oil,Bottom-up,High
+SSD,2027,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2027,GEO,0.0871670649347803,Geothermal,Bottom-up,High
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Bottom-up,High
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Bottom-up,High
+SSD,2028,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2028,GEO,0.0915651105450119,Geothermal,Bottom-up,High
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Bottom-up,High
+SSD,2028,LFO,0.011934,Light Fuel Oil,Bottom-up,High
+SSD,2029,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2029,GEO,0.0959952661288888,Geothermal,Bottom-up,High
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Bottom-up,High
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Bottom-up,High
+SSD,2030,GAS,0.0711559461314298,Natural Gas,Bottom-up,High
+SSD,2030,GEO,0.10100594310419,Geothermal,Bottom-up,High
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Bottom-up,High
+SSD,2030,LFO,0.009945,Light Fuel Oil,Bottom-up,High
+SSD,2020,GAS,0.0723587336430251,Natural Gas,Top-down high,No
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Top-down high,No
+SSD,2020,LFO,0.1492901582457418,Light Fuel Oil,Top-down high,No
+SSD,2021,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Top-down high,No
+SSD,2021,LFO,0.1482956582457419,Light Fuel Oil,Top-down high,No
+SSD,2022,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Top-down high,No
+SSD,2022,LFO,0.1473011582457419,Light Fuel Oil,Top-down high,No
+SSD,2023,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Top-down high,No
+SSD,2023,LFO,0.1463066582457418,Light Fuel Oil,Top-down high,No
+SSD,2024,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2024,GEO,0.0212060836659954,Geothermal,Top-down high,No
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Top-down high,No
+SSD,2024,LFO,0.1453121582457419,Light Fuel Oil,Top-down high,No
+SSD,2025,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2025,GEO,0.0309014256370178,Geothermal,Top-down high,No
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Top-down high,No
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Top-down high,No
+SSD,2026,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2026,GEO,0.0398088502851478,Geothermal,Top-down high,No
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Top-down high,No
+SSD,2026,LFO,0.013923,Light Fuel Oil,Top-down high,No
+SSD,2027,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2027,GEO,0.0471343147594177,Geothermal,Top-down high,No
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Top-down high,No
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Top-down high,No
+SSD,2028,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2028,GEO,0.054518526650388,Geothermal,Top-down high,No
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Top-down high,No
+SSD,2028,LFO,0.011934,Light Fuel Oil,Top-down high,No
+SSD,2029,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2029,GEO,0.0619480883071365,Geothermal,Top-down high,No
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Top-down high,No
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Top-down high,No
+SSD,2030,GAS,0.0734987619424508,Natural Gas,Top-down high,No
+SSD,2030,GEO,0.0701975356922653,Geothermal,Top-down high,No
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Top-down high,No
+SSD,2030,LFO,0.009945,Light Fuel Oil,Top-down high,No
+SSD,2020,GAS,0.072358733643025,Natural Gas,Top-down high,High
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Top-down high,High
+SSD,2020,LFO,0.1492901582457418,Light Fuel Oil,Top-down high,High
+SSD,2021,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Top-down high,High
+SSD,2021,LFO,0.1482956582457419,Light Fuel Oil,Top-down high,High
+SSD,2022,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Top-down high,High
+SSD,2022,LFO,0.1473011582457419,Light Fuel Oil,Top-down high,High
+SSD,2023,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Top-down high,High
+SSD,2023,LFO,0.1463066582457418,Light Fuel Oil,Top-down high,High
+SSD,2024,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2024,GEO,0.0762196566556747,Geothermal,Top-down high,High
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Top-down high,High
+SSD,2024,LFO,0.1453121582457419,Light Fuel Oil,Top-down high,High
+SSD,2025,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2025,GEO,0.0821104878369758,Geothermal,Top-down high,High
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Top-down high,High
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Top-down high,High
+SSD,2026,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2026,GEO,0.0880469555326292,Geothermal,Top-down high,High
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Top-down high,High
+SSD,2026,LFO,0.013923,Light Fuel Oil,Top-down high,High
+SSD,2027,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2027,GEO,0.0944431831713089,Geothermal,Top-down high,High
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Top-down high,High
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Top-down high,High
+SSD,2028,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2028,GEO,0.0994009301843504,Geothermal,Top-down high,High
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Top-down high,High
+SSD,2028,LFO,0.011934,Light Fuel Oil,Top-down high,High
+SSD,2029,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2029,GEO,0.1043907871710372,Geothermal,Top-down high,High
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Top-down high,High
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Top-down high,High
+SSD,2030,GAS,0.0734987619424508,Natural Gas,Top-down high,High
+SSD,2030,GEO,0.1099611655491483,Geothermal,Top-down high,High
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Top-down high,High
+SSD,2030,LFO,0.009945,Light Fuel Oil,Top-down high,High
+SSD,2020,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Top-down low,No
+SSD,2020,LFO,0.1492901582457418,Light Fuel Oil,Top-down low,No
+SSD,2021,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Top-down low,No
+SSD,2021,LFO,0.1482956582457418,Light Fuel Oil,Top-down low,No
+SSD,2022,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Top-down low,No
+SSD,2022,LFO,0.1473011582457418,Light Fuel Oil,Top-down low,No
+SSD,2023,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Top-down low,No
+SSD,2023,LFO,0.1463066582457418,Light Fuel Oil,Top-down low,No
+SSD,2024,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2024,GEO,0.0159886574842367,Geothermal,Top-down low,No
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Top-down low,No
+SSD,2024,LFO,0.1453121582457418,Light Fuel Oil,Top-down low,No
+SSD,2025,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2025,GEO,0.0234743505119799,Geothermal,Top-down low,No
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Top-down low,No
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Top-down low,No
+SSD,2026,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2026,GEO,0.0301721262168306,Geothermal,Top-down low,No
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Top-down low,No
+SSD,2026,LFO,0.013923,Light Fuel Oil,Top-down low,No
+SSD,2027,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2027,GEO,0.0363881435229268,Geothermal,Top-down low,No
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Top-down low,No
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Top-down low,No
+SSD,2028,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2028,GEO,0.0426629082457233,Geothermal,Top-down low,No
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Top-down low,No
+SSD,2028,LFO,0.011934,Light Fuel Oil,Top-down low,No
+SSD,2029,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2029,GEO,0.0489830227342981,Geothermal,Top-down low,No
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Top-down low,No
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Top-down low,No
+SSD,2030,GAS,0.0702243000779244,Natural Gas,Top-down low,No
+SSD,2030,GEO,0.0561230229512532,Geothermal,Top-down low,No
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Top-down low,No
+SSD,2030,LFO,0.009945,Light Fuel Oil,Top-down low,No
+SSD,2020,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2020,HFO,0.012,Heavy Fuel Oil,Top-down low,High
+SSD,2020,LFO,0.1492901582457421,Light Fuel Oil,Top-down low,High
+SSD,2021,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2021,HFO,0.0114,Heavy Fuel Oil,Top-down low,High
+SSD,2021,LFO,0.1482956582457421,Light Fuel Oil,Top-down low,High
+SSD,2022,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2022,HFO,0.0108,Heavy Fuel Oil,Top-down low,High
+SSD,2022,LFO,0.1473011582457421,Light Fuel Oil,Top-down low,High
+SSD,2023,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2023,HFO,0.0102,Heavy Fuel Oil,Top-down low,High
+SSD,2023,LFO,0.1463066582457421,Light Fuel Oil,Top-down low,High
+SSD,2024,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2024,GEO,0.0700649362629896,Geothermal,Top-down low,High
+SSD,2024,HFO,0.0096,Heavy Fuel Oil,Top-down low,High
+SSD,2024,LFO,0.1453121582457421,Light Fuel Oil,Top-down low,High
+SSD,2025,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2025,GEO,0.0744170873461194,Geothermal,Top-down low,High
+SSD,2025,HFO,0.009,Heavy Fuel Oil,Top-down low,High
+SSD,2025,LFO,0.0149175,Light Fuel Oil,Top-down low,High
+SSD,2026,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2026,GEO,0.0788148749436015,Geothermal,Top-down low,High
+SSD,2026,HFO,0.0084,Heavy Fuel Oil,Top-down low,High
+SSD,2026,LFO,0.013923,Light Fuel Oil,Top-down low,High
+SSD,2027,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2027,GEO,0.0842703646921677,Geothermal,Top-down low,High
+SSD,2027,HFO,0.0078,Heavy Fuel Oil,Top-down low,High
+SSD,2027,LFO,0.0129285,Light Fuel Oil,Top-down low,High
+SSD,2028,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2028,GEO,0.0884425658767041,Geothermal,Top-down low,High
+SSD,2028,HFO,0.0072,Heavy Fuel Oil,Top-down low,High
+SSD,2028,LFO,0.011934,Light Fuel Oil,Top-down low,High
+SSD,2029,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2029,GEO,0.0926468770348858,Geothermal,Top-down low,High
+SSD,2029,HFO,0.0066,Heavy Fuel Oil,Top-down low,High
+SSD,2029,LFO,0.0109395,Light Fuel Oil,Top-down low,High
+SSD,2030,GAS,0.0702243000779244,Natural Gas,Top-down low,High
+SSD,2030,GEO,0.0974317095844917,Geothermal,Top-down low,High
+SSD,2030,HFO,0.006,Heavy Fuel Oil,Top-down low,High
+SSD,2030,LFO,0.009945,Light Fuel Oil,Top-down low,High

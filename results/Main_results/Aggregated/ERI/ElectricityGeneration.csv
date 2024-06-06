@@ -1,0 +1,367 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+ERI,2020.0,HFO,472.4166670446001,Heavy Fuel Oil,Bottom-up,No
+ERI,2020.0,LFO,53.055555598000005,Light Fuel Oil,Bottom-up,No
+ERI,2020.0,SOL,1.7777777792000002,Solar,Bottom-up,No
+ERI,2020.0,WIN,1.1666666676,Wind,Bottom-up,No
+ERI,2021.0,BIO,43.194444479000005,Biomass,Bottom-up,No
+ERI,2021.0,HFO,561.4722226714,Heavy Fuel Oil,Bottom-up,No
+ERI,2021.0,LFO,50.5833333738,Light Fuel Oil,Bottom-up,No
+ERI,2021.0,SOL,1.7777777792000002,Solar,Bottom-up,No
+ERI,2021.0,WIN,1.111111112,Wind,Bottom-up,No
+ERI,2022.0,BIO,103.0277778602,Biomass,Bottom-up,No
+ERI,2022.0,HFO,625.3055560558,Heavy Fuel Oil,Bottom-up,No
+ERI,2022.0,LFO,49.555555595200005,Light Fuel Oil,Bottom-up,No
+ERI,2022.0,SOL,5.8055555602,Solar,Bottom-up,No
+ERI,2022.0,WIN,1.0277777786000002,Wind,Bottom-up,No
+ERI,2023.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2023.0,HFO,672.2777783156,Heavy Fuel Oil,Bottom-up,No
+ERI,2023.0,LFO,44.694444480200005,Light Fuel Oil,Bottom-up,No
+ERI,2023.0,SOL,22.5555555736,Solar,Bottom-up,No
+ERI,2023.0,WIN,0.972222223,Wind,Bottom-up,No
+ERI,2024.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2024.0,GEO,659.8333338612,Geothermal,Bottom-up,No
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Bottom-up,No
+ERI,2024.0,LFO,43.05555559,Light Fuel Oil,Bottom-up,No
+ERI,2024.0,SOL,22.5555555736,Solar,Bottom-up,No
+ERI,2024.0,WIN,0.9166666674,Wind,Bottom-up,No
+ERI,2025.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2025.0,GEO,815.27777843,Geothermal,Bottom-up,No
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Bottom-up,No
+ERI,2025.0,LFO,40.7777778104,Light Fuel Oil,Bottom-up,No
+ERI,2025.0,SOL,22.5555555736,Solar,Bottom-up,No
+ERI,2025.0,WIN,0.8611111118,Wind,Bottom-up,No
+ERI,2026.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2026.0,GEO,970.9166674434,Geothermal,Bottom-up,No
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Bottom-up,No
+ERI,2026.0,LFO,38.2222222528,Light Fuel Oil,Bottom-up,No
+ERI,2026.0,SOL,22.5555555736,Solar,Bottom-up,No
+ERI,2026.0,WIN,0.8055555562,Wind,Bottom-up,No
+ERI,2027.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2027.0,GEO,1037.5833341634,Geothermal,Bottom-up,No
+ERI,2027.0,HFO,131.2222223272,Heavy Fuel Oil,Bottom-up,No
+ERI,2027.0,LFO,35.7222222508,Light Fuel Oil,Bottom-up,No
+ERI,2027.0,SOL,46.5833333706,Solar,Bottom-up,No
+ERI,2027.0,WIN,0.7500000006,Wind,Bottom-up,No
+ERI,2028.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2028.0,GEO,1076.1666675276,Geothermal,Bottom-up,No
+ERI,2028.0,HFO,141.00000011280002,Heavy Fuel Oil,Bottom-up,No
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Bottom-up,No
+ERI,2028.0,SOL,96.8611111886,Solar,Bottom-up,No
+ERI,2028.0,WIN,0.694444445,Wind,Bottom-up,No
+ERI,2029.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2029.0,GEO,1151.0000009208002,Geothermal,Bottom-up,No
+ERI,2029.0,HFO,142.22222233600002,Heavy Fuel Oil,Bottom-up,No
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Bottom-up,No
+ERI,2029.0,SOL,121.4166667638,Solar,Bottom-up,No
+ERI,2029.0,WIN,0.6388888894,Wind,Bottom-up,No
+ERI,2030.0,BIO,167.05555568920002,Biomass,Bottom-up,No
+ERI,2030.0,GEO,1218.3611120858,Geothermal,Bottom-up,No
+ERI,2030.0,HFO,121.3055556526,Heavy Fuel Oil,Bottom-up,No
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Bottom-up,No
+ERI,2030.0,SOL,173.9166668058,Solar,Bottom-up,No
+ERI,2030.0,WIN,0.5833333338,Wind,Bottom-up,No
+ERI,2020.0,HFO,456.3611114762001,Heavy Fuel Oil,Bottom-up,High
+ERI,2020.0,LFO,53.0277778202,Light Fuel Oil,Bottom-up,High
+ERI,2020.0,SOL,14.7500000118,Solar,Bottom-up,High
+ERI,2020.0,WIN,1.1666666676,Wind,Bottom-up,High
+ERI,2021.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2021.0,HFO,432.5277781238,Heavy Fuel Oil,Bottom-up,High
+ERI,2021.0,LFO,50.4722222626,Light Fuel Oil,Bottom-up,High
+ERI,2021.0,SOL,23.444444463200004,Solar,Bottom-up,High
+ERI,2021.0,WIN,1.111111112,Wind,Bottom-up,High
+ERI,2022.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2022.0,HFO,551.7777782192001,Heavy Fuel Oil,Bottom-up,High
+ERI,2022.0,LFO,48.055555594,Light Fuel Oil,Bottom-up,High
+ERI,2022.0,SOL,32.4444444704,Solar,Bottom-up,High
+ERI,2022.0,WIN,1.0277777786000002,Wind,Bottom-up,High
+ERI,2023.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2023.0,HFO,667.916667201,Heavy Fuel Oil,Bottom-up,High
+ERI,2023.0,LFO,45.16666670280001,Light Fuel Oil,Bottom-up,High
+ERI,2023.0,SOL,43.0833333678,Solar,Bottom-up,High
+ERI,2023.0,WIN,0.972222223,Wind,Bottom-up,High
+ERI,2024.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2024.0,GEO,656.5277783030001,Geothermal,Bottom-up,High
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Bottom-up,High
+ERI,2024.0,LFO,42.7222222564,Light Fuel Oil,Bottom-up,High
+ERI,2024.0,SOL,43.0833333678,Solar,Bottom-up,High
+ERI,2024.0,WIN,0.9166666674,Wind,Bottom-up,High
+ERI,2025.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2025.0,GEO,812.0555562052,Geothermal,Bottom-up,High
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Bottom-up,High
+ERI,2025.0,LFO,40.3888889212,Light Fuel Oil,Bottom-up,High
+ERI,2025.0,SOL,43.0833333678,Solar,Bottom-up,High
+ERI,2025.0,WIN,0.8611111118,Wind,Bottom-up,High
+ERI,2026.0,BIO,145.50000011640003,Biomass,Bottom-up,High
+ERI,2026.0,GEO,947.5555563136,Geothermal,Bottom-up,High
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Bottom-up,High
+ERI,2026.0,LFO,38.2222222528,Light Fuel Oil,Bottom-up,High
+ERI,2026.0,SOL,59.1111111584,Solar,Bottom-up,High
+ERI,2026.0,WIN,0.8055555562,Wind,Bottom-up,High
+ERI,2027.0,BIO,135.9444445532,Biomass,Bottom-up,High
+ERI,2027.0,GEO,1041.8333341668,Geothermal,Bottom-up,High
+ERI,2027.0,HFO,112.638888979,Heavy Fuel Oil,Bottom-up,High
+ERI,2027.0,LFO,36.1944444734,Light Fuel Oil,Bottom-up,High
+ERI,2027.0,SOL,83.2222222888,Solar,Bottom-up,High
+ERI,2027.0,WIN,0.7500000006,Wind,Bottom-up,High
+ERI,2028.0,BIO,120.3055556518,Biomass,Bottom-up,High
+ERI,2028.0,GEO,1117.8055564498,Geothermal,Bottom-up,High
+ERI,2028.0,HFO,103.9722223054,Heavy Fuel Oil,Bottom-up,High
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Bottom-up,High
+ERI,2028.0,SOL,131.30555566060002,Solar,Bottom-up,High
+ERI,2028.0,WIN,0.694444445,Wind,Bottom-up,High
+ERI,2029.0,BIO,92.4722222962,Biomass,Bottom-up,High
+ERI,2029.0,GEO,1230.3333343176,Geothermal,Bottom-up,High
+ERI,2029.0,HFO,95.3055556318,Heavy Fuel Oil,Bottom-up,High
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Bottom-up,High
+ERI,2029.0,SOL,155.88888901360002,Solar,Bottom-up,High
+ERI,2029.0,WIN,0.6388888894,Wind,Bottom-up,High
+ERI,2030.0,BIO,75.5277778382,Biomass,Bottom-up,High
+ERI,2030.0,GEO,1331.5833343986,Geothermal,Bottom-up,High
+ERI,2030.0,HFO,86.63888895820001,Heavy Fuel Oil,Bottom-up,High
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Bottom-up,High
+ERI,2030.0,SOL,184.5555557032,Solar,Bottom-up,High
+ERI,2030.0,WIN,0.5833333338,Wind,Bottom-up,High
+ERI,2020.0,HFO,472.4166670446001,Heavy Fuel Oil,Top-down high,No
+ERI,2020.0,LFO,53.055555598000005,Light Fuel Oil,Top-down high,No
+ERI,2020.0,SOL,1.7777777792000002,Solar,Top-down high,No
+ERI,2020.0,WIN,1.1666666676,Wind,Top-down high,No
+ERI,2021.0,BIO,41.111111144,Biomass,Top-down high,No
+ERI,2021.0,HFO,533.5000004268,Heavy Fuel Oil,Top-down high,No
+ERI,2021.0,LFO,50.5833333738,Light Fuel Oil,Top-down high,No
+ERI,2021.0,SOL,1.7777777792000002,Solar,Top-down high,No
+ERI,2021.0,WIN,1.111111112,Wind,Top-down high,No
+ERI,2022.0,BIO,98.8055556346,Biomass,Top-down high,No
+ERI,2022.0,HFO,575.0833337934,Heavy Fuel Oil,Top-down high,No
+ERI,2022.0,LFO,49.0833333726,Light Fuel Oil,Top-down high,No
+ERI,2022.0,SOL,1.7777777792000002,Solar,Top-down high,No
+ERI,2022.0,WIN,1.0277777786000002,Wind,Top-down high,No
+ERI,2023.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2023.0,HFO,602.361111593,Heavy Fuel Oil,Top-down high,No
+ERI,2023.0,LFO,44.5277778134,Light Fuel Oil,Top-down high,No
+ERI,2023.0,SOL,17.944444458800003,Solar,Top-down high,No
+ERI,2023.0,WIN,0.972222223,Wind,Top-down high,No
+ERI,2024.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2024.0,GEO,560.2222226704,Geothermal,Top-down high,No
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Top-down high,No
+ERI,2024.0,LFO,42.88888892320001,Light Fuel Oil,Top-down high,No
+ERI,2024.0,SOL,17.944444458800003,Solar,Top-down high,No
+ERI,2024.0,WIN,0.9166666674,Wind,Top-down high,No
+ERI,2025.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2025.0,GEO,686.250000549,Geothermal,Top-down high,No
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Top-down high,No
+ERI,2025.0,LFO,40.4722222546,Light Fuel Oil,Top-down high,No
+ERI,2025.0,SOL,17.944444458800003,Solar,Top-down high,No
+ERI,2025.0,WIN,0.8611111118,Wind,Top-down high,No
+ERI,2026.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2026.0,GEO,812.3888895388,Geothermal,Top-down high,No
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Top-down high,No
+ERI,2026.0,LFO,37.9722222526,Light Fuel Oil,Top-down high,No
+ERI,2026.0,SOL,17.944444458800003,Solar,Top-down high,No
+ERI,2026.0,WIN,0.8055555562,Wind,Top-down high,No
+ERI,2027.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2027.0,GEO,896.805556273,Geothermal,Top-down high,No
+ERI,2027.0,HFO,112.638888979,Heavy Fuel Oil,Top-down high,No
+ERI,2027.0,LFO,35.472222250600005,Light Fuel Oil,Top-down high,No
+ERI,2027.0,SOL,26.805555577000003,Solar,Top-down high,No
+ERI,2027.0,WIN,0.7500000006,Wind,Top-down high,No
+ERI,2028.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2028.0,GEO,924.1111118504,Geothermal,Top-down high,No
+ERI,2028.0,HFO,116.388888982,Heavy Fuel Oil,Top-down high,No
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Top-down high,No
+ERI,2028.0,SOL,75.1111111712,Solar,Top-down high,No
+ERI,2028.0,WIN,0.694444445,Wind,Top-down high,No
+ERI,2029.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2029.0,GEO,976.0833341142,Geothermal,Top-down high,No
+ERI,2029.0,HFO,121.19444454140002,Heavy Fuel Oil,Top-down high,No
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Top-down high,No
+ERI,2029.0,SOL,99.6111111908,Solar,Top-down high,No
+ERI,2029.0,WIN,0.6388888894,Wind,Top-down high,No
+ERI,2030.0,BIO,153.0277779002,Biomass,Top-down high,No
+ERI,2030.0,GEO,1035.555556384,Geothermal,Top-down high,No
+ERI,2030.0,HFO,101.527777859,Heavy Fuel Oil,Top-down high,No
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Top-down high,No
+ERI,2030.0,SOL,141.7777778912,Solar,Top-down high,No
+ERI,2030.0,WIN,0.5833333338,Wind,Top-down high,No
+ERI,2020.0,HFO,456.3611114762001,Heavy Fuel Oil,Top-down high,High
+ERI,2020.0,LFO,53.0277778202,Light Fuel Oil,Top-down high,High
+ERI,2020.0,SOL,14.7500000118,Solar,Top-down high,High
+ERI,2020.0,WIN,1.1666666676,Wind,Top-down high,High
+ERI,2021.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2021.0,HFO,418.6388892238001,Heavy Fuel Oil,Top-down high,High
+ERI,2021.0,LFO,50.4722222626,Light Fuel Oil,Top-down high,High
+ERI,2021.0,SOL,23.444444463200004,Solar,Top-down high,High
+ERI,2021.0,WIN,1.111111112,Wind,Top-down high,High
+ERI,2022.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2022.0,HFO,507.9722226286,Heavy Fuel Oil,Top-down high,High
+ERI,2022.0,LFO,48.055555594,Light Fuel Oil,Top-down high,High
+ERI,2022.0,SOL,32.4444444704,Solar,Top-down high,High
+ERI,2022.0,WIN,1.0277777786000002,Wind,Top-down high,High
+ERI,2023.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2023.0,HFO,596.805556033,Heavy Fuel Oil,Top-down high,High
+ERI,2023.0,LFO,45.7222222588,Light Fuel Oil,Top-down high,High
+ERI,2023.0,SOL,40.5000000324,Solar,Top-down high,High
+ERI,2023.0,WIN,0.972222223,Wind,Top-down high,High
+ERI,2024.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2024.0,GEO,556.3055560006,Geothermal,Top-down high,High
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Top-down high,High
+ERI,2024.0,LFO,42.80555558980001,Light Fuel Oil,Top-down high,High
+ERI,2024.0,SOL,40.5000000324,Solar,Top-down high,High
+ERI,2024.0,WIN,0.9166666674,Wind,Top-down high,High
+ERI,2025.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2025.0,GEO,682.3055561014,Geothermal,Top-down high,High
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Top-down high,High
+ERI,2025.0,LFO,40.4444444768,Light Fuel Oil,Top-down high,High
+ERI,2025.0,SOL,40.5000000324,Solar,Top-down high,High
+ERI,2025.0,WIN,0.8611111118,Wind,Top-down high,High
+ERI,2026.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2026.0,GEO,808.472222869,Geothermal,Top-down high,High
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Top-down high,High
+ERI,2026.0,LFO,37.9444444748,Light Fuel Oil,Top-down high,High
+ERI,2026.0,SOL,40.5000000324,Solar,Top-down high,High
+ERI,2026.0,WIN,0.8055555562,Wind,Top-down high,High
+ERI,2027.0,BIO,129.30555565900002,Biomass,Top-down high,High
+ERI,2027.0,GEO,874.0000006992,Geothermal,Top-down high,High
+ERI,2027.0,HFO,112.638888979,Heavy Fuel Oil,Top-down high,High
+ERI,2027.0,LFO,35.66666669520001,Light Fuel Oil,Top-down high,High
+ERI,2027.0,SOL,64.583333385,Solar,Top-down high,High
+ERI,2027.0,WIN,0.7500000006,Wind,Top-down high,High
+ERI,2028.0,BIO,124.0555556548,Biomass,Top-down high,High
+ERI,2028.0,GEO,919.6111118468,Geothermal,Top-down high,High
+ERI,2028.0,HFO,103.9722223054,Heavy Fuel Oil,Top-down high,High
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Top-down high,High
+ERI,2028.0,SOL,112.638888979,Solar,Top-down high,High
+ERI,2028.0,WIN,0.694444445,Wind,Top-down high,High
+ERI,2029.0,BIO,110.138888977,Biomass,Top-down high,High
+ERI,2029.0,GEO,998.9444452436,Geothermal,Top-down high,High
+ERI,2029.0,HFO,95.3055556318,Heavy Fuel Oil,Top-down high,High
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Top-down high,High
+ERI,2029.0,SOL,137.1944445542,Solar,Top-down high,High
+ERI,2029.0,WIN,0.6388888894,Wind,Top-down high,High
+ERI,2030.0,BIO,90.7222222948,Biomass,Top-down high,High
+ERI,2030.0,GEO,1079.1388897522002,Geothermal,Top-down high,High
+ERI,2030.0,HFO,86.63888895820001,Heavy Fuel Oil,Top-down high,High
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Top-down high,High
+ERI,2030.0,SOL,169.33333346880002,Solar,Top-down high,High
+ERI,2030.0,WIN,0.5833333338,Wind,Top-down high,High
+ERI,2020.0,HFO,472.4166670446001,Heavy Fuel Oil,Top-down low,No
+ERI,2020.0,LFO,53.055555598000005,Light Fuel Oil,Top-down low,No
+ERI,2020.0,SOL,1.7777777792000002,Solar,Top-down low,No
+ERI,2020.0,WIN,1.1666666676,Wind,Top-down low,No
+ERI,2021.0,BIO,36.2777778068,Biomass,Top-down low,No
+ERI,2021.0,HFO,469.3611114866,Heavy Fuel Oil,Top-down low,No
+ERI,2021.0,LFO,50.5000000404,Light Fuel Oil,Top-down low,No
+ERI,2021.0,SOL,1.7777777792000002,Solar,Top-down low,No
+ERI,2021.0,WIN,1.111111112,Wind,Top-down low,No
+ERI,2022.0,BIO,79.52777784140001,Biomass,Top-down low,No
+ERI,2022.0,HFO,457.8611114774001,Heavy Fuel Oil,Top-down low,No
+ERI,2022.0,LFO,47.9722222606,Light Fuel Oil,Top-down low,No
+ERI,2022.0,SOL,1.7777777792000002,Solar,Top-down low,No
+ERI,2022.0,WIN,1.0277777786000002,Wind,Top-down low,No
+ERI,2023.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2023.0,HFO,440.0833336854,Heavy Fuel Oil,Top-down low,No
+ERI,2023.0,LFO,45.138888925,Light Fuel Oil,Top-down low,No
+ERI,2023.0,SOL,9.7777777856,Solar,Top-down low,No
+ERI,2023.0,WIN,0.972222223,Wind,Top-down low,No
+ERI,2024.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2024.0,GEO,330.8611113758,Geothermal,Top-down low,No
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Top-down low,No
+ERI,2024.0,LFO,42.611111145200006,Light Fuel Oil,Top-down low,No
+ERI,2024.0,SOL,9.7777777856,Solar,Top-down low,No
+ERI,2024.0,WIN,0.9166666674,Wind,Top-down low,No
+ERI,2025.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2025.0,GEO,389.0833336446,Geothermal,Top-down low,No
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Top-down low,No
+ERI,2025.0,LFO,40.0833333654,Light Fuel Oil,Top-down low,No
+ERI,2025.0,SOL,9.7777777856,Solar,Top-down low,No
+ERI,2025.0,WIN,0.8611111118,Wind,Top-down low,No
+ERI,2026.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2026.0,GEO,447.5555559136,Geothermal,Top-down low,No
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Top-down low,No
+ERI,2026.0,LFO,37.5833333634,Light Fuel Oil,Top-down low,No
+ERI,2026.0,SOL,9.7777777856,Solar,Top-down low,No
+ERI,2026.0,WIN,0.8055555562,Wind,Top-down low,No
+ERI,2027.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2027.0,GEO,484.83333372120006,Geothermal,Top-down low,No
+ERI,2027.0,HFO,112.638888979,Heavy Fuel Oil,Top-down low,No
+ERI,2027.0,LFO,35.0833333614,Light Fuel Oil,Top-down low,No
+ERI,2027.0,SOL,22.944444462800003,Solar,Top-down low,No
+ERI,2027.0,WIN,0.7500000006,Wind,Top-down low,No
+ERI,2028.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2028.0,GEO,486.52777816700006,Geothermal,Top-down low,No
+ERI,2028.0,HFO,103.9722223054,Heavy Fuel Oil,Top-down low,No
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Top-down low,No
+ERI,2028.0,SOL,67.8888889432,Solar,Top-down low,No
+ERI,2028.0,WIN,0.694444445,Wind,Top-down low,No
+ERI,2029.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2029.0,GEO,508.6944448514,Geothermal,Top-down low,No
+ERI,2029.0,HFO,96.666666744,Heavy Fuel Oil,Top-down low,No
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Top-down low,No
+ERI,2029.0,SOL,92.6944445186,Solar,Top-down low,No
+ERI,2029.0,WIN,0.6388888894,Wind,Top-down low,No
+ERI,2030.0,BIO,118.2222223168,Biomass,Top-down low,No
+ERI,2030.0,GEO,508.6944448514,Geothermal,Top-down low,No
+ERI,2030.0,HFO,86.63888895820001,Heavy Fuel Oil,Top-down low,No
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Top-down low,No
+ERI,2030.0,SOL,141.83333344680003,Solar,Top-down low,No
+ERI,2030.0,WIN,0.5833333338,Wind,Top-down low,No
+ERI,2020.0,HFO,459.9166670346,Heavy Fuel Oil,Top-down low,High
+ERI,2020.0,LFO,53.0277778202,Light Fuel Oil,Top-down low,High
+ERI,2020.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2020.0,WIN,1.1666666676,Wind,Top-down low,High
+ERI,2021.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2021.0,HFO,377.1666669684,Heavy Fuel Oil,Top-down low,High
+ERI,2021.0,LFO,50.4444444848,Light Fuel Oil,Top-down low,High
+ERI,2021.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2021.0,WIN,1.111111112,Wind,Top-down low,High
+ERI,2022.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2022.0,HFO,408.9722225494,Heavy Fuel Oil,Top-down low,High
+ERI,2022.0,LFO,47.8888889272,Light Fuel Oil,Top-down low,High
+ERI,2022.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2022.0,WIN,1.0277777786000002,Wind,Top-down low,High
+ERI,2023.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2023.0,HFO,439.444444796,Heavy Fuel Oil,Top-down low,High
+ERI,2023.0,LFO,45.3611111474,Light Fuel Oil,Top-down low,High
+ERI,2023.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2023.0,WIN,0.972222223,Wind,Top-down low,High
+ERI,2024.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2024.0,GEO,330.3888891532,Geothermal,Top-down low,High
+ERI,2024.0,HFO,138.6388889998,Heavy Fuel Oil,Top-down low,High
+ERI,2024.0,LFO,42.66666670080001,Light Fuel Oil,Top-down low,High
+ERI,2024.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2024.0,WIN,0.9166666674,Wind,Top-down low,High
+ERI,2025.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2025.0,GEO,388.5277780886,Geothermal,Top-down low,High
+ERI,2025.0,HFO,129.9722223262,Heavy Fuel Oil,Top-down low,High
+ERI,2025.0,LFO,40.2222222544,Light Fuel Oil,Top-down low,High
+ERI,2025.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2025.0,WIN,0.8611111118,Wind,Top-down low,High
+ERI,2026.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2026.0,GEO,447.0000003576,Geothermal,Top-down low,High
+ERI,2026.0,HFO,121.3055556526,Heavy Fuel Oil,Top-down low,High
+ERI,2026.0,LFO,37.7222222524,Light Fuel Oil,Top-down low,High
+ERI,2026.0,SOL,11.8888888984,Solar,Top-down low,High
+ERI,2026.0,WIN,0.8055555562,Wind,Top-down low,High
+ERI,2027.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2027.0,GEO,483.9166670538,Geothermal,Top-down low,High
+ERI,2027.0,HFO,112.638888979,Heavy Fuel Oil,Top-down low,High
+ERI,2027.0,LFO,35.2222222504,Light Fuel Oil,Top-down low,High
+ERI,2027.0,SOL,25.3333333536,Solar,Top-down low,High
+ERI,2027.0,WIN,0.7500000006,Wind,Top-down low,High
+ERI,2028.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2028.0,GEO,484.30555594300006,Geothermal,Top-down low,High
+ERI,2028.0,HFO,103.9722223054,Heavy Fuel Oil,Top-down low,High
+ERI,2028.0,LFO,30.0833333574,Light Fuel Oil,Top-down low,High
+ERI,2028.0,SOL,71.52777783500001,Solar,Top-down low,High
+ERI,2028.0,WIN,0.694444445,Wind,Top-down low,High
+ERI,2029.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2029.0,GEO,508.2222226288,Geothermal,Top-down low,High
+ERI,2029.0,HFO,95.3055556318,Heavy Fuel Oil,Top-down low,High
+ERI,2029.0,LFO,27.5833333554,Light Fuel Oil,Top-down low,High
+ERI,2029.0,SOL,96.0000000768,Solar,Top-down low,High
+ERI,2029.0,WIN,0.6388888894,Wind,Top-down low,High
+ERI,2030.0,BIO,116.0000000928,Biomass,Top-down low,High
+ERI,2030.0,GEO,508.2222226288,Geothermal,Top-down low,High
+ERI,2030.0,HFO,86.63888895820001,Heavy Fuel Oil,Top-down low,High
+ERI,2030.0,LFO,25.055555575600003,Light Fuel Oil,Top-down low,High
+ERI,2030.0,SOL,144.0555556708,Solar,Top-down low,High
+ERI,2030.0,WIN,0.5833333338,Wind,Top-down low,High

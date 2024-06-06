@@ -1,0 +1,260 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Bottom-up,No
+DJI,2020.0,Imports (ETH),401.41666698780006,Imports (ETH),Bottom-up,No
+DJI,2020.0,LFO,107.2500000858,Light Fuel Oil,Bottom-up,No
+DJI,2021.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2021.0,HFO,119.6944445402,Heavy Fuel Oil,Bottom-up,No
+DJI,2021.0,Imports (ETH),244.0555557508,Imports (ETH),Bottom-up,No
+DJI,2021.0,LFO,102.1388889706,Light Fuel Oil,Bottom-up,No
+DJI,2022.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2022.0,HFO,113.3888889796,Heavy Fuel Oil,Bottom-up,No
+DJI,2022.0,Imports (ETH),301.3055557966,Imports (ETH),Bottom-up,No
+DJI,2022.0,LFO,96.944444522,Light Fuel Oil,Bottom-up,No
+DJI,2023.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2023.0,HFO,107.083333419,Heavy Fuel Oil,Bottom-up,No
+DJI,2023.0,Imports (ETH),360.694444733,Imports (ETH),Bottom-up,No
+DJI,2023.0,LFO,91.75000007340002,Light Fuel Oil,Bottom-up,No
+DJI,2024.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Bottom-up,No
+DJI,2024.0,Imports (ETH),418.888889224,Imports (ETH),Bottom-up,No
+DJI,2024.0,LFO,86.58333340260002,Light Fuel Oil,Bottom-up,No
+DJI,2025.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2025.0,HFO,94.5000000756,Heavy Fuel Oil,Bottom-up,No
+DJI,2025.0,Imports (ETH),501.5000004012,Imports (ETH),Bottom-up,No
+DJI,2025.0,LFO,81.38888895400001,Light Fuel Oil,Bottom-up,No
+DJI,2026.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2026.0,HFO,88.194444515,Heavy Fuel Oil,Bottom-up,No
+DJI,2026.0,Imports (ETH),584.4722226898,Imports (ETH),Bottom-up,No
+DJI,2026.0,LFO,76.1944445054,Light Fuel Oil,Bottom-up,No
+DJI,2027.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2027.0,HFO,81.8888889544,Heavy Fuel Oil,Bottom-up,No
+DJI,2027.0,Imports (ETH),640.5000005124,Imports (ETH),Bottom-up,No
+DJI,2027.0,LFO,67.8611111654,Light Fuel Oil,Bottom-up,No
+DJI,2028.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2028.0,HFO,75.5833333938,Heavy Fuel Oil,Bottom-up,No
+DJI,2028.0,Imports (ETH),693.2777783324001,Imports (ETH),Bottom-up,No
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Bottom-up,No
+DJI,2029.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2029.0,HFO,69.305555611,Heavy Fuel Oil,Bottom-up,No
+DJI,2029.0,Imports (ETH),745.8611117078,Imports (ETH),Bottom-up,No
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Bottom-up,No
+DJI,2030.0,GEO,223.3888890676,Geothermal,Bottom-up,No
+DJI,2030.0,HFO,131.2222223272,Heavy Fuel Oil,Bottom-up,No
+DJI,2030.0,Imports (ETH),735.9166672554001,Imports (ETH),Bottom-up,No
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Bottom-up,No
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Bottom-up,High
+DJI,2020.0,Imports (ETH),401.41666698780006,Imports (ETH),Bottom-up,High
+DJI,2020.0,LFO,107.2500000858,Light Fuel Oil,Bottom-up,High
+DJI,2021.0,GEO,223.3888890676,Geothermal,Bottom-up,High
+DJI,2021.0,HFO,119.6944445402,Heavy Fuel Oil,Bottom-up,High
+DJI,2021.0,Imports (ETH),244.0555557508,Imports (ETH),Bottom-up,High
+DJI,2021.0,LFO,102.0555556372,Light Fuel Oil,Bottom-up,High
+DJI,2022.0,GEO,223.3888890676,Geothermal,Bottom-up,High
+DJI,2022.0,HFO,113.3888889796,Heavy Fuel Oil,Bottom-up,High
+DJI,2022.0,Imports (ETH),301.4166669078,Imports (ETH),Bottom-up,High
+DJI,2022.0,LFO,96.8611111886,Light Fuel Oil,Bottom-up,High
+DJI,2023.0,GEO,83.7777778448,Geothermal,Bottom-up,High
+DJI,2023.0,HFO,107.083333419,Heavy Fuel Oil,Bottom-up,High
+DJI,2023.0,Imports (ETH),500.4166670670001,Imports (ETH),Bottom-up,High
+DJI,2023.0,LFO,91.66666674,Light Fuel Oil,Bottom-up,High
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Bottom-up,High
+DJI,2024.0,Imports (ETH),642.3888894028,Imports (ETH),Bottom-up,High
+DJI,2024.0,LFO,86.50000006920001,Light Fuel Oil,Bottom-up,High
+DJI,2025.0,HFO,94.5000000756,Heavy Fuel Oil,Bottom-up,High
+DJI,2025.0,Imports (ETH),725.00000058,Imports (ETH),Bottom-up,High
+DJI,2025.0,LFO,81.3055556206,Light Fuel Oil,Bottom-up,High
+DJI,2026.0,GEO,83.7777778448,Geothermal,Bottom-up,High
+DJI,2026.0,HFO,88.194444515,Heavy Fuel Oil,Bottom-up,High
+DJI,2026.0,Imports (ETH),724.1944450238,Imports (ETH),Bottom-up,High
+DJI,2026.0,LFO,76.111111172,Light Fuel Oil,Bottom-up,High
+DJI,2027.0,GEO,83.7777778448,Geothermal,Bottom-up,High
+DJI,2027.0,HFO,81.8888889544,Heavy Fuel Oil,Bottom-up,High
+DJI,2027.0,Imports (ETH),780.2222228464001,Imports (ETH),Bottom-up,High
+DJI,2027.0,LFO,67.77777783200001,Light Fuel Oil,Bottom-up,High
+DJI,2028.0,GEO,83.7777778448,Geothermal,Bottom-up,High
+DJI,2028.0,HFO,75.5833333938,Heavy Fuel Oil,Bottom-up,High
+DJI,2028.0,Imports (ETH),832.8888895552001,Imports (ETH),Bottom-up,High
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Bottom-up,High
+DJI,2029.0,GEO,83.7777778448,Geothermal,Bottom-up,High
+DJI,2029.0,HFO,69.305555611,Heavy Fuel Oil,Bottom-up,High
+DJI,2029.0,Imports (ETH),885.4722229306001,Imports (ETH),Bottom-up,High
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Bottom-up,High
+DJI,2030.0,GEO,223.3888890676,Geothermal,Bottom-up,High
+DJI,2030.0,HFO,63.0000000504,Heavy Fuel Oil,Bottom-up,High
+DJI,2030.0,Imports (ETH),750.6666672672,Imports (ETH),Bottom-up,High
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Bottom-up,High
+DJI,2030.0,SOL,42.250000033800006,Solar,Bottom-up,High
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Top-down high,No
+DJI,2020.0,Imports (ETH),401.41666698780006,Imports (ETH),Top-down high,No
+DJI,2020.0,LFO,107.2500000858,Light Fuel Oil,Top-down high,No
+DJI,2021.0,GEO,223.3888890676,Geothermal,Top-down high,No
+DJI,2021.0,HFO,128.5555556584,Heavy Fuel Oil,Top-down high,No
+DJI,2021.0,Imports (ETH),261.1666668756,Imports (ETH),Top-down high,No
+DJI,2021.0,LFO,102.9444445268,Light Fuel Oil,Top-down high,No
+DJI,2022.0,GEO,223.3888890676,Geothermal,Top-down high,No
+DJI,2022.0,HFO,236.2222224112,Heavy Fuel Oil,Top-down high,No
+DJI,2022.0,Imports (ETH),305.833333578,Imports (ETH),Top-down high,No
+DJI,2022.0,LFO,97.6666667448,Light Fuel Oil,Top-down high,No
+DJI,2023.0,GEO,223.3888890676,Geothermal,Top-down high,No
+DJI,2023.0,HFO,223.1111112896,Heavy Fuel Oil,Top-down high,No
+DJI,2023.0,Imports (ETH),349.6944447242,Imports (ETH),Top-down high,No
+DJI,2023.0,LFO,92.41666674060002,Light Fuel Oil,Top-down high,No
+DJI,2024.0,GEO,83.7777778448,Geothermal,Top-down high,No
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Top-down high,No
+DJI,2024.0,Imports (ETH),680.6388894334,Imports (ETH),Top-down high,No
+DJI,2024.0,LFO,86.80555562500001,Light Fuel Oil,Top-down high,No
+DJI,2025.0,GEO,83.7777778448,Geothermal,Top-down high,No
+DJI,2025.0,HFO,196.8611112686,Heavy Fuel Oil,Top-down high,No
+DJI,2025.0,Imports (ETH),691.2500005530001,Imports (ETH),Top-down high,No
+DJI,2025.0,LFO,81.80555562100001,Light Fuel Oil,Top-down high,No
+DJI,2026.0,GEO,434.7500003478,Geothermal,Top-down high,No
+DJI,2026.0,HFO,183.7222223692,Heavy Fuel Oil,Top-down high,No
+DJI,2026.0,Imports (ETH),460.6666670352,Imports (ETH),Top-down high,No
+DJI,2026.0,LFO,76.6111111724,Light Fuel Oil,Top-down high,No
+DJI,2027.0,GEO,849.0833340126001,Geothermal,Top-down high,No
+DJI,2027.0,HFO,170.6111112476,Heavy Fuel Oil,Top-down high,No
+DJI,2027.0,Imports (ETH),140.50000011240002,Imports (ETH),Top-down high,No
+DJI,2027.0,LFO,68.25000005460001,Light Fuel Oil,Top-down high,No
+DJI,2028.0,GEO,862.6111118012,Geothermal,Top-down high,No
+DJI,2028.0,HFO,157.4722223482,Heavy Fuel Oil,Top-down high,No
+DJI,2028.0,Imports (ETH),163.5277779086,Imports (ETH),Top-down high,No
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down high,No
+DJI,2029.0,GEO,1029.16666749,Geothermal,Top-down high,No
+DJI,2029.0,HFO,144.36111122660003,Heavy Fuel Oil,Top-down high,No
+DJI,2029.0,Imports (ETH),78.08333339580001,Imports (ETH),Top-down high,No
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down high,No
+DJI,2030.0,GEO,1165.4722231546002,Geothermal,Top-down high,No
+DJI,2030.0,HFO,131.2222223272,Heavy Fuel Oil,Top-down high,No
+DJI,2030.0,Imports (ETH),11.805555565,Imports (ETH),Top-down high,No
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down high,No
+DJI,2030.0,SOL,42.250000033800006,Solar,Top-down high,No
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Top-down high,High
+DJI,2020.0,Imports (ETH),401.41666698780006,Imports (ETH),Top-down high,High
+DJI,2020.0,LFO,107.2500000858,Light Fuel Oil,Top-down high,High
+DJI,2021.0,GEO,223.3888890676,Geothermal,Top-down high,High
+DJI,2021.0,HFO,119.6944445402,Heavy Fuel Oil,Top-down high,High
+DJI,2021.0,Imports (ETH),270.66666688320004,Imports (ETH),Top-down high,High
+DJI,2021.0,LFO,102.4444445264,Light Fuel Oil,Top-down high,High
+DJI,2022.0,GEO,223.3888890676,Geothermal,Top-down high,High
+DJI,2022.0,HFO,113.3888889796,Heavy Fuel Oil,Top-down high,High
+DJI,2022.0,Imports (ETH),362.2500002898,Imports (ETH),Top-down high,High
+DJI,2022.0,LFO,97.1666667444,Light Fuel Oil,Top-down high,High
+DJI,2023.0,GEO,223.3888890676,Geothermal,Top-down high,High
+DJI,2023.0,HFO,107.083333419,Heavy Fuel Oil,Top-down high,High
+DJI,2023.0,Imports (ETH),452.33333369520005,Imports (ETH),Top-down high,High
+DJI,2023.0,LFO,91.88888896240002,Light Fuel Oil,Top-down high,High
+DJI,2024.0,GEO,83.7777778448,Geothermal,Top-down high,High
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Top-down high,High
+DJI,2024.0,Imports (ETH),680.7222227668001,Imports (ETH),Top-down high,High
+DJI,2024.0,LFO,86.72222229160002,Light Fuel Oil,Top-down high,High
+DJI,2025.0,GEO,223.3888890676,Geothermal,Top-down high,High
+DJI,2025.0,HFO,94.5000000756,Heavy Fuel Oil,Top-down high,High
+DJI,2025.0,Imports (ETH),654.3333338568,Imports (ETH),Top-down high,High
+DJI,2025.0,LFO,81.52777784300001,Light Fuel Oil,Top-down high,High
+DJI,2026.0,GEO,756.3611117162001,Geothermal,Top-down high,High
+DJI,2026.0,HFO,88.194444515,Heavy Fuel Oil,Top-down high,High
+DJI,2026.0,Imports (ETH),234.9444446324,Imports (ETH),Top-down high,High
+DJI,2026.0,LFO,76.3333333944,Light Fuel Oil,Top-down high,High
+DJI,2027.0,GEO,997.1388896866,Geothermal,Top-down high,High
+DJI,2027.0,HFO,81.8888889544,Heavy Fuel Oil,Top-down high,High
+DJI,2027.0,Imports (ETH),54.2500000434,Imports (ETH),Top-down high,High
+DJI,2027.0,LFO,68.0000000544,Light Fuel Oil,Top-down high,High
+DJI,2028.0,GEO,997.1388896866,Geothermal,Top-down high,High
+DJI,2028.0,HFO,75.5833333938,Heavy Fuel Oil,Top-down high,High
+DJI,2028.0,Imports (ETH),61.2777778268,Imports (ETH),Top-down high,High
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down high,High
+DJI,2028.0,SOL,41.1944444774,Solar,Top-down high,High
+DJI,2029.0,GEO,997.1388896866,Geothermal,Top-down high,High
+DJI,2029.0,HFO,69.305555611,Heavy Fuel Oil,Top-down high,High
+DJI,2029.0,Imports (ETH),73.00000005839999,Imports (ETH),Top-down high,High
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down high,High
+DJI,2029.0,SOL,77.7222222844,Solar,Top-down high,High
+DJI,2030.0,GEO,997.1388896866,Geothermal,Top-down high,High
+DJI,2030.0,HFO,63.0000000504,Heavy Fuel Oil,Top-down high,High
+DJI,2030.0,Imports (ETH),105.3611111954,Imports (ETH),Top-down high,High
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down high,High
+DJI,2030.0,SOL,120.0833334294,Solar,Top-down high,High
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Top-down low,No
+DJI,2020.0,Imports (ETH),401.41666698780006,Imports (ETH),Top-down low,No
+DJI,2020.0,LFO,107.2500000858,Light Fuel Oil,Top-down low,No
+DJI,2021.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2021.0,HFO,119.6944445402,Heavy Fuel Oil,Top-down low,No
+DJI,2021.0,Imports (ETH),250.5000002004,Imports (ETH),Top-down low,No
+DJI,2021.0,LFO,102.1388889706,Light Fuel Oil,Top-down low,No
+DJI,2022.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2022.0,HFO,113.3888889796,Heavy Fuel Oil,Top-down low,No
+DJI,2022.0,Imports (ETH),321.388889146,Imports (ETH),Top-down low,No
+DJI,2022.0,LFO,96.944444522,Light Fuel Oil,Top-down low,No
+DJI,2023.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2023.0,HFO,107.083333419,Heavy Fuel Oil,Top-down low,No
+DJI,2023.0,Imports (ETH),390.833333646,Imports (ETH),Top-down low,No
+DJI,2023.0,LFO,91.75000007340002,Light Fuel Oil,Top-down low,No
+DJI,2024.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Top-down low,No
+DJI,2024.0,Imports (ETH),459.05555592280007,Imports (ETH),Top-down low,No
+DJI,2024.0,LFO,86.58333340260002,Light Fuel Oil,Top-down low,No
+DJI,2025.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2025.0,HFO,94.5000000756,Heavy Fuel Oil,Top-down low,No
+DJI,2025.0,Imports (ETH),551.7222226636001,Imports (ETH),Top-down low,No
+DJI,2025.0,LFO,81.38888895400001,Light Fuel Oil,Top-down low,No
+DJI,2026.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2026.0,HFO,88.194444515,Heavy Fuel Oil,Top-down low,No
+DJI,2026.0,Imports (ETH),644.722222738,Imports (ETH),Top-down low,No
+DJI,2026.0,LFO,76.1944445054,Light Fuel Oil,Top-down low,No
+DJI,2027.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2027.0,HFO,81.8888889544,Heavy Fuel Oil,Top-down low,No
+DJI,2027.0,Imports (ETH),702.1944450062,Imports (ETH),Top-down low,No
+DJI,2027.0,LFO,67.8611111654,Light Fuel Oil,Top-down low,No
+DJI,2028.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2028.0,HFO,75.5833333938,Heavy Fuel Oil,Top-down low,No
+DJI,2028.0,Imports (ETH),756.388889494,Imports (ETH),Top-down low,No
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down low,No
+DJI,2029.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2029.0,HFO,144.36111122660003,Heavy Fuel Oil,Top-down low,No
+DJI,2029.0,Imports (ETH),735.3055561438,Imports (ETH),Top-down low,No
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down low,No
+DJI,2030.0,GEO,223.3888890676,Geothermal,Top-down low,No
+DJI,2030.0,HFO,131.2222223272,Heavy Fuel Oil,Top-down low,No
+DJI,2030.0,Imports (ETH),801.8888895304001,Imports (ETH),Top-down low,No
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down low,No
+DJI,2020.0,HFO,126.0000001008,Heavy Fuel Oil,Top-down low,High
+DJI,2020.0,Imports (ETH),401.44444476560005,Imports (ETH),Top-down low,High
+DJI,2020.0,LFO,107.222222308,Light Fuel Oil,Top-down low,High
+DJI,2021.0,GEO,223.3888890676,Geothermal,Top-down low,High
+DJI,2021.0,HFO,119.6944445402,Heavy Fuel Oil,Top-down low,High
+DJI,2021.0,Imports (ETH),250.6388890894,Imports (ETH),Top-down low,High
+DJI,2021.0,LFO,102.0277778594,Light Fuel Oil,Top-down low,High
+DJI,2022.0,GEO,223.3888890676,Geothermal,Top-down low,High
+DJI,2022.0,HFO,113.3888889796,Heavy Fuel Oil,Top-down low,High
+DJI,2022.0,Imports (ETH),321.527778035,Imports (ETH),Top-down low,High
+DJI,2022.0,LFO,96.8333334108,Light Fuel Oil,Top-down low,High
+DJI,2023.0,GEO,83.7777778448,Geothermal,Top-down low,High
+DJI,2023.0,HFO,107.083333419,Heavy Fuel Oil,Top-down low,High
+DJI,2023.0,Imports (ETH),530.5833337578,Imports (ETH),Top-down low,High
+DJI,2023.0,LFO,91.6388889622,Light Fuel Oil,Top-down low,High
+DJI,2024.0,HFO,100.7777778584,Heavy Fuel Oil,Top-down low,High
+DJI,2024.0,Imports (ETH),682.5833338794,Imports (ETH),Top-down low,High
+DJI,2024.0,LFO,86.47222229140002,Light Fuel Oil,Top-down low,High
+DJI,2025.0,HFO,94.5000000756,Heavy Fuel Oil,Top-down low,High
+DJI,2025.0,Imports (ETH),775.2222228424,Imports (ETH),Top-down low,High
+DJI,2025.0,LFO,81.2777778428,Light Fuel Oil,Top-down low,High
+DJI,2026.0,GEO,83.7777778448,Geothermal,Top-down low,High
+DJI,2026.0,HFO,88.194444515,Heavy Fuel Oil,Top-down low,High
+DJI,2026.0,Imports (ETH),784.4722228498,Imports (ETH),Top-down low,High
+DJI,2026.0,LFO,76.0833333942,Light Fuel Oil,Top-down low,High
+DJI,2027.0,GEO,83.7777778448,Geothermal,Top-down low,High
+DJI,2027.0,HFO,81.8888889544,Heavy Fuel Oil,Top-down low,High
+DJI,2027.0,Imports (ETH),841.9444451180001,Imports (ETH),Top-down low,High
+DJI,2027.0,LFO,67.7500000542,Light Fuel Oil,Top-down low,High
+DJI,2028.0,GEO,83.7777778448,Geothermal,Top-down low,High
+DJI,2028.0,HFO,75.5833333938,Heavy Fuel Oil,Top-down low,High
+DJI,2028.0,Imports (ETH),896.0000007168001,Imports (ETH),Top-down low,High
+DJI,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down low,High
+DJI,2029.0,GEO,223.3888890676,Geothermal,Top-down low,High
+DJI,2029.0,HFO,69.305555611,Heavy Fuel Oil,Top-down low,High
+DJI,2029.0,Imports (ETH),810.3888895372,Imports (ETH),Top-down low,High
+DJI,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down low,High
+DJI,2030.0,GEO,223.3888890676,Geothermal,Top-down low,High
+DJI,2030.0,HFO,63.0000000504,Heavy Fuel Oil,Top-down low,High
+DJI,2030.0,Imports (ETH),870.138889585,Imports (ETH),Top-down low,High
+DJI,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down low,High

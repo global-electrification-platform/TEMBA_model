@@ -1,0 +1,265 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+ZWE,2020,BIO,0.097,Biomass,Bottom-up,No
+ZWE,2020,COA,1.2075,Coal,Bottom-up,No
+ZWE,2020,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2020,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2021,BIO,0.09215,Biomass,Bottom-up,No
+ZWE,2021,COA,1.2075,Coal,Bottom-up,No
+ZWE,2021,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2021,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2022,BIO,0.0873,Biomass,Bottom-up,No
+ZWE,2022,COA,1.8075,Coal,Bottom-up,No
+ZWE,2022,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2022,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2023,BIO,0.08245,Biomass,Bottom-up,No
+ZWE,2023,COA,1.751625,Coal,Bottom-up,No
+ZWE,2023,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2023,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2024,BIO,0.0776,Biomass,Bottom-up,No
+ZWE,2024,COA,1.69575,Coal,Bottom-up,No
+ZWE,2024,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2024,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2025,BIO,0.0485,Biomass,Bottom-up,No
+ZWE,2025,COA,1.639875,Coal,Bottom-up,No
+ZWE,2025,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2025,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2026,BIO,0.04365,Biomass,Bottom-up,No
+ZWE,2026,COA,1.584,Coal,Bottom-up,No
+ZWE,2026,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2026,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2027,BIO,0.0388,Biomass,Bottom-up,No
+ZWE,2027,COA,1.528125,Coal,Bottom-up,No
+ZWE,2027,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2027,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2028,BIO,0.03395,Biomass,Bottom-up,No
+ZWE,2028,COA,1.4722499999999998,Coal,Bottom-up,No
+ZWE,2028,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2028,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2029,BIO,0.0291,Biomass,Bottom-up,No
+ZWE,2029,COA,1.7931054466198304,Coal,Bottom-up,No
+ZWE,2029,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2029,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2030,BIO,0.02425,Biomass,Bottom-up,No
+ZWE,2030,COA,1.7497034332781891,Coal,Bottom-up,No
+ZWE,2030,HYD,1.014167,Hydropower,Bottom-up,No
+ZWE,2030,SOL,0.0055,Solar,Bottom-up,No
+ZWE,2020,BIO,0.097,Biomass,Bottom-up,High
+ZWE,2020,COA,1.2075,Coal,Bottom-up,High
+ZWE,2020,HYD,1.014167,Hydropower,Bottom-up,High
+ZWE,2020,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2021,BIO,0.09215,Biomass,Bottom-up,High
+ZWE,2021,COA,1.2075,Coal,Bottom-up,High
+ZWE,2021,HYD,1.014167,Hydropower,Bottom-up,High
+ZWE,2021,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2022,BIO,0.0873,Biomass,Bottom-up,High
+ZWE,2022,COA,1.8075,Coal,Bottom-up,High
+ZWE,2022,HYD,1.014167,Hydropower,Bottom-up,High
+ZWE,2022,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2023,BIO,0.08245,Biomass,Bottom-up,High
+ZWE,2023,COA,1.751625,Coal,Bottom-up,High
+ZWE,2023,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2023,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2024,BIO,0.0776,Biomass,Bottom-up,High
+ZWE,2024,COA,1.69575,Coal,Bottom-up,High
+ZWE,2024,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2024,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2025,BIO,0.0485,Biomass,Bottom-up,High
+ZWE,2025,COA,1.639875,Coal,Bottom-up,High
+ZWE,2025,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2025,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2026,BIO,0.04365,Biomass,Bottom-up,High
+ZWE,2026,COA,1.584,Coal,Bottom-up,High
+ZWE,2026,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2026,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2027,BIO,0.0388,Biomass,Bottom-up,High
+ZWE,2027,COA,1.528125,Coal,Bottom-up,High
+ZWE,2027,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2027,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2028,BIO,0.03395,Biomass,Bottom-up,High
+ZWE,2028,COA,1.4722499999999998,Coal,Bottom-up,High
+ZWE,2028,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2028,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2029,BIO,0.0291,Biomass,Bottom-up,High
+ZWE,2029,COA,1.416375,Coal,Bottom-up,High
+ZWE,2029,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2029,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2030,BIO,0.02425,Biomass,Bottom-up,High
+ZWE,2030,COA,1.3605,Coal,Bottom-up,High
+ZWE,2030,HYD,2.134167,Hydropower,Bottom-up,High
+ZWE,2030,SOL,0.0055,Solar,Bottom-up,High
+ZWE,2020,BIO,0.097,Biomass,Top-down high,No
+ZWE,2020,COA,1.2075,Coal,Top-down high,No
+ZWE,2020,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2020,SOL,0.0055,Solar,Top-down high,No
+ZWE,2021,BIO,0.09215,Biomass,Top-down high,No
+ZWE,2021,COA,1.2075,Coal,Top-down high,No
+ZWE,2021,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2021,SOL,0.0055,Solar,Top-down high,No
+ZWE,2022,BIO,0.0873,Biomass,Top-down high,No
+ZWE,2022,COA,1.8075,Coal,Top-down high,No
+ZWE,2022,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2022,SOL,0.0055,Solar,Top-down high,No
+ZWE,2023,BIO,0.08245,Biomass,Top-down high,No
+ZWE,2023,COA,1.751625,Coal,Top-down high,No
+ZWE,2023,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2023,SOL,0.0055,Solar,Top-down high,No
+ZWE,2024,BIO,0.0776,Biomass,Top-down high,No
+ZWE,2024,COA,1.69575,Coal,Top-down high,No
+ZWE,2024,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2024,SOL,0.0055,Solar,Top-down high,No
+ZWE,2025,BIO,0.0485,Biomass,Top-down high,No
+ZWE,2025,COA,1.639875,Coal,Top-down high,No
+ZWE,2025,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2025,SOL,0.0055,Solar,Top-down high,No
+ZWE,2026,BIO,0.04365,Biomass,Top-down high,No
+ZWE,2026,COA,1.6958896556493954,Coal,Top-down high,No
+ZWE,2026,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2026,SOL,0.0055,Solar,Top-down high,No
+ZWE,2027,BIO,0.0388,Biomass,Top-down high,No
+ZWE,2027,COA,1.7678649726551792,Coal,Top-down high,No
+ZWE,2027,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2027,SOL,0.0055,Solar,Top-down high,No
+ZWE,2028,BIO,0.03395,Biomass,Top-down high,No
+ZWE,2028,COA,2.011970673684907,Coal,Top-down high,No
+ZWE,2028,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2028,SOL,0.0055,Solar,Top-down high,No
+ZWE,2029,BIO,0.0291,Biomass,Top-down high,No
+ZWE,2029,COA,2.4970577786004986,Coal,Top-down high,No
+ZWE,2029,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2029,SOL,0.0055,Solar,Top-down high,No
+ZWE,2030,BIO,0.02425,Biomass,Top-down high,No
+ZWE,2030,COA,2.8270789071898887,Coal,Top-down high,No
+ZWE,2030,HYD,1.014167,Hydropower,Top-down high,No
+ZWE,2030,SOL,0.0055,Solar,Top-down high,No
+ZWE,2020,BIO,0.097,Biomass,Top-down high,High
+ZWE,2020,COA,1.2075,Coal,Top-down high,High
+ZWE,2020,HYD,1.014167,Hydropower,Top-down high,High
+ZWE,2020,SOL,0.0055,Solar,Top-down high,High
+ZWE,2021,BIO,0.09215,Biomass,Top-down high,High
+ZWE,2021,COA,1.2075,Coal,Top-down high,High
+ZWE,2021,HYD,1.014167,Hydropower,Top-down high,High
+ZWE,2021,SOL,0.0055,Solar,Top-down high,High
+ZWE,2022,BIO,0.0873,Biomass,Top-down high,High
+ZWE,2022,COA,1.8075,Coal,Top-down high,High
+ZWE,2022,HYD,1.014167,Hydropower,Top-down high,High
+ZWE,2022,SOL,0.0055,Solar,Top-down high,High
+ZWE,2023,BIO,0.08245,Biomass,Top-down high,High
+ZWE,2023,COA,1.751625,Coal,Top-down high,High
+ZWE,2023,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2023,SOL,0.0055,Solar,Top-down high,High
+ZWE,2024,BIO,0.0776,Biomass,Top-down high,High
+ZWE,2024,COA,1.69575,Coal,Top-down high,High
+ZWE,2024,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2024,SOL,0.0055,Solar,Top-down high,High
+ZWE,2025,BIO,0.0485,Biomass,Top-down high,High
+ZWE,2025,COA,1.639875,Coal,Top-down high,High
+ZWE,2025,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2025,SOL,0.0055,Solar,Top-down high,High
+ZWE,2026,BIO,0.04365,Biomass,Top-down high,High
+ZWE,2026,COA,1.584,Coal,Top-down high,High
+ZWE,2026,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2026,SOL,0.0055,Solar,Top-down high,High
+ZWE,2027,BIO,0.0388,Biomass,Top-down high,High
+ZWE,2027,COA,1.528125,Coal,Top-down high,High
+ZWE,2027,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2027,SOL,0.0055,Solar,Top-down high,High
+ZWE,2028,BIO,0.03395,Biomass,Top-down high,High
+ZWE,2028,COA,1.4722499999999998,Coal,Top-down high,High
+ZWE,2028,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2028,SOL,0.0055,Solar,Top-down high,High
+ZWE,2029,BIO,0.0291,Biomass,Top-down high,High
+ZWE,2029,COA,1.416375,Coal,Top-down high,High
+ZWE,2029,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2029,SOL,0.0055,Solar,Top-down high,High
+ZWE,2030,BIO,0.02425,Biomass,Top-down high,High
+ZWE,2030,COA,1.3605,Coal,Top-down high,High
+ZWE,2030,HYD,2.134167,Hydropower,Top-down high,High
+ZWE,2030,SOL,0.5055,Solar,Top-down high,High
+ZWE,2020,BIO,0.097,Biomass,Top-down low,No
+ZWE,2020,COA,1.2075,Coal,Top-down low,No
+ZWE,2020,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2020,SOL,0.0055,Solar,Top-down low,No
+ZWE,2021,BIO,0.09215,Biomass,Top-down low,No
+ZWE,2021,COA,1.2075,Coal,Top-down low,No
+ZWE,2021,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2021,SOL,0.0055,Solar,Top-down low,No
+ZWE,2022,BIO,0.0873,Biomass,Top-down low,No
+ZWE,2022,COA,1.8075,Coal,Top-down low,No
+ZWE,2022,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2022,SOL,0.0055,Solar,Top-down low,No
+ZWE,2023,BIO,0.08245,Biomass,Top-down low,No
+ZWE,2023,COA,1.751625,Coal,Top-down low,No
+ZWE,2023,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2023,SOL,0.0055,Solar,Top-down low,No
+ZWE,2024,BIO,0.0776,Biomass,Top-down low,No
+ZWE,2024,COA,1.69575,Coal,Top-down low,No
+ZWE,2024,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2024,SOL,0.0055,Solar,Top-down low,No
+ZWE,2025,BIO,0.0485,Biomass,Top-down low,No
+ZWE,2025,COA,1.639875,Coal,Top-down low,No
+ZWE,2025,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2025,SOL,0.0055,Solar,Top-down low,No
+ZWE,2026,BIO,0.04365,Biomass,Top-down low,No
+ZWE,2026,COA,1.584,Coal,Top-down low,No
+ZWE,2026,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2026,SOL,0.0055,Solar,Top-down low,No
+ZWE,2027,BIO,0.0388,Biomass,Top-down low,No
+ZWE,2027,COA,1.528125,Coal,Top-down low,No
+ZWE,2027,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2027,SOL,0.0055,Solar,Top-down low,No
+ZWE,2028,BIO,0.03395,Biomass,Top-down low,No
+ZWE,2028,COA,1.4722499999999998,Coal,Top-down low,No
+ZWE,2028,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2028,SOL,0.0055,Solar,Top-down low,No
+ZWE,2029,BIO,0.0291,Biomass,Top-down low,No
+ZWE,2029,COA,1.4192299248242253,Coal,Top-down low,No
+ZWE,2029,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2029,SOL,0.0055,Solar,Top-down low,No
+ZWE,2030,BIO,0.02425,Biomass,Top-down low,No
+ZWE,2030,COA,1.910376788262044,Coal,Top-down low,No
+ZWE,2030,HYD,1.014167,Hydropower,Top-down low,No
+ZWE,2030,SOL,0.0055,Solar,Top-down low,No
+ZWE,2020,BIO,0.097,Biomass,Top-down low,High
+ZWE,2020,COA,1.2075,Coal,Top-down low,High
+ZWE,2020,HYD,1.014167,Hydropower,Top-down low,High
+ZWE,2020,SOL,0.0055,Solar,Top-down low,High
+ZWE,2021,BIO,0.09215,Biomass,Top-down low,High
+ZWE,2021,COA,1.2075,Coal,Top-down low,High
+ZWE,2021,HYD,1.014167,Hydropower,Top-down low,High
+ZWE,2021,SOL,0.0055,Solar,Top-down low,High
+ZWE,2022,BIO,0.0873,Biomass,Top-down low,High
+ZWE,2022,COA,1.8075,Coal,Top-down low,High
+ZWE,2022,HYD,1.014167,Hydropower,Top-down low,High
+ZWE,2022,SOL,0.0055,Solar,Top-down low,High
+ZWE,2023,BIO,0.08245,Biomass,Top-down low,High
+ZWE,2023,COA,1.751625,Coal,Top-down low,High
+ZWE,2023,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2023,SOL,0.0055,Solar,Top-down low,High
+ZWE,2024,BIO,0.0776,Biomass,Top-down low,High
+ZWE,2024,COA,1.69575,Coal,Top-down low,High
+ZWE,2024,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2024,SOL,0.0055,Solar,Top-down low,High
+ZWE,2025,BIO,0.0485,Biomass,Top-down low,High
+ZWE,2025,COA,1.639875,Coal,Top-down low,High
+ZWE,2025,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2025,SOL,0.0055,Solar,Top-down low,High
+ZWE,2026,BIO,0.04365,Biomass,Top-down low,High
+ZWE,2026,COA,1.584,Coal,Top-down low,High
+ZWE,2026,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2026,SOL,0.0055,Solar,Top-down low,High
+ZWE,2027,BIO,0.0388,Biomass,Top-down low,High
+ZWE,2027,COA,1.528125,Coal,Top-down low,High
+ZWE,2027,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2027,SOL,0.0055,Solar,Top-down low,High
+ZWE,2028,BIO,0.03395,Biomass,Top-down low,High
+ZWE,2028,COA,1.4722499999999998,Coal,Top-down low,High
+ZWE,2028,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2028,SOL,0.0055,Solar,Top-down low,High
+ZWE,2029,BIO,0.0291,Biomass,Top-down low,High
+ZWE,2029,COA,1.416375,Coal,Top-down low,High
+ZWE,2029,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2029,SOL,0.0055,Solar,Top-down low,High
+ZWE,2030,BIO,0.02425,Biomass,Top-down low,High
+ZWE,2030,COA,1.3605,Coal,Top-down low,High
+ZWE,2030,HYD,2.134167,Hydropower,Top-down low,High
+ZWE,2030,SOL,0.5055,Solar,Top-down low,High

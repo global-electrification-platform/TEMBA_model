@@ -1,0 +1,587 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+RWA,2020.0,BIO,6.0833333382,Biomass,Bottom-up,No
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Bottom-up,No
+RWA,2020.0,HYD,463.9166670378,Hydropower,Bottom-up,No
+RWA,2020.0,Imports (COD),1532.638890115,Imports (COD),Bottom-up,No
+RWA,2020.0,Imports (UGA),144.8333334492,Imports (UGA),Bottom-up,No
+RWA,2020.0,LFO,1.7222222236,Light Fuel Oil,Bottom-up,No
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Bottom-up,No
+RWA,2020.0,SOL,18.4166666814,Solar,Bottom-up,No
+RWA,2021.0,BIO,14.3333333448,Biomass,Bottom-up,No
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Bottom-up,No
+RWA,2021.0,HYD,463.9166670378,Hydropower,Bottom-up,No
+RWA,2021.0,Imports (COD),1234.166667654,Imports (COD),Bottom-up,No
+RWA,2021.0,Imports (UGA),611.666667156,Imports (UGA),Bottom-up,No
+RWA,2021.0,LFO,1.7222222236,Light Fuel Oil,Bottom-up,No
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Bottom-up,No
+RWA,2021.0,SOL,18.3888889036,Solar,Bottom-up,No
+RWA,2022.0,BIO,13.5833333442,Biomass,Bottom-up,No
+RWA,2022.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2022.0,HFO,42.222222256,Heavy Fuel Oil,Bottom-up,No
+RWA,2022.0,HYD,680.8055561002,Hydropower,Bottom-up,No
+RWA,2022.0,Imports (COD),1117.1111120048,Imports (COD),Bottom-up,No
+RWA,2022.0,Imports (UGA),526.1388893098,Imports (UGA),Bottom-up,No
+RWA,2022.0,LFO,1.6944444458,Light Fuel Oil,Bottom-up,No
+RWA,2022.0,NGA,4.555555559200001,Natural Gas,Bottom-up,No
+RWA,2022.0,SOL,18.3611111258,Solar,Bottom-up,No
+RWA,2023.0,BIO,12.8333333436,Biomass,Bottom-up,No
+RWA,2023.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2023.0,HFO,39.861111143,Heavy Fuel Oil,Bottom-up,No
+RWA,2023.0,HYD,680.8055561002,Hydropower,Bottom-up,No
+RWA,2023.0,Imports (COD),1069.2777786332,Imports (COD),Bottom-up,No
+RWA,2023.0,Imports (TZA),525.1111115312001,Imports (TZA),Bottom-up,No
+RWA,2023.0,Imports (UGA),279.722222446,Imports (UGA),Bottom-up,No
+RWA,2023.0,LFO,1.6944444458,Light Fuel Oil,Bottom-up,No
+RWA,2023.0,NGA,4.305555559,Natural Gas,Bottom-up,No
+RWA,2023.0,SOL,18.3611111258,Solar,Bottom-up,No
+RWA,2024.0,BIO,12.083333343,Biomass,Bottom-up,No
+RWA,2024.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2024.0,HFO,78.194444507,Heavy Fuel Oil,Bottom-up,No
+RWA,2024.0,HYD,680.8055561002,Hydropower,Bottom-up,No
+RWA,2024.0,Imports (COD),2145.277779494,Imports (COD),Bottom-up,No
+RWA,2024.0,Imports (UGA),129.05555565880002,Imports (UGA),Bottom-up,No
+RWA,2024.0,LFO,1.6944444458,Light Fuel Oil,Bottom-up,No
+RWA,2024.0,NGA,347.9444447228,Natural Gas,Bottom-up,No
+RWA,2024.0,SOL,18.333333348,Solar,Bottom-up,No
+RWA,2025.0,BIO,7.5555555616,Biomass,Bottom-up,No
+RWA,2025.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2025.0,GEO,744.6111117068001,Geothermal,Bottom-up,No
+RWA,2025.0,HFO,73.3055556142,Heavy Fuel Oil,Bottom-up,No
+RWA,2025.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2025.0,Imports (BDI),113.05555564600002,Imports (BDI),Bottom-up,No
+RWA,2025.0,Imports (COD),432.1944447902,Imports (COD),Bottom-up,No
+RWA,2025.0,Imports (UGA),8.4166666734,Imports (UGA),Bottom-up,No
+RWA,2025.0,LFO,1.6666666680000002,Light Fuel Oil,Bottom-up,No
+RWA,2025.0,NGA,869.7777784735999,Natural Gas,Bottom-up,No
+RWA,2025.0,SOL,18.3055555702,Solar,Bottom-up,No
+RWA,2026.0,BIO,6.7777777832,Biomass,Bottom-up,No
+RWA,2026.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2026.0,GEO,744.6111117068001,Geothermal,Bottom-up,No
+RWA,2026.0,HFO,68.4166667214,Heavy Fuel Oil,Bottom-up,No
+RWA,2026.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2026.0,Imports (COD),223.333333512,Imports (COD),Bottom-up,No
+RWA,2026.0,Imports (TZA),50.11111115120001,Imports (TZA),Bottom-up,No
+RWA,2026.0,Imports (UGA),591.6111115844,Imports (UGA),Bottom-up,No
+RWA,2026.0,LFO,0.1666666668,Light Fuel Oil,Bottom-up,No
+RWA,2026.0,NGA,875.6666673672,Natural Gas,Bottom-up,No
+RWA,2026.0,SOL,18.3055555702,Solar,Bottom-up,No
+RWA,2027.0,BIO,6.0277777826,Biomass,Bottom-up,No
+RWA,2027.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2027.0,GEO,1489.1944456358,Geothermal,Bottom-up,No
+RWA,2027.0,HFO,63.5277778286,Heavy Fuel Oil,Bottom-up,No
+RWA,2027.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2027.0,Imports (COD),65.5833333858,Imports (COD),Bottom-up,No
+RWA,2027.0,Imports (TZA),273.50000021880004,Imports (TZA),Bottom-up,No
+RWA,2027.0,Imports (UGA),28.555555578400003,Imports (UGA),Bottom-up,No
+RWA,2027.0,LFO,0.1666666668,Light Fuel Oil,Bottom-up,No
+RWA,2027.0,NGA,1376.4444455456005,Natural Gas,Bottom-up,No
+RWA,2027.0,SOL,18.2777777924,Solar,Bottom-up,No
+RWA,2028.0,BIO,5.277777782,Biomass,Bottom-up,No
+RWA,2028.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2028.0,GEO,1489.1944456358,Geothermal,Bottom-up,No
+RWA,2028.0,HFO,58.6388889358,Heavy Fuel Oil,Bottom-up,No
+RWA,2028.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2028.0,Imports (COD),53.694444487400006,Imports (COD),Bottom-up,No
+RWA,2028.0,Imports (UGA),235.3611112994,Imports (UGA),Bottom-up,No
+RWA,2028.0,NGA,1380.9722233270002,Natural Gas,Bottom-up,No
+RWA,2028.0,SOL,18.250000014600005,Solar,Bottom-up,No
+RWA,2029.0,BIO,4.5277777814,Biomass,Bottom-up,No
+RWA,2029.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Bottom-up,No
+RWA,2029.0,HFO,53.75000004300001,Heavy Fuel Oil,Bottom-up,No
+RWA,2029.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2029.0,Imports (COD),55.7500000446,Imports (COD),Bottom-up,No
+RWA,2029.0,Imports (TZA),177.6111112532,Imports (TZA),Bottom-up,No
+RWA,2029.0,Imports (UGA),167.1111112448,Imports (UGA),Bottom-up,No
+RWA,2029.0,NGA,1403.1666677892,Natural Gas,Bottom-up,No
+RWA,2029.0,SOL,44.972222258200006,Solar,Bottom-up,No
+RWA,2030.0,BIO,3.7777777808,Biomass,Bottom-up,No
+RWA,2030.0,COA,46.3055555926,Coal,Bottom-up,No
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Bottom-up,No
+RWA,2030.0,HFO,48.8611111502,Heavy Fuel Oil,Bottom-up,No
+RWA,2030.0,HYD,716.1666672396,Hydropower,Bottom-up,No
+RWA,2030.0,Imports (TZA),849.3611117906,Imports (TZA),Bottom-up,No
+RWA,2030.0,Imports (UGA),142.6666667808,Imports (UGA),Bottom-up,No
+RWA,2030.0,NGA,1597.5555568336,Natural Gas,Bottom-up,No
+RWA,2030.0,SOL,79.05555561880001,Solar,Bottom-up,No
+RWA,2020.0,BIO,6.0833333382,Biomass,Bottom-up,High
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Bottom-up,High
+RWA,2020.0,HYD,463.9166670378,Hydropower,Bottom-up,High
+RWA,2020.0,Imports (COD),2597.8611131894,Imports (COD),Bottom-up,High
+RWA,2020.0,Imports (UGA),268.8333335484,Imports (UGA),Bottom-up,High
+RWA,2020.0,LFO,0.0833333334,Light Fuel Oil,Bottom-up,High
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Bottom-up,High
+RWA,2020.0,SOL,18.4166666814,Solar,Bottom-up,High
+RWA,2021.0,BIO,14.3333333448,Biomass,Bottom-up,High
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Bottom-up,High
+RWA,2021.0,HYD,463.9166670378,Hydropower,Bottom-up,High
+RWA,2021.0,Imports (COD),19.6388889046,Imports (COD),Bottom-up,High
+RWA,2021.0,Imports (UGA),1046.3055563926,Imports (UGA),Bottom-up,High
+RWA,2021.0,LFO,1.8333333348,Light Fuel Oil,Bottom-up,High
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Bottom-up,High
+RWA,2021.0,SOL,18.3888889036,Solar,Bottom-up,High
+RWA,2022.0,BIO,13.5833333442,Biomass,Bottom-up,High
+RWA,2022.0,HFO,42.222222256,Heavy Fuel Oil,Bottom-up,High
+RWA,2022.0,HYD,680.8055561002,Hydropower,Bottom-up,High
+RWA,2022.0,Imports (COD),243.3055557502,Imports (COD),Bottom-up,High
+RWA,2022.0,Imports (UGA),594.2500004754,Imports (UGA),Bottom-up,High
+RWA,2022.0,LFO,1.805555557,Light Fuel Oil,Bottom-up,High
+RWA,2022.0,NGA,4.555555559200001,Natural Gas,Bottom-up,High
+RWA,2022.0,SOL,18.3611111258,Solar,Bottom-up,High
+RWA,2023.0,BIO,12.8333333436,Biomass,Bottom-up,High
+RWA,2023.0,HFO,39.861111143,Heavy Fuel Oil,Bottom-up,High
+RWA,2023.0,HYD,680.8055561002,Hydropower,Bottom-up,High
+RWA,2023.0,Imports (COD),469.9166670426,Imports (COD),Bottom-up,High
+RWA,2023.0,Imports (TZA),242.0000001936,Imports (TZA),Bottom-up,High
+RWA,2023.0,Imports (UGA),1869.2777792732,Imports (UGA),Bottom-up,High
+RWA,2023.0,LFO,1.805555557,Light Fuel Oil,Bottom-up,High
+RWA,2023.0,NGA,4.305555559,Natural Gas,Bottom-up,High
+RWA,2023.0,SOL,18.3611111258,Solar,Bottom-up,High
+RWA,2024.0,BIO,12.083333343,Biomass,Bottom-up,High
+RWA,2024.0,GEO,744.6111117068001,Geothermal,Bottom-up,High
+RWA,2024.0,HFO,37.5277778078,Heavy Fuel Oil,Bottom-up,High
+RWA,2024.0,HYD,680.8055561002,Hydropower,Bottom-up,High
+RWA,2024.0,Imports (BDI),191.111111264,Imports (BDI),Bottom-up,High
+RWA,2024.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2024.0,Imports (TZA),37.1388889186,Imports (TZA),Bottom-up,High
+RWA,2024.0,Imports (UGA),56.94444449,Imports (UGA),Bottom-up,High
+RWA,2024.0,LFO,1.805555557,Light Fuel Oil,Bottom-up,High
+RWA,2024.0,NGA,4.027777781,Natural Gas,Bottom-up,High
+RWA,2024.0,SOL,18.333333348,Solar,Bottom-up,High
+RWA,2025.0,BIO,7.5555555616,Biomass,Bottom-up,High
+RWA,2025.0,GEO,744.6111117068001,Geothermal,Bottom-up,High
+RWA,2025.0,HFO,35.194444472600004,Heavy Fuel Oil,Bottom-up,High
+RWA,2025.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2025.0,Imports (BDI),90.5000000724,Imports (BDI),Bottom-up,High
+RWA,2025.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2025.0,Imports (UGA),366.7500002934,Imports (UGA),Bottom-up,High
+RWA,2025.0,LFO,1.1666666676,Light Fuel Oil,Bottom-up,High
+RWA,2025.0,NGA,3.7777777808,Natural Gas,Bottom-up,High
+RWA,2025.0,SOL,45.3611111474,Solar,Bottom-up,High
+RWA,2026.0,BIO,6.7777777832,Biomass,Bottom-up,High
+RWA,2026.0,GEO,744.6111117068001,Geothermal,Bottom-up,High
+RWA,2026.0,HFO,32.833333359600005,Heavy Fuel Oil,Bottom-up,High
+RWA,2026.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2026.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2026.0,Imports (TZA),371.1666669636001,Imports (TZA),Bottom-up,High
+RWA,2026.0,Imports (UGA),1522.638890107,Imports (UGA),Bottom-up,High
+RWA,2026.0,LFO,0.7500000006,Light Fuel Oil,Bottom-up,High
+RWA,2026.0,NGA,3.5277777806,Natural Gas,Bottom-up,High
+RWA,2026.0,SOL,75.8611111718,Solar,Bottom-up,High
+RWA,2027.0,BIO,6.0277777826,Biomass,Bottom-up,High
+RWA,2027.0,GEO,1489.1944456358,Geothermal,Bottom-up,High
+RWA,2027.0,HFO,30.5000000244,Heavy Fuel Oil,Bottom-up,High
+RWA,2027.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2027.0,Imports (COD),1228.0000009824,Imports (COD),Bottom-up,High
+RWA,2027.0,Imports (TZA),564.7777782296,Imports (TZA),Bottom-up,High
+RWA,2027.0,Imports (UGA),1730.55555694,Imports (UGA),Bottom-up,High
+RWA,2027.0,LFO,0.8888888896000001,Light Fuel Oil,Bottom-up,High
+RWA,2027.0,NGA,3.2777777804,Natural Gas,Bottom-up,High
+RWA,2027.0,SOL,104.7777778616,Solar,Bottom-up,High
+RWA,2028.0,BIO,5.277777782,Biomass,Bottom-up,High
+RWA,2028.0,GEO,1489.1944456358,Geothermal,Bottom-up,High
+RWA,2028.0,HFO,28.1388889114,Heavy Fuel Oil,Bottom-up,High
+RWA,2028.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2028.0,Imports (BDI),43.472222257,Imports (BDI),Bottom-up,High
+RWA,2028.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2028.0,Imports (TZA),146.4722223394,Imports (TZA),Bottom-up,High
+RWA,2028.0,Imports (UGA),2314.5555574072,Imports (UGA),Bottom-up,High
+RWA,2028.0,NGA,3.0277777802,Natural Gas,Bottom-up,High
+RWA,2028.0,SOL,139.63888900060002,Solar,Bottom-up,High
+RWA,2029.0,BIO,4.5277777814,Biomass,Bottom-up,High
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Bottom-up,High
+RWA,2029.0,HFO,25.8055555762,Heavy Fuel Oil,Bottom-up,High
+RWA,2029.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2029.0,Imports (BDI),43.05555559,Imports (BDI),Bottom-up,High
+RWA,2029.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2029.0,Imports (TZA),183.9166668138,Imports (TZA),Bottom-up,High
+RWA,2029.0,Imports (UGA),2314.5555574072,Imports (UGA),Bottom-up,High
+RWA,2029.0,NGA,2.77777778,Natural Gas,Bottom-up,High
+RWA,2029.0,SOL,169.30555569100002,Solar,Bottom-up,High
+RWA,2030.0,BIO,3.7777777808,Biomass,Bottom-up,High
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Bottom-up,High
+RWA,2030.0,HFO,23.444444463200004,Heavy Fuel Oil,Bottom-up,High
+RWA,2030.0,HYD,716.1666672396,Hydropower,Bottom-up,High
+RWA,2030.0,Imports (BDI),43.1388889234,Imports (BDI),Bottom-up,High
+RWA,2030.0,Imports (COD),1248.3055565542002,Imports (COD),Bottom-up,High
+RWA,2030.0,Imports (UGA),2239.9722240142,Imports (UGA),Bottom-up,High
+RWA,2030.0,NGA,2.5277777798,Natural Gas,Bottom-up,High
+RWA,2030.0,SOL,204.7500001638,Solar,Bottom-up,High
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Top-down high,No
+RWA,2020.0,HYD,463.9166670378,Hydropower,Top-down high,No
+RWA,2020.0,Imports (COD),511.77777818720006,Imports (COD),Top-down high,No
+RWA,2020.0,Imports (UGA),242.0277779714,Imports (UGA),Top-down high,No
+RWA,2020.0,LFO,0.0833333334,Light Fuel Oil,Top-down high,No
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Top-down high,No
+RWA,2020.0,SOL,18.4166666814,Solar,Top-down high,No
+RWA,2021.0,BIO,14.3333333448,Biomass,Top-down high,No
+RWA,2021.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Top-down high,No
+RWA,2021.0,HYD,463.9166670378,Hydropower,Top-down high,No
+RWA,2021.0,Imports (COD),440.8888892416,Imports (COD),Top-down high,No
+RWA,2021.0,Imports (UGA),426.58333367460006,Imports (UGA),Top-down high,No
+RWA,2021.0,LFO,1.8333333348,Light Fuel Oil,Top-down high,No
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Top-down high,No
+RWA,2021.0,SOL,18.3888889036,Solar,Top-down high,No
+RWA,2022.0,BIO,13.5833333442,Biomass,Top-down high,No
+RWA,2022.0,COA,111.1666667556,Coal,Top-down high,No
+RWA,2022.0,HFO,87.9444445148,Heavy Fuel Oil,Top-down high,No
+RWA,2022.0,HYD,680.8055561002,Hydropower,Top-down high,No
+RWA,2022.0,Imports (COD),52.9444444868,Imports (COD),Top-down high,No
+RWA,2022.0,LFO,2.0000000016,Light Fuel Oil,Top-down high,No
+RWA,2022.0,NGA,1461.9444456140002,Natural Gas,Top-down high,No
+RWA,2022.0,SOL,18.3611111258,Solar,Top-down high,No
+RWA,2023.0,BIO,12.8333333436,Biomass,Top-down high,No
+RWA,2023.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2023.0,HFO,83.055555622,Heavy Fuel Oil,Top-down high,No
+RWA,2023.0,HYD,680.8055561002,Hydropower,Top-down high,No
+RWA,2023.0,Imports (UGA),511.72222263160006,Imports (UGA),Top-down high,No
+RWA,2023.0,LFO,1.9722222238,Light Fuel Oil,Top-down high,No
+RWA,2023.0,NGA,738.8055561466,Natural Gas,Top-down high,No
+RWA,2023.0,SOL,18.3611111258,Solar,Top-down high,No
+RWA,2024.0,BIO,12.083333343,Biomass,Top-down high,No
+RWA,2024.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2024.0,GEO,744.6111117068001,Geothermal,Top-down high,No
+RWA,2024.0,HFO,78.194444507,Heavy Fuel Oil,Top-down high,No
+RWA,2024.0,HYD,680.8055561002,Hydropower,Top-down high,No
+RWA,2024.0,Imports (UGA),162.0000001296,Imports (UGA),Top-down high,No
+RWA,2024.0,LFO,1.944444446,Light Fuel Oil,Top-down high,No
+RWA,2024.0,NGA,844.0833340086,Natural Gas,Top-down high,No
+RWA,2024.0,SOL,18.333333348,Solar,Top-down high,No
+RWA,2025.0,BIO,7.5555555616,Biomass,Top-down high,No
+RWA,2025.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2025.0,GEO,744.6111117068001,Geothermal,Top-down high,No
+RWA,2025.0,HFO,73.3055556142,Heavy Fuel Oil,Top-down high,No
+RWA,2025.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2025.0,Imports (UGA),355.5277780622,Imports (UGA),Top-down high,No
+RWA,2025.0,LFO,1.944444446,Light Fuel Oil,Top-down high,No
+RWA,2025.0,NGA,869.5277784734001,Natural Gas,Top-down high,No
+RWA,2025.0,SOL,18.3055555702,Solar,Top-down high,No
+RWA,2026.0,BIO,6.7777777832,Biomass,Top-down high,No
+RWA,2026.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2026.0,GEO,744.6111117068001,Geothermal,Top-down high,No
+RWA,2026.0,HFO,68.4166667214,Heavy Fuel Oil,Top-down high,No
+RWA,2026.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2026.0,Imports (UGA),575.416667127,Imports (UGA),Top-down high,No
+RWA,2026.0,LFO,1.38888889,Light Fuel Oil,Top-down high,No
+RWA,2026.0,NGA,874.4444451439999,Natural Gas,Top-down high,No
+RWA,2026.0,SOL,18.3055555702,Solar,Top-down high,No
+RWA,2027.0,BIO,6.0277777826,Biomass,Top-down high,No
+RWA,2027.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2027.0,GEO,1489.1944456358,Geothermal,Top-down high,No
+RWA,2027.0,HFO,63.5277778286,Heavy Fuel Oil,Top-down high,No
+RWA,2027.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2027.0,Imports (UGA),141.250000113,Imports (UGA),Top-down high,No
+RWA,2027.0,LFO,0.7777777784000001,Light Fuel Oil,Top-down high,No
+RWA,2027.0,NGA,1393.8333344484,Natural Gas,Top-down high,No
+RWA,2027.0,SOL,45.277777814,Solar,Top-down high,No
+RWA,2028.0,BIO,5.277777782,Biomass,Top-down high,No
+RWA,2028.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2028.0,GEO,1489.1944456358,Geothermal,Top-down high,No
+RWA,2028.0,HFO,58.6388889358,Heavy Fuel Oil,Top-down high,No
+RWA,2028.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2028.0,Imports (TZA),123.4444445432,Imports (TZA),Top-down high,No
+RWA,2028.0,Imports (UGA),536.3611115402,Imports (UGA),Top-down high,No
+RWA,2028.0,NGA,1422.1666678044005,Natural Gas,Top-down high,No
+RWA,2028.0,SOL,80.0833333974,Solar,Top-down high,No
+RWA,2029.0,BIO,4.5277777814,Biomass,Top-down high,No
+RWA,2029.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Top-down high,No
+RWA,2029.0,HFO,53.75000004300001,Heavy Fuel Oil,Top-down high,No
+RWA,2029.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2029.0,Imports (TZA),198.333333492,Imports (TZA),Top-down high,No
+RWA,2029.0,Imports (UGA),52.7222222644,Imports (UGA),Top-down high,No
+RWA,2029.0,NGA,1445.8888900456002,Natural Gas,Top-down high,No
+RWA,2029.0,SOL,109.0833334206,Solar,Top-down high,No
+RWA,2030.0,BIO,3.7777777808,Biomass,Top-down high,No
+RWA,2030.0,COA,46.3055555926,Coal,Top-down high,No
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Top-down high,No
+RWA,2030.0,HFO,48.8611111502,Heavy Fuel Oil,Top-down high,No
+RWA,2030.0,HYD,716.1666672396,Hydropower,Top-down high,No
+RWA,2030.0,NGA,1969.861112687,Natural Gas,Top-down high,No
+RWA,2030.0,SOL,143.86111122620002,Solar,Top-down high,No
+RWA,2020.0,BIO,6.0833333382,Biomass,Top-down high,High
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Top-down high,High
+RWA,2020.0,HYD,463.9166670378,Hydropower,Top-down high,High
+RWA,2020.0,Imports (COD),2790.5277800102,Imports (COD),Top-down high,High
+RWA,2020.0,Imports (UGA),636.1111116200001,Imports (UGA),Top-down high,High
+RWA,2020.0,LFO,0.0833333334,Light Fuel Oil,Top-down high,High
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Top-down high,High
+RWA,2020.0,SOL,18.4166666814,Solar,Top-down high,High
+RWA,2021.0,BIO,14.3333333448,Biomass,Top-down high,High
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Top-down high,High
+RWA,2021.0,HYD,463.9166670378,Hydropower,Top-down high,High
+RWA,2021.0,Imports (COD),182.8611112574,Imports (COD),Top-down high,High
+RWA,2021.0,Imports (UGA),838.472222893,Imports (UGA),Top-down high,High
+RWA,2021.0,LFO,1.8333333348,Light Fuel Oil,Top-down high,High
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Top-down high,High
+RWA,2021.0,SOL,18.3888889036,Solar,Top-down high,High
+RWA,2022.0,BIO,13.5833333442,Biomass,Top-down high,High
+RWA,2022.0,HFO,42.222222256,Heavy Fuel Oil,Top-down high,High
+RWA,2022.0,HYD,680.8055561002,Hydropower,Top-down high,High
+RWA,2022.0,Imports (COD),85.69444451300001,Imports (COD),Top-down high,High
+RWA,2022.0,Imports (TZA),517.6666670808,Imports (TZA),Top-down high,High
+RWA,2022.0,Imports (UGA),708.8055561226,Imports (UGA),Top-down high,High
+RWA,2022.0,LFO,1.8611111126,Light Fuel Oil,Top-down high,High
+RWA,2022.0,NGA,4.555555559200001,Natural Gas,Top-down high,High
+RWA,2022.0,SOL,18.3611111258,Solar,Top-down high,High
+RWA,2023.0,BIO,12.8333333436,Biomass,Top-down high,High
+RWA,2023.0,HFO,39.861111143,Heavy Fuel Oil,Top-down high,High
+RWA,2023.0,HYD,816.4444450976,Hydropower,Top-down high,High
+RWA,2023.0,Imports (TZA),3116.8888913824003,Imports (TZA),Top-down high,High
+RWA,2023.0,Imports (UGA),579.5555560192,Imports (UGA),Top-down high,High
+RWA,2023.0,LFO,1.9166666682,Light Fuel Oil,Top-down high,High
+RWA,2023.0,NGA,4.305555559,Natural Gas,Top-down high,High
+RWA,2023.0,SOL,18.3611111258,Solar,Top-down high,High
+RWA,2024.0,BIO,12.083333343,Biomass,Top-down high,High
+RWA,2024.0,GEO,744.6111117068001,Geothermal,Top-down high,High
+RWA,2024.0,HFO,37.5277778078,Heavy Fuel Oil,Top-down high,High
+RWA,2024.0,HYD,816.4444450976,Hydropower,Top-down high,High
+RWA,2024.0,Imports (BDI),149.166666786,Imports (BDI),Top-down high,High
+RWA,2024.0,Imports (TZA),2318.333335188,Imports (TZA),Top-down high,High
+RWA,2024.0,Imports (UGA),51.8888889304,Imports (UGA),Top-down high,High
+RWA,2024.0,LFO,2.1388888906,Light Fuel Oil,Top-down high,High
+RWA,2024.0,NGA,4.027777781,Natural Gas,Top-down high,High
+RWA,2024.0,SOL,21.416666683800003,Solar,Top-down high,High
+RWA,2025.0,BIO,7.5555555616,Biomass,Top-down high,High
+RWA,2025.0,GEO,744.6111117068001,Geothermal,Top-down high,High
+RWA,2025.0,HFO,35.194444472600004,Heavy Fuel Oil,Top-down high,High
+RWA,2025.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2025.0,Imports (BDI),58.3055556022,Imports (BDI),Top-down high,High
+RWA,2025.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2025.0,Imports (TZA),1567.500001254,Imports (TZA),Top-down high,High
+RWA,2025.0,Imports (UGA),693.4444449992001,Imports (UGA),Top-down high,High
+RWA,2025.0,LFO,1.250000001,Light Fuel Oil,Top-down high,High
+RWA,2025.0,NGA,3.7777777808,Natural Gas,Top-down high,High
+RWA,2025.0,SOL,49.444444484,Solar,Top-down high,High
+RWA,2026.0,BIO,6.7777777832,Biomass,Top-down high,High
+RWA,2026.0,GEO,744.6111117068001,Geothermal,Top-down high,High
+RWA,2026.0,HFO,32.833333359600005,Heavy Fuel Oil,Top-down high,High
+RWA,2026.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2026.0,Imports (BDI),89.41666673819999,Imports (BDI),Top-down high,High
+RWA,2026.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2026.0,Imports (TZA),1387.4722233322002,Imports (TZA),Top-down high,High
+RWA,2026.0,Imports (UGA),1134.7500009078,Imports (UGA),Top-down high,High
+RWA,2026.0,LFO,0.8888888896000001,Light Fuel Oil,Top-down high,High
+RWA,2026.0,NGA,3.5277777806,Natural Gas,Top-down high,High
+RWA,2026.0,SOL,80.02777784180002,Solar,Top-down high,High
+RWA,2027.0,BIO,6.0277777826,Biomass,Top-down high,High
+RWA,2027.0,GEO,1489.1944456358,Geothermal,Top-down high,High
+RWA,2027.0,HFO,30.5000000244,Heavy Fuel Oil,Top-down high,High
+RWA,2027.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2027.0,Imports (BDI),39.1388889202,Imports (BDI),Top-down high,High
+RWA,2027.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2027.0,Imports (TZA),1988.3888904796,Imports (TZA),Top-down high,High
+RWA,2027.0,Imports (UGA),157.500000126,Imports (UGA),Top-down high,High
+RWA,2027.0,LFO,1.0000000008,Light Fuel Oil,Top-down high,High
+RWA,2027.0,NGA,3.2777777804,Natural Gas,Top-down high,High
+RWA,2027.0,SOL,108.9722223094,Solar,Top-down high,High
+RWA,2028.0,BIO,5.277777782,Biomass,Top-down high,High
+RWA,2028.0,GEO,1489.1944456358,Geothermal,Top-down high,High
+RWA,2028.0,HFO,28.1388889114,Heavy Fuel Oil,Top-down high,High
+RWA,2028.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2028.0,Imports (BDI),1.1666666676,Imports (BDI),Top-down high,High
+RWA,2028.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2028.0,Imports (TZA),2080.5000016644,Imports (TZA),Top-down high,High
+RWA,2028.0,Imports (UGA),157.05555568120002,Imports (UGA),Top-down high,High
+RWA,2028.0,NGA,3.0277777802,Natural Gas,Top-down high,High
+RWA,2028.0,SOL,144.30555567100004,Solar,Top-down high,High
+RWA,2029.0,BIO,4.5277777814,Biomass,Top-down high,High
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Top-down high,High
+RWA,2029.0,HFO,25.8055555762,Heavy Fuel Oil,Top-down high,High
+RWA,2029.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2029.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2029.0,Imports (TZA),2080.5000016644,Imports (TZA),Top-down high,High
+RWA,2029.0,Imports (UGA),187.3888890388,Imports (UGA),Top-down high,High
+RWA,2029.0,NGA,2.77777778,Natural Gas,Top-down high,High
+RWA,2029.0,SOL,174.02777791700004,Solar,Top-down high,High
+RWA,2030.0,BIO,3.7777777808,Biomass,Top-down high,High
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Top-down high,High
+RWA,2030.0,HFO,23.444444463200004,Heavy Fuel Oil,Top-down high,High
+RWA,2030.0,HYD,851.805556237,Hydropower,Top-down high,High
+RWA,2030.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down high,High
+RWA,2030.0,Imports (TZA),1728.9166680498,Imports (TZA),Top-down high,High
+RWA,2030.0,Imports (UGA),105.277777862,Imports (UGA),Top-down high,High
+RWA,2030.0,NGA,4.3611111146,Natural Gas,Top-down high,High
+RWA,2030.0,SOL,209.5000001676,Solar,Top-down high,High
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Top-down low,No
+RWA,2020.0,HYD,463.9166670378,Hydropower,Top-down low,No
+RWA,2020.0,Imports (COD),352.1388891706,Imports (COD),Top-down low,No
+RWA,2020.0,Imports (UGA),1023.472223041,Imports (UGA),Top-down low,No
+RWA,2020.0,LFO,0.0833333334,Light Fuel Oil,Top-down low,No
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Top-down low,No
+RWA,2020.0,SOL,18.4166666814,Solar,Top-down low,No
+RWA,2021.0,BIO,14.3333333448,Biomass,Top-down low,No
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Top-down low,No
+RWA,2021.0,HYD,463.9166670378,Hydropower,Top-down low,No
+RWA,2021.0,Imports (UGA),883.9166673738001,Imports (UGA),Top-down low,No
+RWA,2021.0,LFO,0.416666667,Light Fuel Oil,Top-down low,No
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Top-down low,No
+RWA,2021.0,SOL,18.3888889036,Solar,Top-down low,No
+RWA,2022.0,BIO,13.5833333442,Biomass,Top-down low,No
+RWA,2022.0,HFO,42.222222256,Heavy Fuel Oil,Top-down low,No
+RWA,2022.0,HYD,680.8055561002,Hydropower,Top-down low,No
+RWA,2022.0,Imports (TZA),1450.0555567156,Imports (TZA),Top-down low,No
+RWA,2022.0,Imports (UGA),1176.4722231634,Imports (UGA),Top-down low,No
+RWA,2022.0,LFO,0.416666667,Light Fuel Oil,Top-down low,No
+RWA,2022.0,NGA,4.555555559200001,Natural Gas,Top-down low,No
+RWA,2022.0,SOL,18.3611111258,Solar,Top-down low,No
+RWA,2023.0,BIO,12.8333333436,Biomass,Top-down low,No
+RWA,2023.0,HFO,39.861111143,Heavy Fuel Oil,Top-down low,No
+RWA,2023.0,HYD,680.8055561002,Hydropower,Top-down low,No
+RWA,2023.0,Imports (TZA),693.5555561104,Imports (TZA),Top-down low,No
+RWA,2023.0,Imports (UGA),3314.1388915402,Imports (UGA),Top-down low,No
+RWA,2023.0,LFO,0.3888888892,Light Fuel Oil,Top-down low,No
+RWA,2023.0,NGA,4.305555559,Natural Gas,Top-down low,No
+RWA,2023.0,SOL,18.3611111258,Solar,Top-down low,No
+RWA,2024.0,BIO,4.861111115000001,Biomass,Top-down low,No
+RWA,2024.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2024.0,HFO,37.5277778078,Heavy Fuel Oil,Top-down low,No
+RWA,2024.0,HYD,680.8055561002,Hydropower,Top-down low,No
+RWA,2024.0,Imports (TZA),1052.3888897308002,Imports (TZA),Top-down low,No
+RWA,2024.0,Imports (UGA),808.3888895356,Imports (UGA),Top-down low,No
+RWA,2024.0,LFO,0.3888888892,Light Fuel Oil,Top-down low,No
+RWA,2024.0,NGA,4.027777781,Natural Gas,Top-down low,No
+RWA,2024.0,SOL,18.333333348,Solar,Top-down low,No
+RWA,2025.0,BIO,7.5555555616,Biomass,Top-down low,No
+RWA,2025.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2025.0,HFO,35.194444472600004,Heavy Fuel Oil,Top-down low,No
+RWA,2025.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2025.0,Imports (TZA),1063.2777786284,Imports (TZA),Top-down low,No
+RWA,2025.0,Imports (UGA),1823.9166681258,Imports (UGA),Top-down low,No
+RWA,2025.0,LFO,0.3611111114,Light Fuel Oil,Top-down low,No
+RWA,2025.0,NGA,3.7777777808,Natural Gas,Top-down low,No
+RWA,2025.0,SOL,18.3055555702,Solar,Top-down low,No
+RWA,2026.0,BIO,6.7777777832,Biomass,Top-down low,No
+RWA,2026.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2026.0,HFO,32.833333359600005,Heavy Fuel Oil,Top-down low,No
+RWA,2026.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2026.0,Imports (TZA),1057.4444452904,Imports (TZA),Top-down low,No
+RWA,2026.0,Imports (UGA),3052.6666691088,Imports (UGA),Top-down low,No
+RWA,2026.0,NGA,3.5277777806,Natural Gas,Top-down low,No
+RWA,2026.0,SOL,18.3055555702,Solar,Top-down low,No
+RWA,2027.0,BIO,6.0277777826,Biomass,Top-down low,No
+RWA,2027.0,COA,111.1666667556,Coal,Top-down low,No
+RWA,2027.0,GEO,577.0000004616,Geothermal,Top-down low,No
+RWA,2027.0,HFO,63.5277778286,Heavy Fuel Oil,Top-down low,No
+RWA,2027.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2027.0,Imports (TZA),733.3888894756001,Imports (TZA),Top-down low,No
+RWA,2027.0,Imports (UGA),2054.5555571992,Imports (UGA),Top-down low,No
+RWA,2027.0,NGA,5.7222222268000005,Natural Gas,Top-down low,No
+RWA,2027.0,SOL,18.2777777924,Solar,Top-down low,No
+RWA,2028.0,BIO,5.277777782,Biomass,Top-down low,No
+RWA,2028.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2028.0,GEO,1321.6111121684,Geothermal,Top-down low,No
+RWA,2028.0,HFO,58.6388889358,Heavy Fuel Oil,Top-down low,No
+RWA,2028.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2028.0,Imports (TZA),450.4444448048,Imports (TZA),Top-down low,No
+RWA,2028.0,Imports (UGA),288.6388891198,Imports (UGA),Top-down low,No
+RWA,2028.0,NGA,8.750000007,Natural Gas,Top-down low,No
+RWA,2028.0,SOL,18.250000014600005,Solar,Top-down low,No
+RWA,2029.0,BIO,4.5277777814,Biomass,Top-down low,No
+RWA,2029.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Top-down low,No
+RWA,2029.0,HFO,53.75000004300001,Heavy Fuel Oil,Top-down low,No
+RWA,2029.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2029.0,NGA,8.222222228800002,Natural Gas,Top-down low,No
+RWA,2029.0,SOL,44.972222258200006,Solar,Top-down low,No
+RWA,2030.0,BIO,3.7777777808,Biomass,Top-down low,No
+RWA,2030.0,COA,46.3055555926,Coal,Top-down low,No
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Top-down low,No
+RWA,2030.0,HFO,48.8611111502,Heavy Fuel Oil,Top-down low,No
+RWA,2030.0,HYD,716.1666672396,Hydropower,Top-down low,No
+RWA,2030.0,Imports (UGA),123.5833334322,Imports (UGA),Top-down low,No
+RWA,2030.0,NGA,7.694444450600001,Natural Gas,Top-down low,No
+RWA,2030.0,SOL,79.05555561880001,Solar,Top-down low,No
+RWA,2020.0,HFO,46.9166667042,Heavy Fuel Oil,Top-down low,High
+RWA,2020.0,HYD,463.9166670378,Hydropower,Top-down low,High
+RWA,2020.0,Imports (COD),2011.944446054,Imports (COD),Top-down low,High
+RWA,2020.0,Imports (UGA),918.4166674014,Imports (UGA),Top-down low,High
+RWA,2020.0,LFO,0.0833333334,Light Fuel Oil,Top-down low,High
+RWA,2020.0,NGA,5.0555555596,Natural Gas,Top-down low,High
+RWA,2020.0,SOL,18.4166666814,Solar,Top-down low,High
+RWA,2021.0,BIO,14.3333333448,Biomass,Top-down low,High
+RWA,2021.0,HFO,44.5555555912,Heavy Fuel Oil,Top-down low,High
+RWA,2021.0,HYD,463.9166670378,Hydropower,Top-down low,High
+RWA,2021.0,Imports (UGA),1197.6944454026,Imports (UGA),Top-down low,High
+RWA,2021.0,LFO,0.416666667,Light Fuel Oil,Top-down low,High
+RWA,2021.0,NGA,4.8055555594,Natural Gas,Top-down low,High
+RWA,2021.0,SOL,18.3888889036,Solar,Top-down low,High
+RWA,2022.0,BIO,13.5833333442,Biomass,Top-down low,High
+RWA,2022.0,HFO,42.222222256,Heavy Fuel Oil,Top-down low,High
+RWA,2022.0,HYD,680.8055561002,Hydropower,Top-down low,High
+RWA,2022.0,Imports (TZA),495.555555952,Imports (TZA),Top-down low,High
+RWA,2022.0,Imports (UGA),1563.3888901396,Imports (UGA),Top-down low,High
+RWA,2022.0,LFO,0.416666667,Light Fuel Oil,Top-down low,High
+RWA,2022.0,NGA,4.555555559200001,Natural Gas,Top-down low,High
+RWA,2022.0,SOL,18.3611111258,Solar,Top-down low,High
+RWA,2023.0,BIO,12.8333333436,Biomass,Top-down low,High
+RWA,2023.0,HFO,39.861111143,Heavy Fuel Oil,Top-down low,High
+RWA,2023.0,HYD,680.8055561002,Hydropower,Top-down low,High
+RWA,2023.0,Imports (TZA),96.2777778548,Imports (TZA),Top-down low,High
+RWA,2023.0,Imports (UGA),3116.5555580488,Imports (UGA),Top-down low,High
+RWA,2023.0,LFO,0.3888888892,Light Fuel Oil,Top-down low,High
+RWA,2023.0,NGA,4.305555559,Natural Gas,Top-down low,High
+RWA,2023.0,SOL,18.3611111258,Solar,Top-down low,High
+RWA,2024.0,BIO,12.083333343,Biomass,Top-down low,High
+RWA,2024.0,GEO,433.8055559026,Geothermal,Top-down low,High
+RWA,2024.0,HFO,37.5277778078,Heavy Fuel Oil,Top-down low,High
+RWA,2024.0,HYD,680.8055561002,Hydropower,Top-down low,High
+RWA,2024.0,Imports (TZA),395.13888920500005,Imports (TZA),Top-down low,High
+RWA,2024.0,Imports (UGA),1875.416668167,Imports (UGA),Top-down low,High
+RWA,2024.0,LFO,0.3888888892,Light Fuel Oil,Top-down low,High
+RWA,2024.0,NGA,4.027777781,Natural Gas,Top-down low,High
+RWA,2024.0,SOL,18.333333348,Solar,Top-down low,High
+RWA,2025.0,BIO,7.5555555616,Biomass,Top-down low,High
+RWA,2025.0,GEO,433.8055559026,Geothermal,Top-down low,High
+RWA,2025.0,HFO,35.194444472600004,Heavy Fuel Oil,Top-down low,High
+RWA,2025.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2025.0,Imports (UGA),2224.4166684462,Imports (UGA),Top-down low,High
+RWA,2025.0,LFO,0.138888889,Light Fuel Oil,Top-down low,High
+RWA,2025.0,NGA,3.7777777808,Natural Gas,Top-down low,High
+RWA,2025.0,SOL,18.3055555702,Solar,Top-down low,High
+RWA,2026.0,BIO,2.7500000022,Biomass,Top-down low,High
+RWA,2026.0,GEO,433.8055559026,Geothermal,Top-down low,High
+RWA,2026.0,HFO,32.833333359600005,Heavy Fuel Oil,Top-down low,High
+RWA,2026.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2026.0,Imports (COD),99.8333334132,Imports (COD),Top-down low,High
+RWA,2026.0,Imports (TZA),1574.3611123706,Imports (TZA),Top-down low,High
+RWA,2026.0,Imports (UGA),805.5277784222001,Imports (UGA),Top-down low,High
+RWA,2026.0,NGA,3.5277777806,Natural Gas,Top-down low,High
+RWA,2026.0,SOL,18.3055555702,Solar,Top-down low,High
+RWA,2027.0,BIO,6.0277777826,Biomass,Top-down low,High
+RWA,2027.0,GEO,1178.4166676094,Geothermal,Top-down low,High
+RWA,2027.0,HFO,30.5000000244,Heavy Fuel Oil,Top-down low,High
+RWA,2027.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2027.0,Imports (TZA),461.3611114802,Imports (TZA),Top-down low,High
+RWA,2027.0,Imports (UGA),1355.972223307,Imports (UGA),Top-down low,High
+RWA,2027.0,NGA,3.2777777804,Natural Gas,Top-down low,High
+RWA,2027.0,SOL,22.8333333516,Solar,Top-down low,High
+RWA,2028.0,BIO,5.277777782,Biomass,Top-down low,High
+RWA,2028.0,GEO,1489.1944456358,Geothermal,Top-down low,High
+RWA,2028.0,HFO,28.1388889114,Heavy Fuel Oil,Top-down low,High
+RWA,2028.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2028.0,Imports (COD),1066.8611119646,Imports (COD),Top-down low,High
+RWA,2028.0,Imports (TZA),443.2222225768,Imports (TZA),Top-down low,High
+RWA,2028.0,Imports (UGA),1225.0277787578,Imports (UGA),Top-down low,High
+RWA,2028.0,NGA,3.0277777802,Natural Gas,Top-down low,High
+RWA,2028.0,SOL,51.1666667076,Solar,Top-down low,High
+RWA,2029.0,BIO,4.5277777814,Biomass,Top-down low,High
+RWA,2029.0,GEO,1489.1944456358,Geothermal,Top-down low,High
+RWA,2029.0,HFO,25.8055555762,Heavy Fuel Oil,Top-down low,High
+RWA,2029.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2029.0,Imports (COD),1174.027778717,Imports (COD),Top-down low,High
+RWA,2029.0,Imports (TZA),447.0277781354,Imports (TZA),Top-down low,High
+RWA,2029.0,Imports (UGA),1266.3333343464,Imports (UGA),Top-down low,High
+RWA,2029.0,NGA,2.77777778,Natural Gas,Top-down low,High
+RWA,2029.0,SOL,79.86111117500002,Solar,Top-down low,High
+RWA,2030.0,BIO,3.7777777808,Biomass,Top-down low,High
+RWA,2030.0,GEO,2233.8055573426004,Geothermal,Top-down low,High
+RWA,2030.0,HFO,23.444444463200004,Heavy Fuel Oil,Top-down low,High
+RWA,2030.0,HYD,716.1666672396,Hydropower,Top-down low,High
+RWA,2030.0,Imports (BDI),61.3055556046,Imports (BDI),Top-down low,High
+RWA,2030.0,Imports (COD),1248.3055565542002,Imports (COD),Top-down low,High
+RWA,2030.0,Imports (TZA),346.75000027740003,Imports (TZA),Top-down low,High
+RWA,2030.0,Imports (UGA),940.27777853,Imports (UGA),Top-down low,High
+RWA,2030.0,NGA,2.5277777798,Natural Gas,Top-down low,High
+RWA,2030.0,SOL,114.30555564700002,Solar,Top-down low,High

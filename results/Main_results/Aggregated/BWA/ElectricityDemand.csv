@@ -1,0 +1,160 @@
+Country,y,f,Total annual demand (GWh),Demand type,Scenario,Carbon Price
+BWA,2020.0,EL3E,4110.194447732601,Current electrified,Bottom-up,No
+BWA,2021.0,EL3E,4001.6111143124,Current electrified,Bottom-up,No
+BWA,2021.0,EL3U,194.9166668226,New electrified,Bottom-up,No
+BWA,2022.0,EL3E,4050.555558796,Current electrified,Bottom-up,No
+BWA,2022.0,EL3U,389.8055558674,New electrified,Bottom-up,No
+BWA,2023.0,EL3E,4093.638892163801,Current electrified,Bottom-up,No
+BWA,2023.0,EL3U,584.72222269,New electrified,Bottom-up,No
+BWA,2024.0,EL3E,4132.1666699724,Current electrified,Bottom-up,No
+BWA,2024.0,EL3U,779.6388895126001,New electrified,Bottom-up,No
+BWA,2025.0,EL3E,4168.6666700016,Current electrified,Bottom-up,No
+BWA,2025.0,EL3U,974.5277785574,New electrified,Bottom-up,No
+BWA,2026.0,EL3E,4273.722225641201,Current electrified,Bottom-up,No
+BWA,2026.0,EL3U,1169.44444538,New electrified,Bottom-up,No
+BWA,2027.0,EL3E,4378.500003502801,Current electrified,Bottom-up,No
+BWA,2027.0,EL3U,1205.8333342980002,New electrified,Bottom-up,No
+BWA,2028.0,EL3E,4482.1666702524,Current electrified,Bottom-up,No
+BWA,2028.0,EL3U,1242.2222232160002,New electrified,Bottom-up,No
+BWA,2029.0,EL3E,4584.6666703344,Current electrified,Bottom-up,No
+BWA,2029.0,EL3U,1278.611112134,New electrified,Bottom-up,No
+BWA,2030.0,EL3E,4686.250003749,Current electrified,Bottom-up,No
+BWA,2030.0,EL3U,1315.000001052,New electrified,Bottom-up,No
+BWA,2024.0,ZAFEL1,6.8333333388,Exports (ZAF),Bottom-up,No
+BWA,2025.0,ZAFEL1,138.611111222,Exports (ZAF),Bottom-up,No
+BWA,2026.0,ZAFEL1,82.83333339960001,Exports (ZAF),Bottom-up,No
+BWA,2027.0,ZAFEL1,61.8611111606,Exports (ZAF),Bottom-up,No
+BWA,2028.0,ZAFEL1,37.083333363,Exports (ZAF),Bottom-up,No
+BWA,2029.0,ZAFEL1,276.6388891102,Exports (ZAF),Bottom-up,No
+BWA,2030.0,ZAFEL1,1546.7777790152,Exports (ZAF),Bottom-up,No
+BWA,2020.0,EL3E,4110.2222255104,Current electrified,Bottom-up,High
+BWA,2021.0,EL3E,4001.6111143124,Current electrified,Bottom-up,High
+BWA,2021.0,EL3U,194.9166668226,New electrified,Bottom-up,High
+BWA,2022.0,EL3E,4050.5277810182006,Current electrified,Bottom-up,High
+BWA,2022.0,EL3U,389.8055558674,New electrified,Bottom-up,High
+BWA,2023.0,EL3E,4093.611114386,Current electrified,Bottom-up,High
+BWA,2023.0,EL3U,584.72222269,New electrified,Bottom-up,High
+BWA,2024.0,EL3E,4132.1388921946,Current electrified,Bottom-up,High
+BWA,2024.0,EL3U,779.6388895126001,New electrified,Bottom-up,High
+BWA,2025.0,EL3E,4168.6666700016,Current electrified,Bottom-up,High
+BWA,2025.0,EL3U,974.5277785574,New electrified,Bottom-up,High
+BWA,2026.0,EL3E,4273.7222256412,Current electrified,Bottom-up,High
+BWA,2026.0,EL3U,1169.44444538,New electrified,Bottom-up,High
+BWA,2027.0,EL3E,4378.5000035028,Current electrified,Bottom-up,High
+BWA,2027.0,EL3U,1205.8333342980002,New electrified,Bottom-up,High
+BWA,2028.0,EL3E,4482.1388924746,Current electrified,Bottom-up,High
+BWA,2028.0,EL3U,1242.2222232160002,New electrified,Bottom-up,High
+BWA,2029.0,EL3E,4584.6388925566,Current electrified,Bottom-up,High
+BWA,2029.0,EL3U,1278.611112134,New electrified,Bottom-up,High
+BWA,2030.0,EL3E,4686.2222259712,Current electrified,Bottom-up,High
+BWA,2030.0,EL3U,1315.000001052,New electrified,Bottom-up,High
+BWA,2023.0,ZAFEL1,231.5555557408,Exports (ZAF),Bottom-up,High
+BWA,2024.0,ZAFEL1,171.05555569240002,Exports (ZAF),Bottom-up,High
+BWA,2025.0,ZAFEL1,145.00000011600002,Exports (ZAF),Bottom-up,High
+BWA,2026.0,ZAFEL1,115.2500000922,Exports (ZAF),Bottom-up,High
+BWA,2027.0,ZAFEL1,103.6666667496,Exports (ZAF),Bottom-up,High
+BWA,2028.0,ZAFEL1,92.222222296,Exports (ZAF),Bottom-up,High
+BWA,2029.0,ZAFEL1,135.5833334418,Exports (ZAF),Bottom-up,High
+BWA,2030.0,ZAFEL1,227.361111293,Exports (ZAF),Bottom-up,High
+BWA,2020.0,EL3E,4110.2222255104,Current electrified,Top-down high,No
+BWA,2021.0,EL3E,4001.5833365346,Current electrified,Top-down high,No
+BWA,2021.0,EL3U,508.750000407,New electrified,Top-down high,No
+BWA,2022.0,EL3E,4050.555558796,Current electrified,Top-down high,No
+BWA,2022.0,EL3U,1017.500000814,New electrified,Top-down high,No
+BWA,2023.0,EL3E,4093.611114386,Current electrified,Top-down high,No
+BWA,2023.0,EL3U,1526.2500012210005,New electrified,Top-down high,No
+BWA,2024.0,EL3E,4132.1388921946,Current electrified,Top-down high,No
+BWA,2024.0,EL3U,2035.000001628,New electrified,Top-down high,No
+BWA,2025.0,EL3E,4168.6388922238,Current electrified,Top-down high,No
+BWA,2025.0,EL3U,2543.7500020350003,New electrified,Top-down high,No
+BWA,2026.0,EL3E,4273.722225641201,Current electrified,Top-down high,No
+BWA,2026.0,EL3U,3052.500002442001,New electrified,Top-down high,No
+BWA,2027.0,EL3E,4378.527781280601,Current electrified,Top-down high,No
+BWA,2027.0,EL3U,3152.916669189,New electrified,Top-down high,No
+BWA,2028.0,EL3E,4482.1666702524,Current electrified,Top-down high,No
+BWA,2028.0,EL3U,3253.333335936,New electrified,Top-down high,No
+BWA,2029.0,EL3E,4584.6388925566,Current electrified,Top-down high,No
+BWA,2029.0,EL3U,3353.750002683,New electrified,Top-down high,No
+BWA,2030.0,EL3E,4686.250003749,Current electrified,Top-down high,No
+BWA,2030.0,EL3U,3454.16666943,New electrified,Top-down high,No
+BWA,2029.0,ZAFEL1,399.861111431,Exports (ZAF),Top-down high,No
+BWA,2030.0,ZAFEL1,1583.2222234888002,Exports (ZAF),Top-down high,No
+BWA,2020.0,EL3E,4110.2222255104,Current electrified,Top-down high,High
+BWA,2021.0,EL3E,4001.6111143124,Current electrified,Top-down high,High
+BWA,2021.0,EL3U,508.750000407,New electrified,Top-down high,High
+BWA,2022.0,EL3E,4050.5277810182006,Current electrified,Top-down high,High
+BWA,2022.0,EL3U,1017.500000814,New electrified,Top-down high,High
+BWA,2023.0,EL3E,4093.611114386,Current electrified,Top-down high,High
+BWA,2023.0,EL3U,1526.2500012210005,New electrified,Top-down high,High
+BWA,2024.0,EL3E,4132.1388921946,Current electrified,Top-down high,High
+BWA,2024.0,EL3U,2035.000001628,New electrified,Top-down high,High
+BWA,2025.0,EL3E,4168.6666700016,Current electrified,Top-down high,High
+BWA,2025.0,EL3U,2543.7500020350003,New electrified,Top-down high,High
+BWA,2026.0,EL3E,4273.7222256412,Current electrified,Top-down high,High
+BWA,2026.0,EL3U,3052.500002442001,New electrified,Top-down high,High
+BWA,2027.0,EL3E,4378.5000035028,Current electrified,Top-down high,High
+BWA,2027.0,EL3U,3152.916669189,New electrified,Top-down high,High
+BWA,2028.0,EL3E,4482.1388924746,Current electrified,Top-down high,High
+BWA,2028.0,EL3U,3253.333335936,New electrified,Top-down high,High
+BWA,2029.0,EL3E,4584.6388925566,Current electrified,Top-down high,High
+BWA,2029.0,EL3U,3353.750002683,New electrified,Top-down high,High
+BWA,2030.0,EL3E,4686.250003749,Current electrified,Top-down high,High
+BWA,2030.0,EL3U,3454.16666943,New electrified,Top-down high,High
+BWA,2023.0,ZAFEL1,336.11111138,Exports (ZAF),Top-down high,High
+BWA,2024.0,ZAFEL1,163.0000001304,Exports (ZAF),Top-down high,High
+BWA,2025.0,ZAFEL1,75.0555556156,Exports (ZAF),Top-down high,High
+BWA,2026.0,ZAFEL1,6.666666672000001,Exports (ZAF),Top-down high,High
+BWA,2028.0,ZAFEL1,22.4444444624,Exports (ZAF),Top-down high,High
+BWA,2029.0,ZAFEL1,58.055555602,Exports (ZAF),Top-down high,High
+BWA,2030.0,ZAFEL1,334.13888915620004,Exports (ZAF),Top-down high,High
+BWA,2020.0,EL3E,4110.2222255104,Current electrified,Top-down low,No
+BWA,2021.0,EL3E,4001.6111143124,Current electrified,Top-down low,No
+BWA,2021.0,EL3U,348.8333336124,New electrified,Top-down low,No
+BWA,2022.0,EL3E,4050.555558796,Current electrified,Top-down low,No
+BWA,2022.0,EL3U,697.6944450026,New electrified,Top-down low,No
+BWA,2023.0,EL3E,4093.611114386,Current electrified,Top-down low,No
+BWA,2023.0,EL3U,1046.527778615,New electrified,Top-down low,No
+BWA,2024.0,EL3E,4132.1388921946,Current electrified,Top-down low,No
+BWA,2024.0,EL3U,1395.3611122274,New electrified,Top-down low,No
+BWA,2025.0,EL3E,4168.6388922238,Current electrified,Top-down low,No
+BWA,2025.0,EL3U,1744.2222236176,New electrified,Top-down low,No
+BWA,2026.0,EL3E,4273.750003419001,Current electrified,Top-down low,No
+BWA,2026.0,EL3U,2093.05555723,New electrified,Top-down low,No
+BWA,2027.0,EL3E,4378.500003502801,Current electrified,Top-down low,No
+BWA,2027.0,EL3U,2164.1111128424,New electrified,Top-down low,No
+BWA,2028.0,EL3E,4482.1666702524,Current electrified,Top-down low,No
+BWA,2028.0,EL3U,2235.1388906770003,New electrified,Top-down low,No
+BWA,2029.0,EL3E,4584.6666703344,Current electrified,Top-down low,No
+BWA,2029.0,EL3U,2306.1944462894003,New electrified,Top-down low,No
+BWA,2030.0,EL3E,4686.250003749,Current electrified,Top-down low,No
+BWA,2030.0,EL3U,2377.222224124,New electrified,Top-down low,No
+BWA,2030.0,ZAFEL1,38.6388889198,Exports (ZAF),Top-down low,No
+BWA,2020.0,EL3E,4110.2222255104,Current electrified,Top-down low,High
+BWA,2021.0,EL3E,4001.5833365346,Current electrified,Top-down low,High
+BWA,2021.0,EL3U,348.8333336124,New electrified,Top-down low,High
+BWA,2022.0,EL3E,4050.555558796,Current electrified,Top-down low,High
+BWA,2022.0,EL3U,697.6944450026,New electrified,Top-down low,High
+BWA,2023.0,EL3E,4093.611114386,Current electrified,Top-down low,High
+BWA,2023.0,EL3U,1046.527778615,New electrified,Top-down low,High
+BWA,2024.0,EL3E,4132.1388921946,Current electrified,Top-down low,High
+BWA,2024.0,EL3U,1395.3611122274,New electrified,Top-down low,High
+BWA,2025.0,EL3E,4168.6388922238,Current electrified,Top-down low,High
+BWA,2025.0,EL3U,1744.2222236176,New electrified,Top-down low,High
+BWA,2026.0,EL3E,4273.722225641201,Current electrified,Top-down low,High
+BWA,2026.0,EL3U,2093.05555723,New electrified,Top-down low,High
+BWA,2027.0,EL3E,4378.500003502801,Current electrified,Top-down low,High
+BWA,2027.0,EL3U,2164.1111128424,New electrified,Top-down low,High
+BWA,2028.0,EL3E,4482.1388924746,Current electrified,Top-down low,High
+BWA,2028.0,EL3U,2235.1388906770003,New electrified,Top-down low,High
+BWA,2029.0,EL3E,4584.6388925566,Current electrified,Top-down low,High
+BWA,2029.0,EL3U,2306.1944462894003,New electrified,Top-down low,High
+BWA,2030.0,EL3E,4686.2222259712,Current electrified,Top-down low,High
+BWA,2030.0,EL3U,2377.222224124,New electrified,Top-down low,High
+BWA,2023.0,ZAFEL1,18.4444444592,Exports (ZAF),Top-down low,High
+BWA,2024.0,ZAFEL1,455.5277781422,Exports (ZAF),Top-down low,High
+BWA,2025.0,ZAFEL1,278.13888911140003,Exports (ZAF),Top-down low,High
+BWA,2026.0,ZAFEL1,163.472222353,Exports (ZAF),Top-down low,High
+BWA,2027.0,ZAFEL1,147.9444445628,Exports (ZAF),Top-down low,High
+BWA,2028.0,ZAFEL1,139.63888900060002,Exports (ZAF),Top-down low,High
+BWA,2029.0,ZAFEL1,131.61111121640002,Exports (ZAF),Top-down low,High
+BWA,2030.0,ZAFEL1,207.5555557216,Exports (ZAF),Top-down low,High

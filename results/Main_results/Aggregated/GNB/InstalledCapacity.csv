@@ -1,0 +1,179 @@
+Country,y,f,Total installed capacity (GW),Source,Scenario,Carbon Price
+GNB,2020,LFO,0.053397422535139,Light Fuel Oil,Bottom-up,No
+GNB,2020,SOL,0.0002964,Solar,Bottom-up,No
+GNB,2021,LFO,0.051766672535139,Light Fuel Oil,Bottom-up,No
+GNB,2021,SOL,0.0137792909303723,Solar,Bottom-up,No
+GNB,2022,LFO,0.050135922535139,Light Fuel Oil,Bottom-up,No
+GNB,2022,SOL,0.0146221931632263,Solar,Bottom-up,No
+GNB,2023,HYD,0.0006060248242115,Hydropower,Bottom-up,No
+GNB,2023,LFO,0.048505172535139,Light Fuel Oil,Bottom-up,No
+GNB,2023,SOL,0.0146065931632263,Solar,Bottom-up,No
+GNB,2024,HYD,0.0424708794472981,Hydropower,Bottom-up,No
+GNB,2024,LFO,0.046874422535139,Light Fuel Oil,Bottom-up,No
+GNB,2024,SOL,0.0145909931632263,Solar,Bottom-up,No
+GNB,2025,HYD,0.0424708794472981,Hydropower,Bottom-up,No
+GNB,2025,LFO,0.045243672535139,Light Fuel Oil,Bottom-up,No
+GNB,2025,SOL,0.0160884466243873,Solar,Bottom-up,No
+GNB,2026,HYD,0.1059023713386742,Hydropower,Bottom-up,No
+GNB,2026,LFO,0.0432328423080232,Light Fuel Oil,Bottom-up,No
+GNB,2026,SOL,0.0211810610801227,Solar,Bottom-up,No
+GNB,2027,HYD,0.1163151941299267,Hydropower,Bottom-up,No
+GNB,2027,LFO,0.0241069965660768,Light Fuel Oil,Bottom-up,No
+GNB,2027,SOL,0.0271350479883343,Solar,Bottom-up,No
+GNB,2028,HYD,0.1280523894300901,Hydropower,Bottom-up,No
+GNB,2028,LFO,0.019569,Light Fuel Oil,Bottom-up,No
+GNB,2028,SOL,0.0283919228714665,Solar,Bottom-up,No
+GNB,2029,HYD,0.1280523894300901,Hydropower,Bottom-up,No
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Bottom-up,No
+GNB,2029,SOL,0.0315600560457832,Solar,Bottom-up,No
+GNB,2030,HYD,0.1280523894300901,Hydropower,Bottom-up,No
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Bottom-up,No
+GNB,2030,SOL,0.038141956678226,Solar,Bottom-up,No
+GNB,2020,LFO,0.0550763458685294,Light Fuel Oil,Bottom-up,High
+GNB,2020,SOL,0.0216420848257695,Solar,Bottom-up,High
+GNB,2021,LFO,0.0534455958685294,Light Fuel Oil,Bottom-up,High
+GNB,2021,SOL,0.0221702610067102,Solar,Bottom-up,High
+GNB,2022,LFO,0.0518148458685294,Light Fuel Oil,Bottom-up,High
+GNB,2022,SOL,0.0221546610067102,Solar,Bottom-up,High
+GNB,2023,HYD,0.0592416891168894,Hydropower,Bottom-up,High
+GNB,2023,LFO,0.0501840958685294,Light Fuel Oil,Bottom-up,High
+GNB,2023,SOL,0.0221390610067102,Solar,Bottom-up,High
+GNB,2024,HYD,0.0745020467417165,Hydropower,Bottom-up,High
+GNB,2024,LFO,0.0485533458685294,Light Fuel Oil,Bottom-up,High
+GNB,2024,SOL,0.0221234610067102,Solar,Bottom-up,High
+GNB,2025,HYD,0.0914670283063415,Hydropower,Bottom-up,High
+GNB,2025,LFO,0.0469225958685294,Light Fuel Oil,Bottom-up,High
+GNB,2025,SOL,0.0221078610067102,Solar,Bottom-up,High
+GNB,2026,HYD,0.10841047593816,Hydropower,Bottom-up,High
+GNB,2026,LFO,0.0449117656414135,Light Fuel Oil,Bottom-up,High
+GNB,2026,SOL,0.0220922610067102,Solar,Bottom-up,High
+GNB,2027,HYD,0.112711968179477,Hydropower,Bottom-up,High
+GNB,2027,LFO,0.0257859198911317,Light Fuel Oil,Bottom-up,High
+GNB,2027,SOL,0.0242263919148383,Solar,Bottom-up,High
+GNB,2028,HYD,0.1150583547392117,Hydropower,Bottom-up,High
+GNB,2028,LFO,0.019569,Light Fuel Oil,Bottom-up,High
+GNB,2028,SOL,0.0283919228714667,Solar,Bottom-up,High
+GNB,2029,HYD,0.1276566460581003,Hydropower,Bottom-up,High
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Bottom-up,High
+GNB,2029,SOL,0.0315600560457832,Solar,Bottom-up,High
+GNB,2030,HYD,0.1276566460581003,Hydropower,Bottom-up,High
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Bottom-up,High
+GNB,2030,SOL,0.038141956678226,Solar,Bottom-up,High
+GNB,2020,LFO,0.0533974225351391,Light Fuel Oil,Top-down high,No
+GNB,2020,SOL,0.0002964,Solar,Top-down high,No
+GNB,2021,LFO,0.0517666725351391,Light Fuel Oil,Top-down high,No
+GNB,2021,SOL,0.0137767572820548,Solar,Top-down high,No
+GNB,2022,LFO,0.0501359225351391,Light Fuel Oil,Top-down high,No
+GNB,2022,SOL,0.0146107578629766,Solar,Top-down high,No
+GNB,2023,HYD,0.0161531415517137,Hydropower,Top-down high,No
+GNB,2023,LFO,0.0485051725351391,Light Fuel Oil,Top-down high,No
+GNB,2023,SOL,0.0145951578629766,Solar,Top-down high,No
+GNB,2024,HYD,0.0239605596220928,Hydropower,Top-down high,No
+GNB,2024,LFO,0.0468744225351391,Light Fuel Oil,Top-down high,No
+GNB,2024,SOL,0.0145795578629766,Solar,Top-down high,No
+GNB,2025,HYD,0.050612266026497,Hydropower,Top-down high,No
+GNB,2025,LFO,0.0452436725351391,Light Fuel Oil,Top-down high,No
+GNB,2025,SOL,0.015968912468003,Solar,Top-down high,No
+GNB,2026,HYD,0.050612266026497,Hydropower,Top-down high,No
+GNB,2026,LFO,0.0432328423176079,Light Fuel Oil,Top-down high,No
+GNB,2026,SOL,0.0241057782270472,Solar,Top-down high,No
+GNB,2027,HYD,0.0728611442167469,Hydropower,Top-down high,No
+GNB,2027,LFO,0.0241069965743956,Light Fuel Oil,Top-down high,No
+GNB,2027,SOL,0.0255856377023421,Solar,Top-down high,No
+GNB,2028,HYD,0.0753322665371064,Hydropower,Top-down high,No
+GNB,2028,LFO,0.019569,Light Fuel Oil,Top-down high,No
+GNB,2028,SOL,0.0283919228714665,Solar,Top-down high,No
+GNB,2029,HYD,0.0753322665371064,Hydropower,Top-down high,No
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Top-down high,No
+GNB,2029,SOL,0.0296597798805276,Solar,Top-down high,No
+GNB,2030,HYD,0.0753322665371064,Hydropower,Top-down high,No
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Top-down high,No
+GNB,2030,SOL,0.038141956678226,Solar,Top-down high,No
+GNB,2020,LFO,0.0550763458666412,Light Fuel Oil,Top-down high,High
+GNB,2020,SOL,0.0216420848257695,Solar,Top-down high,High
+GNB,2021,LFO,0.0534455958666412,Light Fuel Oil,Top-down high,High
+GNB,2021,SOL,0.0216264848257696,Solar,Top-down high,High
+GNB,2022,LFO,0.0518148458666412,Light Fuel Oil,Top-down high,High
+GNB,2022,SOL,0.0216108848257696,Solar,Top-down high,High
+GNB,2023,HYD,0.0370267233389147,Hydropower,Top-down high,High
+GNB,2023,LFO,0.0501840958666412,Light Fuel Oil,Top-down high,High
+GNB,2023,SOL,0.0215952848257695,Solar,Top-down high,High
+GNB,2024,HYD,0.0446981954975741,Hydropower,Top-down high,High
+GNB,2024,LFO,0.0485533458666412,Light Fuel Oil,Top-down high,High
+GNB,2024,SOL,0.0215796848257696,Solar,Top-down high,High
+GNB,2025,HYD,0.0540932891662535,Hydropower,Top-down high,High
+GNB,2025,LFO,0.0469225958666412,Light Fuel Oil,Top-down high,High
+GNB,2025,SOL,0.0215640848257696,Solar,Top-down high,High
+GNB,2026,HYD,0.0634845577556298,Hydropower,Top-down high,High
+GNB,2026,LFO,0.0449117656395254,Light Fuel Oil,Top-down high,High
+GNB,2026,SOL,0.0215484848257695,Solar,Top-down high,High
+GNB,2027,HYD,0.1503124783427314,Hydropower,Top-down high,High
+GNB,2027,LFO,0.0257859198817037,Light Fuel Oil,Top-down high,High
+GNB,2027,SOL,0.0215328848257695,Solar,Top-down high,High
+GNB,2028,HYD,0.1596228807294847,Hydropower,Top-down high,High
+GNB,2028,LFO,0.019569,Light Fuel Oil,Top-down high,High
+GNB,2028,SOL,0.0278956919947684,Solar,Top-down high,High
+GNB,2029,HYD,0.1621698112693554,Hydropower,Top-down high,High
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Top-down high,High
+GNB,2029,SOL,0.0326208879483899,Solar,Top-down high,High
+GNB,2030,HYD,0.1621698112693554,Hydropower,Top-down high,High
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Top-down high,High
+GNB,2030,SOL,0.038141956678226,Solar,Top-down high,High
+GNB,2020,LFO,0.0511587503275368,Light Fuel Oil,Top-down low,No
+GNB,2020,SOL,0.0002964,Solar,Top-down low,No
+GNB,2021,LFO,0.0495280003275368,Light Fuel Oil,Top-down low,No
+GNB,2021,SOL,0.0128097433204652,Solar,Top-down low,No
+GNB,2022,LFO,0.0478972503275368,Light Fuel Oil,Top-down low,No
+GNB,2022,SOL,0.0135670201691992,Solar,Top-down low,No
+GNB,2023,LFO,0.0462665003275368,Light Fuel Oil,Top-down low,No
+GNB,2023,SOL,0.0135514201691992,Solar,Top-down low,No
+GNB,2024,LFO,0.0446357503275368,Light Fuel Oil,Top-down low,No
+GNB,2024,SOL,0.0135358201691992,Solar,Top-down low,No
+GNB,2025,HYD,0.0002118033302911,Hydropower,Top-down low,No
+GNB,2025,LFO,0.0430050003275368,Light Fuel Oil,Top-down low,No
+GNB,2025,SOL,0.0135202201691992,Solar,Top-down low,No
+GNB,2026,HYD,0.0162382725056302,Hydropower,Top-down low,No
+GNB,2026,LFO,0.0409941701100056,Light Fuel Oil,Top-down low,No
+GNB,2026,SOL,0.015968444819791,Solar,Top-down low,No
+GNB,2027,HYD,0.0428206486799976,Hydropower,Top-down low,No
+GNB,2027,LFO,0.0218683243667933,Light Fuel Oil,Top-down low,No
+GNB,2027,SOL,0.015952844819791,Solar,Top-down low,No
+GNB,2028,HYD,0.0428206486799976,Hydropower,Top-down low,No
+GNB,2028,LFO,0.019569,Light Fuel Oil,Top-down low,No
+GNB,2028,SOL,0.0249485234182205,Solar,Top-down low,No
+GNB,2029,HYD,0.0428206486799976,Hydropower,Top-down low,No
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Top-down low,No
+GNB,2029,SOL,0.0296597798805276,Solar,Top-down low,No
+GNB,2030,HYD,0.0428206486799976,Hydropower,Top-down low,No
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Top-down low,No
+GNB,2030,SOL,0.038141956678226,Solar,Top-down low,No
+GNB,2020,LFO,0.0550763458666412,Light Fuel Oil,Top-down low,High
+GNB,2020,SOL,0.0216420848257695,Solar,Top-down low,High
+GNB,2021,LFO,0.0534455958666412,Light Fuel Oil,Top-down low,High
+GNB,2021,SOL,0.0216264848257696,Solar,Top-down low,High
+GNB,2022,LFO,0.0518148458666412,Light Fuel Oil,Top-down low,High
+GNB,2022,SOL,0.0216108848257696,Solar,Top-down low,High
+GNB,2023,HYD,0.0248080642391111,Hydropower,Top-down low,High
+GNB,2023,LFO,0.0501840958666412,Light Fuel Oil,Top-down low,High
+GNB,2023,SOL,0.0215952848257695,Solar,Top-down low,High
+GNB,2024,HYD,0.0278428665439992,Hydropower,Top-down low,High
+GNB,2024,LFO,0.0485533458666412,Light Fuel Oil,Top-down low,High
+GNB,2024,SOL,0.0215796848257696,Solar,Top-down low,High
+GNB,2025,HYD,0.0323533353878765,Hydropower,Top-down low,High
+GNB,2025,LFO,0.0469225958666412,Light Fuel Oil,Top-down low,High
+GNB,2025,SOL,0.0215640848257696,Solar,Top-down low,High
+GNB,2026,HYD,0.036870155817096,Hydropower,Top-down low,High
+GNB,2026,LFO,0.0449117656395254,Light Fuel Oil,Top-down low,High
+GNB,2026,SOL,0.0215484848257695,Solar,Top-down low,High
+GNB,2027,HYD,0.0403112127793783,Hydropower,Top-down low,High
+GNB,2027,LFO,0.0257859198817037,Light Fuel Oil,Top-down low,High
+GNB,2027,SOL,0.0215328848257695,Solar,Top-down low,High
+GNB,2028,HYD,0.0421263134460703,Hydropower,Top-down low,High
+GNB,2028,LFO,0.019569,Light Fuel Oil,Top-down low,High
+GNB,2028,SOL,0.0249485234182205,Solar,Top-down low,High
+GNB,2029,HYD,0.0432201013300986,Hydropower,Top-down low,High
+GNB,2029,LFO,0.01793825,Light Fuel Oil,Top-down low,High
+GNB,2029,SOL,0.0296597798805276,Solar,Top-down low,High
+GNB,2030,HYD,0.0432201013300986,Hydropower,Top-down low,High
+GNB,2030,LFO,0.0163075,Light Fuel Oil,Top-down low,High
+GNB,2030,SOL,0.0373386359505578,Solar,Top-down low,High

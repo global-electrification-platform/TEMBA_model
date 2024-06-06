@@ -1,0 +1,295 @@
+Country,y,f,Total annual production (GWh),Source,Scenario,Carbon Price
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Bottom-up,No
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Bottom-up,No
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Bottom-up,No
+LBR,2021.0,HFO,712.6666672368,Heavy Fuel Oil,Bottom-up,No
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Bottom-up,No
+LBR,2021.0,Imports (GIN),169.88888902480002,Imports (GIN),Bottom-up,No
+LBR,2021.0,LFO,120.05555565160002,Light Fuel Oil,Bottom-up,No
+LBR,2022.0,HFO,716.4444450176001,Heavy Fuel Oil,Bottom-up,No
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Bottom-up,No
+LBR,2022.0,Imports (CIV),308.91666691380004,Imports (CIV),Bottom-up,No
+LBR,2022.0,LFO,112.61111120120002,Light Fuel Oil,Bottom-up,No
+LBR,2022.0,SOL,6.250000005,Solar,Bottom-up,No
+LBR,2023.0,HFO,947.4722229802,Heavy Fuel Oil,Bottom-up,No
+LBR,2023.0,HYD,374.8888891888001,Hydropower,Bottom-up,No
+LBR,2023.0,LFO,109.6666667544,Light Fuel Oil,Bottom-up,No
+LBR,2023.0,SOL,6.250000005,Solar,Bottom-up,No
+LBR,2024.0,HFO,907.6111118372,Heavy Fuel Oil,Bottom-up,No
+LBR,2024.0,HYD,388.5277780886,Hydropower,Bottom-up,No
+LBR,2024.0,Imports (GIN),17.8888889032,Imports (GIN),Bottom-up,No
+LBR,2024.0,LFO,104.5000000836,Light Fuel Oil,Bottom-up,No
+LBR,2024.0,SOL,8.888888896000001,Solar,Bottom-up,No
+LBR,2025.0,HFO,867.7500006942,Heavy Fuel Oil,Bottom-up,No
+LBR,2025.0,HYD,675.2500005402001,Hydropower,Bottom-up,No
+LBR,2025.0,Imports (GIN),29.5000000236,Imports (GIN),Bottom-up,No
+LBR,2025.0,LFO,99.30555563500002,Light Fuel Oil,Bottom-up,No
+LBR,2025.0,SOL,15.972222235000002,Solar,Bottom-up,No
+LBR,2026.0,HFO,827.8611117734,Heavy Fuel Oil,Bottom-up,No
+LBR,2026.0,HYD,963.5000007708,Hydropower,Bottom-up,No
+LBR,2026.0,Imports (GIN),141.2222223352,Imports (GIN),Bottom-up,No
+LBR,2026.0,LFO,94.1111111864,Light Fuel Oil,Bottom-up,No
+LBR,2026.0,SOL,18.3055555702,Solar,Bottom-up,No
+LBR,2027.0,HFO,788.0000006304001,Heavy Fuel Oil,Bottom-up,No
+LBR,2027.0,HYD,1696.9722235798004,Hydropower,Bottom-up,No
+LBR,2027.0,Imports (GIN),22.638888907,Imports (GIN),Bottom-up,No
+LBR,2027.0,Imports (SLE),188.7777779288,Imports (SLE),Bottom-up,No
+LBR,2027.0,LFO,85.11111117920001,Light Fuel Oil,Bottom-up,No
+LBR,2027.0,SOL,34.8888889168,Solar,Bottom-up,No
+LBR,2028.0,HFO,748.1111117096001,Heavy Fuel Oil,Bottom-up,No
+LBR,2028.0,HYD,1696.9722235798004,Hydropower,Bottom-up,No
+LBR,2028.0,Imports (GIN),249.1388890882,Imports (GIN),Bottom-up,No
+LBR,2028.0,Imports (SLE),330.77777804240003,Imports (SLE),Bottom-up,No
+LBR,2028.0,LFO,62.3333333832,Light Fuel Oil,Bottom-up,No
+LBR,2028.0,SOL,75.555555616,Solar,Bottom-up,No
+LBR,2029.0,HFO,708.2500005666001,Heavy Fuel Oil,Bottom-up,No
+LBR,2029.0,HYD,1696.9722235798004,Hydropower,Bottom-up,No
+LBR,2029.0,Imports (SLE),89.4722222938,Imports (SLE),Bottom-up,No
+LBR,2029.0,LFO,57.1388889346,Light Fuel Oil,Bottom-up,No
+LBR,2029.0,SOL,109.5555556432,Solar,Bottom-up,No
+LBR,2030.0,HFO,668.3611116458,Heavy Fuel Oil,Bottom-up,No
+LBR,2030.0,HYD,1696.9722235798004,Hydropower,Bottom-up,No
+LBR,2030.0,LFO,51.944444486,Light Fuel Oil,Bottom-up,No
+LBR,2030.0,SOL,179.2777779212,Solar,Bottom-up,No
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Bottom-up,High
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Bottom-up,High
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Bottom-up,High
+LBR,2021.0,HFO,151.527777899,Heavy Fuel Oil,Bottom-up,High
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Bottom-up,High
+LBR,2021.0,Imports (CIV),2809.5000022476,Imports (CIV),Bottom-up,High
+LBR,2021.0,LFO,38.2222222528,Light Fuel Oil,Bottom-up,High
+LBR,2021.0,SOL,3.5000000028,Solar,Bottom-up,High
+LBR,2022.0,HFO,143.55555567040005,Heavy Fuel Oil,Bottom-up,High
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Bottom-up,High
+LBR,2022.0,Imports (CIV),2809.5000022476,Imports (CIV),Bottom-up,High
+LBR,2022.0,LFO,37.1944444742,Light Fuel Oil,Bottom-up,High
+LBR,2022.0,SOL,7.0555555612,Solar,Bottom-up,High
+LBR,2023.0,HFO,135.555555664,Heavy Fuel Oil,Bottom-up,High
+LBR,2023.0,HYD,1926.8888904304004,Hydropower,Bottom-up,High
+LBR,2023.0,LFO,36.16666669560001,Light Fuel Oil,Bottom-up,High
+LBR,2023.0,SOL,9.7777777856,Solar,Bottom-up,High
+LBR,2024.0,HFO,127.5833334354,Heavy Fuel Oil,Bottom-up,High
+LBR,2024.0,HYD,4204.6388922526,Hydropower,Bottom-up,High
+LBR,2024.0,LFO,18.472222237,Light Fuel Oil,Bottom-up,High
+LBR,2024.0,SOL,32.5277778038,Solar,Bottom-up,High
+LBR,2025.0,HFO,119.6111112068,Heavy Fuel Oil,Bottom-up,High
+LBR,2025.0,HYD,4464.2500035714,Hydropower,Bottom-up,High
+LBR,2025.0,LFO,17.4722222362,Light Fuel Oil,Bottom-up,High
+LBR,2025.0,SOL,41.5555555888,Solar,Bottom-up,High
+LBR,2026.0,HFO,111.6388889782,Heavy Fuel Oil,Bottom-up,High
+LBR,2026.0,HYD,4731.4444482296,Hydropower,Bottom-up,High
+LBR,2026.0,LFO,16.527777791000002,Light Fuel Oil,Bottom-up,High
+LBR,2026.0,SOL,44.7500000358,Solar,Bottom-up,High
+LBR,2027.0,HFO,103.6666667496,Heavy Fuel Oil,Bottom-up,High
+LBR,2027.0,HYD,4876.7500039014,Hydropower,Bottom-up,High
+LBR,2027.0,LFO,15.5833333458,Light Fuel Oil,Bottom-up,High
+LBR,2027.0,SOL,48.055555594,Solar,Bottom-up,High
+LBR,2028.0,HFO,95.694444521,Heavy Fuel Oil,Bottom-up,High
+LBR,2028.0,HYD,4908.33333726,Hydropower,Bottom-up,High
+LBR,2028.0,LFO,12.472222232200002,Light Fuel Oil,Bottom-up,High
+LBR,2028.0,SOL,62.0555556052,Solar,Bottom-up,High
+LBR,2029.0,HFO,87.7222222924,Heavy Fuel Oil,Bottom-up,High
+LBR,2029.0,HYD,4961.2222261912,Hydropower,Bottom-up,High
+LBR,2029.0,LFO,11.4166666758,Light Fuel Oil,Bottom-up,High
+LBR,2029.0,SOL,95.9444445212,Solar,Bottom-up,High
+LBR,2030.0,HFO,79.75000006380002,Heavy Fuel Oil,Bottom-up,High
+LBR,2030.0,HYD,4961.2222261912,Hydropower,Bottom-up,High
+LBR,2030.0,LFO,10.3888888972,Light Fuel Oil,Bottom-up,High
+LBR,2030.0,SOL,175.6111112516,Solar,Bottom-up,High
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Top-down high,No
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Top-down high,No
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Top-down high,No
+LBR,2021.0,HFO,712.6388894590001,Heavy Fuel Oil,Top-down high,No
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Top-down high,No
+LBR,2021.0,Imports (GIN),607.500000486,Imports (GIN),Top-down high,No
+LBR,2021.0,LFO,120.05555565160002,Light Fuel Oil,Top-down high,No
+LBR,2022.0,HFO,716.4166672398002,Heavy Fuel Oil,Top-down high,No
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Top-down high,No
+LBR,2022.0,LFO,112.638888979,Light Fuel Oil,Top-down high,No
+LBR,2022.0,SOL,6.250000005,Solar,Top-down high,No
+LBR,2023.0,HFO,947.4722229802,Heavy Fuel Oil,Top-down high,No
+LBR,2023.0,HYD,374.8888891888001,Hydropower,Top-down high,No
+LBR,2023.0,LFO,109.6666667544,Light Fuel Oil,Top-down high,No
+LBR,2023.0,SOL,6.250000005,Solar,Top-down high,No
+LBR,2024.0,HFO,907.6111118372,Heavy Fuel Oil,Top-down high,No
+LBR,2024.0,HYD,374.8888891888001,Hydropower,Top-down high,No
+LBR,2024.0,Imports (GIN),159.58333346100002,Imports (GIN),Top-down high,No
+LBR,2024.0,LFO,104.5000000836,Light Fuel Oil,Top-down high,No
+LBR,2024.0,SOL,8.888888896000001,Solar,Top-down high,No
+LBR,2025.0,HFO,867.7500006942,Heavy Fuel Oil,Top-down high,No
+LBR,2025.0,HYD,824.8888895488001,Hydropower,Top-down high,No
+LBR,2025.0,Imports (GIN),39.722222254,Imports (GIN),Top-down high,No
+LBR,2025.0,LFO,99.30555563500002,Light Fuel Oil,Top-down high,No
+LBR,2025.0,SOL,15.972222235000002,Solar,Top-down high,No
+LBR,2026.0,HFO,827.8611117734,Heavy Fuel Oil,Top-down high,No
+LBR,2026.0,HYD,1142.8333342476,Hydropower,Top-down high,No
+LBR,2026.0,Imports (GIN),31.111111136,Imports (GIN),Top-down high,No
+LBR,2026.0,Imports (SLE),26.9166666882,Imports (SLE),Top-down high,No
+LBR,2026.0,LFO,94.1111111864,Light Fuel Oil,Top-down high,No
+LBR,2026.0,SOL,18.3055555702,Solar,Top-down high,No
+LBR,2027.0,HFO,788.0000006304001,Heavy Fuel Oil,Top-down high,No
+LBR,2027.0,HYD,1953.1388904514,Hydropower,Top-down high,No
+LBR,2027.0,Imports (SLE),170.0277779138,Imports (SLE),Top-down high,No
+LBR,2027.0,LFO,85.11111117920001,Light Fuel Oil,Top-down high,No
+LBR,2027.0,SOL,29.2777778012,Solar,Top-down high,No
+LBR,2028.0,HFO,748.1111117096001,Heavy Fuel Oil,Top-down high,No
+LBR,2028.0,HYD,1953.1388904514,Hydropower,Top-down high,No
+LBR,2028.0,Imports (GIN),218.4444446192,Imports (GIN),Top-down high,No
+LBR,2028.0,Imports (SLE),392.3888892028,Imports (SLE),Top-down high,No
+LBR,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down high,No
+LBR,2028.0,SOL,69.91666672260001,Solar,Top-down high,No
+LBR,2029.0,HFO,708.2500005666001,Heavy Fuel Oil,Top-down high,No
+LBR,2029.0,HYD,1953.1388904514,Hydropower,Top-down high,No
+LBR,2029.0,Imports (SLE),300.3888891292,Imports (SLE),Top-down high,No
+LBR,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down high,No
+LBR,2029.0,SOL,103.888888972,Solar,Top-down high,No
+LBR,2030.0,HFO,668.3611116458,Heavy Fuel Oil,Top-down high,No
+LBR,2030.0,HYD,1953.1388904514,Hydropower,Top-down high,No
+LBR,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down high,No
+LBR,2030.0,SOL,171.69444458180004,Solar,Top-down high,No
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Top-down high,High
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Top-down high,High
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Top-down high,High
+LBR,2021.0,HFO,151.527777899,Heavy Fuel Oil,Top-down high,High
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Top-down high,High
+LBR,2021.0,Imports (CIV),2809.5000022476,Imports (CIV),Top-down high,High
+LBR,2021.0,LFO,38.2222222528,Light Fuel Oil,Top-down high,High
+LBR,2021.0,SOL,3.5000000028,Solar,Top-down high,High
+LBR,2022.0,HFO,143.55555567040005,Heavy Fuel Oil,Top-down high,High
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Top-down high,High
+LBR,2022.0,Imports (CIV),2809.5000022476,Imports (CIV),Top-down high,High
+LBR,2022.0,LFO,37.1944444742,Light Fuel Oil,Top-down high,High
+LBR,2022.0,SOL,7.083333339,Solar,Top-down high,High
+LBR,2023.0,HFO,135.555555664,Heavy Fuel Oil,Top-down high,High
+LBR,2023.0,HYD,3924.333336472801,Hydropower,Top-down high,High
+LBR,2023.0,LFO,36.16666669560001,Light Fuel Oil,Top-down high,High
+LBR,2023.0,SOL,9.7777777856,Solar,Top-down high,High
+LBR,2024.0,HFO,127.5833334354,Heavy Fuel Oil,Top-down high,High
+LBR,2024.0,HYD,4332.6944479106005,Hydropower,Top-down high,High
+LBR,2024.0,LFO,18.472222237,Light Fuel Oil,Top-down high,High
+LBR,2024.0,SOL,32.5277778038,Solar,Top-down high,High
+LBR,2025.0,HFO,119.6111112068,Heavy Fuel Oil,Top-down high,High
+LBR,2025.0,HYD,4624.1111148104,Hydropower,Top-down high,High
+LBR,2025.0,LFO,17.4722222362,Light Fuel Oil,Top-down high,High
+LBR,2025.0,SOL,41.5555555888,Solar,Top-down high,High
+LBR,2026.0,HFO,111.6388889782,Heavy Fuel Oil,Top-down high,High
+LBR,2026.0,HYD,4923.055559494,Hydropower,Top-down high,High
+LBR,2026.0,LFO,16.527777791000002,Light Fuel Oil,Top-down high,High
+LBR,2026.0,SOL,44.7500000358,Solar,Top-down high,High
+LBR,2027.0,HFO,103.6666667496,Heavy Fuel Oil,Top-down high,High
+LBR,2027.0,HYD,5026.2777817988,Hydropower,Top-down high,High
+LBR,2027.0,LFO,15.5833333458,Light Fuel Oil,Top-down high,High
+LBR,2027.0,SOL,48.055555594,Solar,Top-down high,High
+LBR,2028.0,HFO,95.694444521,Heavy Fuel Oil,Top-down high,High
+LBR,2028.0,HYD,5117.916670761,Hydropower,Top-down high,High
+LBR,2028.0,LFO,12.472222232200002,Light Fuel Oil,Top-down high,High
+LBR,2028.0,SOL,62.0555556052,Solar,Top-down high,High
+LBR,2029.0,HFO,87.7222222924,Heavy Fuel Oil,Top-down high,High
+LBR,2029.0,HYD,5179.7500041438,Hydropower,Top-down high,High
+LBR,2029.0,LFO,11.4166666758,Light Fuel Oil,Top-down high,High
+LBR,2029.0,SOL,95.9444445212,Solar,Top-down high,High
+LBR,2030.0,HFO,79.75000006380002,Heavy Fuel Oil,Top-down high,High
+LBR,2030.0,HYD,5179.7500041438,Hydropower,Top-down high,High
+LBR,2030.0,Imports (SLE),25.7777777984,Imports (SLE),Top-down high,High
+LBR,2030.0,LFO,10.3888888972,Light Fuel Oil,Top-down high,High
+LBR,2030.0,SOL,175.6111112516,Solar,Top-down high,High
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Top-down low,No
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Top-down low,No
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Top-down low,No
+LBR,2021.0,HFO,712.6666672368,Heavy Fuel Oil,Top-down low,No
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Top-down low,No
+LBR,2021.0,LFO,120.05555565160002,Light Fuel Oil,Top-down low,No
+LBR,2022.0,HFO,706.3055561206,Heavy Fuel Oil,Top-down low,No
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Top-down low,No
+LBR,2022.0,LFO,114.86111120300002,Light Fuel Oil,Top-down low,No
+LBR,2022.0,SOL,3.5000000028,Solar,Top-down low,No
+LBR,2023.0,HFO,921.3055562926,Heavy Fuel Oil,Top-down low,No
+LBR,2023.0,HYD,368.22222251680006,Hydropower,Top-down low,No
+LBR,2023.0,Imports (GIN),417.638889223,Imports (GIN),Top-down low,No
+LBR,2023.0,LFO,109.6666667544,Light Fuel Oil,Top-down low,No
+LBR,2023.0,SOL,3.5000000028,Solar,Top-down low,No
+LBR,2024.0,HFO,907.6111118372,Heavy Fuel Oil,Top-down low,No
+LBR,2024.0,HYD,368.22222251680006,Hydropower,Top-down low,No
+LBR,2024.0,Imports (GIN),192.1111112648,Imports (GIN),Top-down low,No
+LBR,2024.0,LFO,104.5000000836,Light Fuel Oil,Top-down low,No
+LBR,2024.0,SOL,6.111111116,Solar,Top-down low,No
+LBR,2025.0,HFO,867.7500006942,Heavy Fuel Oil,Top-down low,No
+LBR,2025.0,HYD,368.22222251680006,Hydropower,Top-down low,No
+LBR,2025.0,Imports (GIN),95.3888889652,Imports (GIN),Top-down low,No
+LBR,2025.0,LFO,99.30555563500002,Light Fuel Oil,Top-down low,No
+LBR,2025.0,SOL,15.166666678800002,Solar,Top-down low,No
+LBR,2026.0,HFO,827.8611117734,Heavy Fuel Oil,Top-down low,No
+LBR,2026.0,HYD,497.8611115094,Hydropower,Top-down low,No
+LBR,2026.0,Imports (GIN),642.2500005138,Imports (GIN),Top-down low,No
+LBR,2026.0,LFO,94.1111111864,Light Fuel Oil,Top-down low,No
+LBR,2026.0,SOL,18.3055555702,Solar,Top-down low,No
+LBR,2027.0,HFO,788.0000006304001,Heavy Fuel Oil,Top-down low,No
+LBR,2027.0,HYD,880.3055562598,Hydropower,Top-down low,No
+LBR,2027.0,Imports (GIN),738.9166672578,Imports (GIN),Top-down low,No
+LBR,2027.0,LFO,85.11111117920001,Light Fuel Oil,Top-down low,No
+LBR,2027.0,SOL,34.8888889168,Solar,Top-down low,No
+LBR,2028.0,HFO,748.1111117096001,Heavy Fuel Oil,Top-down low,No
+LBR,2028.0,HYD,880.3055562598,Hydropower,Top-down low,No
+LBR,2028.0,Imports (GIN),253.8055557586,Imports (GIN),Top-down low,No
+LBR,2028.0,Imports (SLE),16.416666679800002,Imports (SLE),Top-down low,No
+LBR,2028.0,LFO,62.3333333832,Light Fuel Oil,Top-down low,No
+LBR,2028.0,SOL,75.555555616,Solar,Top-down low,No
+LBR,2029.0,HFO,708.2500005666001,Heavy Fuel Oil,Top-down low,No
+LBR,2029.0,HYD,880.3055562598,Hydropower,Top-down low,No
+LBR,2029.0,Imports (GIN),63.0277778282,Imports (GIN),Top-down low,No
+LBR,2029.0,Imports (SLE),134.50000010760002,Imports (SLE),Top-down low,No
+LBR,2029.0,LFO,57.1388889346,Light Fuel Oil,Top-down low,No
+LBR,2029.0,SOL,109.5555556432,Solar,Top-down low,No
+LBR,2030.0,HFO,668.3611116458,Heavy Fuel Oil,Top-down low,No
+LBR,2030.0,HYD,880.3055562598,Hydropower,Top-down low,No
+LBR,2030.0,Imports (SLE),126.1666667676,Imports (SLE),Top-down low,No
+LBR,2030.0,LFO,51.944444486,Light Fuel Oil,Top-down low,No
+LBR,2030.0,SOL,193.6388890438,Solar,Top-down low,No
+LBR,2020.0,HFO,1067.1111119648,Heavy Fuel Oil,Top-down low,High
+LBR,2020.0,HYD,285.02777800580003,Hydropower,Top-down low,High
+LBR,2020.0,LFO,122.1666667644,Light Fuel Oil,Top-down low,High
+LBR,2021.0,HFO,151.527777899,Heavy Fuel Oil,Top-down low,High
+LBR,2021.0,HYD,285.02777800580003,Hydropower,Top-down low,High
+LBR,2021.0,Imports (CIV),1125.8611120118,Imports (CIV),Top-down low,High
+LBR,2021.0,LFO,38.2222222528,Light Fuel Oil,Top-down low,High
+LBR,2021.0,SOL,3.5000000028,Solar,Top-down low,High
+LBR,2022.0,HFO,143.55555567040005,Heavy Fuel Oil,Top-down low,High
+LBR,2022.0,HYD,285.02777800580003,Hydropower,Top-down low,High
+LBR,2022.0,Imports (CIV),519.1111115264,Imports (CIV),Top-down low,High
+LBR,2022.0,LFO,111.9722223118,Light Fuel Oil,Top-down low,High
+LBR,2022.0,SOL,7.0000000056000005,Solar,Top-down low,High
+LBR,2023.0,HFO,135.555555664,Heavy Fuel Oil,Top-down low,High
+LBR,2023.0,HYD,3811.6111141604,Hydropower,Top-down low,High
+LBR,2023.0,LFO,36.16666669560001,Light Fuel Oil,Top-down low,High
+LBR,2023.0,SOL,9.7777777856,Solar,Top-down low,High
+LBR,2024.0,HFO,127.5833334354,Heavy Fuel Oil,Top-down low,High
+LBR,2024.0,HYD,4010.6111143196,Hydropower,Top-down low,High
+LBR,2024.0,LFO,18.472222237,Light Fuel Oil,Top-down low,High
+LBR,2024.0,SOL,32.5277778038,Solar,Top-down low,High
+LBR,2025.0,HFO,119.6111112068,Heavy Fuel Oil,Top-down low,High
+LBR,2025.0,HYD,4222.0000033776005,Hydropower,Top-down low,High
+LBR,2025.0,LFO,17.4722222362,Light Fuel Oil,Top-down low,High
+LBR,2025.0,SOL,41.5555555888,Solar,Top-down low,High
+LBR,2026.0,HFO,111.6388889782,Heavy Fuel Oil,Top-down low,High
+LBR,2026.0,HYD,4441.0833368862,Hydropower,Top-down low,High
+LBR,2026.0,LFO,16.527777791000002,Light Fuel Oil,Top-down low,High
+LBR,2026.0,SOL,44.7500000358,Solar,Top-down low,High
+LBR,2027.0,HFO,103.6666667496,Heavy Fuel Oil,Top-down low,High
+LBR,2027.0,HYD,4522.3333369512,Hydropower,Top-down low,High
+LBR,2027.0,LFO,15.5833333458,Light Fuel Oil,Top-down low,High
+LBR,2027.0,SOL,48.055555594,Solar,Top-down low,High
+LBR,2028.0,HFO,95.694444521,Heavy Fuel Oil,Top-down low,High
+LBR,2028.0,HYD,4563.4444480952,Hydropower,Top-down low,High
+LBR,2028.0,Imports (SLE),28.611111134,Imports (SLE),Top-down low,High
+LBR,2028.0,LFO,12.472222232200002,Light Fuel Oil,Top-down low,High
+LBR,2028.0,SOL,62.0555556052,Solar,Top-down low,High
+LBR,2029.0,HFO,87.7222222924,Heavy Fuel Oil,Top-down low,High
+LBR,2029.0,HYD,4664.444448176001,Hydropower,Top-down low,High
+LBR,2029.0,Imports (SLE),8.3055555622,Imports (SLE),Top-down low,High
+LBR,2029.0,LFO,11.4166666758,Light Fuel Oil,Top-down low,High
+LBR,2029.0,SOL,65.91666671940001,Solar,Top-down low,High
+LBR,2030.0,HFO,79.75000006380002,Heavy Fuel Oil,Top-down low,High
+LBR,2030.0,HYD,4664.444448176001,Hydropower,Top-down low,High
+LBR,2030.0,Imports (SLE),62.97222227260001,Imports (SLE),Top-down low,High
+LBR,2030.0,LFO,10.3888888972,Light Fuel Oil,Top-down low,High
+LBR,2030.0,SOL,121.66666676399998,Solar,Top-down low,High
